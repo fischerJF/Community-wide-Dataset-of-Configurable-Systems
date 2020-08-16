@@ -1,0 +1,4 @@
+PAYCARD___ : [LOGGING___] [LOCKOUT___] :: _PAYCARD___ ;
+
+LOGGING___ : [MAXIMUMRECORD___] :: _LOGGING___ ;
+

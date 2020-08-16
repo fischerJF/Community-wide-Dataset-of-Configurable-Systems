@@ -1,0 +1,232 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>JTopas - Java tokenizer and parser tools</title>
+    <meta name="author" content="Heiko Blau">
+    <meta name="created" content="20010803;11300000">
+    <meta name="classification" content="Software: Java development">
+    <meta name="description" content="a small Java library for tokenizing and parsing text, e.g. source code">
+    <meta name="keywords" content="token, tokenizer, parser">
+
+    <link rel=stylesheet type="text/css" href="../css/basics.css">
+    <style type="text/css">
+      <!--
+      hr { color:#006400; }
+      .C_JTopas { font-weight:bold; color:#FF8C00; }
+      //-->
+    </style>
+  </head>
+
+  <body bgcolor="#FFFFF0" width="500">
+    <table width="550" border="0">
+      <tbody>
+
+	<!-- Welcome -->
+	<tr>
+	  <td width="550"><p class="C_Normal">&nbsp;</p>
+	  </td>
+	</tr>
+	<tr>
+	  <td width="550">
+	    <h1><img src="../images/logo_ivory.jpg" width="80" height="80" border="0" alt="JTopas logo" align="left">Welcome</h1>
+	    <p class="C_Normal">
+	      The <span class="C_JTopas">JTopas</span> project provides a small, easy-to-use <a class="C_RefOthers" href="http://java.sun.com" target="_blank">Java</a> library for the common problem of parsing arbitrary text data. These data can come from a simple configuration file with a few comments, a HTML, XML or RTF stream, source code of various programming languages etc. Sometimes a text has to be parsed completely, sometimes only parts of it are important.  
+	    </p>
+	    <p class="C_Normal">
+	      While some programmers solve parsing problems by extensive use of basic methods like the C library functions <b>strtok</b>, <b>strchr</b> or the Java String class methods <b>indexOf</b>, <b>substring</b> etc. combined with lots of loops, <b>if</b> and <b>switch</b>-Statements, others may choose basic tokenizers like the Java classes <b>StringTokenizer</b> or <b>StreamTokenizer</b>. In the case of complex syntaxes like document or programming languages, parser generators like <b>lex</b> and <b>yacc</b>, <a class="C_RefOthers" href="http://javacc.sun.com" target="_blank">JavaCC</a> or the <a class="C_RefOthers" href="http://www.cs.purdue.edu/jtb" target="_blank">Java Treebuilder</a> as well as existing parsers for a specific language are a common choice.
+	    </p>
+	    <p class="C_Normal">
+	      With <span class="C_JTopas">JTopas</span>, a common solution for a wide range of parsing tasks is available. The tedious work of debugging a parser modul written from scratch, is obsolete or at least significantly shortened. And for relatively simple problems, the use of parser generators is not nessecary.
+	    </p>
+	  </td>
+	</tr>
+
+	<!-- Features -->
+	<tr>
+	  <td valign="middle" height="50">
+	    <hr align="left" noshade="noshade" size="1">
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    <h1><img src="../images/logo_ivory.jpg" width="80" height="80" border="0" alt="JTopas logo" align="left">Features</h1>
+	    <p class="C_Normal">
+	      The <span class="C_JTopas">JTopas</span> classes and interfaces in their current state of developement (version 0.6) can be used for tokenizing and basic parsing tasks. A command line parser, a file reader, a IP protocol interpreter, a partial HTML parser or a tokenizer for JavaCC / JTB may be realized with <span class="C_JTopas">JTopas</span>. This flexibility is achieved by dynamically configurable classes and strict separation of different tasks. 
+	    </p>
+	    <p class="C_Normal">
+	      These are the main characteristics of the <span class="C_JTopas">JTopas</span> classes and interfaces:
+	    </p>
+	    <ul>
+	      <li class="C_ListNormal">One or more sorts of <b>line</b> and / or <b>block comments</b> may be added and removed during runtime.</li>
+	      <li class="C_ListNormal"><b>Special sequences</b> like operators and separators with a special meaning can be dynamically added and removed.</li>
+	      <li class="C_ListNormal">Support for <b>keywords</b> is available.</li>
+	      <li class="C_ListNormal"><b>Pattern matching</b> (regular expressions) is available when used with JDK 1.4.</li>
+	      <li class="C_ListNormal">Data may be read from <b>InputStream</b>'s as well as from other sources, that can be realized by implementing a data source interface.</li>
+	      <li class="C_ListNormal">Parsing characteristics like <b>case-sensitivity</b>, <b>line and column counting</b> and <b>whitespace handling</b> can be set on a global as well as on a per-item base (where a per-item base makes sense :-).</li>
+	      <li class="C_ListNormal">Read data may or may not be stored by the tokenizer.</li>
+	      <li class="C_ListNormal">The specific representation of tokens (token images) may or may not be returned by the tokenizer.</li>
+	      <li class="C_ListNormal"><b>Multiple tokenizers</b> may share one data source (embedded tokenizers).</li>
+	      <li class="C_ListNormal">Dynamic configuration is performed via an interface based on a <b>Java Bean design pattern</b>. Parties interested in modifications, can attach themselves to the software through a listener interface.</li>
+	      <li class="C_ListNormal">The software can be used purely in a black box manner, with few to many adaptions to the actual needs, and only as a declarative base for completely self-written Java classes.</li>
+	    </ul>
+	    <p class="C_Normal">
+	      While <span class="C_JTopas">JTopas</span> may be used "out of the box" by simply supplying a data source, setting the tokenizer characteristics and start tokenizing, the library also provides a rich set of service provider interfaces to implement specific handlers for keywords, patterns etc. Therefore, <span class="C_JTopas">JTopas</span> can easily be integrated in existing software, other contexts than straightforward parsing, multithreaded environments ...
+	    </p>
+	  </td>
+	</tr>
+
+	<!-- Example -->
+	<tr>
+	  <td valign="middle" height="50">
+	    <hr align="left" noshade="noshade" size="1">
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    <h1><img src="../images/logo_ivory.jpg" width="80" height="80" border="0" alt="JTopas logo" align="left">Example</h1>
+	    <p class="C_Normal">
+	      Here is an example Java program that extracts the contents of a HTML file using <span class="C_JTopas">JTopas</span> as it comes. It shows that the <span class="C_JTopas">JTopas</span> classes are independend from the protocol, dialect or language/contents to be parsed. Moreover, what is extracted in which way, can be dynamically controlled. With a few alternations, for instance, it would be possible to extract all hyperlinks or the meta informations of a HTML source. There are more examples in our <a class="C_RefOthers" href="http://junit.org" target="_blank">JUnit</a> test cases provided with the <span class="C_JTopas">JTopas</span> library.
+	    </p>
+	      <pre><font color="#8b0000">
+  // This will print the contents of a HTML file as a
+  // roughly formatted text
+
+  // Imports</font>
+  <b>import</b> de.susebox.jtopas.Flags;
+  <b>import</b> de.susebox.jtopas.Token;
+  <b>import</b> de.susebox.jtopas.Tokenizer;
+  <b>import</b> de.susebox.jtopas.StandardTokenizer;
+  <b>import</b> de.susebox.jtopas.StandardTokenizerProperties;
+  <b>import</b> de.susebox.jtopas.ReaderSource;
+
+  <font color="#8b0000">// class to hold main method</font>
+  <b>public class</b> ContentsExtractor {
+
+    <font color="#8b0000">// Main method. Supply a HTML file name as argument</font>
+    <b>public static</b> void main(String[] args) {
+      <b>try</b> {
+        <font color="#8b0000">// setup the tokenizer properties</font>
+        TokenizerProperties props     = <b>new</b> StandardTokenizerProperties();
+
+        props.setParseFlags(  Flags.F_NO_CASE 
+                            | Flags.F_TOKEN_POS_ONLY 
+                            | Flags.F_RETURN_WHITESPACES);
+        props.setSeparators(null);
+        props.addBlockComment(<font color="#8b0000">"&lt;"</font>, <font color="#8b0000">"&gt;"</font>);
+        props.addBlockComment(<font color="#8b0000">"&lt;HEAD&gt;"</font>, <font color="#8b0000">"&lt;/HEAD&gt;"</font>);
+        props.addBlockComment(<font color="#8b0000">"&lt;!--"</font>, <font color="#8b0000">"--&gt;"</font>);
+        props.addSpecialSequence(<font color="#8b0000">"&amp;lt;"</font>, <font color="#8b0000">"&lt;"</font>);
+        props.addSpecialSequence(<font color="#8b0000">"&amp;gt;"</font>, <font color="#8b0000">"&gt;"</font>);            
+        props.addSpecialSequence(<font color="#8b0000">"&lt;b&gt;"</font>, <font color="#8b0000">""</font>);
+        props.addSpecialSequence(<font color="#8b0000">"&lt;/b&gt;"</font>, <font color="#8b0000">""</font>);
+        props.addSpecialSequence(<font color="#8b0000">"&lt;i&gt;"</font>, <font color="#8b0000">""</font>);
+        props.addSpecialSequence(<font color="#8b0000">"&lt;/i&gt;"</font>, <font color="#8b0000">""</font>);
+        props.addSpecialSequence(<font color="#8b0000">"&lt;code&gt;"</font>, <font color="#8b0000">""</font>);
+        props.addSpecialSequence(<font color="#8b0000">"&lt;/code&gt;"</font>, <font color="#8b0000">""</font>);
+
+        <font color="#8b0000">// Case-sensitive HTML elements</font>
+        props.addSpecialSequence(<font color="#8b0000">"&amp;auml;"</font>, <font color="#8b0000">"&auml;"</font>, 0, Flags.F_NO_CASE);
+        props.addSpecialSequence(<font color="#8b0000">"&amp;Auml;"</font>, <font color="#8b0000">"&Auml;"</font>, 0, Flags.F_NO_CASE);
+        props.addSpecialSequence(<font color="#8b0000">"&amp;ouml;"</font>, <font color="#8b0000">"&ouml;"</font>, 0, Flags.F_NO_CASE);
+        props.addSpecialSequence(<font color="#8b0000">"&amp;Ouml;"</font>, <font color="#8b0000">"&Ouml;"</font>, 0, Flags.F_NO_CASE);
+        props.addSpecialSequence(<font color="#8b0000">"&amp;uuml;"</font>, <font color="#8b0000">"&uuml;"</font>, 0, Flags.F_NO_CASE);
+        props.addSpecialSequence(<font color="#8b0000">"&amp;Uuml;"</font>, <font color="#8b0000">"&Uuml;"</font>, 0, Flags.F_NO_CASE);
+        props.addSpecialSequence(<font color="#8b0000">"&amp;szlig;"</font>, <font color="#8b0000">"&szlig;"</font>);
+
+        <font color="#8b0000">// create the tokenizer</font>
+        Tokenizer           tokenizer = <b>new</b> StandardTokenizer(props);
+        TokenizerSource     source    = <b>new</b> ReaderSource(args[0]);
+        Token               token;
+        int                 len;
+
+        <b>try</b> {
+          tokenizer.setSource(<b>new</b> ReaderSource(args[0]));
+
+          <font color="#8b0000">// tokenize the file and print basically
+          // formatted context to stdout</font>
+          len = 0;
+          <b>while</b> (tokenizer.hasMoreToken()) {
+            token = tokenizer.nextToken();
+            <b>switch</b> (token.getType()) {
+            <b>case</b> Token.NORMAL:
+              System.out.print(tokenizer.current());
+              len += token.getLength();
+              break;
+            <b>case</b> Token.SPECIAL_SEQUENCE:
+              System.out.print((String)token.getCompanion());
+              <b>break</b>;
+            <b>case</b> Token.BLOCK_COMMENT:
+              <b>if</b> (len > 0) {
+                System.out.println();
+                len = 0;
+              }
+              <b>break</b>;
+            <b>case</b> Token.WHITESPACE:
+              <b>if</b> (len > 75) {
+                System.out.println();
+                len = 0;
+              } <b>else if</b> (len > 0) {
+                System.out.print(' ');
+                len++;
+              }
+              <b>break</b>;
+            }
+          } <b>finally</b> {
+            <font color="#8b0000">// never forget to release resources and references</font>
+            tokenizer.close();
+            source.close();
+          }
+        }
+      } <b>catch</b> (Throwable throwable) {
+        <font color="#8b0000">// catch and print all exceptions and errors</font>
+        throwable.printStackTrace();
+      }
+    } <font color="#8b0000">// end of main</font>
+  } <font color="#8b0000">// end of class</font>
+	      </pre>
+	  </td>
+	</tr>
+
+	<!-- Authors -->
+	<tr>
+	  <td valign="middle" height="50">
+	    <hr align="left" noshade="noshade" size="1">
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    <h1><img src="../images/logo_ivory.jpg" width="80" height="80" border="0" alt="JTopas logo" align="left">Origin of JTopas</h1>
+	    <p class="C_Normal">
+	      <span class="C_JTopas">JTopas</span> is a collection of Java modules, resulting from some Java experiments and solutions, I have done when nothing more important occupied my spare time. Since these modules can more or less easily be reused by others, I decided to make them available to the public.
+	    </p>
+	    <p class="C_Normal">
+	      Besides, I wanted to have my own Open Source project ;-) 
+	    </p>
+	    <p class="C_Normal">
+	      The small picture beside the headers and in the top frame of this page are drawings of a chestnut by Suse S. It is not exactly a logo, but looks good ...
+	    </p>
+	    <p class="C_Normal">
+	      In the hope, <span class="C_JTopas">JTopas</span> will be usefull<br>
+	      Heiko Blau
+	    </p>
+	  </td>
+	</tr>
+
+	<tr>
+	  <td valign="middle" height="50">
+	    <hr align="left" noshade="noshade" size="1">
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    <address><a name="contact"><address>Contact: <a href="mailto:info@susebox.de">webmaster</a></address></a>
+	    <!-- Created: Sat Aug  4 12:22:46 CEST 2001 -->
+	    <!-- hhmts start -->
+Last modified: Sun Nov 05 18:51:26 CEST 2004
+<!-- hhmts end -->
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+  </body>
+</html>

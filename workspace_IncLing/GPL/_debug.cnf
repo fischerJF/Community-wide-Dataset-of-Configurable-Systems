@@ -1,0 +1,205 @@
+p cnf 32 82 
+c c 1 GPL
+c c 2 MainGpl
+c c 3 Alg
+c c 4 Src
+c c 5 WEIGHTED___
+c c 6 Gtp
+c c 7 BASE___
+c c 8 _DIRECTED___
+c c 9 DIRECTED___
+c c 10 _UNDIRECTED___
+c c 11 UNDIRECTED___
+c c 12 SrcProg
+c c 13 Src2
+c c 14 SEARCH___
+c c 15 _BFS___
+c c 16 BFS___
+c c 17 _DFS___
+c c 18 DFS___
+c c 19 _NUMBER___
+c c 20 NUMBER___
+c c 21 _CONNECTED___
+c c 22 CONNECTED___
+c c 23 _STRONGLYCONNECTED___
+c c 24 STRONGLYCONNECTED___
+c c 25 _CYCLE___
+c c 26 CYCLE___
+c c 27 _MSTPRIM___
+c c 28 MSTPRIM___
+c c 29 _MSTKRUSKAL___
+c c 30 MSTKRUSKAL___
+c c 31 _SHORTEST___
+c c 32 SHORTEST___
+c (GPL iff MainGpl)
+c ((not GPL or MainGpl) and (not MainGpl or GPL))
+c x ((not GPL or MainGpl) and (not MainGpl or GPL))
+-1 2  0
+-2 1  0
+c ((Gtp iff (_UNDIRECTED___ or _DIRECTED___)) and atmostone(_UNDIRECTED___,_DIRECTED___))
+c ((not Gtp or _UNDIRECTED___ or _DIRECTED___) and ((not _UNDIRECTED___ and not _DIRECTED___) or Gtp) and (not _UNDIRECTED___ or not _DIRECTED___))
+c x ((not Gtp or _UNDIRECTED___ or _DIRECTED___) and (not _UNDIRECTED___ or Gtp) and (not _DIRECTED___ or Gtp) and (not _UNDIRECTED___ or not _DIRECTED___))
+-6 10 8  0
+-10 6  0
+-8 6  0
+-10 -8  0
+c (Src iff SrcProg)
+c ((not Src or SrcProg) and (not SrcProg or Src))
+c x ((not Src or SrcProg) and (not SrcProg or Src))
+-4 12  0
+-12 4  0
+c ((Src2 iff (_DFS___ or _BFS___)) and atmostone(_DFS___,_BFS___))
+c ((not Src2 or _DFS___ or _BFS___) and ((not _DFS___ and not _BFS___) or Src2) and (not _DFS___ or not _BFS___))
+c x ((not Src2 or _DFS___ or _BFS___) and (not _DFS___ or Src2) and (not _BFS___ or Src2) and (not _DFS___ or not _BFS___))
+-13 17 15  0
+-17 13  0
+-15 13  0
+-17 -15  0
+c (Alg iff (_SHORTEST___ or _MSTKRUSKAL___ or _MSTPRIM___ or _CYCLE___ or _STRONGLYCONNECTED___ or _CONNECTED___ or _NUMBER___))
+c ((not Alg or _SHORTEST___ or _MSTKRUSKAL___ or _MSTPRIM___ or _CYCLE___ or _STRONGLYCONNECTED___ or _CONNECTED___ or _NUMBER___) and ((not _SHORTEST___ and not _MSTKRUSKAL___ and not _MSTPRIM___ and not _CYCLE___ and not _STRONGLYCONNECTED___ and not _CONNECTED___ and not _NUMBER___) or Alg))
+c x ((not Alg or _SHORTEST___ or _MSTKRUSKAL___ or _MSTPRIM___ or _CYCLE___ or _STRONGLYCONNECTED___ or _CONNECTED___ or _NUMBER___) and (not _SHORTEST___ or Alg) and (not _MSTKRUSKAL___ or Alg) and (not _MSTPRIM___ or Alg) and (not _CYCLE___ or Alg) and (not _STRONGLYCONNECTED___ or Alg) and (not _CONNECTED___ or Alg) and (not _NUMBER___ or Alg))
+-3 31 29 27 25 23 21 19  0
+-31 3  0
+-29 3  0
+-27 3  0
+-25 3  0
+-23 3  0
+-21 3  0
+-19 3  0
+c (_STRONGLYCONNECTED___ iff STRONGLYCONNECTED___)
+c ((not _STRONGLYCONNECTED___ or STRONGLYCONNECTED___) and (not STRONGLYCONNECTED___ or _STRONGLYCONNECTED___))
+c x ((not _STRONGLYCONNECTED___ or STRONGLYCONNECTED___) and (not STRONGLYCONNECTED___ or _STRONGLYCONNECTED___))
+-23 24  0
+-24 23  0
+c (_NUMBER___ iff NUMBER___)
+c ((not _NUMBER___ or NUMBER___) and (not NUMBER___ or _NUMBER___))
+c x ((not _NUMBER___ or NUMBER___) and (not NUMBER___ or _NUMBER___))
+-19 20  0
+-20 19  0
+c (_DIRECTED___ iff DIRECTED___)
+c ((not _DIRECTED___ or DIRECTED___) and (not DIRECTED___ or _DIRECTED___))
+c x ((not _DIRECTED___ or DIRECTED___) and (not DIRECTED___ or _DIRECTED___))
+-8 9  0
+-9 8  0
+c ((MainGpl iff Alg) and (Src) implies (MainGpl) and (WEIGHTED___) implies (MainGpl) and (MainGpl iff Gtp) and (MainGpl iff BASE___))
+c ((not MainGpl or Alg) and (not Alg or MainGpl) and (not Src or MainGpl) and (not WEIGHTED___ or MainGpl) and (not MainGpl or Gtp) and (not Gtp or MainGpl) and (not MainGpl or BASE___) and (not BASE___ or MainGpl))
+c x ((not MainGpl or Alg) and (not Alg or MainGpl) and (not Src or MainGpl) and (not WEIGHTED___ or MainGpl) and (not MainGpl or Gtp) and (not Gtp or MainGpl) and (not MainGpl or BASE___) and (not BASE___ or MainGpl))
+-2 3  0
+-3 2  0
+-4 2  0
+-5 2  0
+-2 6  0
+-6 2  0
+-2 7  0
+-7 2  0
+c (_SHORTEST___ iff SHORTEST___)
+c ((not _SHORTEST___ or SHORTEST___) and (not SHORTEST___ or _SHORTEST___))
+c x ((not _SHORTEST___ or SHORTEST___) and (not SHORTEST___ or _SHORTEST___))
+-31 32  0
+-32 31  0
+c (_CONNECTED___ iff CONNECTED___)
+c ((not _CONNECTED___ or CONNECTED___) and (not CONNECTED___ or _CONNECTED___))
+c x ((not _CONNECTED___ or CONNECTED___) and (not CONNECTED___ or _CONNECTED___))
+-21 22  0
+-22 21  0
+c (_DFS___ iff DFS___)
+c ((not _DFS___ or DFS___) and (not DFS___ or _DFS___))
+c x ((not _DFS___ or DFS___) and (not DFS___ or _DFS___))
+-17 18  0
+-18 17  0
+c ((SrcProg iff Src2) and (SrcProg iff SEARCH___))
+c ((not SrcProg or Src2) and (not Src2 or SrcProg) and (not SrcProg or SEARCH___) and (not SEARCH___ or SrcProg))
+c x ((not SrcProg or Src2) and (not Src2 or SrcProg) and (not SrcProg or SEARCH___) and (not SEARCH___ or SrcProg))
+-12 13  0
+-13 12  0
+-12 14  0
+-14 12  0
+c (_CYCLE___ iff CYCLE___)
+c ((not _CYCLE___ or CYCLE___) and (not CYCLE___ or _CYCLE___))
+c x ((not _CYCLE___ or CYCLE___) and (not CYCLE___ or _CYCLE___))
+-25 26  0
+-26 25  0
+c (_MSTPRIM___ iff MSTPRIM___)
+c ((not _MSTPRIM___ or MSTPRIM___) and (not MSTPRIM___ or _MSTPRIM___))
+c x ((not _MSTPRIM___ or MSTPRIM___) and (not MSTPRIM___ or _MSTPRIM___))
+-27 28  0
+-28 27  0
+c (_MSTKRUSKAL___ iff MSTKRUSKAL___)
+c ((not _MSTKRUSKAL___ or MSTKRUSKAL___) and (not MSTKRUSKAL___ or _MSTKRUSKAL___))
+c x ((not _MSTKRUSKAL___ or MSTKRUSKAL___) and (not MSTKRUSKAL___ or _MSTKRUSKAL___))
+-29 30  0
+-30 29  0
+c (_UNDIRECTED___ iff UNDIRECTED___)
+c ((not _UNDIRECTED___ or UNDIRECTED___) and (not UNDIRECTED___ or _UNDIRECTED___))
+c x ((not _UNDIRECTED___ or UNDIRECTED___) and (not UNDIRECTED___ or _UNDIRECTED___))
+-10 11  0
+-11 10  0
+c (_BFS___ iff BFS___)
+c ((not _BFS___ or BFS___) and (not BFS___ or _BFS___))
+c x ((not _BFS___ or BFS___) and (not BFS___ or _BFS___))
+-15 16  0
+-16 15  0
+c (NUMBER___) implies (Src)
+c (not NUMBER___ or Src)
+c x (not NUMBER___ or Src)
+-20 4  0
+c (CONNECTED___) implies ((UNDIRECTED___ and Src))
+c (not CONNECTED___ or (UNDIRECTED___ and Src))
+c x ((not CONNECTED___ or UNDIRECTED___) and (not CONNECTED___ or Src))
+-22 11  0
+-22 4  0
+c (STRONGLYCONNECTED___) implies ((DIRECTED___ and DFS___))
+c (not STRONGLYCONNECTED___ or (DIRECTED___ and DFS___))
+c x ((not STRONGLYCONNECTED___ or DIRECTED___) and (not STRONGLYCONNECTED___ or DFS___))
+-24 9  0
+-24 18  0
+c (CYCLE___) implies (DFS___)
+c (not CYCLE___ or DFS___)
+c x (not CYCLE___ or DFS___)
+-26 18  0
+c ((MSTKRUSKAL___ or MSTPRIM___)) implies ((UNDIRECTED___ and WEIGHTED___))
+c ((not MSTKRUSKAL___ and not MSTPRIM___) or (UNDIRECTED___ and WEIGHTED___))
+c x ((not MSTKRUSKAL___ or UNDIRECTED___) and (not MSTKRUSKAL___ or WEIGHTED___) and (not MSTPRIM___ or UNDIRECTED___) and (not MSTPRIM___ or WEIGHTED___))
+-30 11  0
+-30 5  0
+-28 11  0
+-28 5  0
+c ((MSTKRUSKAL___ or MSTPRIM___)) implies (not ((MSTKRUSKAL___ and MSTPRIM___)))
+c ((not MSTKRUSKAL___ and not MSTPRIM___) or not MSTKRUSKAL___ or not MSTPRIM___)
+c x ((not MSTKRUSKAL___ or not MSTKRUSKAL___ or not MSTPRIM___) and (not MSTPRIM___ or not MSTKRUSKAL___ or not MSTPRIM___))
+-30 -30 -28  0
+-28 -30 -28  0
+c (SHORTEST___) implies ((DIRECTED___ and WEIGHTED___))
+c (not SHORTEST___ or (DIRECTED___ and WEIGHTED___))
+c x ((not SHORTEST___ or DIRECTED___) and (not SHORTEST___ or WEIGHTED___))
+-32 9  0
+-32 5  0
+c x GPL
+1 0
+c x BASE___
+7 0
+c x DIRECTED___
+9 0
+c x UNDIRECTED___
+11 0
+c x WEIGHTED___
+5 0
+c x SEARCH___
+14 0
+c x BFS___
+16 0
+c x NUMBER___
+20 0
+c x CONNECTED___
+22 0
+c x STRONGLYCONNECTED___
+24 0
+c x CYCLE___
+26 0
+c x MSTPRIM___
+28 0
+c x MSTKRUSKAL___
+30 0
+c x SHORTEST___
+32 0
+

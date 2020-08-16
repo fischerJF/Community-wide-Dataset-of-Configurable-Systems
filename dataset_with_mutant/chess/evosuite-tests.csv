@@ -1,0 +1,11 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+evosuite-tests,model.MessageListener_ESTest_scaffolding,class,9,4,1,0,12,4,4,3,2,2,1,0,0,49
+evosuite-tests,MVC.MVC_ESTest,class,6,2,2,0,2,0,1,1,0,0,0,0,0,28
+evosuite-tests,jogador.AI_Player_ESTest,class,8,24,2,0,16,120,16,16,0,0,0,0,0,204
+evosuite-tests,jogador.Player_ESTest_scaffolding,class,9,4,1,0,12,4,4,3,2,2,1,0,0,48
+evosuite-tests,MVC.MVC_ESTest_scaffolding,class,9,4,1,0,12,4,4,3,2,2,1,0,0,52
+evosuite-tests,model.MessageListener_ESTest,class,7,4,2,0,5,1,2,2,0,0,0,0,1,52
+evosuite-tests,jogador.AI_Player_ESTest_scaffolding,class,9,4,1,0,12,4,4,3,2,2,1,0,0,49
+evosuite-tests,model.Board_ESTest_scaffolding,class,9,4,1,0,12,4,4,3,2,2,1,0,0,59
+evosuite-tests,model.Board_ESTest,class,12,74,2,0,37,1326,52,52,0,0,0,0,0,676
+evosuite-tests,jogador.Player_ESTest,class,7,18,2,0,13,120,16,16,0,0,0,0,0,162

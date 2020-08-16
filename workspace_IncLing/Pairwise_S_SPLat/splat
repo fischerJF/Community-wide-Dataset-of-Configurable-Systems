@@ -1,0 +1,58 @@
+#!/bin/bash
+
+source ./common
+SPLATDIR="$BASEDIR/src-subjects"
+SUBJECT="$1"
+SHOULDSAMPLE="$2"
+SAMPLERATE="$3"
+VALIDATE="$4"
+SEED=95729
+
+echo "${SUBJECT} ${SHOULDSAMPLE} ${SAMPLERATE} ${VALIDATE}"
+
+if [ -z "$1" ];
+then
+    echo "Please inform name of the subject you want to analyze"
+    exit
+fi
+
+## check if informed the name of a proper subject
+SUBJECTDIR="$SPLATDIR/$SUBJECT"
+
+if [ ! -d "$SUBJECTDIR" ];
+then
+    echo "Could not find directory $SUBJECTDIR"
+    exit
+fi
+
+TESTFILE="tests.TestAll"
+
+source ./compile-subject ${SUBJECT}
+
+CP=${CP}:${CP_SPLAT}
+
+#echo ${CP}
+
+#timestamp=$(date +"%Y.%m.%d_%H.%M.%S")
+#LOGFILE="${BASEDIR}/data/${SUBJECT}.$timestamp.txt"
+LOGFILE="${BASEDIR}/data/${SUBJECT}.txt"
+
+VM="java -Xmx2048m"
+#VM="java -Xmx4096m"
+##VM="jvisualvm"
+#VM="java -Xmx1024m -agentlib:hprof=cpu=samples"
+
+### used shouldsample FALSE if you want to disable sampling
+(cd ${SUBJECTDIR};
+echo "==========SPLAT=========="
+#	${VM} -cp $CP org.junit.runner.JUnitCore tests.TestAll
+
+    ${VM} -cp $CP splat.Main \
+        --testclass ${TESTFILE} \
+        --logfile ${LOGFILE} \
+        --shouldsample ${SHOULDSAMPLE} \
+        --samplerate ${SAMPLERATE} \
+        --seed ${SEED} \
+        --validate ${VALIDATE} 
+    
+) 

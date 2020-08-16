@@ -1,0 +1,1 @@
+RunningExample: [IMAGEPARTS___] [TOKENPOSONLY___] [COUNTLINES___] [BLOCKCOMMENTS___] [LINECOMMENTS___] BASE___ :: Program;                                                                         

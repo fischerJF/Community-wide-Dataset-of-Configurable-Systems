@@ -1,0 +1,14 @@
+de.susebox.java.io
+de.susebox.java.lang
+de.susebox.java.util
+de.susebox.jtopas
+de.susebox.jtopas.impl
+de.susebox.jtopas.spi
+specifications
+tests
+tests.de.susebox
+tests.de.susebox.java
+tests.de.susebox.java.lang
+tests.de.susebox.java.util
+tests.de.susebox.jtopas
+tests.de.susebox.jtopas.spi

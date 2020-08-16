@@ -1,0 +1,6 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+AuxTestsJP,learning.varexj.MyMutantClass,class,2,12,1,0,2,1,2,2,1,3,3,3,0,48
+AuxTestsJP,learning.varexj.TesteFischer,class,3,3,2,0,3,0,1,1,0,0,0,0,0,13
+AuxTestsJP,learning.varexj.VarexJConstants,class,0,0,1,0,1,0,0,0,0,1,1,1,0,7
+AuxTestsJP,Run,class,0,1,1,0,2,0,1,1,1,0,0,0,0,15
+AuxTestsJP,learning.varexj.MyMutationClassTest,class,3,11,2,0,6,1,3,3,0,1,0,0,0,33

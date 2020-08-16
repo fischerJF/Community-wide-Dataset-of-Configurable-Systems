@@ -1,0 +1,99 @@
+p cnf 12 35 
+c c 1 RunningExample
+c c 2 Program
+c c 3 DAILYLIMIT___
+c c 4 INTEREST___
+c c 5 OVERDRAFT___
+c c 6 CREDITWORTHINESS___
+c c 7 LOCK___
+c c 8 LOGGING___
+c c 9 INTERESTESTIMATION___
+c c 10 TRANSACTION___
+c c 11 TRANSACTIONLOG___
+c c 12 BANKACCOUNT___
+c (RunningExample iff Program)
+c ((not RunningExample or Program) and (not Program or RunningExample))
+c x ((not RunningExample or Program) and (not Program or RunningExample))
+-1 2  0
+-2 1  0
+c ((DAILYLIMIT___) implies (Program) and (INTEREST___) implies (Program) and (OVERDRAFT___) implies (Program) and (CREDITWORTHINESS___) implies (Program) and (LOCK___) implies (Program) and (LOGGING___) implies (Program) and (INTERESTESTIMATION___) implies (Program) and (TRANSACTION___) implies (Program) and (TRANSACTIONLOG___) implies (Program) and (Program iff BANKACCOUNT___))
+c ((not DAILYLIMIT___ or Program) and (not INTEREST___ or Program) and (not OVERDRAFT___ or Program) and (not CREDITWORTHINESS___ or Program) and (not LOCK___ or Program) and (not LOGGING___ or Program) and (not INTERESTESTIMATION___ or Program) and (not TRANSACTION___ or Program) and (not TRANSACTIONLOG___ or Program) and (not Program or BANKACCOUNT___) and (not BANKACCOUNT___ or Program))
+c x ((not DAILYLIMIT___ or Program) and (not INTEREST___ or Program) and (not OVERDRAFT___ or Program) and (not CREDITWORTHINESS___ or Program) and (not LOCK___ or Program) and (not LOGGING___ or Program) and (not INTERESTESTIMATION___ or Program) and (not TRANSACTION___ or Program) and (not TRANSACTIONLOG___ or Program) and (not Program or BANKACCOUNT___) and (not BANKACCOUNT___ or Program))
+-3 2  0
+-4 2  0
+-5 2  0
+-6 2  0
+-7 2  0
+-8 2  0
+-9 2  0
+-10 2  0
+-11 2  0
+-2 12  0
+-12 2  0
+c (DAILYLIMIT___) implies (BANKACCOUNT___)
+c (not DAILYLIMIT___ or BANKACCOUNT___)
+c x (not DAILYLIMIT___ or BANKACCOUNT___)
+-3 12  0
+c (INTEREST___) implies (BANKACCOUNT___)
+c (not INTEREST___ or BANKACCOUNT___)
+c x (not INTEREST___ or BANKACCOUNT___)
+-4 12  0
+c (OVERDRAFT___) implies (BANKACCOUNT___)
+c (not OVERDRAFT___ or BANKACCOUNT___)
+c x (not OVERDRAFT___ or BANKACCOUNT___)
+-5 12  0
+c (CREDITWORTHINESS___) implies (BANKACCOUNT___)
+c (not CREDITWORTHINESS___ or BANKACCOUNT___)
+c x (not CREDITWORTHINESS___ or BANKACCOUNT___)
+-6 12  0
+c (LOCK___) implies (BANKACCOUNT___)
+c (not LOCK___ or BANKACCOUNT___)
+c x (not LOCK___ or BANKACCOUNT___)
+-7 12  0
+c (LOGGING___) implies (BANKACCOUNT___)
+c (not LOGGING___ or BANKACCOUNT___)
+c x (not LOGGING___ or BANKACCOUNT___)
+-8 12  0
+c (INTERESTESTIMATION___) implies (INTEREST___)
+c (not INTERESTESTIMATION___ or INTEREST___)
+c x (not INTERESTESTIMATION___ or INTEREST___)
+-9 4  0
+c (TRANSACTION___) implies (LOCK___)
+c (not TRANSACTION___ or LOCK___)
+c x (not TRANSACTION___ or LOCK___)
+-10 7  0
+c (TRANSACTIONLOG___) implies (LOGGING___)
+c (not TRANSACTIONLOG___ or LOGGING___)
+c x (not TRANSACTIONLOG___ or LOGGING___)
+-11 8  0
+c ((LOGGING___ and TRANSACTION___)) implies (TRANSACTIONLOG___)
+c (not LOGGING___ or not TRANSACTION___ or TRANSACTIONLOG___)
+c x (not LOGGING___ or not TRANSACTION___ or TRANSACTIONLOG___)
+-8 -10 11  0
+c (TRANSACTIONLOG___) implies (TRANSACTION___)
+c (not TRANSACTIONLOG___ or TRANSACTION___)
+c x (not TRANSACTIONLOG___ or TRANSACTION___)
+-11 10  0
+c x RunningExample
+1 0
+c x BANKACCOUNT___
+12 0
+c x CREDITWORTHINESS___
+6 0
+c x DAILYLIMIT___
+3 0
+c x INTEREST___
+4 0
+c x INTERESTESTIMATION___
+9 0
+c x LOCK___
+7 0
+c x LOGGING___
+8 0
+c x OVERDRAFT___
+5 0
+c x TRANSACTION___
+10 0
+c x TRANSACTIONLOG___
+11 0
+

@@ -1,0 +1,25 @@
+package testset;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import specifications.Configuration;
+import wordPress.WeatherReport;
+
+public class WeatherReportTest {
+
+	WeatherReport wr;
+	@Before
+	public void setUp() {
+		wr= new WeatherReport();
+	}
+	@Test
+	public void createText_SMILEYTest() {
+		if(Configuration.SMILEY) {
+			assertEquals(wr.createText("[: weather :]"),"[: weather Smiley:]");
+		}
+	}
+
+}

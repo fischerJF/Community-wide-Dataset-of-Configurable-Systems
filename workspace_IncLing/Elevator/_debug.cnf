@@ -1,0 +1,45 @@
+p cnf 8 17 
+c c 1 RunningExample
+c c 2 Program
+c c 3 WEIGHT___
+c c 4 EMPTY___
+c c 5 TWOTHIRDSFULL___
+c c 6 EXECUTIVEFLOOR___
+c c 7 OVERLOADED___
+c c 8 BASE___
+c (RunningExample iff Program)
+c ((not RunningExample or Program) and (not Program or RunningExample))
+c x ((not RunningExample or Program) and (not Program or RunningExample))
+-1 2  0
+-2 1  0
+c ((WEIGHT___) implies (Program) and (EMPTY___) implies (Program) and (TWOTHIRDSFULL___) implies (Program) and (EXECUTIVEFLOOR___) implies (Program) and (OVERLOADED___) implies (Program) and (Program iff BASE___))
+c ((not WEIGHT___ or Program) and (not EMPTY___ or Program) and (not TWOTHIRDSFULL___ or Program) and (not EXECUTIVEFLOOR___ or Program) and (not OVERLOADED___ or Program) and (not Program or BASE___) and (not BASE___ or Program))
+c x ((not WEIGHT___ or Program) and (not EMPTY___ or Program) and (not TWOTHIRDSFULL___ or Program) and (not EXECUTIVEFLOOR___ or Program) and (not OVERLOADED___ or Program) and (not Program or BASE___) and (not BASE___ or Program))
+-3 2  0
+-4 2  0
+-5 2  0
+-6 2  0
+-7 2  0
+-2 8  0
+-8 2  0
+c (OVERLOADED___) implies (WEIGHT___)
+c (not OVERLOADED___ or WEIGHT___)
+c x (not OVERLOADED___ or WEIGHT___)
+-7 3  0
+c (TWOTHIRDSFULL___) implies (WEIGHT___)
+c (not TWOTHIRDSFULL___ or WEIGHT___)
+c x (not TWOTHIRDSFULL___ or WEIGHT___)
+-5 3  0
+c x RunningExample
+1 0
+c x -WEIGHT___
+-3 0
+c x -EMPTY___
+-4 0
+c x -TWOTHIRDSFULL___
+-5 0
+c x -EXECUTIVEFLOOR___
+-6 0
+c x -OVERLOADED___
+-7 0
+

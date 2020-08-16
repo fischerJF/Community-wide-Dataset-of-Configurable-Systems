@@ -1,0 +1,75 @@
+package defpackage;
+import gov.nasa.jpf.jvm.Verify;
+
+public class Test_Runner {
+	private static boolean printLog = false;
+	public static String error = null;
+	public static String ignoreThisRun = "false";
+	public static String selectedFeatures = "";
+	public static String actions = "";
+	public static String scenarioFinished = "false";
+		
+	public static void main(String[] args) throws Throwable {
+		PL_Interface interf = new PL_Interface_impl();
+		try {
+			int specification = -1;
+			int variation = -1;
+			if (args.length==0) {
+				System.out.println("VE_Run: NoArguments-> Checking all Specifications");
+				// check all Specs
+				interf.checkOnlySpecification(-1);
+			} else {
+				String[] arguments = args[0].trim().split("_");
+				if (arguments.length != 2) 
+					throw new IllegalArgumentException("must hav an argument of the form interaction_variation!");
+				specification = Integer.parseInt(arguments[0]);
+				//specification = -2;
+				variation = Integer.parseInt(arguments[1]);
+				interf.checkOnlySpecification(specification);
+				System.out.println("VE_Run: Argument\"" + args[0] + "\" checking only spec " 
+						+ specification + " with var " +variation);
+			}
+			// select features
+	        verificationClasses.FeatureSwitches.select_helpers();
+	        
+	        verificationClasses.FeatureSwitches.select_features();
+	        if (! (verificationClasses.FeatureSwitches.valid_product() && requirementsFulfilled())) {
+	            ignoreThisRun="true";
+	            Verify.incrementCounter(1);
+	            System.out.println("invalidProductAbort#" + Verify.getCounter(1));
+	            //System.out.println("ignoring Feature combination: " + verificationClasses.FeatureSwitches.getSelectedFeaturesAsNames());
+	            return;
+	        }
+	        // start program
+			interf.start(specification, variation);
+			if (interf.isAbortedRun()==true) {
+				if (printLog) System.out.println("Aborted");
+				Verify.incrementCounter(2);
+				System.out.println("ignoredRun#" + Verify.getCounter(2));
+				ignoreThisRun = "true";
+				return;
+			}
+			if (printLog)
+				System.out.println("Scenario Succeeded");
+		} catch (Throwable e) {
+			if (printLog) {
+				System.out.println("Scenario Failed with error:" + e.getMessage());
+				e.printStackTrace();
+			}
+			error = e.getMessage();
+		} finally {
+			selectedFeatures = verificationClasses.FeatureSwitches.getSelectedFeaturesAsNames();
+			for (String a : interf.getExecutedActions()) {
+				actions += ":" + a;
+			}
+		}
+	}
+	// this method will be replaced during the verification preparation
+static boolean requirementsFulfilled() {
+	if (true  && 
+splat.EmailTEST.__SELECTED_FEATURE_encrypt)
+		return true;
+	else
+		return false;
+}	
+}

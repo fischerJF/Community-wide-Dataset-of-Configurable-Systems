@@ -1,0 +1,17 @@
+#!/bin/bash
+echo "=====COMPILE====="
+
+source common
+
+SRCDIR="${BASEDIR}/src"
+BINDIR="${BASEDIR}/bin"
+CP="${BINDIR}"
+
+############# common libraries
+for x in `ls ${LIBSDIR}/*.jar`;
+do
+	CP=${x}:${CP}
+done
+
+export CP
+

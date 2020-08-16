@@ -1,0 +1,5 @@
+Indexing directory: 'C:\Users\Fischer_PC\Dropbox\workspace_testing_tools\systemsForSplat\desktopsearcher/files'
+Searching for query: 'test'
+Searching for 'test'... found 0 matching documents.
+lastModify
+1,1,1,1,1,1,?,?,?,?,?,?,?,?,?,?,

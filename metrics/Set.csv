@@ -1,0 +1,4 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc,
+src,specifications.SpecificationException,class,0,2,4,0,0,0,2,2,0,1,0,0,0,11,0
+src,specifications.Configuration,class,0,0,1,0,0,0,0,0,0,3,3,3,0,118,0
+src,Set.IntegerSet,class,1,86,1,0,19,57,18,5,0,6,0,0,1,214,0

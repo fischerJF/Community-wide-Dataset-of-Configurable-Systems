@@ -1,0 +1,352 @@
+package desktopsearcher;
+
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Point;
+import java.util.ArrayList;
+
+import javax.swing.JPanel;
+
+import splat.DesktopSearcherVariables;
+
+/**
+ * Panel zur Anzeige eines gefundenen Dokuments.
+ * 
+ * Diese Klasse erzeugt ein Textfeld fuer die Darstellung von genau einem
+ * Treffer. Fuer die Ergebnisliste muessen entsprechend viele Objekte diser
+ * Klasse erzeugt werden.
+ * 
+ * @author Mr. Pink
+ */
+public class HitDocument extends JPanel {
+	private static final long serialVersionUID = 1L;
+	private Point size;
+
+	private String _path;
+	private String _file_name;
+
+	/**
+	 * Konstruktor
+	 * 
+	 * Der Konstruktor dieser Klasse erzeugt ein JLabel auf dem der Text, der
+	 * sich im Datensatz befindet, dargestellt wird. Der Datensatz braucht eine
+	 * Mindestlaenge von 6 Eintraegen.
+	 * <p>
+	 * Beispiel-Datensatz:
+	 * 
+	 * <pre>
+	 * {
+	 * 	&#064;code
+	 * 	// Datensatz erzeugen
+	 * 	ArrayList&lt;String&gt; daten = new ArrayList&lt;String&gt;();
+	 * 	// rankingPos
+	 * 	daten.add(&quot;1&quot;);
+	 * 	// ID
+	 * 	daten.add(&quot;42&quot;);
+	 * 	// name
+	 * 	daten.add(&quot;Name der Daten&quot;);
+	 * 	// location
+	 * 	daten.add(&quot;C://...&quot;);
+	 * 	// size
+	 * 	daten.add(&quot;1234&quot;);
+	 * 	// age
+	 * 	daten.add(&quot;heute&quot;);
+	 * 	// Woerter
+	 * 	daten.add(&quot;Wort1&quot;);
+	 * 	daten.add(&quot;3&quot;);
+	 * 	daten.add(&quot;Wort2&quot;);
+	 * 	daten.add(&quot;1&quot;);
+	 * 	// ...
+	 * }
+	 * </pre>
+	 * 
+	 * @param parent
+	 *            Das JPanel, auf dem dieses Objekt dargestellt werden soll.
+	 * @param position
+	 *            Die Position des Objektes.
+	 * @param daten
+	 *            Die Daten, die dargestellt werden sollen.
+	 */
+	public HitDocument(JPanel parents, Point position, ArrayList daten) {
+		if (DesktopSearcherVariables.getSINGLETON().isGUI()) {
+			if (DesktopSearcherVariables.getSINGLETON().isNORMAL_VIEW()) {
+				this.setLayout(null);
+				int offset = 3;
+				Point current = new Point(offset, offset);
+
+				this.setBackground(new Color((int) (255 - Math.random() * 70),
+						(int) (255 - Math.random() * 70), (int) (255 - Math
+								.random() * 70)));
+
+				size = new Point();
+
+				int fontSize = 15;
+				Font fontNormal = new Font("", Font.LAYOUT_LEFT_TO_RIGHT,
+						fontSize);
+				Font fontFat = new Font("", Font.LAYOUT_LEFT_TO_RIGHT
+						| Font.BOLD, fontSize);
+				Font fontCursive = new Font("", Font.LAYOUT_LEFT_TO_RIGHT
+						| Font.ITALIC, fontSize);
+
+				Point end = null;
+
+				// Position im Ranking
+				HitComponentLabel dokRanking = new HitComponentLabel();
+				end = dokRanking.setText(this, current, "---ranking position "
+						+ daten.get(0) + " ---", fontFat);
+				current.x += end.x;
+				size.y += fontSize + 3;
+				if (size.x < current.x) {
+					size.x = current.x;
+				}
+				current.y += fontSize;
+				current.x = offset;
+
+				// dokID, Name, Location
+				HitComponentLabel dokID = new HitComponentLabel();
+				end = dokID.setText(this, current, "DokID " + daten.get(1),
+						fontFat);
+				current.x += end.x;
+				HitComponentLabel dokName = new HitComponentLabel();
+				end = dokName.setText(this, current, (String) daten.get(2),
+						fontNormal);
+				current.x += end.x;
+				HitComponentLabel dokLocation = new HitComponentLabel();
+				end = dokLocation.setText(this, current,
+						"Location: " + daten.get(3), fontCursive);
+				current.x += end.x;
+
+				size.y += fontSize + 3;
+				if (size.x < current.x) {
+					size.x = current.x;
+				}
+				current.y += fontSize;
+				current.x = offset;
+
+				// size, age
+				HitComponentLabel dokSize = new HitComponentLabel();
+				end = dokSize.setText(this, current, "Size: ", fontFat);
+				current.x += end.x;
+				HitComponentLabel dokSize1 = new HitComponentLabel();
+				end = dokSize1.setText(this, current, (String) daten.get(4),
+						fontCursive);
+				current.x += end.x;
+				HitComponentLabel dokAge = new HitComponentLabel();
+				end = dokAge.setText(this, current, "Date: ", fontFat);
+				current.x += end.x;
+				HitComponentLabel dokAge1 = new HitComponentLabel();
+				end = dokAge1.setText(this, current, (String) daten.get(5),
+						fontCursive);
+				current.x += end.x;
+
+				int dataPos = 6;
+
+				if (size.x < current.x) {
+					size.x = current.x;
+				}
+				current.x = offset;
+				current.y += fontSize;
+				size.y += fontSize + 3;
+
+				// Woerter
+				while (daten.size() > dataPos) {
+					HitComponentLabel dokWord = new HitComponentLabel();
+					end = dokWord.setText(this, current,
+							(String) daten.get(dataPos), fontFat);
+					dataPos++;
+					current.x += end.x;
+					HitComponentLabel dokCount = new HitComponentLabel();
+					end = dokCount.setText(this, current, daten.get(dataPos)
+							+ " times", fontCursive);
+					dataPos++;
+					current.x += end.x;
+				}
+				size.y += fontSize + 3;
+				if (size.x < current.x) {
+					size.x = current.x;
+				}
+
+				parents.add(this).setBounds(position.x, position.y, size.x,
+						size.y);
+			}
+		}
+	}
+
+	/**
+	 * Konstruktor
+	 * 
+	 * Der Konstruktor dieser Klasse erzeugt ein JLabel auf dem der Text, der
+	 * sich im Datensatz befindet, dargestellt wird. Der Datensatz braucht eine
+	 * Mindestlaenge von 6 Eintraegen.
+	 * <p>
+	 * Beispiel-Datensatz:
+	 * 
+	 * <pre>
+	 * {
+	 * 	&#064;code
+	 * 	// Datensatz erzeugen
+	 * 	ArrayList&lt;String&gt; daten = new ArrayList&lt;String&gt;();
+	 * 	// rankingPos
+	 * 	daten.add(&quot;1&quot;);
+	 * 	// ID
+	 * 	daten.add(&quot;42&quot;);
+	 * 	// name
+	 * 	daten.add(&quot;Name der Daten&quot;);
+	 * 	// location
+	 * 	daten.add(&quot;C://...&quot;);
+	 * 	// size
+	 * 	daten.add(&quot;1234&quot;);
+	 * 	// age
+	 * 	daten.add(&quot;heute&quot;);
+	 * 	// Woerter
+	 * 	daten.add(&quot;Wort1&quot;);
+	 * 	daten.add(&quot;3&quot;);
+	 * 	daten.add(&quot;Wort2&quot;);
+	 * 	daten.add(&quot;1&quot;);
+	 * 	// ...
+	 * }
+	 * </pre>
+	 * 
+	 * @param parent
+	 *            Das JPanel, auf dem dieses Objekt dargestellt werden soll.
+	 * @param position
+	 *            Die Position des Objektes.
+	 * @param daten
+	 *            Die Daten, die dargestellt werden sollen.
+	 */
+	public HitDocument(ArrayList daten) {
+		if (DesktopSearcherVariables.getSINGLETON().isGUI()) {
+			if (DesktopSearcherVariables.getSINGLETON().isTREE_VIEW()) {
+				this.setLayout(null);
+				int offset = 3;
+				Point current = new Point(offset, offset);
+
+				this.setBackground(new Color((int) (255 - Math.random() * 70),
+						(int) (255 - Math.random() * 70), (int) (255 - Math
+								.random() * 70)));
+
+				size = new Point();
+
+				int fontSize = 15;
+				Font fontNormal = new Font("", Font.LAYOUT_LEFT_TO_RIGHT,
+						fontSize);
+				Font fontFat = new Font("", Font.LAYOUT_LEFT_TO_RIGHT
+						| Font.BOLD, fontSize);
+				Font fontCursive = new Font("", Font.LAYOUT_LEFT_TO_RIGHT
+						| Font.ITALIC, fontSize);
+
+				Point end = null;
+
+				// Position im Ranking
+				HitComponentLabel dokRanking = new HitComponentLabel();
+				end = dokRanking.setText(this, current, "---ranking position "
+						+ daten.get(0) + " ---", fontFat);
+				current.x += end.x;
+				size.y += fontSize + 3;
+				if (size.x < current.x) {
+					size.x = current.x;
+				}
+				current.y += fontSize;
+				current.x = offset;
+
+				// dokID, Name, Location
+				HitComponentLabel dokID = new HitComponentLabel();
+				end = dokID.setText(this, current, "DokID " + daten.get(1),
+						fontFat);
+				current.x += end.x;
+				HitComponentLabel dokName = new HitComponentLabel();
+				end = dokName.setText(this, current, (String) daten.get(2),
+						fontNormal);
+				current.x += end.x;
+				HitComponentLabel dokLocation = new HitComponentLabel();
+				end = dokLocation.setText(this, current,
+						"Location: " + daten.get(3), fontCursive);
+
+				_path = (String) daten.get(3);
+				String[] splitted_path = _path.split(OS.getPathSeparator());
+				_file_name = splitted_path[splitted_path.length - 1];
+
+				current.x += end.x;
+
+				size.y += fontSize + 3;
+				if (size.x < current.x) {
+					size.x = current.x;
+				}
+				current.y += fontSize;
+				current.x = offset;
+
+				// size, age
+				HitComponentLabel dokSize = new HitComponentLabel();
+				end = dokSize.setText(this, current, "Size: ", fontFat);
+				current.x += end.x;
+				HitComponentLabel dokSize1 = new HitComponentLabel();
+				end = dokSize1.setText(this, current, (String) daten.get(4),
+						fontCursive);
+				current.x += end.x;
+				HitComponentLabel dokAge = new HitComponentLabel();
+				end = dokAge.setText(this, current, "Date: ", fontFat);
+				current.x += end.x;
+				HitComponentLabel dokAge1 = new HitComponentLabel();
+				end = dokAge1.setText(this, current, (String) daten.get(5),
+						fontCursive);
+				current.x += end.x;
+
+				int dataPos = 6;
+
+				if (size.x < current.x) {
+					size.x = current.x;
+				}
+				current.x = offset;
+				current.y += fontSize;
+				size.y += fontSize + 3;
+
+				// Woerter
+				while (daten.size() > dataPos) {
+					HitComponentLabel dokWord = new HitComponentLabel();
+					end = dokWord.setText(this, current,
+							(String) daten.get(dataPos), fontFat);
+					dataPos++;
+					current.x += end.x;
+					HitComponentLabel dokCount = new HitComponentLabel();
+					end = dokCount.setText(this, current, daten.get(dataPos)
+							+ " times", fontCursive);
+					dataPos++;
+					current.x += end.x;
+				}
+				size.y += fontSize + 3;
+				if (size.x < current.x) {
+					size.x = current.x;
+				}
+				// parents.add(this).setBounds(position.x, position.y, size.x,
+				// size.y);
+			}
+		}
+	}
+
+	public String getPath() {
+		if (DesktopSearcherVariables.getSINGLETON().isGUI()) {
+			if (DesktopSearcherVariables.getSINGLETON().isTREE_VIEW()) {
+				return _path;
+			}
+		}
+		return "";
+	}
+
+	public Point getTheSize() {
+		if (DesktopSearcherVariables.getSINGLETON().isGUI()) {
+			if (DesktopSearcherVariables.getSINGLETON().isTREE_VIEW()) {
+				return size;
+			}
+		}
+		return new Point();
+	}
+
+	public String toString() {
+		if (DesktopSearcherVariables.getSINGLETON().isGUI()) {
+			if (DesktopSearcherVariables.getSINGLETON().isTREE_VIEW()) {
+				return _file_name;
+			}
+		}
+		return "";
+	}
+}

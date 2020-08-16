@@ -1,0 +1,71 @@
+p cnf 13 27 
+c c 1 ATM___
+c c 2 _ATM___
+c c 3 LOGGING___
+c c 4 DEPOSITING___
+c c 5 WITHDRAWING___
+c c 6 BALANCE_INQUIRY___
+c c 7 ADMIN_CONTROL___
+c c 8 USERINTERACTION___
+c c 9 WITHDRAWING_ALL_VALUES___
+c c 10 _USER_INTERFACE___
+c c 11 USER_INTERFACE___
+c c 12 _TERMINAL___
+c c 13 TERMINAL___
+c (ATM___ iff _ATM___)
+c ((not ATM___ or _ATM___) and (not _ATM___ or ATM___))
+c x ((not ATM___ or _ATM___) and (not _ATM___ or ATM___))
+-1 2  0
+-2 1  0
+c ((USERINTERACTION___ iff (_TERMINAL___ or _USER_INTERFACE___)) and atmostone(_TERMINAL___,_USER_INTERFACE___))
+c ((not USERINTERACTION___ or _TERMINAL___ or _USER_INTERFACE___) and ((not _TERMINAL___ and not _USER_INTERFACE___) or USERINTERACTION___) and (not _TERMINAL___ or not _USER_INTERFACE___))
+c x ((not USERINTERACTION___ or _TERMINAL___ or _USER_INTERFACE___) and (not _TERMINAL___ or USERINTERACTION___) and (not _USER_INTERFACE___ or USERINTERACTION___) and (not _TERMINAL___ or not _USER_INTERFACE___))
+-8 12 10  0
+-12 8  0
+-10 8  0
+-12 -10  0
+c (_TERMINAL___ iff TERMINAL___)
+c ((not _TERMINAL___ or TERMINAL___) and (not TERMINAL___ or _TERMINAL___))
+c x ((not _TERMINAL___ or TERMINAL___) and (not TERMINAL___ or _TERMINAL___))
+-12 13  0
+-13 12  0
+c ((LOGGING___) implies (_ATM___) and (DEPOSITING___) implies (_ATM___) and (WITHDRAWING___) implies (_ATM___) and (BALANCE_INQUIRY___) implies (_ATM___) and (ADMIN_CONTROL___) implies (_ATM___) and (USERINTERACTION___) implies (_ATM___) and (WITHDRAWING_ALL_VALUES___) implies (_ATM___))
+c ((not LOGGING___ or _ATM___) and (not DEPOSITING___ or _ATM___) and (not WITHDRAWING___ or _ATM___) and (not BALANCE_INQUIRY___ or _ATM___) and (not ADMIN_CONTROL___ or _ATM___) and (not USERINTERACTION___ or _ATM___) and (not WITHDRAWING_ALL_VALUES___ or _ATM___))
+c x ((not LOGGING___ or _ATM___) and (not DEPOSITING___ or _ATM___) and (not WITHDRAWING___ or _ATM___) and (not BALANCE_INQUIRY___ or _ATM___) and (not ADMIN_CONTROL___ or _ATM___) and (not USERINTERACTION___ or _ATM___) and (not WITHDRAWING_ALL_VALUES___ or _ATM___))
+-3 2  0
+-4 2  0
+-5 2  0
+-6 2  0
+-7 2  0
+-8 2  0
+-9 2  0
+c (_USER_INTERFACE___ iff USER_INTERFACE___)
+c ((not _USER_INTERFACE___ or USER_INTERFACE___) and (not USER_INTERFACE___ or _USER_INTERFACE___))
+c x ((not _USER_INTERFACE___ or USER_INTERFACE___) and (not USER_INTERFACE___ or _USER_INTERFACE___))
+-10 11  0
+-11 10  0
+c (ADMIN_CONTROL___) implies (USER_INTERFACE___)
+c (not ADMIN_CONTROL___ or USER_INTERFACE___)
+c x (not ADMIN_CONTROL___ or USER_INTERFACE___)
+-7 11  0
+c (WITHDRAWING_ALL_VALUES___) implies (USER_INTERFACE___)
+c (not WITHDRAWING_ALL_VALUES___ or USER_INTERFACE___)
+c x (not WITHDRAWING_ALL_VALUES___ or USER_INTERFACE___)
+-9 11  0
+c x ATM___
+1 0
+c x LOGGING___
+3 0
+c x DEPOSITING___
+4 0
+c x WITHDRAWING___
+5 0
+c x BALANCE_INQUIRY___
+6 0
+c x ADMIN_CONTROL___
+7 0
+c x USER_INTERFACE___
+11 0
+c x WITHDRAWING_ALL_VALUES___
+9 0
+

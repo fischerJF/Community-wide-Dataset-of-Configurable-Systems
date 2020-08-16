@@ -1,0 +1,41 @@
+@RELATION unreal
+
+@ATTRIBUTE BASE___ {1, 0}
+@ATTRIBUTE STATES___ {1, 0}
+@ATTRIBUTE UNDO___ {1, 0}
+@ATTRIBUTE COLOR___ {1, 0}
+@ATTRIBUTE SOLVER___ {1, 0}
+@ATTRIBUTE GENERATOR___ {1, 0}
+@ATTRIBUTE EXTENDEDSUDOKU___ {1, 0}
+@ATTRIBUTE RESULT {P, F}
+
+@DATA
+testBestScenario
+1,1,1,1,1,1,?,P
+1,1,0,1,1,1,?,P
+1,1,?,1,0,1,?,F
+1,1,1,0,1,1,?,P
+1,1,0,0,1,1,?,P
+1,1,?,0,0,1,?,F
+1,1,?,?,?,0,?,P
+1,0,1,1,1,1,?,F
+1,0,0,1,1,1,?,F
+1,0,?,1,0,1,?,F
+1,0,1,0,1,1,?,F
+1,0,0,0,1,1,?,F
+1,0,?,0,0,1,?,F
+1,0,?,?,?,0,?,P
+testAverageScenario
+1,1,1,1,1,1,?,P
+1,1,0,1,1,1,?,P
+1,1,1,0,1,1,?,P
+1,1,0,0,1,1,?,P
+1,1,1,1,1,0,?,P
+1,1,0,1,1,0,?,P
+1,1,1,0,1,0,?,P
+1,1,0,0,1,0,?,P
+testWorstScenario
+1,1,1,1,1,1,1,P
+1,1,1,0,1,1,1,P
+1,1,1,1,1,0,1,P
+1,1,1,0,1,0,1,P

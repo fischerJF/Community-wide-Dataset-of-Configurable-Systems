@@ -1,0 +1,3 @@
+configuration,trace,description,class
+featureamp:truebase:truegui:truefilesupport:truevolumecontrol:falseskiptrack:falseremovetrack:falsequeueremove:falsereorderplaylist:falseplaylist:falselight:truesaveandloadplaylist:falsequeuetrack:falsemute:falseprogressbar:falseprogress:trueshowtime:trueplaylistcontrols:falseshowcover:falseloadfolder:falseskiprepeat:falseshufflerepeat:falsewave:truemp3:falseskins:truedark:falseclearplaylist:false,"	at org.fest.swing.exception.ActionFailedException.actionFailure(ActionFailedException.java:33)
+",playWavTest(testset.AppGUITest),Main

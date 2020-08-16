@@ -1,0 +1,10 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+features,UndoAction,class,1,6,2,0,11,0,3,2,0,2,0,1,0,35
+features,Actions,class,0,3,1,0,4,3,3,3,0,0,0,0,0,12
+features,Fonts,class,1,6,6,0,16,0,4,4,0,16,1,1,7,93
+features,About,class,0,1,5,0,3,0,1,1,0,1,0,1,0,19
+features,Print,class,1,11,1,0,14,13,6,6,3,1,0,0,5,47
+features,Center,class,2,4,1,0,8,2,4,4,0,2,0,0,2,24
+features,Notepad,class,0,7,1,0,11,15,1,0,0,1,0,0,3,50
+features,RedoAction,class,1,6,2,0,11,0,3,2,0,2,0,1,0,35
+features,ExampleFileFilter,class,1,39,2,0,15,16,12,12,0,4,0,0,0,255

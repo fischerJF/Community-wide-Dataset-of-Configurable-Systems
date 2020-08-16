@@ -1,0 +1,78 @@
+DIRECTED___
+smashed.CycleWorkSpace.checkNeighborAction(Vertex, Vertex) OK
+
+UNDIRECTED___
+smashed.Graph.addEdge(Vertex, Vertex, int) OK
+smashed.Graph.addEdge(Vertex, Vertex) OK
+
+WEIGHTED___
+smashed.Graph.addAnEdge(Vertex, Vertex, int) OK
+smashed.Graph.addEdge(Vertex, Vertex, int) OK
+smashed.Graph.display() OK
+smashed.Vertex.addWeight(int)	 ok
+smashed.Vertex.adjustAdorns(Vertex, int) ok
+smashed.Vertex.display() ok
+smashed.Vertex.VertexConstructor() ok
+
+SEARCH___
+smashed.Graph.GraphSearch(WorkSpace) ok
+smashed.Graph.nodeSearch(Vertex, WorkSpace) ok
+smashed.Vertex.bftNodeSearch(WorkSpace) ok
+smashed.Vertex.display() ok
+smashed.Vertex.init_vertex(WorkSpace) OK
+smashed.Vertex.VertexConstructor() ok
+
+BFS___
+smashed.Graph.GraphSearch(WorkSpace) ok
+
+NUMBER___
+smashed.Graph.NumberVertices() ok
+smashed.Graph.run(Vertex) ok
+smashed.NumberWorkSpace.NumberWorkSpace() ok 
+smashed.NumberWorkSpace.preVisitAction(Vertex) ok
+smashed.Vertex.display() ok
+
+CONNECTED___
+smashed.Graph.ConnectedComponents() ok
+smashed.Graph.run(Vertex) ok
+smashed.RegionWorkSpace.init_vertex(Vertex) OK
+smashed.RegionWorkSpace.postVisitAction(Vertex) ok 
+smashed.RegionWorkSpace.RegionWorkSpace() ok
+smashed.Vertex.display() ok
+
+STRONGLYCONNECTED___
+smashed.FinishTimeWorkSpace.FinishTimeWorkSpace() OK
+smashed.FinishTimeWorkSpace.postVisitAction(Vertex) OK
+smashed.FinishTimeWorkSpace.preVisitAction(Vertex) OK
+smashed.Graph.run(Vertex) ok
+smashed.Graph.StrongComponents() ok
+smashed.Vertex.display() ok
+smashed.WorkSpaceTranspose.nextRegionAction(Vertex) ok
+smashed.WorkSpaceTranspose.preVisitAction(Vertex) ok
+smashed.WorkSpaceTranspose.WorkSpaceTranspose() ok
+
+CYCLE___
+smashed.CycleWorkSpace.checkNeighborAction(Vertex, Vertex) OK
+smashed.CycleWorkSpace.CycleWorkSpace() OK
+smashed.CycleWorkSpace.init_vertex(Vertex) OK
+smashed.CycleWorkSpace.postVisitAction(Vertex) OK
+smashed.CycleWorkSpace.preVisitAction(Vertex) OK
+smashed.Graph.CycleCheck() OK
+smashed.Graph.run(Vertex) ok
+smashed.Vertex.display() ok
+
+MSTPRIM___
+smashed.Graph.Prim(Vertex) ok
+smashed.Graph.run(Vertex) ok
+smashed.Vertex.display() ok
+
+MSTKRUSKAL___
+smashed.Edge.Edge(Vertex, Vertex, int) ok
+smashed.Graph.Kruskal() ok
+smashed.Graph.run(Vertex) ok
+smashed.Vertex.display() ok
+
+SHORTEST___
+smashed.Graph.run(Vertex) ok
+smashed.Graph.ShortestPath(Vertex)
+smashed.Vertex.display()

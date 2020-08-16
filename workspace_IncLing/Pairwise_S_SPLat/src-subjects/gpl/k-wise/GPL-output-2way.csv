@@ -1,0 +1,16 @@
+# ACTS Test Suite Generation: Thu Apr 28 20:19:59 BRT 2016
+#  '*' represents don't care value 
+# Degree of interaction coverage: 2
+# Number of parameters: 12
+# Maximum number of values per parameter: 2
+# Number of configurations: 9
+DIRECTED___,UNDIRECTED___,WEIGHTED___,SEARCH___,BFS___,NUMBER___,CONNECTED___,STRONGLYCONNECTED___,CYCLE___,MSTPRIM___,MSTKRUSKAL___,SHORTEST___
+true,true,true,false,true,false,true,false,true,true,false,false
+true,false,false,false,false,false,false,true,false,true,false,true
+false,true,false,true,true,true,false,false,false,false,false,true
+false,false,true,true,false,true,true,true,true,false,false,true
+true,true,true,true,false,false,false,true,false,false,true,false
+false,false,false,false,true,true,true,false,false,true,true,false
+true,*,false,true,false,true,false,false,true,true,true,false
+false,*,*,false,*,false,false,false,true,false,true,true
+*,*,*,*,true,*,*,true,true,true,true,true

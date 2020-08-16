@@ -1,0 +1,22 @@
+p cnf 4 7 
+c c 1 TELECON___
+c c 2 _TELECON___
+c c 3 HISTORIC___
+c c 4 TIMING___
+c (TELECON___ iff _TELECON___)
+c ((not TELECON___ or _TELECON___) and (not _TELECON___ or TELECON___))
+c x ((not TELECON___ or _TELECON___) and (not _TELECON___ or TELECON___))
+-1 2  0
+-2 1  0
+c ((HISTORIC___) implies (_TELECON___) and (TIMING___) implies (_TELECON___))
+c ((not HISTORIC___ or _TELECON___) and (not TIMING___ or _TELECON___))
+c x ((not HISTORIC___ or _TELECON___) and (not TIMING___ or _TELECON___))
+-3 2  0
+-4 2  0
+c x TELECON___
+1 0
+c x TIMING___
+4 0
+c x HISTORIC___
+3 0
+

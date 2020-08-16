@@ -1,0 +1,56 @@
+226 : VertexTest_testAdJustAdorns
+java.lang.AssertionError
+RULE TO ADD: (WEIGHTED___ or SEARCH___)
+REPAIR:
+@Test
+  public void VertexTest_testAdJustAdorns() {
+  + Assume.assumeTrue(GPLVariables.isWEIGHTED());
+    first.assignName("A"); first.addWeight(5);
+    Vertex second = new Vertex();
+    second.assignName("B"); second.addWeight(3); 
+    first.adjustAdorns(second, 0);
+    Assert.assertTrue(first.weightsList.contains(3));
+  }
+==========================================================================================
+227 : test_ComputeTranspose
+java.util.NoSuchElementException
+RULE TO ADD: (WEIGHTED___ or SEARCH___)
+REPAIR:
+@Test
+  public void test_ComputeTranspose() { //code...
+     Graph graph = g.ComputeTranspose(g);
+     Vertex result = (Vertex) graph.vertices.getFirst();
+     result = (Vertex) result.adjacentVertices.getFirst();
+     assertEquals(v4.name, result.name);
+   + Assume.assumeTrue(GPLVariables.isWEIGHTED());
+     assertEquals(3, result.weightsList.getFirst());
+  }
+==========================================================================================
+228 : test_StrongComponents
+org.junit.ComparisonFailure: expected:<[C]> but was:<[D]>
+RULE TO ADD: (not BFS -> SEARCH)
+REPAIR:
+@Test
+  public void test_StrongComponents() {
+    Graph graph = g.StrongComponents();
+    Vertex result = (Vertex) graph.vertices.getFirst();
+    result = (Vertex) result.adjacentVertices.getFirst();
+  - assertEquals(v3.name, result.name);
+  + assertEquals(GPLVariables.isBFS()?v3.name:v4.name, result.name);
+}
+==========================================================================================
+229 : t05
+java.lang.AssertionError
+REPAIR:
+@Test
+  public void t05() {
+  + Assume.assumeTrue(GPLVariables.isCYCLE___()
+        || GPLVariables.isSTRONGLYCONNECTED___()
+        || GPLVariables.isCONNECTED___()
+        || GPLVariables.isNUMBER___());
+    Graph g = new Graph();
+    //code ...
+    g.run(rt);
+    Assert.assertTrue(v3.visited);
+}
+==========================================================================================

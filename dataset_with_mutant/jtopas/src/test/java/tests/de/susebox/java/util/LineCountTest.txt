@@ -1,0 +1,31 @@
+0/0
+/*
+ * This file contains a test pattern for testing line and column
+ * counting in the Tokenizer implementations.
+ * It contains:
+ *    - block comments like Java and C
+ *    - line comments like Java and C
+ *    - the default whitespaces
+ *    - the default separators
+ *    - normal tokens of the form: <lineno>/<colno>
+ * Note that line and column counting starts with 0, unlike most 
+ * editors will display.
+ * See TestInputStreamTokenizer.java, Tokenizer.Java for details.
+ */
+
+15/0 15/5 15/10
+
+// this is a line comment
+18/0 18/5 18/10
+19/0 19/5 /* a block comment to disturb the tokenizer ;-) */ 19/61
+
+/*
+ * another block comment
+ */
+    24/4  24/10  24/17
+
+// a line comment
+// with more lines
+// to follow
+29/0      29/10     29/20     29/30
+

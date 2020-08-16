@@ -1,0 +1,106 @@
+p cnf 19 38 
+c c 1 MINEPUMPPL___
+c c 2 _MINEPUMPPL___
+c c 3 BASE___
+c c 4 _BASE___
+c c 5 Command
+c c 6 WaterSensor
+c c 7 methane
+c c 8 _STARTCOMMAND___
+c c 9 STARTCOMMAND___
+c c 10 _STOPCOMMAND___
+c c 11 STOPCOMMAND___
+c c 12 _HIGHWATERSENSOR___
+c c 13 HIGHWATERSENSOR___
+c c 14 _LOWWATERSENSOR___
+c c 15 LOWWATERSENSOR___
+c c 16 _METHANEQUERY___
+c c 17 METHANEQUERY___
+c c 18 _METHANEALARM___
+c c 19 METHANEALARM___
+c (WaterSensor iff (_LOWWATERSENSOR___ or _HIGHWATERSENSOR___))
+c ((not WaterSensor or _LOWWATERSENSOR___ or _HIGHWATERSENSOR___) and ((not _LOWWATERSENSOR___ and not _HIGHWATERSENSOR___) or WaterSensor))
+c x ((not WaterSensor or _LOWWATERSENSOR___ or _HIGHWATERSENSOR___) and (not _LOWWATERSENSOR___ or WaterSensor) and (not _HIGHWATERSENSOR___ or WaterSensor))
+-6 14 12  0
+-14 6  0
+-12 6  0
+c (Command iff (_STOPCOMMAND___ or _STARTCOMMAND___))
+c ((not Command or _STOPCOMMAND___ or _STARTCOMMAND___) and ((not _STOPCOMMAND___ and not _STARTCOMMAND___) or Command))
+c x ((not Command or _STOPCOMMAND___ or _STARTCOMMAND___) and (not _STOPCOMMAND___ or Command) and (not _STARTCOMMAND___ or Command))
+-5 10 8  0
+-10 5  0
+-8 5  0
+c (BASE___ iff _BASE___)
+c ((not BASE___ or _BASE___) and (not _BASE___ or BASE___))
+c x ((not BASE___ or _BASE___) and (not _BASE___ or BASE___))
+-3 4  0
+-4 3  0
+c (MINEPUMPPL___ iff _MINEPUMPPL___)
+c ((not MINEPUMPPL___ or _MINEPUMPPL___) and (not _MINEPUMPPL___ or MINEPUMPPL___))
+c x ((not MINEPUMPPL___ or _MINEPUMPPL___) and (not _MINEPUMPPL___ or MINEPUMPPL___))
+-1 2  0
+-2 1  0
+c (methane iff (_METHANEALARM___ or _METHANEQUERY___))
+c ((not methane or _METHANEALARM___ or _METHANEQUERY___) and ((not _METHANEALARM___ and not _METHANEQUERY___) or methane))
+c x ((not methane or _METHANEALARM___ or _METHANEQUERY___) and (not _METHANEALARM___ or methane) and (not _METHANEQUERY___ or methane))
+-7 18 16  0
+-18 7  0
+-16 7  0
+c (_STOPCOMMAND___ iff STOPCOMMAND___)
+c ((not _STOPCOMMAND___ or STOPCOMMAND___) and (not STOPCOMMAND___ or _STOPCOMMAND___))
+c x ((not _STOPCOMMAND___ or STOPCOMMAND___) and (not STOPCOMMAND___ or _STOPCOMMAND___))
+-10 11  0
+-11 10  0
+c (_HIGHWATERSENSOR___ iff HIGHWATERSENSOR___)
+c ((not _HIGHWATERSENSOR___ or HIGHWATERSENSOR___) and (not HIGHWATERSENSOR___ or _HIGHWATERSENSOR___))
+c x ((not _HIGHWATERSENSOR___ or HIGHWATERSENSOR___) and (not HIGHWATERSENSOR___ or _HIGHWATERSENSOR___))
+-12 13  0
+-13 12  0
+c (_METHANEALARM___ iff METHANEALARM___)
+c ((not _METHANEALARM___ or METHANEALARM___) and (not METHANEALARM___ or _METHANEALARM___))
+c x ((not _METHANEALARM___ or METHANEALARM___) and (not METHANEALARM___ or _METHANEALARM___))
+-18 19  0
+-19 18  0
+c (_LOWWATERSENSOR___ iff LOWWATERSENSOR___)
+c ((not _LOWWATERSENSOR___ or LOWWATERSENSOR___) and (not LOWWATERSENSOR___ or _LOWWATERSENSOR___))
+c x ((not _LOWWATERSENSOR___ or LOWWATERSENSOR___) and (not LOWWATERSENSOR___ or _LOWWATERSENSOR___))
+-14 15  0
+-15 14  0
+c (_MINEPUMPPL___ iff BASE___)
+c ((not _MINEPUMPPL___ or BASE___) and (not BASE___ or _MINEPUMPPL___))
+c x ((not _MINEPUMPPL___ or BASE___) and (not BASE___ or _MINEPUMPPL___))
+-2 3  0
+-3 2  0
+c ((Command) implies (_BASE___) and (WaterSensor) implies (_BASE___) and (methane) implies (_BASE___))
+c ((not Command or _BASE___) and (not WaterSensor or _BASE___) and (not methane or _BASE___))
+c x ((not Command or _BASE___) and (not WaterSensor or _BASE___) and (not methane or _BASE___))
+-5 4  0
+-6 4  0
+-7 4  0
+c (_METHANEQUERY___ iff METHANEQUERY___)
+c ((not _METHANEQUERY___ or METHANEQUERY___) and (not METHANEQUERY___ or _METHANEQUERY___))
+c x ((not _METHANEQUERY___ or METHANEQUERY___) and (not METHANEQUERY___ or _METHANEQUERY___))
+-16 17  0
+-17 16  0
+c (_STARTCOMMAND___ iff STARTCOMMAND___)
+c ((not _STARTCOMMAND___ or STARTCOMMAND___) and (not STARTCOMMAND___ or _STARTCOMMAND___))
+c x ((not _STARTCOMMAND___ or STARTCOMMAND___) and (not STARTCOMMAND___ or _STARTCOMMAND___))
+-8 9  0
+-9 8  0
+c x MINEPUMPPL___
+1 0
+c x BASE___
+3 0
+c x HIGHWATERSENSOR___
+13 0
+c x LOWWATERSENSOR___
+15 0
+c x METHANEQUERY___
+17 0
+c x METHANEALARM___
+19 0
+c x STOPCOMMAND___
+11 0
+c x STARTCOMMAND___
+9 0
+

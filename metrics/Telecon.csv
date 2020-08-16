@@ -1,0 +1,12 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc,
+src,telecom.Timer,class,0,3,1,0,1,0,3,3,0,1,1,0,2,26,
+src,telecom.LongDistance,class,2,1,2,0,1,0,1,1,0,0,0,0,0,8,
+src,specifications.Configuration,class,0,0,1,0,0,0,0,0,0,2,2,2,0,116,
+src,telecom.Call,class,5,13,1,0,11,0,8,8,0,2,0,0,0,77,
+src,telecom.Customer,class,2,19,1,0,10,44,13,11,0,4,0,0,3,104,
+src,telecom.Historic,class,0,4,1,0,4,0,3,3,3,1,0,1,0,17,6
+src,telecom.Local,class,2,1,2,0,1,0,1,1,0,0,0,0,0,8,
+src,specifications.SpecificationException,class,0,2,4,0,0,0,2,2,0,1,0,0,0,11,
+src,telecom.Connection,class,2,8,1,2,5,0,8,5,0,6,3,3,0,65,
+src,telecom.AbstractSimulation,class,1,9,1,1,3,6,4,1,2,0,0,0,2,35,
+src,telecom.BasicSimulation,class,3,4,2,0,9,1,2,1,0,0,0,0,10,55,

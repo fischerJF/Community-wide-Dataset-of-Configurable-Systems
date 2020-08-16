@@ -1,0 +1,109 @@
+p cnf 15 51 
+c c 1 ZIPME___
+c c 2 _ZipMe
+c c 3 BASE___
+c c 4 COMPRESS___
+c c 5 GZIP___
+c c 6 EXTRACT___
+c c 7 ARCHIVECHECK___
+c c 8 CRC___
+c c 9 ADLER32CHECKSUM___
+c c 10 DERIVATIVE_COMPRESS_ADLER32CHECKSUM___
+c c 11 DERIVATIVE_COMPRESS_CRC___
+c c 12 DERIVATIVE_COMPRESS_GZIP___
+c c 13 DERIVATIVE_COMPRESS_GZIPCRC___
+c c 14 DERIVATIVE_EXTRACT_CRC___
+c c 15 DERIVATIVE_GZIPCRC___
+c (ZIPME___ iff _ZipMe)
+c ((not ZIPME___ or _ZipMe) and (not _ZipMe or ZIPME___))
+c x ((not ZIPME___ or _ZipMe) and (not _ZipMe or ZIPME___))
+-1 2  0
+-2 1  0
+c ((_ZipMe iff BASE___) and (_ZipMe iff COMPRESS___) and (GZIP___) implies (_ZipMe) and (EXTRACT___) implies (_ZipMe) and (ARCHIVECHECK___) implies (_ZipMe) and (CRC___) implies (_ZipMe) and (ADLER32CHECKSUM___) implies (_ZipMe) and (DERIVATIVE_COMPRESS_ADLER32CHECKSUM___) implies (_ZipMe) and (DERIVATIVE_COMPRESS_CRC___) implies (_ZipMe) and (DERIVATIVE_COMPRESS_GZIP___) implies (_ZipMe) and (DERIVATIVE_COMPRESS_GZIPCRC___) implies (_ZipMe) and (DERIVATIVE_EXTRACT_CRC___) implies (_ZipMe) and (DERIVATIVE_GZIPCRC___) implies (_ZipMe))
+c ((not _ZipMe or BASE___) and (not BASE___ or _ZipMe) and (not _ZipMe or COMPRESS___) and (not COMPRESS___ or _ZipMe) and (not GZIP___ or _ZipMe) and (not EXTRACT___ or _ZipMe) and (not ARCHIVECHECK___ or _ZipMe) and (not CRC___ or _ZipMe) and (not ADLER32CHECKSUM___ or _ZipMe) and (not DERIVATIVE_COMPRESS_ADLER32CHECKSUM___ or _ZipMe) and (not DERIVATIVE_COMPRESS_CRC___ or _ZipMe) and (not DERIVATIVE_COMPRESS_GZIP___ or _ZipMe) and (not DERIVATIVE_COMPRESS_GZIPCRC___ or _ZipMe) and (not DERIVATIVE_EXTRACT_CRC___ or _ZipMe) and (not DERIVATIVE_GZIPCRC___ or _ZipMe))
+c x ((not _ZipMe or BASE___) and (not BASE___ or _ZipMe) and (not _ZipMe or COMPRESS___) and (not COMPRESS___ or _ZipMe) and (not GZIP___ or _ZipMe) and (not EXTRACT___ or _ZipMe) and (not ARCHIVECHECK___ or _ZipMe) and (not CRC___ or _ZipMe) and (not ADLER32CHECKSUM___ or _ZipMe) and (not DERIVATIVE_COMPRESS_ADLER32CHECKSUM___ or _ZipMe) and (not DERIVATIVE_COMPRESS_CRC___ or _ZipMe) and (not DERIVATIVE_COMPRESS_GZIP___ or _ZipMe) and (not DERIVATIVE_COMPRESS_GZIPCRC___ or _ZipMe) and (not DERIVATIVE_EXTRACT_CRC___ or _ZipMe) and (not DERIVATIVE_GZIPCRC___ or _ZipMe))
+-2 3  0
+-3 2  0
+-2 4  0
+-4 2  0
+-5 2  0
+-6 2  0
+-7 2  0
+-8 2  0
+-9 2  0
+-10 2  0
+-11 2  0
+-12 2  0
+-13 2  0
+-14 2  0
+-15 2  0
+c (GZIP___) implies (CRC___)
+c (not GZIP___ or CRC___)
+c x (not GZIP___ or CRC___)
+-5 8  0
+c ((COMPRESS___ and ADLER32CHECKSUM___) iff DERIVATIVE_COMPRESS_ADLER32CHECKSUM___)
+c ((not COMPRESS___ or not ADLER32CHECKSUM___ or DERIVATIVE_COMPRESS_ADLER32CHECKSUM___) and (not DERIVATIVE_COMPRESS_ADLER32CHECKSUM___ or (COMPRESS___ and ADLER32CHECKSUM___)))
+c x ((not COMPRESS___ or not ADLER32CHECKSUM___ or DERIVATIVE_COMPRESS_ADLER32CHECKSUM___) and (not DERIVATIVE_COMPRESS_ADLER32CHECKSUM___ or COMPRESS___) and (not DERIVATIVE_COMPRESS_ADLER32CHECKSUM___ or ADLER32CHECKSUM___))
+-4 -9 10  0
+-10 4  0
+-10 9  0
+c ((COMPRESS___ and CRC___) iff DERIVATIVE_COMPRESS_CRC___)
+c ((not COMPRESS___ or not CRC___ or DERIVATIVE_COMPRESS_CRC___) and (not DERIVATIVE_COMPRESS_CRC___ or (COMPRESS___ and CRC___)))
+c x ((not COMPRESS___ or not CRC___ or DERIVATIVE_COMPRESS_CRC___) and (not DERIVATIVE_COMPRESS_CRC___ or COMPRESS___) and (not DERIVATIVE_COMPRESS_CRC___ or CRC___))
+-4 -8 11  0
+-11 4  0
+-11 8  0
+c ((COMPRESS___ and GZIP___) iff DERIVATIVE_COMPRESS_GZIP___)
+c ((not COMPRESS___ or not GZIP___ or DERIVATIVE_COMPRESS_GZIP___) and (not DERIVATIVE_COMPRESS_GZIP___ or (COMPRESS___ and GZIP___)))
+c x ((not COMPRESS___ or not GZIP___ or DERIVATIVE_COMPRESS_GZIP___) and (not DERIVATIVE_COMPRESS_GZIP___ or COMPRESS___) and (not DERIVATIVE_COMPRESS_GZIP___ or GZIP___))
+-4 -5 12  0
+-12 4  0
+-12 5  0
+c ((COMPRESS___ and GZIP___ and CRC___) iff DERIVATIVE_COMPRESS_GZIPCRC___)
+c ((not COMPRESS___ or not GZIP___ or not CRC___ or DERIVATIVE_COMPRESS_GZIPCRC___) and (not DERIVATIVE_COMPRESS_GZIPCRC___ or (COMPRESS___ and GZIP___ and CRC___)))
+c x ((not COMPRESS___ or not GZIP___ or not CRC___ or DERIVATIVE_COMPRESS_GZIPCRC___) and (not DERIVATIVE_COMPRESS_GZIPCRC___ or COMPRESS___) and (not DERIVATIVE_COMPRESS_GZIPCRC___ or GZIP___) and (not DERIVATIVE_COMPRESS_GZIPCRC___ or CRC___))
+-4 -5 -8 13  0
+-13 4  0
+-13 5  0
+-13 8  0
+c ((EXTRACT___ and CRC___) iff DERIVATIVE_EXTRACT_CRC___)
+c ((not EXTRACT___ or not CRC___ or DERIVATIVE_EXTRACT_CRC___) and (not DERIVATIVE_EXTRACT_CRC___ or (EXTRACT___ and CRC___)))
+c x ((not EXTRACT___ or not CRC___ or DERIVATIVE_EXTRACT_CRC___) and (not DERIVATIVE_EXTRACT_CRC___ or EXTRACT___) and (not DERIVATIVE_EXTRACT_CRC___ or CRC___))
+-6 -8 14  0
+-14 6  0
+-14 8  0
+c ((GZIP___ and CRC___) iff DERIVATIVE_GZIPCRC___)
+c ((not GZIP___ or not CRC___ or DERIVATIVE_GZIPCRC___) and (not DERIVATIVE_GZIPCRC___ or (GZIP___ and CRC___)))
+c x ((not GZIP___ or not CRC___ or DERIVATIVE_GZIPCRC___) and (not DERIVATIVE_GZIPCRC___ or GZIP___) and (not DERIVATIVE_GZIPCRC___ or CRC___))
+-5 -8 15  0
+-15 5  0
+-15 8  0
+c x ZIPME___
+1 0
+c x BASE___
+3 0
+c x COMPRESS___
+4 0
+c x GZIP___
+5 0
+c x EXTRACT___
+6 0
+c x ARCHIVECHECK___
+7 0
+c x CRC___
+8 0
+c x ADLER32CHECKSUM___
+9 0
+c x DERIVATIVE_COMPRESS_ADLER32CHECKSUM___
+10 0
+c x DERIVATIVE_COMPRESS_CRC___
+11 0
+c x DERIVATIVE_COMPRESS_GZIP___
+12 0
+c x DERIVATIVE_COMPRESS_GZIPCRC___
+13 0
+c x DERIVATIVE_EXTRACT_CRC___
+14 0
+c x DERIVATIVE_COMPRESS_GZIPCRC___
+13 0
+

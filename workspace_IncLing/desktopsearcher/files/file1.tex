@@ -1,0 +1,299 @@
+\section{Introduction}
+
+% SPLs are ...
+Software product lines (SPLs) have been attracting an increasing
+attention as an approach to improve software development and
+maintenance~\cite{cmu-sei-website, software-product-line-engineering}.
+An SPL is a family of related products, where each product is defined
+by its specific combination of \emph{features} that represent
+increments in functionality.  SPLs are commonly constructed using
+\emph{feature variables}, which are boolean variables that guard the
+inclusion of the functionality of the corresponding feature (in the
+spirit of \CodeIn{ifdef} preprocessing
+directives)~\cite{ahead-tool-suite, czarnecki-2000}---~setting and
+unsetting feature variables allows constructing desired
+products.\Comment{
+% from Darko: it's better *not* to talk about this because we have no
+% evaluation from Groupon or any other configurable system; so we'll
+% be just SPL-specific
+Thus, SPLs are a specific form of \emph{configurable systems}, which
+have a fixed set of configuration \emph{parameters} (which are feature
+variables for SPLs) that take values over finite domains (boolean for
+SPLs), and initializing these parameters initializes the system state.
+Such configurable systems are common in modern websites.  For example,
+the \CodeIn{groupon.com} website has over \GrouponFeaturesNum{}
+boolean configuration parameters and can, in principle, be deployed in
+over $2^{\GrouponFeaturesNum{}}$ configurations.}
+
+% SPLs are important ... % we could add text if we need to fill space!
+
+% Feature models are ...
+\emph{Feature models} formally capture dependencies among
+features, i.e., they encode which combinations of features are \consistent{}
+and which combinations of features are not.  If an SPL has $N$
+(boolean) features, there are $2^N$ possible combinations, which we
+also refer to as \emph{configurations}.  We call a feature model
+\emph{\complete} if it assigns a \consistent{} or \inconsistent{} label to each of the
+($2^N$) combinations.  In contrast, a feature model is
+\emph{\incomplete} if it assigns an ``unknown'' label to some
+combination; in the limit, a feature model is \emph{empty} if it
+assigns an ``unknown'' label to all ($2^N$) combinations.\don{The last
+  part of this paragraph is a bit strange.  A feature model that maps
+  all combinations to unknowns seems useless. You need to specify or
+  define ``complete'' and ``incomplete'' precisely} Formally, an
+\incomplete{} feature model is a function from feature combinations to
+the set $\{C,I,U\}$ (for \consistent{}, \inconsistent{}, and unknown combinations).
+
+\Comment{
+% from Darko: I don't know if this text was copied from somewhere
+% (SPLat paper?!), so I'm not going to reuse any of this.  Please do
+% not copy text from anywhere; we may end up with exact some text
+% simply by naturally making our changes :), but we should *not* copy.
+Testing product lines with many feature variables\Comment{ or configurable
+systems with many configuration parameters} is particularly challenging
+because each test needs to be run against potentially a combinatorial
+number of products or configurations\footnote{For ease of exposition,
+  we use the terms product line and configurable system
+  interchangeably.}.  Fortunately, in practice, features often have
+dependencies, termed \emph{feature models}, which constrain values of
+feature variables and render only a subset of products as
+\emph{\consistent{}}, thereby reducing the number of products a test needs to
+be run against.  Unfortunately however, precise and complete feature
+models may not be available in a formal language and thus a testing
+technique may not be able to utilize them.  For example, the
+\CodeIn{groupon.com} codebase has \GrouponFeaturesNum{} tests but no
+formal feature model.
+}
+
+% There has been a lot of recent work on testing SPLs...
+There has been a lot of recent research on testing
+SPLs~\cite{kim-etal-fse2013, dagstuhl-seminar-spl-analysis-2013,
+apel-icse2013, shi-etal-fase2012, charles-etal-icse2012,
+kim-etal-issre2012, hwan-aosd-2011, Garvin-issre2011,
+DBLP:conf/splc/CabralCR10}.
+Testing an SPL systematically is a
+challenging problem because it requires running a test suite against a
+combinatorial number of products.  Feature models can, in principle,
+play a key role in addressing this problem by (1)~reducing the space
+of products to test and (2)~allowing accurate categorization of
+failing tests as failures of the corresponding products or the tests
+themselves, not as failures due to \inconsistent{} combinations of features.
+However, \emph{all} cited prior work on testing SPLs assumes that the
+system under test comes with a \complete{}, formally specified feature
+model; the work focused on speeding up testing in such cases.
+
+In practice, unfortunately, the case of \incomplete{} feature models
+is common as most systems lack a \complete, formally specified feature
+model.  Without a \complete{} feature model, existing techniques can
+generate false alarms, where a test fails for some feature combination
+because the combination is \inconsistent{}, not because the test code or the
+code under test is buggy.  Indeed, the absence of a \complete{}
+feature model presents a basic problem for testing an SPL: a test
+failure does not necessarily indicate a fault in the product under
+test because the test itself may be erroneous or the product it tests
+may simply be \inconsistent{}, i.e., disallowed by the feature model that is
+not fully available.
+
+To illustrate\Comment{ on a specific practical example}, partial motivation for
+this work stems from the project~\cite{kim-etal-fse2013} we performed
+on the Groupon codebase\footnote{Unfortunately, we have no access to
+the Groupon codebase any more since Darko Marinov finished his visit
+to Groupon a few months ago.}.  Groupon had over \GrouponTestsNum{}
+tests for its main web application.  Most of those tests were written
+to work for only one configuration (most often the default reference
+system configuration that assigns certain concrete values---true or
+false---to each of the over \GrouponFeaturesNum{} boolean features).
+We realized that there could be a lot of value in running those tests
+on other configurations, even if the tests were not written for those
+configurations.  Indeed, using SPLat~\cite{kim-etal-fse2013} we ran
+these tests\Comment{ on a total of over \Fix{40K} configurations and got over
+\Fix{4K} test failures} and executed tens of thousands configurations
+with several thousands failures.  However, Groupon had no formal feature model,
+so we could not easily tell if these failures were due to \inconsistent{}
+combinations of features or due to \consistent{} combinations of features that
+revealed some real problems with tests or code.  \Comment{There was no formal
+feature model due to the difficulty of maintaining it when software
+quickly evolves as is common for web applications.}\don{I'm not sure
+about the last statement: please remove.}\divya{Done.}
+
+% There has been also work on inferring feature models...
+% We should sprinkle here that this is a hard and challening problem,
+% and no one solves it fully automatically, so it's okay that we do
+% something manual later on.
+There has been also recent research on inferring/extracting feature models
+from various software artifacts~\cite{she-etal-icse2011,
+alves-splc-2008, davril-etal-fse2013, haslinger-etal-fase2013,
+andersen-etal-splc2012, lopes-herrejon-etal-ssbse2012, acher-vamos2012,
+weston-splc2009, czarnecki-wasowski-splc2007}.  For example,
+She~\etal{}~\cite{she-etal-icse2011} use a static analysis to extract
+feature dependencies from code, make files, comments, and
+documentation.  The technique is not fully automatic; the user needs
+to select, for each feature, its feature parent from a list of options
+provided by the infrastructure.  Alves~\etal{}~\cite{alves-splc-2008}
+and Davril~\etal{}~\cite{davril-etal-fse2013} use information
+retrieval and data mining.  Alves~\etal{}~\cite{alves-splc-2008} and
+Haslinger~\etal{}~\cite{haslinger-etal-fase2013} assume that the user
+provides a list of \emph{all} \consistent{} configurations.
+Lopez-Herrejon~\etal{}~\cite{lopes-herrejon-etal-ssbse2012} use
+evolutionary search.
+% what do these ``evolutionarist'' take as input?!
+However, \emph{no} cited prior work on inferring feature models
+exploits tests and their executions.\don{$\Leftarrow$Strange organization--this is
+  related work or should be in related work section.}
+
+This paper bridges the gap between (1)~testing SPLs requiring
+\complete{} feature models and (2)~inferring feature models not using
+information from tests.\divya{shouldn't the second point be \emph{inferring feature models Using
+information from tests}}  We introduce
+\emph{\tname}\Comment{\footnote{\underline{SPL} testing from
+\underline{i}ncomplete \underline{f}eature models}}, a novel technique for
+more effective testing of SPLs that does not require a priori availability of
+\complete{} feature models.  To the best of our knowledge, this is the
+first such technique.  Our key insight is that by running each test
+from a given test suite against many products we can utilize the
+information from failing and passing runs to help developers
+prioritize their inspection of failures to accurately distinguish
+failures in code (including tests) from failures due to \inconsistent{}
+combinations of features.
+
+\don{My writing style comment: too much for an introduction.}In brief,
+\tname{} proceeds as follows.  Given a suite of product line tests,
+\tname{} first uses dynamic reachability analysis to run each test
+against several products, following our recently proposed SPLat
+technique~\cite{kim-etal-fse2013}.  Next, \tname{} ranks the failing tests
+ according to their likelihood of indicating a product
+failure as opposed to\Comment{vs.} an \inconsistent{} configuration.  Finally, \tname{} ranks the
+configurations according to their likelihood of being \consistent{}
+configurations of features.  The user can then inspect the ranked
+configurations and tests (1)~to determine whether the test failures
+are due to \inconsistent{} configurations or bugs in the SPL code or tests (in
+which case the code and tests can be updated) and (2)~to update the
+feature model to make it more \complete.  \tname{} can then reuse the
+new information to rerank the tests and configurations for further
+inspection.
+
+In sum, this paper makes the following contributions:
+
+%\newenvironment{Contributions}{\begin{itemize}}{\end{itemize}}
+%\newcommand{\Contribution}[1]{\item \textbf{#1:}}
+
+\newenvironment{Contributions}{}{}
+\newcommand{\Contribution}[1]{\vspace{0.5em}\noindent$\bullet$\hspace{0.5em}\textbf{#1:}}
+
+\begin{Contributions}
+\setlength{\itemsep}{1pt}
+\setlength{\parskip}{0pt}
+\setlength{\parsep}{0pt}
+
+\Contribution{Technique} We present \tname, the first approach that
+synergistically exploits tests and \incomplete{} feature models (in
+the limit, starting from \Empty{} feature models) to help users both
+(1)~\Comment{prioritize inspection of failing test runs}\divya{quickly identify test failures caused by real faults in product code distinguishing them from those caused by inconsistent configurations} and (2)~build a more
+\complete{} feature model.\don{Notion of an incomplete feature model
+  is novel in itself. Explain how it is represented and how it works.
+  This is not clear me.}
+
+\Contribution{Implementation} We have implemented our \tname{}
+technique for Java SPLs.  Our implementation builds on our SPLat
+code~\cite{kim-etal-fse2013, SPLatWebSite} for exploring SPL tests on
+various reachable configurations.
+
+\Contribution{Evaluation} We have evaluated \tname{} on \numsubjects{} SPLs.
+The experimental results demonstrate the utility of \tname{} in
+automating testing of product lines with \incomplete{} feature models.
+
+\end{Contributions}
+
+\Comment{
+%% \mar{Sabrina, could you please inform (from Darko: what does ``inform'' mean in Brazilian Portguese?!) pages from C. Pohl's book on
+%%   different strategies for writing tests for SPLs. Are we assuming
+%%   some strategy in particular?}  \sab{The pages: 271 to 281. If I
+%%   understood well, our tests (made for one product) fits on the second
+%%   strategy: Pure application strategy}
+In contrast to single-system, testing activities in product line have
+to consider product line variability. So, Pohl \etal{}~\cite{software-product-line-engineering}
+define four test strategies to deal with variability:
+\begin{enumerate}
+
+\item \textbf{Brute Fore Strategy}: takes into account all products for
+create and perform tests. In this case, tests cannot have "assume" and
+"assert", because tests have to run for all \consistent{} configurations;
+
+\item \textbf{Pure Application Strategy}: just consider one product
+(application) and only product-specific tests are created. In this case,
+the test must have "assume" because it is specific for a configuration,
+and It cannot have "assert", because it is already specific for a assumed
+configuration, it is not expected It works for other configurations;
+
+\item \textbf{Sample Application Strategy}: uses one or a few sample
+products to test, and the tests are specific for these products. In this
+case, the test must have "assume" because it is specific for a set of
+configurations, and It also must have "assert", because it is expected
+that it works for the assumed set of configurations;
+
+\item \textbf{Commonality and Reuse Strategy}: aims at reuse tests for
+common parts and prepare tests for variable parts. In the SPL code we have
+part of the code that is common for all products (commonality) and other
+parts that vary according to the feature it belongs to. So, this strategy
+proposes to reuse tests for the common parts and create specific tests for
+variable parts. In this case, tests are not focusing in configurations, but
+in commonalities and variabilities. So, for commonalities, tests cannot have
+"assume" and "assert", because behavior is general for all products. And, for
+variabilities, tests must have "assume" and "assert", because behaviors are
+related to features.
+
+\end{enumerate}
+%% The authors point that those strategies should be used in combination, and they
+%% consider the combination of (3) and (4) to be the best.
+}
+
+%% \mar{What do we want to do with feature models (FMs)?  Are we going to
+%%   motivate the need of FMs as in other papers?  For example, to help
+%%   understanding, find contradiction between code and spec, and support
+%%   product generation? Or the users do not need to be aware of the FMs
+%%   we extract?} We have recently proposed
+%% \splat{}~\cite{kim-etal-fse2013}, a technique to execute a test case
+%% against\Comment{ all} dynamically reachable system configurations.
+%% Although experimental results indicate that \splat{} is promising in
+%% its purpose of reducing execution costs, \splat{} assumes that the
+%% test case is adequate for all configurations it can reach.
+%% Unfortunately, that is a strong assumption in practice.  A test run
+%% can fail for a configuration $c$ for the following reasons:
+
+%% %%\begin{enumerate}[(i)]\itemsep1pt
+%% \begin{enumerate}
+
+%% \item Configuration $c$ is \inconsistent{}; results are unpredictable.  It is
+%%   not possible to reject configurations of this kind under the
+%%   scenario where feature models are not documented.
+
+%% \item The configuration $c$ is \consistent{}.  Two alternatives:
+
+%%   \begin{itemize}\itemsep-1pt
+%%   \item The test fails because it is not general enough to run on $c$.
+%%     For example, it is necessary to assert that some specific feature
+%%     is required and/or to specialize or generalize assertions and
+%%     parts of the test sequence.
+%%   \item The test fails because there is a bug in the
+%%     system.
+%%   \end{itemize}
+
+%% \end{enumerate}
+
+%% This paper presents a technique that enables the tester to rule out
+%% option ``i''.\mar{are we going to say that our technique adds
+%%   precondition checks to existing tests?}  Consequently, in the
+%% presence of a failure report, she needs to decide only between two
+%% alternatives: the test indeed reveals a bug or it needs
+%% repair.\Comment{ \sab{what kind of repair?}\mar{it is mentioned in the
+%%     bulleted list.  please check.}}  Our technique distinguishes
+%% option ``i'' by automatically discovering an approximated model that
+%% characterizes \consistent{} system configurations.  It learns such model from
+%% a sample of test runs and only reports to the user failures that are
+%% due to likely \consistent{} configurations.  \mar{novelty in comparison to
+%%   previous work...}
+
+% LocalWords:  Groupon codebase pre Pohl's SPLs SPL combinations boolean Alves
+% LocalWords:  combinatorial Davril Haslinger Herrejon ncomplete eature priori
+% LocalWords:  reachability SPLat rerank synergistically groupon Pohl ifdef
+% LocalWords:  variabilities preprocessing unsetting Darko Marinov

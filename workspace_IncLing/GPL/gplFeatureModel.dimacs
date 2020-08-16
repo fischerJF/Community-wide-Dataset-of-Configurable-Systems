@@ -1,0 +1,41 @@
+c 1 base 
+c 2 DIRECTED
+c 3 UNDIRECTED 
+c 4 WEIGHTED
+c 5 SEARCH
+c 6 BFS
+c 7 NUMBER 
+c 8 CONNECTED
+c 9 STRONGLYCONNECTED
+c 10 CYCLE
+c 11 MSTPRIM
+c 12 MSTKRUSKAL
+c 13 SHORTEST
+c 14 DFS
+p cnf 14 26
+5 -6 0
+5 -14 0
+-6 -14 0
+6 14 -5 0
+2 3 0
+-2 -3 0
+-7 5 -6 0
+-7 5 -14 0
+-7 -6 -14 0
+-7 6 14 -5 0
+-8 3 0
+-8 5 -6 0
+-8 5 -14 0
+-8 -6 -14 0
+-8 6 14 -5 0
+-9 2 0
+-9 14 0
+-10 14 0
+-12 3 0
+-11 3 0
+-12 4 0
+-11 4 0
+-12 -11 -12 0
+-12 -11 -11 0
+-13 2 0
+-13 4 0

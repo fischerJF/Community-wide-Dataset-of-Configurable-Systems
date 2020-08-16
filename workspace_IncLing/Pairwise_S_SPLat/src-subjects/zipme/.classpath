@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src-tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/splat-sampling"/>
+	<classpathentry kind="lib" path="/splat-sampling/libs/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/splat-sampling/libs/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="/splat-sampling/libs/saaj-impl-1.3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

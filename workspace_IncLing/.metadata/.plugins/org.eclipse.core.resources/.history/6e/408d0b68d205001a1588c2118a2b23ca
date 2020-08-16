@@ -1,0 +1,36 @@
+package wordPress;
+
+import specifications.Configuration;
+
+public class WordPress {
+
+	public void createHtml(String c) {
+
+		if (Configuration.SMILEY)
+			c = c.replace(":]", "getSmiley");
+		if (Configuration.WEATHER) {
+			String weather = getWeather();
+			c = c.replace("[: weather :]", weather);
+		}
+		if (Configuration.STATISTICS) {
+			int time = 0;
+			System.out.println(time);
+		}
+		System.out.println( c );
+	}
+
+	public String getWeather() {
+		float temparature = 30;
+		if (Configuration.FAHRENHEIT)
+			return (temparature * 1.8 + 32) + "F";
+		return  temparature+ "C";
+	}
+	
+	public static void main(String[] args) {
+	
+		Configuration.WEATHER=true;
+		Configuration.SMILEY=true;
+		WordPress w = new WordPress();
+		w.createHtml("[: weather :]");
+	}
+}

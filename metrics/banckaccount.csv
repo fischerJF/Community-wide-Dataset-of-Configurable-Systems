@@ -1,0 +1,11 @@
+,,,,,,,,,,,,,,,,,
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc,
+src,testset.ApplicationTest,class,3,16,1,0,8,9,6,6,0,1,0,0,0,89,0
+src,testset.AccountTest,class,4,69,1,0,13,0,27,27,0,2,0,0,0,242,0
+src,testset.TransactionTest,class,5,25,1,0,17,26,13,11,0,2,0,0,0,171,0
+src,bankaccount.LogEntry,class,1,6,1,0,0,0,4,4,0,3,0,0,0,26,0
+src,testset.LogEntryTest,class,4,10,1,0,5,0,4,4,0,2,0,0,0,40,0
+src,bankaccount.Account,class,0,46,1,0,5,52,13,9,0,7,6,2,0,96,0
+src,bankaccount.Application,class,1,7,1,0,2,0,3,2,0,1,1,0,0,25,0
+src,specifications.Configuration,class,0,0,1,0,0,0,0,0,0,13,13,12,0,130,0
+src,bankaccount.Transaction,class,1,19,1,0,6,3,3,1,1,1,0,0,1,38,6

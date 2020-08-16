@@ -1,0 +1,22 @@
+Inicio...
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+******salario do gerente deve ser maior
+******salarios de todos empregados
+Salary of Ray adjusted to 117283.5
+Salary of Klaus adjusted to 11728.0
+******salario do gerente deve ser maior
+******salarios de todos empregados
+******salario do gerente deve ser maior
+******salarios de todos empregados
+******salario do empregado
+Precedence constraint violated for employee "Karl".
+Salary of Joe adjusted to 1172.0
+cont: 1((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+total valid product:1
+Tempo gasto total (milisegundos): 3053 tempo médio (milisegundos): 3053.0 número de vezes executadas:1

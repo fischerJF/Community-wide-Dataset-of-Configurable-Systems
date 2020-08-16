@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/antlr.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.12-recompiled.jar"/>
+	<classpathentry kind="lib" path="lib/javac-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.cli-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/antlr4-annotations-4.3.jar"/>
+	<classpathentry kind="lib" path="lib/antlr4-runtime-4.3.jar"/>
+	<classpathentry kind="lib" path="lib/org.abego.treelayout.core-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/apache-ant-1.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/core-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/guava-18.0-extended-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.beanutils.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="lib/powermock-mockito-1.4.9-full.jar"/>
+	<classpathentry kind="lib" path="lib/guidsl.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.jar"/>
+	<classpathentry kind="lib" path="lib/sat4j.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_77"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="lib/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/IncLing"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Pairwise_S_SPLat"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

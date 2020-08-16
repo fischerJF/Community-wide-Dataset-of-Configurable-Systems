@@ -1,0 +1,497 @@
+26 : testChangeFontTypeMenuBar (ASSUMPTION)
+org.fest.swing.exception.ComponentLookupException
+RULE1: (FORMATMENUBAR and PERSISTENCEMENUBAR)
+RULE2: (EDITMENUBAR -> BASETOOLBAR)
+...
+REPAIR:
+@Test
+  public void testChangeFontTypeMenuBar() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isFORMATMENUBAR___());
+    // type some initial text and click in menu Format > Font
+    Helper.fileFormatInitializerMenuBar(window, "text do be formatted", "Font");
+
+    DialogFixture fontDialog = Helper.getFileFormatDialog(window);
+
+    // select the font label, where we access ComboBox to change the font
+    JComboBoxFixture comboBoxType = Helper.setFont(fontDialog, "Types: ",
+        "Regular");
+    comboBoxType.requireVisible();
+    comboBoxType.requireEnabled();
+    comboBoxType.selectItem("Bold Italic");
+
+    // Press OK button
+    Helper.clickFontDialogButton(fontDialog, "OK");
+
+    FontFixture fontFixture = window.textBox().font();
+    fontFixture.requireBold();
+    fontFixture.requireItalic();
+  }
+==========================================================================================
+33 : testNewMenuBarNoSavedText (ASSUMPTION)
+org.fest.swing.exception.ComponentLookupException
+RULE3: (SEARCHTOOLBAR___ -> SEARCHMENUBAR___)
+...
+REPAIR:
+@Test
+  public void testNewMenuBarNoSavedText() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isPERSISTENCEMENUBAR___());
+    savingText();
+    addingMoreText("No");
+  }
+==========================================================================================
+29 : testPrintMenuBar (ASSUMPTION)
+org.fest.swing.exception.ComponentLookupException
+RULE4: (PRINTMENUBAR and EDITMENUBAR)
+
+REPAIR:
+@Test
+  public void testPrintMenuBar() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isPRINTMENUBAR___());
+    // (1) type some text
+    GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(
+        JTextArea.class) {
+      @Override
+      protected boolean isMatching(JTextArea testArea) {
+        return true;
+      }
+    };
+    JTextComponentFixture textArea = window.textBox(textAreaMatcher);
+    textArea.setText("typing something to print");
+
+    // (2) print some existing file using menu bar (Print)
+    JMenuItemFixture itemPrint = window.menuItemWithPath("File", "Print");
+    itemPrint.click();
+
+    window.close();
+  }
+==========================================================================================
+23 : testWordCountMenuBar
+RULE 5: (WORDCOUNTMENUBAR___ and BASEMENUBAR___)
+RULE 6: (WORDCOUNTTOOLBAR___ and BASETOOLBAR___)
+RULE 7: (UNDOREDOTOOLBAR___ and BASETOOLBAR___)
+
+REPAIR:
+@Test
+  public void testWordCountMenuBar() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isWORDCOUNTMENUBAR___());
+    
+    // (1) type some text
+    GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(
+        JTextArea.class) {
+      @Override
+      protected boolean isMatching(JTextArea testArea) {
+        return true;
+      }
+    };
+    JTextComponentFixture textArea = window.textBox(textAreaMatcher);
+    textArea.setText("word1 word2 word3 word4");
+
+    // (2) count words using menu bar (Word Count -> 123 Word Count)
+    GenericTypeMatcher<JMenuItem> menuMatcher = new GenericTypeMatcher<JMenuItem>(
+        JMenuItem.class) {
+      @Override
+      protected boolean isMatching(JMenuItem menu) {
+        String expected = "Word Count";
+        String actual = menu.getText();
+        return (actual == null ? false : expected.equals(actual)
+            && menu.isShowing());
+      }
+    };
+
+    JMenuItemFixture itemFormat = window.menuItem(menuMatcher);
+    itemFormat.click();
+
+    String[] num_words = window.textBox().text().split(" ");
+    assertEquals(4, num_words.length);
+  }
+
+==========================================================================================
+20 : testChangeFontSizeMenuBar
+
+REPAIR:
+@Test
+  public void testChangeFontSizeMenuBar() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isFORMATMENUBAR___());
+    // type some initial text and click in menu Format > Font
+    Helper.fileFormatInitializerMenuBar(window, "text do be formatted", "Font");
+
+    DialogFixture fontDialog = Helper.getFileFormatDialog(window);
+
+    // select the font label, where we access ComboBox to change the font
+    JComboBoxFixture comboBoxSize = Helper.setFont(fontDialog, "Sizes: ", "8");
+    comboBoxSize.requireVisible();
+    comboBoxSize.requireEnabled();
+    comboBoxSize.selectItem("48");
+
+    // Press OK button
+    Helper.clickFontDialogButton(fontDialog, "OK");
+
+    FontFixture fontFixture = window.textBox().font();
+    fontFixture.requireSize(48);
+  }
+==========================================================================================
+28 : testUndoRedoToolBar
+RULE 8: (PRINTTOOLBAR___ and BASETOOLBAR___)
+RULE 9: (SEARCHTOOLBAR___ and BASETOOLBAR___)
+RULE 10: (SEARCHMENUBAR___ and BASEMENUBAR___)
+RULE 11: (UNDOREDOMENUBAR___ and BASEMENUBAR___)
+
+REPAIR:
+@Test
+  public void testUndoRedoToolBar() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isBASETOOLBAR___()
+        && NotepadVariables.getSINGLETON().isEDITTOOLBAR___()
+        && NotepadVariables.getSINGLETON().isSEARCHTOOLBAR___()
+        && NotepadVariables.getSINGLETON().isUNDOREDO___()
+        && NotepadVariables.getSINGLETON().isUNDOREDOTOOLBAR___());
+    testCutToolBar();
+    JToolBarFixture tb = window.toolBar();
+    
+    GenericTypeMatcher<JButton> jbuttonMatcher = new GenericTypeMatcher<JButton>(JButton.class) {
+      @Override
+      protected boolean isMatching(JButton button) {
+          return button == null ? false :
+            button.getIcon() == null ? false :
+              button.getIcon().toString().contains("undo.gif");
+      }
+    };
+    tb.button(jbuttonMatcher).click();
+    Assert.assertEquals(sampleText, tarea.getText());
+
+    jbuttonMatcher = new GenericTypeMatcher<JButton>(JButton.class) {
+      @Override
+      protected boolean isMatching(JButton button) {
+          return button == null ? false :
+            button.getIcon() == null ? false :
+              button.getIcon().toString().contains("redo.gif");
+      }
+    };
+    tb.button(jbuttonMatcher).click();
+    Assert.assertEquals("", tarea.getText());
+  }
+
+==========================================================================================
+32 : testFindNextMenuBar
+RULE 12: (PERSISTENCETOOLBAR___ and BASEMENUBAR___)
+
+REPAIR:
+  @Test
+  public void testFindNextMenuBar() {
+   + Assume.assumeTrue(NotepadVariables.getSINGLETON().isEDITMENUBAR___()
+        && NotepadVariables.getSINGLETON().isBASEMENUBAR___()
+        && NotepadVariables.getSINGLETON().isSEARCHMENUBAR___());
+    testFindMenuBar();
+    JMenuItemFixture item1 = window.menuItemWithPath("Edit","Find Next");
+    item1.click();
+    Assert.assertNull(tarea.getSelectedText());
+  }
+   @Test
+  public void testFindMenuBar() {
+   + Assume.assumeTrue(NotepadVariables.getSINGLETON().isEDITMENUBAR___()
+        && NotepadVariables.getSINGLETON().isBASEMENUBAR___()
+        && NotepadVariables.getSINGLETON().isSEARCHMENUBAR___());
+    findTextArea();
+    tareaFixture.setText("The quick brown fox jumps over the lazy dog");
+    JMenuItemFixture item1 = window.menuItemWithPath("Edit","Find");
+    item1.click();
+    Helper.inputDialog(window, "lazy");
+    Assert.assertEquals("lazy", tarea.getSelectedText());    
+  }
+  
+
+==========================================================================================
+24 : testPrintToolBar
+
+REPAIR:
+@Test
+  public void testPrintToolBar() {
+  +  Assume.assumeTrue(NotepadVariables.getSINGLETON().isPRINTTOOLBAR___());
+    // (1) type some text
+    GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(
+        JTextArea.class) {
+      @Override
+      protected boolean isMatching(JTextArea testArea) {
+        return true;
+      }
+    };
+    JTextComponentFixture textArea = window.textBox(textAreaMatcher);
+    textArea.setText("typing something to print");
+
+    // (2) print some existing file using button bar (Print)
+    GenericTypeMatcher<JButton> buttonMatcher = new GenericTypeMatcher<JButton>(
+        JButton.class) {
+      @Override
+      protected boolean isMatching(JButton button) {
+        String expected = "Print";
+        String actual = button.getToolTipText();
+        return actual == null ? false : expected.equals(actual);
+      }
+    };
+
+    JButtonFixture button = window.button(buttonMatcher);
+    button.requireEnabled();
+    button.click();
+
+    window.close();
+  }
+
+==========================================================================================
+27 : testChangeFontTypeToolBar
+
+REPAIR:
+ @Test
+  public void testChangeFontTypeToolBar() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isFORMATTOOLBAR___());
+    // type some initial text and click in Font button
+    Helper.fileFormatInitializerToolBar(window, "text do be formatted", "Font");
+
+    DialogFixture fontDialog = Helper.getFileFormatDialog(window);
+
+    // select the font label, where we access ComboBox to change the font
+    JComboBoxFixture comboBoxType = Helper.setFont(fontDialog, "Types: ",
+        "Regular");
+    comboBoxType.requireVisible();
+    comboBoxType.requireEnabled();
+    comboBoxType.selectItem("Bold Italic");
+
+    // Press OK button
+    Helper.clickFontDialogButton(fontDialog, "OK");
+
+    FontFixture fontFixture = window.textBox().font();
+    fontFixture.requireBold();
+    fontFixture.requireItalic();
+  }
+
+==========================================================================================
+31 : wordCountTest
+
+REPAIR:
+@Test
+  public void wordCountTest() {
+    Assume.assumeTrue(NotepadVariables.getSINGLETON().isWORDCOUNTMENUBAR___());
+    GenericTypeMatcher<JMenuItem> menuItemMatcher = new GenericTypeMatcher<JMenuItem>(
+        JMenuItem.class) {
+      @Override
+      protected boolean isMatching(JMenuItem opt) {
+        if (opt instanceof JMenu)
+          return false;
+        else {
+          String text = opt.getText();
+          // System.out.println(text);
+          return text == null ? false : text.equals("Word Count");
+        }
+      }
+    };
+
+    JMenuItemFixture ab = window.menuItem(menuItemMatcher);
+    ab.click();
+    JOptionPaneFixture dialog = window.optionPane();
+    dialog.requireMessage("Word count: 0");
+    window.cleanUp();
+
+  }
+
+==========================================================================================
+30 : testSelectAll
+RULE 13: (EDITMENUBAR___ and BASEMENUBAR___)
+REPAIR:
+@Test
+  public void testSelectAll() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isBASEMENUBAR___()
+        && NotepadVariables.getSINGLETON().isEDITMENUBAR___());
+    findTextArea();
+    tareaFixture.setText(sampleText);
+    JMenuItemFixture item1 = window.menuItemWithPath("Edit", "Select All");
+    item1.click();
+    Assert.assertEquals(sampleText, tarea.getSelectedText());
+  }
+
+==========================================================================================
+21 : testSaveAsMenuBar
+RULE 14: (PERSISTENCEMENUBAR___ and BASEMENUBAR___)
+
+REPAIR:
+ @Test
+  public void testSaveAsMenuBar() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isBASEMENUBAR___()
+        && NotepadVariables.getSINGLETON().isPERSISTENCE___());
+    // (1) type some text
+    GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(
+        JTextArea.class) {
+      @Override
+      protected boolean isMatching(JTextArea testArea) {
+        return true;
+      }
+    };
+    JTextComponentFixture textArea = window.textBox(textAreaMatcher);
+    textArea.setText("typing something to save");
+
+    // Try File > Save As: It should ask if you want to save
+    JMenuItemFixture itemNew = window.menuItemWithPath("File", "Save As");
+    itemNew.click();
+    //code...
+    }
+
+==========================================================================================
+18 : testSaveMenuBar
+RULE 15: (FORMATTOOLBAR___ and BASETOOLBAR___)
+RULE 16: (EDITTOOLBAR___ and BASETOOLBAR___)
+RULE 17: (EDITMENUBAR___ and BASEMENUBAR___)
+
+REPAIR:
+ @Test
+  public void testSaveMenuBar() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isBASEMENUBAR___()
+        && NotepadVariables.getSINGLETON().isPERSISTENCEMENUBAR___());
+    savingText();
+
+    // (3) remove file
+    File toRemove = new File(System.getProperty("java.io.tmpdir")
+        + "tempSave.txt");
+    toRemove.delete();
+  }
+
+==========================================================================================
+19 : testNewToolBarCancel
+
+REPAIR:
+@Test
+  public void testNewToolBarCancel() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isPERSISTENCETOOLBAR___());
+    DialogFixture dialog = Helper.fileInitializerToolBar(window, "New");
+
+    // Click No
+    GenericTypeMatcher<JButton> noButtonMatcher = new GenericTypeMatcher<JButton>(
+        JButton.class) {
+      @Override
+      protected boolean isMatching(JButton arg0) {
+        String expected = "Cancel";
+        String actual = arg0.getText();
+        return actual == null ? false : expected.equals(actual);
+      }
+    };
+    JButtonFixture noButton = dialog.button(noButtonMatcher);
+    noButton.requireEnabled();
+    noButton.requireVisible();
+    noButton.click();
+  }
+
+==========================================================================================
+22 : testButtonCopy
+
+REPAIR:
+@Test
+  public void testButtonCopy() { 
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isEDITTOOLBAR___());
+    GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(
+        JTextArea.class) {
+      @Override
+      protected boolean isMatching(JTextArea button) {
+        return true;
+      }
+    };
+
+    GenericTypeMatcher<JButton> but = new GenericTypeMatcher<JButton>(
+        JButton.class) {
+      @Override
+      protected boolean isMatching(JButton button) {
+        String expected = "Copy";
+        String actual = button.getToolTipText();
+
+        return actual == null ? false : expected.equals(actual);
+
+      }
+    };
+
+    JButtonFixture buto = window.button(but);
+    JTextComponentFixture textArea = window.textBox(textAreaMatcher);
+
+    String text = "Hello World!!!";
+    textArea.enterText(text);
+    textArea.select(text);
+    buto.click();
+    textArea.requireText(text);
+  }
+
+
+==========================================================================================
+25 : testNewMenuBarYes
+
+REPAIR:
+@Test
+  public void testNewMenuBarYes() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isBASEMENUBAR___()
+        && NotepadVariables.getSINGLETON().isPERSISTENCEMENUBAR___());
+    DialogFixture dialog = Helper.fileNewInitializerMenuBar(window);
+
+    // Click yes
+    GenericTypeMatcher<JButton> yesButtonMatcher = new GenericTypeMatcher<JButton>(
+        JButton.class) {
+      @Override
+      protected boolean isMatching(JButton arg1) {
+        String expected = "Yes";
+        String actual = arg1.getText();
+        return actual == null ? false : expected.equals(actual);
+      }
+    };
+    JButtonFixture yesButton = dialog.button(yesButtonMatcher);
+    yesButton.requireEnabled();
+    yesButton.requireVisible();
+    yesButton.click();
+    //code...
+    }
+
+==========================================================================================
+17 : testNewToolBarYes
+
+REPAIR:
+@Test
+  public void testNewToolBarYes() {
+  + Assume.assumeTrue(NotepadVariables.getSINGLETON().isPERSISTENCETOOLBAR___());
+    DialogFixture dialog = Helper.fileInitializerToolBar(window, "New");
+
+    // Click Yes
+    GenericTypeMatcher<JButton> yesButtonMatcher = new GenericTypeMatcher<JButton>(
+        JButton.class) {
+      @Override
+      protected boolean isMatching(JButton arg1) {
+        String expected = "Yes";
+        String actual = arg1.getText();
+        return actual == null ? false : expected.equals(actual);
+      }
+    };
+    JButtonFixture yesButton = dialog.button(yesButtonMatcher);
+    yesButton.requireEnabled();
+    yesButton.requireVisible();
+    yesButton.click();
+
+    JFileChooserFixture fileChooser = dialog.fileChooser();
+    JTextComponentFixture fileName = fileChooser.setCurrentDirectory(
+        new File(System.getProperty("java.io.tmpdir"))).fileNameTextBox();
+    fileName.enterText("tempNew");
+
+    GenericTypeMatcher<JButton> saveButtonMatcher = new GenericTypeMatcher<JButton>(
+        JButton.class) {
+      @Override
+      protected boolean isMatching(JButton arg0) {
+        String expected = "Save";
+        String actual = arg0.getText();
+        return actual == null ? false : expected.equals(actual);
+      }
+    };
+
+    DialogFixture saveDialog = dialog.dialog();
+    Assert.assertNotNull(saveDialog);
+
+    JButtonFixture saveButton = saveDialog.button(saveButtonMatcher);
+    saveButton.requireEnabled();
+    saveButton.requireVisible();
+    saveButton.click();
+
+    // remove file
+    File toRemove = new File(System.getProperty("java.io.tmpdir")
+        + "tempNew.txt");
+    toRemove.delete();
+  }
+
+==========================================================================================

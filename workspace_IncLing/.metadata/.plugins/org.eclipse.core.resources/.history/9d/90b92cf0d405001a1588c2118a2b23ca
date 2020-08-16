@@ -1,0 +1,20 @@
+package testset;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class WeatherReportTest {
+
+	WeatherReport wr;
+	@Before
+	public void setUp() {
+		wr= new WeatherReportTest();
+	}
+	@Test
+	public void createTextTest() {
+		
+	}
+
+}

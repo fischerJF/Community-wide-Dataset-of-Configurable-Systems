@@ -1,0 +1,31 @@
+// ******** REMARKS ********
+// Abstract Features (there are not referred in code):
+//  GPL, Src, Src2, Alg, Gtp, Dfs
+// DFS = not BFS
+// Src = Src2 and SEARCH___ ---> Src = (SEARCH___ and (BFS xor DFS)) ---> Src = (SEARCH___ and (BFS xor not BFS))
+// Src2 = BFS xor not BFS
+// Alg = NUMBER___ or CONNECTED___ or STRONGLYCONNECTED___ or CYCLE___ or MSTPRIM___ or MSTKRUSKAL___ or SHORTEST___
+// Gtp = DIRECTED xor UNDIRECTED
+
+// Concrete features **are** referred in code
+
+
+// ******** CONSTRAINTS ********
+
+BASE;
+
+// xor
+(not BFS or BFS) implies (not (BFS and not BFS))
+
+// xor
+(DIRECTED or UNDIRECTED) implies (not (DIRECTED and UNDIRECTED))
+
+// or
+NUMBER___ or CONNECTED___ or STRONGLYCONNECTED___ or CYCLE___ or MSTPRIM___ or MSTKRUSKAL___ or SHORTEST___ 
+NUMBER___ implies (SEARCH___ and (BFS xor not BFS));
+CONNECTED___ implies (UNDIRECTED___ and (SEARCH___ and (BFS xor not BFS)));
+STRONGLYCONNECTED___ implies (DIRECTED___ and not BFS___);
+CYCLE___ implies (not BFS___);
+(MSTKRUSKAL___ or MSTPRIM___) implies (UNDIRECTED___ and WEIGHTED___);
+(MSTKRUSKAL___ or MSTPRIM___) implies (not (MSTKRUSKAL___ and MSTPRIM___));
+SHORTEST___ implies (DIRECTED___ and WEIGHTED___);

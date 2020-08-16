@@ -1,0 +1,23 @@
+inicio
+UNDO:false STATES:false SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:false BASE:true
+UNDO:false STATES:true SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:false BASE:true
+UNDO:true STATES:true SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:false BASE:true
+UNDO:false STATES:false SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:true BASE:true
+UNDO:false STATES:true SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:true BASE:true
+UNDO:true STATES:true SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:true BASE:true
+UNDO:true STATES:true SOLVER:true GENERATOR:false EXTENDEDSUDOKU:false COLOR:false BASE:true
+UNDO:true STATES:true SOLVER:true GENERATOR:false EXTENDEDSUDOKU:false COLOR:true BASE:true
+UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:false COLOR:false BASE:true
+UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:false COLOR:true BASE:true
+UNDO:false STATES:false SOLVER:false GENERATOR:false EXTENDEDSUDOKU:true COLOR:false BASE:true
+UNDO:false STATES:true SOLVER:false GENERATOR:false EXTENDEDSUDOKU:true COLOR:false BASE:true
+UNDO:true STATES:true SOLVER:false GENERATOR:false EXTENDEDSUDOKU:true COLOR:false BASE:true
+UNDO:false STATES:false SOLVER:false GENERATOR:false EXTENDEDSUDOKU:true COLOR:true BASE:true
+UNDO:false STATES:true SOLVER:false GENERATOR:false EXTENDEDSUDOKU:true COLOR:true BASE:true
+UNDO:true STATES:true SOLVER:false GENERATOR:false EXTENDEDSUDOKU:true COLOR:true BASE:true
+UNDO:true STATES:true SOLVER:true GENERATOR:false EXTENDEDSUDOKU:true COLOR:false BASE:true
+UNDO:true STATES:true SOLVER:true GENERATOR:false EXTENDEDSUDOKU:true COLOR:true BASE:true
+UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:true COLOR:false BASE:true
+UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:true COLOR:true BASE:true
+Contador de produtos:20
+Tempo gasto total (milisegundos): 917 tempo médio (milisegundos): 917.0 número de vezes executadas:1

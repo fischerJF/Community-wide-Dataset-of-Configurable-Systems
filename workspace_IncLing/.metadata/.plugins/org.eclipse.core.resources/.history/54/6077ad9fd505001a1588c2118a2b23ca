@@ -1,0 +1,32 @@
+package wordPress;
+
+import specifications.Configuration;
+
+public class WeatherReport {
+
+	public String createText(String c) {
+		if (Configuration.SMILEY)
+			c = c.replace(":]", "Smiley"+(":]"));
+		if (Configuration.WEATHER) {
+			String weather = getWeather();
+			c = c.replace("[: weather :]", weather);
+		}
+		return c;
+	}
+
+	public String getWeather() {
+		float temparature = 30;
+		if (Configuration.FAHRENHEIT)
+			return (temparature * 1.8 + 32) + "F";
+		return  temparature+ "C";
+	}
+	
+	public static void main(String[] args) {
+	
+		Configuration.WEATHER=true;
+		Configuration.SMILEY=false;
+		Configuration.FAHRENHEIT=true;
+		WeatherReport w = new WeatherReport();
+		System.out.println(w.createText("[: weather :]"));
+	}
+}

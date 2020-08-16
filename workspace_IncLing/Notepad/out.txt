@@ -1,0 +1,179 @@
+Instrumenting .class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/About.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Actions$1.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Actions$2.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Actions.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Center.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/ExampleFileFilter.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Fonts$1.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Fonts$2.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Fonts.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$1.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$10.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$11.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$12.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$13.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$14.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$15.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$16.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$17.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$18.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$19.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$2.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$20.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$21.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$22.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$23.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$24.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$25.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$26.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$27.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$28.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$29.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$3.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$30.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$4.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$5.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$6.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$7.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$8.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad$9.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Notepad.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/Print.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/RedoAction.class
+/Users/sabrinasouto/workspace-collaboration/evo-splat/src-subjects/notepad/bin/smashed/UndoAction.class
+#Methods = 136
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testBasic()------------------------
+production Notepad has multiple definitions
+$t_1$ & 0 & 0.0 \\ \hline
+
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testEditToolBar()------------------------
+production Notepad has multiple definitions
+$t_2$ & 0 & 0.0 \\ \hline
+
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testFormatToolBar()------------------------
+production Notepad has multiple definitions
+$t_3$ & 0 & 0.0 \\ \hline
+
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testPersistenceToolBar()------------------------
+production Notepad has multiple definitions
+$t_4$ & 0 & 0.0 \\ \hline
+
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testPrintToolBar()------------------------
+production Notepad has multiple definitions
+$t_5$ & 0 & 0.0 \\ \hline
+
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testSearchToolBar()------------------------
+production Notepad has multiple definitions
+$t_6$ & 0 & 0.0 \\ \hline
+
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testWordCountToolBar()------------------------
+production Notepad has multiple definitions
+$t_7$ & 0 & 0.0 \\ \hline
+
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testEditMenuBar()------------------------
+production Notepad has multiple definitions
+$t_8$ & 0 & 0.0 \\ \hline
+
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testFormatMenuBar()------------------------
+production Notepad has multiple definitions
+$t_9$ & 0 & 0.0 \\ \hline
+
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testPersistenceMenuBar()------------------------
+production Notepad has multiple definitions
+$t_10$ & 0 & 0.0 \\ \hline
+
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testPrintMenuBar()------------------------
+production Notepad has multiple definitions
+$t_11$ & 0 & 0.0 \\ \hline
+
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testSearchMenuBar()------------------------
+production Notepad has multiple definitions
+$t_12$ & 0 & 0.0 \\ \hline
+
+------------------------1st RUN (SPLat) :public void tests.TestExample_Paulo.testWordCountMenuBar()------------------------
+production Notepad has multiple definitions
+$t_13$ & 0 & 0.0 \\ \hline
+
+
+tests.TestExample_Paulo.testBasic
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+
+tests.TestExample_Paulo.testEditToolBar
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+
+tests.TestExample_Paulo.testFormatToolBar
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+
+tests.TestExample_Paulo.testPersistenceToolBar
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+
+tests.TestExample_Paulo.testPrintToolBar
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+
+tests.TestExample_Paulo.testSearchToolBar
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+
+tests.TestExample_Paulo.testWordCountToolBar
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+
+tests.TestExample_Paulo.testEditMenuBar
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+
+tests.TestExample_Paulo.testFormatMenuBar
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+
+tests.TestExample_Paulo.testPersistenceMenuBar
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+
+tests.TestExample_Paulo.testPrintMenuBar
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+
+tests.TestExample_Paulo.testSearchMenuBar
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+
+tests.TestExample_Paulo.testWordCountMenuBar
+METHOD(0) : #TRACES(0)
+Percentage (currMethods/totalMethods) = 0,00%
+Test score = NaN
+TEST : SCORE
+1 : NaN
+2 : NaN
+3 : NaN
+4 : NaN
+5 : NaN
+6 : NaN
+7 : NaN
+8 : NaN
+9 : NaN
+10 : NaN
+11 : NaN
+12 : NaN
+13 : NaN
+
+SUBJECT | [0-0.1] | ]0.1-0.2] | ]0.2-0.3] | ]0.3-0.4] | ]0.4-0.5] | ]0.5-0.6] | ]0.6-0.7] | ]0.7-0.8] | ]0.8-0.9] | ]0.9-1.0[
+XXX & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 13

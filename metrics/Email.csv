@@ -1,0 +1,10 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+src,EmailSystem.Client,class,4,98,1,0,63,1131,50,27,29,13,1,2,51,361
+src,email.PL_Interface_impl,class,3,59,1,0,30,105,15,6,10,0,0,0,52,206
+src,email.Scenario,class,0,1,1,0,4,0,1,1,1,1,1,1,4,11
+src,email.PL_Interface,interface,0,4,1,0,0,6,4,4,0,0,0,0,0,8
+src,email.MaxStateIDListener,class,2,13,1,0,1,55,11,11,0,1,1,1,0,24
+src,EmailSystem.Email,class,2,45,1,0,25,499,34,9,8,12,0,1,19,156
+src,EmailSystem.Util,class,0,2,1,0,3,1,2,2,2,0,0,0,2,9
+src,specifications.SpecificationException,class,0,2,4,0,0,0,2,2,0,1,0,0,0,11
+src,specifications.Configuration,class,0,0,1,0,0,0,0,0,0,9,9,9,0,123

@@ -1,0 +1,1990 @@
+commit 01673697a45820a98a8e87962bd3966b3d5c9312
+Author: Sabrina Souto <sfs@cin.ufpe.br>
+Date:   Sat Apr 23 21:45:10 2016 -0300
+
+    adding more subjects
+
+ runsplat.sh                                        |   34 +-
+ splat                                              |    2 +-
+ src-subjects/desktopsearcher/.classpath            |   20 +
+ src-subjects/desktopsearcher/.gitignore            |    6 +
+ src-subjects/desktopsearcher/.project              |   17 +
+ .../.settings/org.eclipse.core.resources.prefs     |    2 +
+ .../.settings/org.eclipse.jdt.core.prefs           |   11 +
+ .../desktopsearcher/backup/ButtonListener.jak      |  100 +
+ .../desktopsearcher/backup/ButtonListener.java     |  105 +
+ .../desktopsearcher/backup/ContentHandler.jak      |   79 +
+ .../desktopsearcher/backup/ContentHandler.java     |   79 +
+ .../desktopsearcher/backup/HitComponentLabel.jak   |   47 +
+ .../desktopsearcher/backup/HitComponentLabel.java  |   47 +
+ .../desktopsearcher/backup/HitDocument.jak         |  171 +
+ .../desktopsearcher/backup/HitDocument.java        |  171 +
+ src-subjects/desktopsearcher/backup/Indexer.jak    |  455 +
+ src-subjects/desktopsearcher/backup/Indexer.java   |  487 +
+ .../desktopsearcher/backup/IndexerException.jak    |   12 +
+ .../desktopsearcher/backup/IndexerException.java   |   12 +
+ src-subjects/desktopsearcher/backup/MainFrame.jak  |  383 +
+ src-subjects/desktopsearcher/backup/MainFrame.java |  407 +
+ src-subjects/desktopsearcher/backup/MrPinkMain.jak |  196 +
+ .../desktopsearcher/backup/MrPinkMain.java         |  232 +
+ src-subjects/desktopsearcher/backup/OS.jak         |   13 +
+ src-subjects/desktopsearcher/backup/OS.java        |   13 +
+ .../desktopsearcher/backup/OptionStorage.jak       |  103 +
+ .../desktopsearcher/backup/OptionStorage.java      |  103 +
+ .../desktopsearcher/backup/OptionWindow.jak        |  172 +
+ .../desktopsearcher/backup/OptionWindow.java       |  172 +
+ src-subjects/desktopsearcher/backup/Plain.jak      |   95 +
+ src-subjects/desktopsearcher/backup/Plain.java     |   95 +
+ .../desktopsearcher/backup/SearchResultTree.jak    |  189 +
+ .../desktopsearcher/backup/SearchResultTree.java   |  189 +
+ src-subjects/desktopsearcher/backup/UI.jak         |   13 +
+ src-subjects/desktopsearcher/backup/UI.java        |   13 +
+ src-subjects/desktopsearcher/files/file1.html      |   58 +
+ src-subjects/desktopsearcher/files/file1.tex       |  299 +
+ src-subjects/desktopsearcher/files/file1.txt       |   23 +
+ src-subjects/desktopsearcher/files/file2.html      |   49 +
+ src-subjects/desktopsearcher/files/file3.txt       | 6023 +++
+ src-subjects/desktopsearcher/files/file4.txt       | 7712 +++
+ src-subjects/desktopsearcher/files/file5.txt       |52403 ++++++++++++++++++++
+ src-subjects/desktopsearcher/files2345/file2.html  |   49 +
+ src-subjects/desktopsearcher/files2345/file3.txt   | 6023 +++
+ src-subjects/desktopsearcher/files2345/file4.txt   | 7712 +++
+ src-subjects/desktopsearcher/files2345/file5.txt   |52403 ++++++++++++++++++++
+ src-subjects/desktopsearcher/lib/LICENSE-2.0.txt   |  202 +
+ src-subjects/desktopsearcher/lib/NOTICE.txt        |   30 +
+ .../desktopsearcher/lib/commons-codec-1.3.jar      |  Bin 0 -> 46725 bytes
+ .../desktopsearcher/lib/fest-assert-1.2.jar        |  Bin 0 -> 89901 bytes
+ .../desktopsearcher/lib/fest-reflect-1.2.jar       |  Bin 0 -> 37208 bytes
+ .../desktopsearcher/lib/fest-swing-1.2.jar         |  Bin 0 -> 728688 bytes
+ .../desktopsearcher/lib/fest-swing-junit-1.2.jar   |  Bin 0 -> 48626 bytes
+ .../lib/fest-swing-junit-4.3.1-1.2.jar             |  Bin 0 -> 8351 bytes
+ .../lib/fest-swing-junit-4.5-1.2.jar               |  Bin 0 -> 4763 bytes
+ .../desktopsearcher/lib/fest-util-1.1.2.jar        |  Bin 0 -> 18962 bytes
+ .../desktopsearcher/lib/jcip-annotations-1.0.jar   |  Bin 0 -> 2255 bytes
+ .../desktopsearcher/lib/lucene-core-2.9.1.jar      |  Bin 0 -> 1105968 bytes
+ .../desktopsearcher/lib/lucene-demos-2.9.1.jar     |  Bin 0 -> 56818 bytes
+ src-subjects/desktopsearcher/methods.txt           |  125 +
+ src-subjects/desktopsearcher/modified-model.m      |   21 +
+ .../desktopsearcher/resultsScenario123_desktop.txt |   16 +
+ src-subjects/desktopsearcher/src-tests/out.txt     |   82 +
+ src-subjects/desktopsearcher/src-tests/outGUI.txt  |    3 +
+ .../src-tests/tests/DesktopSearcherTest.java       |  124 +
+ .../desktopsearcher/src-tests/tests/Test.java      |   44 +
+ .../desktopsearcher/src-tests/tests/TestAll.java   |   14 +
+ .../src-tests/tests/TestCommandLine.java           |  200 +
+ .../tests/TestCommandLineExample_Mateus.java       |  182 +
+ .../desktopsearcher/src-tests/tests/TestGUI.java   |  576 +
+ .../src-tests/tests/TestGUIExample.java            |  168 +
+ .../src-tests/tests/TestGUIExample_Mateus.java     |  762 +
+ .../src/desktopsearcher/ButtonListener.java        |  192 +
+ .../src/desktopsearcher/Commandline.java           |  210 +
+ .../src/desktopsearcher/ContentHandler.java        |   82 +
+ .../desktopsearcher/src/desktopsearcher/HTML.java  |  204 +
+ .../src/desktopsearcher/History_Indexer.java       |   87 +
+ .../src/desktopsearcher/History_Query.java         |   76 +
+ .../src/desktopsearcher/HitComponentLabel.java     |   76 +
+ .../src/desktopsearcher/HitDocument.java           |  352 +
+ .../desktopsearcher/Index_History_Selector.java    |  282 +
+ .../src/desktopsearcher/Indexer.java               |  668 +
+ .../src/desktopsearcher/IndexerException.java      |   12 +
+ .../desktopsearcher/src/desktopsearcher/Latex.java |  228 +
+ .../src/desktopsearcher/MainFrame.java             |  595 +
+ .../src/desktopsearcher/MrPinkMain.java            |  235 +
+ .../src/desktopsearcher/NoDocument.java            |   61 +
+ .../desktopsearcher/src/desktopsearcher/OS.java    |   26 +
+ .../src/desktopsearcher/OptionStorage.java         |  103 +
+ .../src/desktopsearcher/OptionWindow.java          |  184 +
+ .../desktopsearcher/src/desktopsearcher/Plain.java |  116 +
+ .../src/desktopsearcher/SearchResultTree.java      |  200 +
+ .../desktopsearcher/src/desktopsearcher/UI.java    |   13 +
+ .../internal/runners/statements/FailOnTimeout.java |   86 +
+ src-subjects/desktopsearcher/src/splat/Main.java   |  116 +
+ src-subjects/elevator/.classpath                   |    9 +
+ src-subjects/elevator/.gitignore                   |    6 +
+ src-subjects/elevator/.project                     |   17 +
+ .../elevator/.settings/org.eclipse.jdt.core.prefs  |  281 +
+ .../elevator/.settings/org.eclipse.jdt.ui.prefs    |    3 +
+ src-subjects/elevator/model.m                      |    6 +
+ src-subjects/elevator/modified-model.m             |    6 +
+ src-subjects/elevator/s                            |   38 +
+ .../elevator/src-tests/tests/ElevatorTest.java     |   34 +
+ src-subjects/elevator/src-tests/tests/TestAll.java |   11 +
+ .../elevator/src-tests/tests/TestMain.java         |  128 +
+ .../src/elevator/ElevatorSystem/Elevator.java      |  475 +
+ .../src/elevator/ElevatorSystem/Environment.java   |   92 +
+ .../src/elevator/ElevatorSystem/EvilPerson.java    |   27 +
+ .../src/elevator/ElevatorSystem/Floor.java         |   65 +
+ .../src/elevator/ElevatorSystem/Person.java        |   80 +
+ .../TestSpecifications/SpecificationException.java |   24 +
+ .../TestSpecifications/SpecificationManager.java   |   38 +
+ .../elevator/src/elevator/defpackage/Actions.java  |  108 +
+ .../src/elevator/defpackage/PL_Interface.java      |   18 +
+ .../src/elevator/defpackage/PL_Interface_impl.java |  341 +
+ .../src/elevator/defpackage/Test_Runner.java       |   75 +
+ .../verificationClasses/FeatureSwitches-java       |   50 +
+ src-subjects/elevator/src/splat/Main.java          |   83 +
+ src-subjects/email/.classpath                      |   20 +
+ src-subjects/email/.gitignore                      |    6 +
+ src-subjects/email/.project                        |   17 +
+ .../email/.settings/org.eclipse.jdt.core.prefs     |  291 +
+ .../email/.settings/org.eclipse.jdt.ui.prefs       |    3 +
+ src-subjects/email/libs/RunAnt.jar                 |  Bin 0 -> 9319 bytes
+ src-subjects/email/libs/RunJPF.jar                 |  Bin 0 -> 46595 bytes
+ src-subjects/email/libs/RunTest.jar                |  Bin 0 -> 44358 bytes
+ src-subjects/email/libs/aspectjrt.jar              |  Bin 0 -> 116226 bytes
+ src-subjects/email/libs/javabdd.jar                |  Bin 0 -> 237383 bytes
+ src-subjects/email/libs/jpf-annotations.jar        |  Bin 0 -> 2680 bytes
+ src-subjects/email/libs/jpf-bdd-annotations.jar    |  Bin 0 -> 1075 bytes
+ src-subjects/email/libs/jpf-bdd-classes.jar        |  Bin 0 -> 1453 bytes
+ src-subjects/email/libs/jpf-bdd.jar                |  Bin 0 -> 25572 bytes
+ src-subjects/email/libs/jpf-classes.jar            |  Bin 0 -> 91924 bytes
+ src-subjects/email/libs/jpf.jar                    |  Bin 0 -> 1588977 bytes
+ src-subjects/email/model.m                         |   10 +
+ src-subjects/email/modified-model.m                |   10 +
+ src-subjects/email/resultsScenario123_email.txt    |   52 +
+ src-subjects/email/s                               |   38 +
+ src-subjects/email/src-tests/tests/EmailTest.java  |   33 +
+ src-subjects/email/src-tests/tests/TestAll.java    |   12 +
+ src-subjects/email/src-tests/tests/TestMAB.java    |   87 +
+ src-subjects/email/src-tests/tests/TestMain.java   |  114 +
+ .../email/src/email/EmailSystem/Client.java        |  436 +
+ .../email/src/email/EmailSystem/Email.java         |  204 +
+ src-subjects/email/src/email/EmailSystem/Util.java |   17 +
+ .../email/TestSpecifications/Specification11.java  |   19 +
+ .../email/TestSpecifications/Specification1_8.java |   55 +
+ .../email/TestSpecifications/Specification27.java  |   19 +
+ .../email/TestSpecifications/Specification3.java   |   37 +
+ .../email/TestSpecifications/Specification4.java   |   23 +
+ .../email/TestSpecifications/Specification6.java   |   37 +
+ .../email/TestSpecifications/Specification7.java   |   20 +
+ .../email/TestSpecifications/Specification9.java   |   37 +
+ .../TestSpecifications/SpecificationException.java |   24 +
+ .../TestSpecifications/SpecificationManager.java   |  102 +
+ .../SpecificationsAutoResponder.aj                 |   15 +
+ .../TestSpecifications/SpecificationsEncrypt.aj    |   31 +
+ .../email/TestSpecifications/SpecificationsSign.aj |   27 +
+ .../TestSpecifications/SpecificationsVerify.aj     |   23 +
+ .../JPF_PrimitiveLogListener_Lifted.java           |  119 +
+ .../src/email/defpackage/MaxStateIDListener.java   |   22 +
+ .../email/src/email/defpackage/PL_Interface.java   |   18 +
+ .../src/email/defpackage/PL_Interface_impl.java    |  241 +
+ .../email/src/email/defpackage/Scenario.java       |   12 +
+ .../email/src/email/defpackage/Test_Actions.java   |  393 +
+ .../email/src/email/defpackage/Test_Runner-java    |   75 +
+ .../email/verificationClasses/FeatureSwitches.java |   51 +
+ .../email/verificationClasses/SPLModelChecker.java |   22 +
+ src-subjects/email/src/splat/Main.java             |   91 +
+ src-subjects/minepump/.classpath                   |   20 +
+ src-subjects/minepump/.gitignore                   |    6 +
+ src-subjects/minepump/.project                     |   17 +
+ .../minepump/.settings/org.eclipse.jdt.core.prefs  |  281 +
+ .../minepump/.settings/org.eclipse.jdt.ui.prefs    |    3 +
+ src-subjects/minepump/libs/RunAnt.jar              |  Bin 0 -> 9319 bytes
+ src-subjects/minepump/libs/RunJPF.jar              |  Bin 0 -> 46595 bytes
+ src-subjects/minepump/libs/RunTest.jar             |  Bin 0 -> 44358 bytes
+ src-subjects/minepump/libs/aspectjrt.jar           |  Bin 0 -> 116226 bytes
+ src-subjects/minepump/libs/javabdd.jar             |  Bin 0 -> 237383 bytes
+ src-subjects/minepump/libs/jpf-annotations.jar     |  Bin 0 -> 2680 bytes
+ src-subjects/minepump/libs/jpf-bdd-annotations.jar |  Bin 0 -> 1075 bytes
+ src-subjects/minepump/libs/jpf-bdd-classes.jar     |  Bin 0 -> 1453 bytes
+ src-subjects/minepump/libs/jpf-bdd.jar             |  Bin 0 -> 25572 bytes
+ src-subjects/minepump/libs/jpf-classes.jar         |  Bin 0 -> 91924 bytes
+ src-subjects/minepump/libs/jpf.jar                 |  Bin 0 -> 1588977 bytes
+ src-subjects/minepump/model.m                      |   10 +
+ src-subjects/minepump/modified-model.m             |   10 +
+ src-subjects/minepump/s                            |   38 +
+ .../minepump/src-tests/tests/MineTest.java         |   48 +
+ src-subjects/minepump/src-tests/tests/TestAll.java |   11 +
+ .../minepump/src-tests/tests/TestMain.java         |   81 +
+ .../src/mine/MinePumpSystem/Environment.java       |   80 +
+ .../minepump/src/mine/MinePumpSystem/MinePump.java |  137 +
+ .../mine/Specifications/AbstractSpecification-aj   |   37 +
+ .../src/mine/Specifications/Specification1-aj      |   17 +
+ .../src/mine/Specifications/Specification2-aj      |   26 +
+ .../src/mine/Specifications/Specification3-aj      |   18 +
+ .../src/mine/Specifications/Specification4-aj      |   18 +
+ .../src/mine/Specifications/Specification5-aj      |   28 +
+ .../TestSpecifications/SpecificationException.java |   24 +
+ .../TestSpecifications/SpecificationManager.java   |   38 +
+ .../minepump/src/mine/defpackage/Actions.java      |   89 +
+ .../JPF_PrimitiveLogListener_Lifted.java           |  116 +
+ .../src/mine/defpackage/JUnit_Scenario_Tests.java  |   82 +
+ .../src/mine/defpackage/MaxStateIDListener.java    |   22 +
+ .../minepump/src/mine/defpackage/PL_Interface.java |   18 +
+ .../src/mine/defpackage/PL_Interface_impl.java     |  247 +
+ .../minepump/src/mine/defpackage/Test_Runner.java  |   76 +
+ .../mine/verificationClasses/FeatureSwitches.java  |   42 +
+ .../mine/verificationClasses/SPLModelChecker.java  |   22 +
+ src-subjects/minepump/src/splat/Main.java          |   84 +
+ src-subjects/notepad/.classpath                    |    8 +-
+ src-subjects/notepad/src/splat/Main.java           |  258 +-
+ src-subjects/prevayler/.classpath                  |   12 +
+ src-subjects/prevayler/.gitignore                  |    6 +
+ src-subjects/prevayler/.project                    |   17 +
+ .../prevayler/.settings/org.eclipse.jdt.core.prefs |  281 +
+ .../prevayler/.settings/org.eclipse.jdt.ui.prefs   |    3 +
+ .../prevayler/demo1/0000000000000000001.journal    |  Bin 0 -> 15571 bytes
+ src-subjects/prevayler/libs/skaringa-r3p7.jar      |  Bin 0 -> 124027 bytes
+ src-subjects/prevayler/libs/xstream-1.1.3.jar      |  Bin 0 -> 261710 bytes
+ src-subjects/prevayler/model.m                     |    2 +
+ src-subjects/prevayler/modified-model.m            |    1 +
+ .../prevayler/prev/0000000000000000001.journal     |  Bin 0 -> 332 bytes
+ .../prevayler/prev/0000000000000000003.journal     |  Bin 0 -> 332 bytes
+ .../prevayler/prev/0000000000000000005.journal     |  Bin 0 -> 332 bytes
+ .../prevayler/prev/0000000000000000007.journal     |  Bin 0 -> 332 bytes
+ .../prevayler/prev/0000000000000000009.journal     |  Bin 0 -> 333 bytes
+ .../prevayler/prev/0000000000000000011.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000013.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000015.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000017.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000019.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000021.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000023.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000025.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000027.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000029.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000031.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000033.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000035.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000037.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000039.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000041.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000043.journal     |  Bin 0 -> 334 bytes
+ .../prevayler/prev/0000000000000000045.journal     |  Bin 0 -> 334 bytes
+ src-subjects/prevayler/s                           |   38 +
+ .../org/prevayler/tests/demos/demo1/Main.java      |   20 +
+ .../prevayler/tests/demos/demo1/NumberKeeper.java  |   20 +
+ .../demos/demo1/NumberStorageTransaction.java      |   25 +
+ .../tests/demos/demo1/PrimeCalculator.java         |   60 +
+ .../org/prevayler/tests/demos/demo2/Main.java      |   20 +
+ .../prevayler/tests/demos/demo2/MainTransient.java |   13 +
+ .../tests/demos/demo2/business/Account.java        |   95 +
+ .../tests/demos/demo2/business/AccountEntry.java   |   20 +
+ .../demos/demo2/business/AccountListener.java      |    4 +
+ .../prevayler/tests/demos/demo2/business/Bank.java |   59 +
+ .../tests/demos/demo2/business/BankListener.java   |    5 +
+ .../business/transactions/AccountCreation.java     |   17 +
+ .../business/transactions/AccountDeletion.java     |   18 +
+ .../business/transactions/AccountTransaction.java  |   18 +
+ .../business/transactions/BankTransaction.java     |   11 +
+ .../demos/demo2/business/transactions/Deposit.java |   17 +
+ .../demo2/business/transactions/HolderChange.java  |   17 +
+ .../demo2/business/transactions/Transfer.java      |   21 +
+ .../demo2/business/transactions/Withdrawal.java    |   17 +
+ .../org/prevayler/tests/demos/demo3/AddPerson.java |   21 +
+ .../org/prevayler/tests/demos/demo3/Main.java      |   36 +
+ .../prevayler/tests/demos/demo3/PeopleList.java    |   24 +
+ .../org/prevayler/tests/demos/demo3/Person.java    |   21 +
+ .../tests/implementation/AppendingSystem.java      |   28 +
+ .../prevayler/tests/implementation/Appendix.java   |   24 +
+ .../prevayler/src-tests/tests/PrevaylerTest.java   |   32 +
+ .../prevayler/src-tests/tests/TestAll.java         |   11 +
+ .../prevayler/src-tests/tests/TestMain.java        |  190 +
+ .../prevayler/src/org/prevayler/Clock.java         |   12 +
+ .../prevayler/src/org/prevayler/Prevayler.java     |   55 +
+ .../src/org/prevayler/PrevaylerFactory.java        |  629 +
+ .../prevayler/src/org/prevayler/Query.java         |   15 +
+ .../org/prevayler/SureTransactionWithQuery.java    |   13 +
+ .../prevayler/src/org/prevayler/Transaction.java   |   14 +
+ .../src/org/prevayler/TransactionWithQuery.java    |   17 +
+ .../src/org/prevayler/foundation/Chunk.java        |   26 +
+ .../src/org/prevayler/foundation/Chunking.java     |   98 +
+ .../src/org/prevayler/foundation/Cool.java         |   30 +
+ .../src/org/prevayler/foundation/DeepCopier.java   |  106 +
+ .../prevayler/foundation/DurableInputStream.java   |   74 +
+ .../prevayler/foundation/DurableOutputStream.java  |  145 +
+ .../src/org/prevayler/foundation/FileLocker.java   |   67 +
+ .../src/org/prevayler/foundation/FileManager.java  |   14 +
+ .../src/org/prevayler/foundation/Guided.java       |   16 +
+ .../ObjectInputStreamWithClassLoader.java          |   15 +
+ .../src/org/prevayler/foundation/StopWatch.java    |   15 +
+ .../src/org/prevayler/foundation/Turn.java         |   39 +
+ .../gzip/ContinuableGZIPInputStream.java           |   33 +
+ .../gzip/MultiMemberGZIPInputStream.java           |   93 +
+ .../gzip/MultiMemberGZIPOutputStream.java          |   60 +
+ .../foundation/gzip/NonCloseableOutputStream.java  |   48 +
+ .../prevayler/foundation/monitor/Log4jMonitor.java |   56 +
+ .../foundation/monitor/LoggingMonitor.java         |   52 +
+ .../org/prevayler/foundation/monitor/Monitor.java  |   25 +
+ .../prevayler/foundation/monitor/NullMonitor.java  |   29 +
+ .../foundation/monitor/SimpleMonitor.java          |   43 +
+ .../foundation/network/BaseNetworkImpl.java        |   96 +
+ .../org/prevayler/foundation/network/Network.java  |   13 +
+ .../network/NetworkClientObjectReceiverImpl.java   |  119 +
+ .../prevayler/foundation/network/NetworkImpl.java  |   32 +
+ .../foundation/network/NetworkReceiverFactory.java |   14 +
+ .../network/NetworkServerObjectReceiver.java       |   15 +
+ .../network/NetworkServerObjectReceiverImpl.java   |   60 +
+ .../foundation/network/NetworkSessionId.java       |   62 +
+ .../foundation/network/ObjectReceiver.java         |   12 +
+ .../foundation/network/ObjectServerSocket.java     |   11 +
+ .../foundation/network/ObjectServerSocketImpl.java |   36 +
+ .../prevayler/foundation/network/ObjectSocket.java |   13 +
+ .../foundation/network/ObjectSocketImpl.java       |   59 +
+ .../prevayler/foundation/network/OldNetwork.java   |   11 +
+ .../foundation/network/OldNetworkImpl.java         |   28 +
+ .../org/prevayler/foundation/network/Service.java  |    9 +
+ .../foundation/network/SessionsManager.java        |   18 +
+ .../foundation/network/SessionsManagerImpl.java    |   64 +
+ .../network/StubbornClientReceiverImpl.java        |  220 +
+ .../foundation/network/StubbornNetwork.java        |   16 +
+ .../network/StubbornNetworkClientConnector.java    |   11 +
+ .../foundation/network/StubbornNetworkImpl.java    |   74 +
+ .../foundation/network/StubbornNetworkProxy.java   |  137 +
+ .../network/StubbornServerReceiverImpl.java        |  147 +
+ .../foundation/serialization/JavaSerializer.java   |   31 +
+ .../foundation/serialization/Serializer.java       |   28 +
+ .../serialization/SkaringaSerializer.java          |   54 +
+ .../serialization/XStreamSerializer.java           |   63 +
+ .../src/org/prevayler/implementation/Capsule.java  |   74 +
+ .../implementation/PrevalentSystemGuard.java       |  117 +
+ .../implementation/PrevaylerDirectory.java         |  112 +
+ .../prevayler/implementation/PrevaylerImpl.java    |  140 +
+ .../implementation/TransactionCapsule.java         |   20 +
+ .../prevayler/implementation/TransactionGuide.java |   29 +
+ .../implementation/TransactionTimestamp.java       |   43 +
+ .../TransactionWithQueryCapsule.java               |   35 +
+ .../implementation/clock/BrokenClock.java          |   27 +
+ .../implementation/clock/MachineClock.java         |   18 +
+ .../implementation/clock/PausableClock.java        |   29 +
+ .../prevayler/implementation/journal/Journal.java  |   11 +
+ .../implementation/journal/PersistentJournal.java  |  299 +
+ .../implementation/journal/TransientJournal.java   |   49 +
+ .../publishing/AbstractPublisher.java              |   30 +
+ .../publishing/CentralPublisher.java               |  115 +
+ .../prevayler/implementation/publishing/POBox.java |   41 +
+ .../publishing/TransactionPublisher.java           |   27 +
+ .../publishing/TransactionSubscriber.java          |    5 +
+ .../censorship/LiberalTransactionCensor.java       |   15 +
+ .../censorship/StrictTransactionCensor.java        |   69 +
+ .../publishing/censorship/TransactionCensor.java   |    7 +
+ .../replication/ClientPublisher.java               |  183 +
+ .../replication/ServerConnection.java              |  146 +
+ .../implementation/replication/ServerListener.java |   45 +
+ .../snapshot/GenericSnapshotManager.java           |  119 +
+ .../snapshot/NullSnapshotManager.java              |   26 +
+ src-subjects/prevayler/src/splat/Main.java         |   82 +
+ src-subjects/zipme/.classpath                      |   11 +
+ src-subjects/zipme/.gitignore                      |    6 +
+ src-subjects/zipme/.project                        |   17 +
+ .../zipme/.settings/org.eclipse.jdt.core.prefs     |  281 +
+ .../zipme/.settings/org.eclipse.jdt.ui.prefs       |    3 +
+ src-subjects/zipme/model.m                         |   12 +
+ src-subjects/zipme/modified-model.m                |   10 +
+ src-subjects/zipme/repair.txt                      |  300 +
+ src-subjects/zipme/s                               |   38 +
+ .../src-tests/tests/Addler32CheckSumTest.java      |   81 +
+ .../src-tests/tests/CompressAdlerCSTests.java      |   71 +
+ .../zipme/src-tests/tests/DerivGZIPEXTRTest.java   |  103 +
+ .../zipme/src-tests/tests/DerivGZIPEXTRTest2.java  |  123 +
+ .../zipme/src-tests/tests/Example_Paulo.java       |  183 +
+ .../zipme/src-tests/tests/Example_Paulo2.java      |  233 +
+ .../zipme/src-tests/tests/ExtractTest.java         |   68 +
+ src-subjects/zipme/src-tests/tests/FirstSuit.java  |  195 +
+ src-subjects/zipme/src-tests/tests/GZIPtest.java   |   46 +
+ .../zipme/src-tests/tests/LitleFeatures.java       |  163 +
+ src-subjects/zipme/src-tests/tests/TestAll.java    |   20 +
+ .../zipme/src-tests/tests/TestInputStream.java     |   35 +
+ src-subjects/zipme/src-tests/tests/Teste.txt       |  Bin 0 -> 144 bytes
+ src-subjects/zipme/src-tests/tests/ZipMeTest.java  |   59 +
+ .../zipme/src-tests/tests/ZipMeTest.java.zip       |  Bin 0 -> 76 bytes
+ src-subjects/zipme/src-tests/tests/banco.gz        |  Bin 0 -> 38829 bytes
+ src-subjects/zipme/src-tests/tests/file.txt        |  Bin 0 -> 8 bytes
+ src-subjects/zipme/src/net/sf/zipme/Adler32.java   |  147 +
+ src-subjects/zipme/src/net/sf/zipme/CRC32.java     |  119 +
+ .../zipme/src/net/sf/zipme/CheckedInputStream.java |  171 +
+ .../src/net/sf/zipme/CheckedOutputStream.java      |  112 +
+ src-subjects/zipme/src/net/sf/zipme/Checksum.java  |   41 +
+ .../src/net/sf/zipme/DataFormatException.java      |   40 +
+ src-subjects/zipme/src/net/sf/zipme/Deflater.java  |  473 +
+ .../zipme/src/net/sf/zipme/DeflaterConstants.java  |   34 +
+ .../zipme/src/net/sf/zipme/DeflaterEngine.java     |  584 +
+ .../zipme/src/net/sf/zipme/DeflaterHuffman.java    |  624 +
+ .../src/net/sf/zipme/DeflaterOutputStream.java     |  202 +
+ .../zipme/src/net/sf/zipme/DeflaterPending.java    |   23 +
+ .../zipme/src/net/sf/zipme/Deflater_deflate2.java  |  108 +
+ .../zipme/src/net/sf/zipme/GZIPInputStream.java    |  280 +
+ .../zipme/src/net/sf/zipme/GZIPOutputStream.java   |  115 +
+ .../src/net/sf/zipme/GZIPOutputStream_hook22.java  |   33 +
+ src-subjects/zipme/src/net/sf/zipme/Inflater.java  |  718 +
+ .../zipme/src/net/sf/zipme/InflaterDynHeader.java  |  138 +
+ .../src/net/sf/zipme/InflaterHuffmanTree.java      |  158 +
+ .../src/net/sf/zipme/InflaterInputStream.java      |  252 +
+ .../zipme/src/net/sf/zipme/OutputWindow.java       |  136 +
+ .../zipme/src/net/sf/zipme/PendingBuffer.java      |  185 +
+ .../zipme/src/net/sf/zipme/StreamManipulator.java  |  174 +
+ .../zipme/src/net/sf/zipme/ZipArchive.java         |  301 +
+ .../sf/zipme/ZipArchive_InflaterInputStream.java   |   37 +
+ .../sf/zipme/ZipArchive_PartialInputStream.java    |  129 +
+ .../zipme/src/net/sf/zipme/ZipConstants.java       |   47 +
+ src-subjects/zipme/src/net/sf/zipme/ZipEntry.java  |  415 +
+ .../zipme/src/net/sf/zipme/ZipException.java       |   45 +
+ .../zipme/src/net/sf/zipme/ZipInputStream.java     |  426 +
+ .../zipme/src/net/sf/zipme/ZipOutputStream.java    |  435 +
+ src-subjects/zipme/src/net/test/GZIPTest.java      |   76 +
+ src-subjects/zipme/src/net/test/ZipMETest.java     |   83 +
+ .../internal/runners/statements/FailOnTimeout.java |   86 +
+ src-subjects/zipme/src/splat/Main.java             |   84 +
+ src-subjects/zipme/valid-configurations.txt        |   24 +
+ src-subjects/zipme/zipme_model.txt                 |   12 +
+ src/sampling/Sampling.java                         |    3 +-
+ src/splat/DesktopSearcherVariables.java            |  227 +
+ src/splat/ElevatorVariables.java                   |  127 +
+ src/splat/EmailVariables.java                      |  154 +
+ src/splat/MinePumpVariables.java                   |  143 +
+ src/splat/PrevaylerVariables.java                  |  117 +
+ src/splat/ZipMeVariables.java                      |  210 +
+ 430 files changed, 167081 insertions(+), 96 deletions(-)
+
+commit 295b8480990984878d2ec5a1bf9e357f85a86717
+Author: Sabrina Souto <sfs@cin.ufpe.br>
+Date:   Fri Apr 22 14:45:15 2016 -0300
+
+    updating results
+
+ paper/eval.tex                               |   36 +++-
+ paper/main.aux                               |   38 +++-
+ paper/main.bbl                               |   77 ++++++-
+ paper/main.blg                               |   69 +++---
+ paper/main.log                               |   84 ++++++--
+ paper/main.pdf                               |  Bin 113513 -> 146940 bytes
+ paper/plots/effort.data                      |   17 ++
+ paper/plots/effort.pdf                       |  Bin 0 -> 5405 bytes
+ paper/plots/effort.r                         |   80 +++++++
+ paper/plots/effort1.pdf                      |  Bin 0 -> 5382 bytes
+ paper/plots/genbarplot.sh                    |    4 +
+ paper/plots/genplot.sh                       |    4 +
+ paper/plots/stack.data                       |    4 +
+ paper/plots/stack.pdf                        |  Bin 0 -> 4555 bytes
+ paper/plots/stackplot.r                      |   31 +++
+ paper/results_companies.tex                  |   81 ++++----
+ paper/subjectsTable.tex                      |   26 +++
+ plots/effort.data                            |   13 --
+ plots/effort.pdf                             |  Bin 5279 -> 0 bytes
+ plots/effort.r                               |   60 ------
+ plots/genplot.sh                             |    4 -
+ src-subjects/companies/results_companies.txt |   78 +++----
+ src-subjects/companies/src/splat/Main.java   |  289 +++++++++++++-------------
+ 23 files changed, 643 insertions(+), 352 deletions(-)
+
+commit 38195cb3c5dd6272a26be99b6532d49590883e35
+Author: Sabrina Souto <sfs@cin.ufpe.br>
+Date:   Tue Apr 19 23:16:12 2016 -0300
+
+    removing xstream
+
+ paper/main.log                                     |    8 +-
+ paper/main.pdf                                     |  Bin 118891 -> 113513 bytes
+ paper/results_jtopas.tex                           |   54 +-
+ plots/effort.data                                  |    6 +-
+ plots/effort.pdf                                   |  Bin 4983 -> 5279 bytes
+ plots/effort.r                                     |   34 +-
+ src-subjects/jtopas/results_jtopas.txt             |   53 +-
+ src-subjects/jtopas/src-tests/tests/TestAll.java   |    8 +-
+ .../src-tests/tests/TestDifficultSituations.java   | 1827 +------------------
+ .../jtopas/src-tests/tests/TestTokenizerFlags.java |  128 +-
+ src-subjects/jtopas/src/splat/Main.java            |  288 +--
+ src-subjects/xstream/.classpath                    |   37 -
+ src-subjects/xstream/.gitignore                    |    6 -
+ src-subjects/xstream/.project                      |   17 -
+ .../xstream/.settings/org.eclipse.jdt.core.prefs   |  291 ----
+ .../xstream/.settings/org.eclipse.jdt.ui.prefs     |    3 -
+ src-subjects/xstream/libs/cglib-nodep-2.2.jar      |  Bin 322362 -> 0 bytes
+ src-subjects/xstream/libs/commons-lang-2.4.jar     |  Bin 261809 -> 0 bytes
+ src-subjects/xstream/libs/dom4j-1.6.1.jar          |  Bin 313898 -> 0 bytes
+ src-subjects/xstream/libs/jdom-1.1.jar             |  Bin 153115 -> 0 bytes
+ src-subjects/xstream/libs/jettison-1.2.jar         |  Bin 72478 -> 0 bytes
+ src-subjects/xstream/libs/jmock-1.0.1.jar          |  Bin 69288 -> 0 bytes
+ src-subjects/xstream/libs/joda-time-1.6.jar        |  Bin 534827 -> 0 bytes
+ src-subjects/xstream/libs/json-20080701.jar        |  Bin 37875 -> 0 bytes
+ src-subjects/xstream/libs/junit-4.11.jar           |  Bin 245039 -> 0 bytes
+ src-subjects/xstream/libs/kxml2-2.3.0.jar          |  Bin 43858 -> 0 bytes
+ src-subjects/xstream/libs/kxml2-min-2.3.0.jar      |  Bin 10649 -> 0 bytes
+ src-subjects/xstream/libs/oro-2.0.8.jar            |  Bin 65261 -> 0 bytes
+ src-subjects/xstream/libs/stax-1.2.0.jar           |  Bin 179346 -> 0 bytes
+ src-subjects/xstream/libs/stax-api-1.0.1.jar       |  Bin 26514 -> 0 bytes
+ src-subjects/xstream/libs/wstx-asl-3.2.7.jar       |  Bin 520969 -> 0 bytes
+ src-subjects/xstream/libs/xml-writer-0.2.jar       |  Bin 5234 -> 0 bytes
+ src-subjects/xstream/libs/xmlpull-1.1.3.1.jar      |  Bin 7188 -> 0 bytes
+ src-subjects/xstream/libs/xom-1.1.jar              |  Bin 431568 -> 0 bytes
+ src-subjects/xstream/libs/xpp3_min-1.1.4c.jar      |  Bin 24956 -> 0 bytes
+ src-subjects/xstream/model.m                       |    2 -
+ src-subjects/xstream/modified-model.m              |    1 -
+ .../xstream/resultsScenario123_xstream.txt         |   52 -
+ src-subjects/xstream/s                             |   38 -
+ src-subjects/xstream/splat                         |   23 -
+ src-subjects/xstream/src-tests/tests/TestAll.java  |  172 --
+ src-subjects/xstream/src-tests/tests/TestMain.java |   89 -
+ .../xstream/src-tests/tests/TestSPLat.java         |   39 -
+ .../xstream/src-tests/tests/XStreamTest.java       |   36 -
+ .../xstream/src/com/chpkim/DummyClass.java         |    5 -
+ src-subjects/xstream/src/com/chpkim/Employee.java  |   48 -
+ .../xstream/src/com/chpkim/PhoneNumber.java        |   11 -
+ .../xstream/src/com/chpkim/Placeholder.java        |   29 -
+ .../xstream/src/com/chpkim/TelephoneBook.java      |   19 -
+ .../xstream/src/com/chpkim/XstreamExample.java     |  351 ----
+ .../xstream/InitializationException.java           |   28 -
+ .../thoughtworks/xstream/MarshallingStrategy.java  |   24 -
+ .../src/com/thoughtworks/xstream/XStream.java      | 1843 --------------------
+ .../com/thoughtworks/xstream/XStreamException.java |   73 -
+ .../src/com/thoughtworks/xstream/XStreamer.java    |  166 --
+ .../xstream/annotations/AnnotationProvider.java    |   39 -
+ .../annotations/AnnotationReflectionConverter.java |  115 --
+ .../xstream/annotations/Annotations.java           |   50 -
+ .../xstream/annotations/XStreamAlias.java          |   33 -
+ .../xstream/annotations/XStreamAsAttribute.java    |   29 -
+ .../xstream/annotations/XStreamContainedType.java  |   32 -
+ .../xstream/annotations/XStreamConverter.java      |   69 -
+ .../xstream/annotations/XStreamConverters.java     |   27 -
+ .../xstream/annotations/XStreamImplicit.java       |   37 -
+ .../annotations/XStreamImplicitCollection.java     |   29 -
+ .../xstream/annotations/XStreamInclude.java        |   29 -
+ .../xstream/annotations/XStreamOmitField.java      |   29 -
+ .../xstream/converters/ConversionException.java    |  110 --
+ .../thoughtworks/xstream/converters/Converter.java |   66 -
+ .../xstream/converters/ConverterLookup.java        |   29 -
+ .../xstream/converters/ConverterMatcher.java       |   33 -
+ .../xstream/converters/ConverterRegistry.java      |   23 -
+ .../xstream/converters/DataHolder.java             |   27 -
+ .../xstream/converters/ErrorReporter.java          |   29 -
+ .../xstream/converters/ErrorWriter.java            |   61 -
+ .../xstream/converters/MarshallingContext.java     |   30 -
+ .../xstream/converters/SingleValueConverter.java   |   42 -
+ .../converters/SingleValueConverterWrapper.java    |   58 -
+ .../xstream/converters/UnmarshallingContext.java   |   29 -
+ .../basic/AbstractSingleValueConverter.java        |   35 -
+ .../converters/basic/BigDecimalConverter.java      |   32 -
+ .../converters/basic/BigIntegerConverter.java      |   31 -
+ .../xstream/converters/basic/BooleanConverter.java |   64 -
+ .../xstream/converters/basic/ByteConverter.java    |   34 -
+ .../xstream/converters/basic/CharConverter.java    |   60 -
+ .../xstream/converters/basic/DateConverter.java    |  179 --
+ .../xstream/converters/basic/DoubleConverter.java  |   30 -
+ .../xstream/converters/basic/FloatConverter.java   |   30 -
+ .../xstream/converters/basic/IntConverter.java     |   34 -
+ .../xstream/converters/basic/LongConverter.java    |   30 -
+ .../xstream/converters/basic/NullConverter.java    |   41 -
+ .../xstream/converters/basic/ShortConverter.java   |   34 -
+ .../converters/basic/StringBufferConverter.java    |   28 -
+ .../converters/basic/StringBuilderConverter.java   |   27 -
+ .../xstream/converters/basic/StringConverter.java  |  103 --
+ .../xstream/converters/basic/URIConverter.java     |   37 -
+ .../xstream/converters/basic/URLConverter.java     |   38 -
+ .../xstream/converters/basic/UUIDConverter.java    |   37 -
+ .../xstream/converters/basic/package.html          |   22 -
+ .../collections/AbstractCollectionConverter.java   |   84 -
+ .../converters/collections/ArrayConverter.java     |   69 -
+ .../converters/collections/BitSetConverter.java    |   61 -
+ .../converters/collections/CharArrayConverter.java |   40 -
+ .../collections/CollectionConverter.java           |   82 -
+ .../converters/collections/MapConverter.java       |   95 -
+ .../collections/PropertiesConverter.java           |  116 --
+ .../collections/SingletonCollectionConverter.java  |   57 -
+ .../collections/SingletonMapConverter.java         |   61 -
+ .../converters/collections/TreeMapConverter.java   |  159 --
+ .../converters/collections/TreeSetConverter.java   |  152 --
+ .../xstream/converters/collections/package.html    |   17 -
+ .../xstream/converters/enums/EnumConverter.java    |   50 -
+ .../xstream/converters/enums/EnumMapConverter.java |   92 -
+ .../xstream/converters/enums/EnumSetConverter.java |  118 --
+ .../converters/enums/EnumSingleValueConverter.java |   50 -
+ .../converters/extended/CharsetConverter.java      |   37 -
+ .../converters/extended/ColorConverter.java        |   66 -
+ .../converters/extended/CurrencyConverter.java     |   35 -
+ .../converters/extended/DurationConverter.java     |   58 -
+ .../converters/extended/DynamicProxyConverter.java |  123 --
+ .../extended/EncodedByteArrayConverter.java        |   83 -
+ .../xstream/converters/extended/FileConverter.java |   38 -
+ .../xstream/converters/extended/FontConverter.java |   52 -
+ .../extended/GregorianCalendarConverter.java       |   69 -
+ .../converters/extended/ISO8601DateConverter.java  |   40 -
+ .../ISO8601GregorianCalendarConverter.java         |  120 --
+ .../extended/ISO8601SqlTimestampConverter.java     |   61 -
+ .../converters/extended/JavaClassConverter.java    |   69 -
+ .../converters/extended/JavaFieldConverter.java    |   74 -
+ .../converters/extended/JavaMethodConverter.java   |  115 --
+ .../converters/extended/LocaleConverter.java       |   58 -
+ .../converters/extended/LookAndFeelConverter.java  |   46 -
+ .../extended/PropertyEditorCapableConverter.java   |   49 -
+ .../converters/extended/RegexPatternConverter.java |   46 -
+ .../converters/extended/SqlDateConverter.java      |   33 -
+ .../converters/extended/SqlTimeConverter.java      |   33 -
+ .../converters/extended/SqlTimestampConverter.java |   33 -
+ .../extended/StackTraceElementConverter.java       |   70 -
+ .../extended/StackTraceElementFactory.java         |   62 -
+ .../converters/extended/SubjectConverter.java      |  113 --
+ .../extended/TextAttributeConverter.java           |   35 -
+ .../converters/extended/ThrowableConverter.java    |   54 -
+ .../extended/ToAttributedValueConverter.java       |  305 ----
+ .../converters/extended/ToStringConverter.java     |   54 -
+ .../xstream/converters/extended/package.html       |   14 -
+ .../xstream/converters/javabean/BeanProperty.java  |  136 --
+ .../xstream/converters/javabean/BeanProvider.java  |  191 --
+ .../javabean/ComparingPropertySorter.java          |   37 -
+ .../converters/javabean/JavaBeanConverter.java     |  175 --
+ .../converters/javabean/JavaBeanProvider.java      |   41 -
+ .../converters/javabean/NativePropertySorter.java  |   29 -
+ .../converters/javabean/PropertyDictionary.java    |  128 --
+ .../converters/javabean/PropertySorter.java        |   41 -
+ ...ributedCharacterIteratorAttributeConverter.java |   98 --
+ .../reflection/AbstractReflectionConverter.java    |  574 ------
+ .../reflection/CGLIBEnhancedConverter.java         |  475 -----
+ .../reflection/ExternalizableConverter.java        |  152 --
+ .../converters/reflection/FieldDictionary.java     |  196 ---
+ .../xstream/converters/reflection/FieldKey.java    |   92 -
+ .../converters/reflection/FieldKeySorter.java      |   40 -
+ .../reflection/ImmutableFieldKeySorter.java        |   27 -
+ .../reflection/MissingFieldException.java          |   54 -
+ .../reflection/NativeFieldKeySorter.java           |   44 -
+ .../reflection/ObjectAccessException.java          |   24 -
+ .../reflection/PureJavaReflectionProvider.java     |  193 --
+ .../converters/reflection/ReflectionConverter.java |   25 -
+ .../converters/reflection/ReflectionProvider.java  |   63 -
+ .../reflection/ReflectionProviderWrapper.java      |   53 -
+ .../reflection/SelfStreamingInstanceChecker.java   |   53 -
+ .../reflection/SerializableConverter.java          |  455 -----
+ .../reflection/SerializationMethodInvoker.java     |  176 --
+ .../reflection/SortableFieldKeySorter.java         |   97 --
+ .../reflection/Sun14ReflectionProvider.java        |  167 --
+ .../reflection/XStream12FieldKeySorter.java        |   44 -
+ .../xstream/core/AbstractReferenceMarshaller.java  |  144 --
+ .../core/AbstractReferenceUnmarshaller.java        |   76 -
+ .../core/AbstractTreeMarshallingStrategy.java      |   45 -
+ .../thoughtworks/xstream/core/BaseException.java   |   27 -
+ .../src/com/thoughtworks/xstream/core/Caching.java |   21 -
+ .../xstream/core/DefaultConverterLookup.java       |   89 -
+ .../src/com/thoughtworks/xstream/core/JVM.java     |  366 ----
+ .../xstream/core/MapBackedDataHolder.java          |   43 -
+ .../xstream/core/ReferenceByIdMarshaller.java      |   55 -
+ .../core/ReferenceByIdMarshallingStrategy.java     |   30 -
+ .../xstream/core/ReferenceByIdUnmarshaller.java    |   33 -
+ .../xstream/core/ReferenceByXPathMarshaller.java   |   41 -
+ .../core/ReferenceByXPathMarshallingStrategy.java  |   39 -
+ .../xstream/core/ReferenceByXPathUnmarshaller.java |   44 -
+ .../core/ReferencingMarshallingContext.java        |   62 -
+ .../xstream/core/SequenceGenerator.java            |   26 -
+ .../thoughtworks/xstream/core/TreeMarshaller.java  |  118 --
+ .../xstream/core/TreeMarshallingStrategy.java      |   30 -
+ .../xstream/core/TreeUnmarshaller.java             |  147 --
+ .../xstream/core/util/ArrayIterator.java           |   41 -
+ .../xstream/core/util/Base64Encoder.java           |   94 -
+ .../xstream/core/util/ClassLoaderReference.java    |   53 -
+ .../thoughtworks/xstream/core/util/Cloneables.java |   62 -
+ .../xstream/core/util/CompositeClassLoader.java    |  142 --
+ .../xstream/core/util/CustomObjectInputStream.java |  289 ---
+ .../core/util/CustomObjectOutputStream.java        |  228 ---
+ .../core/util/DependencyInjectionFactory.java      |  229 ---
+ .../thoughtworks/xstream/core/util/FastField.java  |   60 -
+ .../thoughtworks/xstream/core/util/FastStack.java  |   90 -
+ .../com/thoughtworks/xstream/core/util/Fields.java |   57 -
+ .../xstream/core/util/HierarchicalStreams.java     |   48 -
+ .../xstream/core/util/ObjectIdDictionary.java      |  122 --
+ .../xstream/core/util/OrderRetainingMap.java       |   83 -
+ .../com/thoughtworks/xstream/core/util/Pool.java   |   76 -
+ .../xstream/core/util/PresortedMap.java            |  170 --
+ .../xstream/core/util/PresortedSet.java            |  125 --
+ .../thoughtworks/xstream/core/util/Primitives.java |  114 --
+ .../xstream/core/util/PrioritizedList.java         |   96 -
+ .../xstream/core/util/QuickWriter.java             |  108 --
+ .../core/util/ThreadSafePropertyEditor.java        |   85 -
+ .../core/util/ThreadSafeSimpleDateFormat.java      |   85 -
+ .../thoughtworks/xstream/core/util/TypedNull.java  |   33 -
+ .../thoughtworks/xstream/core/util/WeakCache.java  |  201 ---
+ .../xstream/core/util/XmlHeaderAwareReader.java    |  286 ---
+ .../thoughtworks/xstream/io/AbstractDriver.java    |   79 -
+ .../thoughtworks/xstream/io/AbstractReader.java    |  103 --
+ .../thoughtworks/xstream/io/AbstractWriter.java    |   84 -
+ .../xstream/io/AttributeNameIterator.java          |   44 -
+ .../io/ExtendedHierarchicalStreamReader.java       |   26 -
+ .../io/ExtendedHierarchicalStreamWriter.java       |   21 -
+ .../io/ExtendedHierarchicalStreamWriterHelper.java |   22 -
+ .../xstream/io/HierarchicalStreamDriver.java       |   85 -
+ .../xstream/io/HierarchicalStreamReader.java       |  106 --
+ .../xstream/io/HierarchicalStreamWriter.java       |   60 -
+ .../com/thoughtworks/xstream/io/ReaderWrapper.java |   89 -
+ .../thoughtworks/xstream/io/StatefulWriter.java    |  176 --
+ .../thoughtworks/xstream/io/StreamException.java   |   31 -
+ .../com/thoughtworks/xstream/io/WriterWrapper.java |   60 -
+ .../xstream/io/binary/BinaryStreamDriver.java      |   57 -
+ .../xstream/io/binary/BinaryStreamReader.java      |  223 ---
+ .../xstream/io/binary/BinaryStreamWriter.java      |  101 --
+ .../xstream/io/binary/ReaderDepthState.java        |  149 --
+ .../com/thoughtworks/xstream/io/binary/Token.java  |  312 ----
+ .../xstream/io/copy/HierarchicalStreamCopier.java  |   52 -
+ .../xstream/io/json/AbstractJsonWriter.java        |  621 -------
+ .../xstream/io/json/JettisonMappedXmlDriver.java   |  146 --
+ .../xstream/io/json/JettisonStaxWriter.java        |  105 --
+ .../io/json/JsonHierarchicalStreamDriver.java      |   86 -
+ .../io/json/JsonHierarchicalStreamWriter.java      |   62 -
+ .../thoughtworks/xstream/io/json/JsonWriter.java   |  406 -----
+ .../thoughtworks/xstream/io/naming/NameCoder.java  |   76 -
+ .../xstream/io/naming/NameCoderWrapper.java        |   61 -
+ .../xstream/io/naming/NoNameCoder.java             |   54 -
+ .../xstream/io/naming/StaticNameCoder.java         |  105 --
+ .../src/com/thoughtworks/xstream/io/path/Path.java |  219 ---
+ .../thoughtworks/xstream/io/path/PathTracker.java  |  176 --
+ .../xstream/io/path/PathTrackingReader.java        |   51 -
+ .../xstream/io/path/PathTrackingWriter.java        |   51 -
+ .../com/thoughtworks/xstream/io/path/package.html  |   43 -
+ .../xstream/io/xml/AbstractDocumentReader.java     |   97 --
+ .../xstream/io/xml/AbstractDocumentWriter.java     |  116 --
+ .../xstream/io/xml/AbstractPullReader.java         |  231 ---
+ .../xstream/io/xml/AbstractXmlDriver.java          |   64 -
+ .../xstream/io/xml/AbstractXmlReader.java          |   66 -
+ .../xstream/io/xml/AbstractXmlWriter.java          |   54 -
+ .../xstream/io/xml/AbstractXppDomDriver.java       |   99 --
+ .../xstream/io/xml/AbstractXppDriver.java          |   94 -
+ .../thoughtworks/xstream/io/xml/BEAStaxDriver.java |   51 -
+ .../thoughtworks/xstream/io/xml/CompactWriter.java |   63 -
+ .../xstream/io/xml/DocumentReader.java             |   31 -
+ .../xstream/io/xml/DocumentWriter.java             |   40 -
+ .../thoughtworks/xstream/io/xml/Dom4JDriver.java   |  151 --
+ .../thoughtworks/xstream/io/xml/Dom4JReader.java   |  114 --
+ .../thoughtworks/xstream/io/xml/Dom4JWriter.java   |  111 --
+ .../xstream/io/xml/Dom4JXmlWriter.java             |  137 --
+ .../com/thoughtworks/xstream/io/xml/DomDriver.java |  124 --
+ .../com/thoughtworks/xstream/io/xml/DomReader.java |  140 --
+ .../com/thoughtworks/xstream/io/xml/DomWriter.java |  106 --
+ .../thoughtworks/xstream/io/xml/JDomDriver.java    |  113 --
+ .../thoughtworks/xstream/io/xml/JDomReader.java    |  122 --
+ .../thoughtworks/xstream/io/xml/JDomWriter.java    |  114 --
+ .../xstream/io/xml/KXml2DomDriver.java             |   52 -
+ .../thoughtworks/xstream/io/xml/KXml2Driver.java   |   54 -
+ .../xstream/io/xml/PrettyPrintWriter.java          |  352 ----
+ .../com/thoughtworks/xstream/io/xml/QNameMap.java  |  101 --
+ .../com/thoughtworks/xstream/io/xml/SaxWriter.java |  724 --------
+ .../thoughtworks/xstream/io/xml/SjsxpDriver.java   |   70 -
+ .../thoughtworks/xstream/io/xml/StaxDriver.java    |  214 ---
+ .../thoughtworks/xstream/io/xml/StaxReader.java    |  115 --
+ .../thoughtworks/xstream/io/xml/StaxWriter.java    |  227 ---
+ .../thoughtworks/xstream/io/xml/TraxSource.java    |  297 ----
+ .../thoughtworks/xstream/io/xml/WstxDriver.java    |   51 -
+ .../xstream/io/xml/XStream11NameCoder.java         |   37 -
+ .../io/xml/XStream11XmlFriendlyReplacer.java       |   58 -
+ .../xstream/io/xml/XmlFriendlyNameCoder.java       |  323 ----
+ .../xstream/io/xml/XmlFriendlyReader.java          |   33 -
+ .../xstream/io/xml/XmlFriendlyReplacer.java        |   73 -
+ .../xstream/io/xml/XmlFriendlyWriter.java          |   32 -
+ .../com/thoughtworks/xstream/io/xml/XomDriver.java |  139 --
+ .../com/thoughtworks/xstream/io/xml/XomReader.java |  120 --
+ .../com/thoughtworks/xstream/io/xml/XomWriter.java |   68 -
+ .../thoughtworks/xstream/io/xml/Xpp3DomDriver.java |   52 -
+ .../thoughtworks/xstream/io/xml/Xpp3Driver.java    |   54 -
+ .../thoughtworks/xstream/io/xml/XppDomDriver.java  |   59 -
+ .../thoughtworks/xstream/io/xml/XppDomReader.java  |   98 --
+ .../thoughtworks/xstream/io/xml/XppDomWriter.java  |   84 -
+ .../com/thoughtworks/xstream/io/xml/XppDriver.java |   61 -
+ .../com/thoughtworks/xstream/io/xml/XppReader.java |  166 --
+ .../xstream/io/xml/xppdom/Xpp3Dom.java             |   30 -
+ .../xstream/io/xml/xppdom/Xpp3DomBuilder.java      |   39 -
+ .../thoughtworks/xstream/io/xml/xppdom/XppDom.java |  239 ---
+ .../xstream/io/xml/xppdom/XppDomComparator.java    |  158 --
+ .../xstream/io/xml/xppdom/XppFactory.java          |   85 -
+ .../mapper/AbstractAttributeAliasingMapper.java    |   46 -
+ .../xstream/mapper/AbstractXmlFriendlyMapper.java  |  109 --
+ .../xstream/mapper/AnnotationConfiguration.java    |   25 -
+ .../xstream/mapper/AnnotationMapper.java           |  560 ------
+ .../thoughtworks/xstream/mapper/ArrayMapper.java   |   95 -
+ .../xstream/mapper/AttributeAliasingMapper.java    |   38 -
+ .../xstream/mapper/AttributeMapper.java            |  171 --
+ .../thoughtworks/xstream/mapper/CGLIBMapper.java   |   57 -
+ .../thoughtworks/xstream/mapper/CachingMapper.java |   58 -
+ .../mapper/CannotResolveClassException.java        |   33 -
+ .../xstream/mapper/ClassAliasingMapper.java        |  102 --
+ .../mapper/DefaultImplementationsMapper.java       |   83 -
+ .../thoughtworks/xstream/mapper/DefaultMapper.java |  170 --
+ .../xstream/mapper/DynamicProxyMapper.java         |   64 -
+ .../thoughtworks/xstream/mapper/EnumMapper.java    |  123 --
+ .../xstream/mapper/FieldAliasingMapper.java        |   79 -
+ .../xstream/mapper/ImmutableTypesMapper.java       |   43 -
+ .../xstream/mapper/ImplicitCollectionMapper.java   |  297 ----
+ .../xstream/mapper/LocalConversionMapper.java      |   85 -
+ .../com/thoughtworks/xstream/mapper/Mapper.java    |  176 --
+ .../thoughtworks/xstream/mapper/MapperWrapper.java |  135 --
+ .../xstream/mapper/OuterClassMapper.java           |   47 -
+ .../xstream/mapper/PackageAliasingMapper.java      |  105 --
+ .../mapper/SystemAttributeAliasingMapper.java      |   36 -
+ .../xstream/mapper/XStream11XmlFriendlyMapper.java |   48 -
+ .../xstream/mapper/XmlFriendlyMapper.java          |   61 -
+ .../AbstractFilePersistenceStrategy.java           |  216 ---
+ .../persistence/FilePersistenceStrategy.java       |  159 --
+ .../xstream/persistence/FileStreamStrategy.java    |  104 --
+ .../xstream/persistence/PersistenceStrategy.java   |   34 -
+ .../xstream/persistence/StreamStrategy.java        |   21 -
+ .../xstream/persistence/XmlArrayList.java          |   77 -
+ .../thoughtworks/xstream/persistence/XmlMap.java   |   71 -
+ .../thoughtworks/xstream/persistence/XmlSet.java   |   56 -
+ src-subjects/xstream/src/splat/Main.java           |   91 -
+ src-subjects/xstream/target/test-data/test.xml     |    4 -
+ .../AbsoluteSingleNodeXPathReferenceTest.java      |  171 --
+ .../acceptance/AbsoluteXPathReferenceTest.java     |  171 --
+ .../acceptance/AbstractAcceptanceTest.java         |  212 ---
+ .../acceptance/AbstractReferenceTest.java          |  474 -----
+ .../com/thoughtworks/acceptance/AliasTest.java     |  372 ----
+ .../com/thoughtworks/acceptance/ArraysTest.java    |  267 ---
+ .../com/thoughtworks/acceptance/AttributeTest.java |  380 ----
+ .../thoughtworks/acceptance/Basic15TypesTest.java  |   30 -
+ .../thoughtworks/acceptance/BasicTypesTest.java    |  101 --
+ .../acceptance/BeanIDCircularReferenceTest.java    |  129 --
+ .../thoughtworks/acceptance/BooleanFieldsTest.java |  113 --
+ .../acceptance/BufferedImagesTest.java             |   89 -
+ .../acceptance/CglibCompatibilityTest.java         |  401 -----
+ .../thoughtworks/acceptance/ClassLoaderTest.java   |   30 -
+ .../thoughtworks/acceptance/CollectionsTest.java   |  395 -----
+ .../acceptance/ConcreteClassesTest.java            |  116 --
+ .../thoughtworks/acceptance/ConcurrencyTest.java   |  105 --
+ .../thoughtworks/acceptance/CustomClassesTest.java |  324 ----
+ .../acceptance/CustomConverterTest.java            |   74 -
+ .../acceptance/CustomFieldKeySorterTest.java       |   81 -
+ .../thoughtworks/acceptance/CustomMapperTest.java  |  203 ---
+ .../acceptance/CustomSerializationTest.java        |  522 ------
+ .../thoughtworks/acceptance/DataHolderTest.java    |   79 -
+ .../acceptance/DefaultImplementationTest.java      |  109 --
+ .../thoughtworks/acceptance/DynamicProxyTest.java  |   91 -
+ .../thoughtworks/acceptance/EncodingTestSuite.java |  141 --
+ .../com/thoughtworks/acceptance/ErrorTest.java     |   99 --
+ .../acceptance/Extended14TypesTest.java            |  124 --
+ .../thoughtworks/acceptance/ExtendedTypesTest.java |  134 --
+ .../acceptance/ExternalizableTest.java             |  201 ---
+ .../thoughtworks/acceptance/FinalFieldsTest.java   |   50 -
+ .../thoughtworks/acceptance/IDReferenceTest.java   |  114 --
+ .../thoughtworks/acceptance/ImplicitArrayTest.java |  497 ------
+ .../acceptance/ImplicitCollectionTest.java         |  465 -----
+ .../thoughtworks/acceptance/ImplicitMapTest.java   |  505 ------
+ .../thoughtworks/acceptance/InheritanceTest.java   |  167 --
+ .../thoughtworks/acceptance/InnerClassesTest.java  |   68 -
+ .../thoughtworks/acceptance/JodaTimeTypesTest.java |   47 -
+ .../acceptance/LocalConverterTest.java             |  106 --
+ .../com/thoughtworks/acceptance/MapTest.java       |  266 ---
+ .../acceptance/MultipleObjectsInOneStreamTest.java |  306 ----
+ .../thoughtworks/acceptance/OmitFieldsTest.java    |  283 ---
+ .../thoughtworks/acceptance/PersistenceTest.java   |  112 --
+ .../acceptance/QNameMappedConcreteClassesTest.java |  145 --
+ .../thoughtworks/acceptance/ReadResolveTest.java   |   55 -
+ .../acceptance/ReflectionClassesTest.java          |  130 --
+ .../RelativeSingleNodeXPathReferenceTest.java      |  116 --
+ .../acceptance/RelativeXPathReferenceTest.java     |  206 ---
+ .../acceptance/SecurityManagerTest.java            |  184 --
+ .../acceptance/SerializationCallbackOrderTest.java |  423 -----
+ .../SerializationNestedWriteObjectsTest.java       |  295 ----
+ .../acceptance/SortableFieldListTest.java          |   63 -
+ .../com/thoughtworks/acceptance/SwingTest.java     |   63 -
+ .../acceptance/TreeMapAndTreeSetTest.java          |  197 ---
+ .../thoughtworks/acceptance/WriteReplaceTest.java  |  286 ---
+ .../acceptance/XStream11XmlFriendlyTest.java       |  136 --
+ .../acceptance/XStream12CompatibilityTest.java     |  161 --
+ .../acceptance/XStream13CompatibilityTest.java     |   55 -
+ .../com/thoughtworks/acceptance/XStreamer.xsl      |   32 -
+ .../com/thoughtworks/acceptance/XStreamerTest.java |   85 -
+ .../acceptance/annotations/AliasTest.java          |  293 ----
+ .../acceptance/annotations/AnnotationsTest.java    |  187 --
+ .../acceptance/annotations/AttributesTest.java     |   62 -
+ .../acceptance/annotations/FieldConverterTest.java |  233 ---
+ .../acceptance/annotations/ImplicitArrayTest.java  |  122 --
+ .../annotations/ImplicitCollectionTest.java        |  183 --
+ .../acceptance/annotations/ImplicitMapTest.java    |  195 ---
+ .../acceptance/annotations/OmitFieldTest.java      |   52 -
+ .../annotations/ParametrizedConverterTest.java     |  150 --
+ .../XStream12AnnotationCompatibilityTest.java      |   61 -
+ .../thoughtworks/acceptance/objects/Category.java  |   67 -
+ .../thoughtworks/acceptance/objects/Hardware.java  |   27 -
+ .../acceptance/objects/OpenSourceSoftware.java     |   26 -
+ .../thoughtworks/acceptance/objects/Original.java  |   31 -
+ .../acceptance/objects/OwnerOfExternalizable.java  |   17 -
+ .../thoughtworks/acceptance/objects/Product.java   |   76 -
+ .../thoughtworks/acceptance/objects/Replaced.java  |   31 -
+ .../acceptance/objects/SampleDynamicProxy.java     |   81 -
+ .../acceptance/objects/SampleLists.java            |   23 -
+ .../acceptance/objects/SampleMaps.java             |   20 -
+ .../thoughtworks/acceptance/objects/Software.java  |   27 -
+ .../objects/SomethingExternalizable.java           |   50 -
+ .../acceptance/objects/StandardObject.java         |   37 -
+ .../acceptance/objects/StatusEnum.java             |   52 -
+ .../acceptance/someobjects/FunnyConstructor.java   |   23 -
+ .../acceptance/someobjects/Handler.java            |   29 -
+ .../acceptance/someobjects/HandlerManager.java     |   31 -
+ .../acceptance/someobjects/Protocol.java           |   29 -
+ .../com/thoughtworks/acceptance/someobjects/U.java |   22 -
+ .../acceptance/someobjects/WithList.java           |   23 -
+ .../acceptance/someobjects/WithNamedList.java      |   24 -
+ .../com/thoughtworks/acceptance/someobjects/X.java |   27 -
+ .../com/thoughtworks/acceptance/someobjects/Y.java |   18 -
+ .../com/thoughtworks/acceptance/someobjects/Z.java |   23 -
+ .../com/thoughtworks/xstream/XStreamTest.java      |  422 -----
+ .../converters/ConversionExceptionTest.java        |   50 -
+ .../converters/basic/DateConverterTest.java        |  199 ---
+ .../xstream/converters/basic/URIConverterTest.java |   58 -
+ .../xstream/converters/basic/URLConverterTest.java |   32 -
+ .../collections/BitSetConverterTest.java           |   34 -
+ .../collections/ByteArrayConverterTest.java        |   72 -
+ .../collections/CharArrayConverterTest.java        |   24 -
+ .../collections/PropertiesConverterTest.java       |  105 --
+ .../xstream/converters/enums/BigEnum.java          |   18 -
+ .../converters/enums/EnumConverterTest.java        |   68 -
+ .../converters/enums/EnumCustomConverterTest.java  |  118 --
+ .../converters/enums/EnumMapConverterTest.java     |   51 -
+ .../xstream/converters/enums/EnumMapperTest.java   |  100 --
+ .../converters/enums/EnumSetConverterTest.java     |   72 -
+ .../xstream/converters/enums/Fruit.java            |   21 -
+ .../xstream/converters/enums/PolymorphicEnum.java  |   25 -
+ .../xstream/converters/enums/SimpleEnum.java       |   16 -
+ .../converters/extended/CharsetConverterTest.java  |   24 -
+ .../converters/extended/DurationConverterTest.java |   38 -
+ .../extended/EncodedByteArrayConverterTest.java    |   69 -
+ .../converters/extended/FontConverterTest.java     |   79 -
+ .../extended/GregorianCalendarConverterTest.java   |   34 -
+ .../extended/ISO8601DateConverterTest.java         |   78 -
+ .../ISO8601GregorianCalendarConverterTest.java     |  131 --
+ .../extended/ISO8601SqlTimestampConverterTest.java |   97 --
+ .../extended/JavaClassConverterTest.java           |   60 -
+ .../extended/JavaMethodConverterTest.java          |   75 -
+ .../PropertyEditorCapableConverterTest.java        |  128 --
+ .../extended/RegexPatternConverterTest.java        |   28 -
+ .../extended/StackTraceElementConverterTest.java   |   54 -
+ .../extended/ThrowableConverterTest.java           |  155 --
+ .../extended/ToAttributedValueConverterTest.java   |  214 ---
+ .../converters/extended/ToStringConverterTest.java |   88 -
+ .../converters/javabean/JavaBeanConverterTest.java |  449 -----
+ .../javabean/PropertyDictionaryTest.java           |  136 --
+ .../reflection/AbstractReflectionProviderTest.java |  150 --
+ .../converters/reflection/FieldDictionaryTest.java |   81 -
+ .../reflection/NativeFieldKeySorterTest.java       |   63 -
+ .../PureJavaReflectionProvider15Test.java          |   48 -
+ .../reflection/PureJavaReflectionProviderTest.java |  123 --
+ .../reflection/ReflectionConverterTest.java        |  159 --
+ .../reflection/SerializableConverterTest.java      |  322 ----
+ .../reflection/SortableFieldKeySorterTest.java     |   95 -
+ .../reflection/Sun14ReflectionProviderTest.java    |   80 -
+ .../xstream/core/DefaultConverterLookupTest.java   |   44 -
+ .../com/thoughtworks/xstream/core/JVMTest.java     |   36 -
+ .../core/ReferenceByIDMarshallingStrategyTest.java |   64 -
+ .../ReferenceByXPathMarshallingStrategyTest.java   |   91 -
+ .../xstream/core/TreeMarshallerTest.java           |   41 -
+ .../xstream/core/TreeUnmarshallerTest.java         |   99 --
+ .../xstream/core/util/Base64EncoderTest.java       |   93 -
+ .../xstream/core/util/CloneablesTest.java          |   80 -
+ .../core/util/DependencyInjectionFactoryTest.java  |  146 --
+ .../xstream/core/util/FastStackTest.java           |   34 -
+ .../xstream/core/util/ObjectIdDictionaryTest.java  |   61 -
+ .../xstream/core/util/OrderRetainingMapTest.java   |   83 -
+ .../xstream/core/util/PrioritizedListTest.java     |   86 -
+ .../xstream/core/util/QuickWriterTest.java         |   33 -
+ .../core/util/ThreadSafeSimpleDateFormatTest.java  |   99 --
+ .../xstream/core/util/WeakCacheTest.java           |  182 --
+ .../core/util/XmlHeaderAwareReaderTest.java        |   77 -
+ .../xstream/io/DriverEndToEndTestSuite.java        |  133 --
+ .../xstream/io/StatefulWriterTest.java             |  175 --
+ .../xstream/io/binary/BinaryStreamTest.java        |   79 -
+ .../thoughtworks/xstream/io/binary/TokenTest.java  |  109 --
+ .../io/copy/HierarchicalStreamCopierTest.java      |   61 -
+ .../io/json/JettisonMappedXmlDriverTest.java       |  299 ----
+ .../io/json/JsonHierarchicalStreamDriverTest.java  |  681 --------
+ .../xstream/io/json/JsonWriterFormatTest.java      |  281 ---
+ .../io/json/JsonWriterModeDroppingRootTest.java    |  114 --
+ .../xstream/io/json/JsonWriterModeTest.java        |  194 ---
+ .../com/thoughtworks/xstream/io/path/PathTest.java |  104 --
+ .../xstream/io/path/PathTrackerTest.java           |  153 --
+ .../xstream/io/path/PathTrackingReaderTest.java    |   78 -
+ .../xstream/io/path/PathTrackingWriterTest.java    |   78 -
+ .../xstream/io/xml/AbstractDocumentWriterTest.java |  134 --
+ .../xstream/io/xml/AbstractStaxWriterTest.java     |  105 --
+ .../xstream/io/xml/AbstractXMLReaderTest.java      |  243 ---
+ .../xstream/io/xml/AbstractXMLWriterTest.java      |  134 --
+ .../xstream/io/xml/BEAStaxReaderTest.java          |   28 -
+ .../xstream/io/xml/BEAStaxWriterTest.java          |   37 -
+ .../xstream/io/xml/CompactWriterTest.java          |   96 -
+ .../xstream/io/xml/Dom4JReaderTest.java            |   45 -
+ .../xstream/io/xml/Dom4JWriterTest.java            |   28 -
+ .../xstream/io/xml/Dom4JXmlWriterTest.java         |   44 -
+ .../thoughtworks/xstream/io/xml/DomReaderTest.java |   85 -
+ .../thoughtworks/xstream/io/xml/DomWriterTest.java |   80 -
+ .../xstream/io/xml/JDomAcceptanceTest.java         |   85 -
+ .../xstream/io/xml/JDomReaderTest.java             |   31 -
+ .../xstream/io/xml/JDomWriterTest.java             |   28 -
+ .../xstream/io/xml/KXml2ReaderTest.java            |   32 -
+ .../xstream/io/xml/PrettyPrintWriterTest.java      |  288 ---
+ .../thoughtworks/xstream/io/xml/SaxWriterTest.java |  231 ---
+ .../xstream/io/xml/SjsxpReaderTest.java            |   51 -
+ .../xstream/io/xml/SjsxpWriterTest.java            |   58 -
+ .../xstream/io/xml/StaxDriverTest.java             |   58 -
+ .../xstream/io/xml/StaxReaderTest.java             |   25 -
+ .../xstream/io/xml/WstxReaderTest.java             |   28 -
+ .../xstream/io/xml/WstxWriterTest.java             |   40 -
+ .../thoughtworks/xstream/io/xml/XomReaderTest.java |   31 -
+ .../thoughtworks/xstream/io/xml/XomWriterTest.java |   28 -
+ .../xstream/io/xml/Xpp3ReaderTest.java             |   28 -
+ .../xstream/io/xml/XppDomReaderTest.java           |   78 -
+ .../xstream/io/xml/XppDomWriterTest.java           |   30 -
+ .../thoughtworks/xstream/io/xml/XppReaderTest.java |   24 -
+ .../io/xml/xppdom/XppDomComparatorTest.java        |  251 ---
+ .../xstream/mapper/DefaultClassMapperTest.java     |   70 -
+ .../xstream/mapper/FieldAliasingMapperTest.java    |   33 -
+ .../mapper/ImplicitCollectionMapperTest.java       |  119 --
+ .../xstream/mapper/XmlFriendlyMapperTest.java      |   31 -
+ .../persistence/FilePersistenceStrategyTest.java   |  257 ---
+ .../persistence/FileStreamStrategyTest.java        |  250 ---
+ .../xstream/persistence/XmlArrayListTest.java      |  283 ---
+ .../xstream/persistence/XmlMapTest.java            |  249 ---
+ .../xstream/persistence/XmlSetTest.java            |  206 ---
+ .../com/thoughtworks/xstream/testutil/CallLog.java |   39 -
+ .../xstream/testutil/DynamicSecurityManager.java   |  104 --
+ .../xstream/testutil/TimeZoneChanger.java          |   28 -
+ 556 files changed, 364 insertions(+), 59683 deletions(-)
+
+commit 91c0cfc935340ea8fd432a843faba9da1dce4664
+Author: Sabrina Souto <sfs@cin.ufpe.br>
+Date:   Tue Apr 19 21:39:46 2016 -0300
+
+    adding more data to the plot
+
+ paper/main.log                          |    8 +-
+ paper/main.pdf                          |  Bin 118306 -> 118891 bytes
+ paper/results_sudoku.tex                |   14 +-
+ plots/effort.data                       |   10 +-
+ plots/effort.pdf                        |  Bin 4847 -> 4983 bytes
+ plots/effort.r                          |   40 +++--
+ src-subjects/sudoku/results_sudoku.txt  |   12 +-
+ src-subjects/sudoku/src/splat/Main.java |  288 ++++++++++++++++---------------
+ 8 files changed, 200 insertions(+), 172 deletions(-)
+
+commit a201d81eab67300a56a0e57923e8cee38017d107
+Author: Sabrina Souto <sfs@cin.ufpe.br>
+Date:   Tue Apr 19 20:45:39 2016 -0300
+
+    generating plot bugs x confs
+
+ plots/effort.data |    5 +++++
+ plots/effort.pdf  |  Bin 0 -> 4847 bytes
+ plots/effort.r    |   32 ++++++++++++++++++++++++++++++++
+ plots/genplot.sh  |    4 ++++
+ 4 files changed, 41 insertions(+)
+
+commit a9669305e0534ced13cb1e2d72af9aadc1470d6e
+Author: Sabrina Souto <sfs@cin.ufpe.br>
+Date:   Tue Apr 19 19:55:52 2016 -0300
+
+    summarizing results
+
+ .DS_Store                                     |  Bin 6148 -> 6148 bytes
+ paper/.DS_Store                               |  Bin 0 -> 6148 bytes
+ paper/Makefile                                |   39 +
+ paper/conclusions.tex                         |    1 +
+ paper/eval.tex                                |   48 +
+ paper/intro.tex                               |    5 +
+ paper/macros.tex                              |   74 +
+ paper/main.aux                                |   37 +
+ paper/main.bbl                                |   21 +
+ paper/main.blg                                |   46 +
+ paper/main.log                                | 1199 +++
+ paper/main.pdf                                |  Bin 0 -> 118306 bytes
+ paper/main.tex                                |  122 +
+ paper/packages.tex                            |   90 +
+ paper/related.tex                             |    5 +
+ paper/results_companies.tex                   |   56 +
+ paper/results_gpl.tex                         |   46 +
+ paper/results_jtopas.tex                      |   54 +
+ paper/results_sudoku.tex                      |   24 +
+ paper/short-description-testing.bib           |12970 +++++++++++++++++++++++++
+ paper/sigplanconf-guide.pdf                   |  Bin 0 -> 104077 bytes
+ paper/sigplanconf.cls                         | 1434 +++
+ paper/technique.tex                           |    7 +
+ paper/threats.tex                             |    5 +
+ src-subjects/gpl/results_gpl.txt              |   35 +-
+ src-subjects/gpl/src-tests/tests/TestAll.java |   10 +-
+ src-subjects/gpl/src/splat/Main.java          |  285 +-
+ src/stats/TestResults.java                    |   99 +-
+ src/util/Operation.java                       |   15 +
+ 29 files changed, 16521 insertions(+), 206 deletions(-)
+
+commit 00596b40f44da4f4d34ab60fc213ae43ea483678
+Author: Sabrina Souto <sfs@cin.ufpe.br>
+Date:   Mon Apr 18 22:25:18 2016 -0300
+
+    adding notepad
+
+ src-subjects/notepad/.classpath                    |   20 +
+ src-subjects/notepad/.gitignore                    |    6 +
+ src-subjects/notepad/.project                      |   24 +
+ .../.settings/org.eclipse.core.resources.prefs     |    2 +
+ .../notepad/.settings/org.eclipse.jdt.core.prefs   |  287 ++++++++
+ .../notepad/.settings/org.eclipse.jdt.ui.prefs     |    3 +
+ src-subjects/notepad/build.xml                     |   66 ++
+ src-subjects/notepad/libs/commons-codec-1.3.jar    |  Bin 0 -> 46725 bytes
+ src-subjects/notepad/libs/fest-assert-1.2.jar      |  Bin 0 -> 89901 bytes
+ src-subjects/notepad/libs/fest-reflect-1.2.jar     |  Bin 0 -> 37208 bytes
+ src-subjects/notepad/libs/fest-swing-1.2.jar       |  Bin 0 -> 728688 bytes
+ src-subjects/notepad/libs/fest-swing-junit-1.2.jar |  Bin 0 -> 48626 bytes
+ .../notepad/libs/fest-swing-junit-4.3.1-1.2.jar    |  Bin 0 -> 8351 bytes
+ .../notepad/libs/fest-swing-junit-4.5-1.2.jar      |  Bin 0 -> 4763 bytes
+ src-subjects/notepad/libs/fest-util-1.1.2.jar      |  Bin 0 -> 18962 bytes
+ src-subjects/notepad/libs/jcip-annotations-1.0.jar |  Bin 0 -> 2255 bytes
+ src-subjects/notepad/model.colors                  |    2 +
+ src-subjects/notepad/model.m                       |  193 +++++
+ src-subjects/notepad/modified-model.m              |   37 +
+ .../notepad/mutation-info/COVERAGE_MATRIX.txt      |    2 +
+ src-subjects/notepad/mutation-info/MUTANTS.txt     |    6 +
+ src-subjects/notepad/notepad_model.txt             |   69 ++
+ src-subjects/notepad/out.txt                       |  179 +++++
+ src-subjects/notepad/repair.txt                    |  497 +++++++++++++
+ .../notepad/resultsScenario123_notepad.txt         |   16 +
+ src-subjects/notepad/s                             |    6 +
+ src-subjects/notepad/src-tests/tests/Helper.java   |  293 ++++++++
+ .../src-tests/tests/NotepadJUnitTest_lest.java     |  252 +++++++
+ .../notepad/src-tests/tests/NotepadTest.java       |   73 ++
+ src-subjects/notepad/src-tests/tests/TestAll.java  |   20 +
+ .../notepad/src-tests/tests/TestEditMenuBar.java   |  138 ++++
+ .../notepad/src-tests/tests/TestEditToolBar.java   |  154 ++++
+ .../notepad/src-tests/tests/TestExample_Paulo.java |  327 +++++++++
+ .../notepad/src-tests/tests/TestFileMenuBar.java   |  423 +++++++++++
+ .../notepad/src-tests/tests/TestFileToolBar.java   |  306 ++++++++
+ .../notepad/src-tests/tests/TestFormatMenuBar.java |  156 ++++
+ .../notepad/src-tests/tests/TestFormatToolBar.java |  158 ++++
+ src-subjects/notepad/src-tests/tests/TestHelp.java |   98 +++
+ .../notepad/src-tests/tests/TestTextArea.java      |   54 ++
+ .../notepad/src-tests/tests/TestWordCount.java     |  105 +++
+ src-subjects/notepad/src/.constraints-temp.txt.swp |  Bin 0 -> 45056 bytes
+ .../src/annotationclasses___/Anonymous___.java     |    5 +
+ .../src/annotationclasses___/Feature___.java       |    4 +
+ .../src/annotationclasses___/Ignore___.java        |    3 +
+ .../notepad/src/annotationclasses___/Test___.java  |    3 +
+ src-subjects/notepad/src/images/about.gif          |  Bin 0 -> 797 bytes
+ src-subjects/notepad/src/images/copy.gif           |  Bin 0 -> 682 bytes
+ src-subjects/notepad/src/images/cut.gif            |  Bin 0 -> 1193 bytes
+ src-subjects/notepad/src/images/find.gif           |  Bin 0 -> 1250 bytes
+ src-subjects/notepad/src/images/font.gif           |  Bin 0 -> 185 bytes
+ src-subjects/notepad/src/images/java.gif           |  Bin 0 -> 10550 bytes
+ src-subjects/notepad/src/images/new.gif            |  Bin 0 -> 778 bytes
+ src-subjects/notepad/src/images/open.gif           |  Bin 0 -> 462 bytes
+ src-subjects/notepad/src/images/paste.gif          |  Bin 0 -> 374 bytes
+ src-subjects/notepad/src/images/print.gif          |  Bin 0 -> 491 bytes
+ src-subjects/notepad/src/images/redo.gif           |  Bin 0 -> 243 bytes
+ src-subjects/notepad/src/images/save.gif           |  Bin 0 -> 266 bytes
+ src-subjects/notepad/src/images/saveAs.gif         |  Bin 0 -> 348 bytes
+ src-subjects/notepad/src/images/undo.gif           |  Bin 0 -> 239 bytes
+ src-subjects/notepad/src/images/wordcount.gif      |  Bin 0 -> 924 bytes
+ .../internal/runners/statements/FailOnTimeout.java |   86 +++
+ src-subjects/notepad/src/smashed/.Actions.java.swo |  Bin 0 -> 16384 bytes
+ src-subjects/notepad/src/smashed/.Actions.java.swp |  Bin 0 -> 16384 bytes
+ src-subjects/notepad/src/smashed/.Notepad.java.swp |  Bin 0 -> 16384 bytes
+ src-subjects/notepad/src/smashed/About.java        |   37 +
+ src-subjects/notepad/src/smashed/Actions.java      |  624 ++++++++++++++++
+ src-subjects/notepad/src/smashed/Center.java       |   70 ++
+ .../notepad/src/smashed/ExampleFileFilter.java     |  293 ++++++++
+ src-subjects/notepad/src/smashed/Fonts.java        |  176 +++++
+ src-subjects/notepad/src/smashed/Notepad.java      |  773 ++++++++++++++++++++
+ src-subjects/notepad/src/smashed/Print.java        |   94 +++
+ src-subjects/notepad/src/smashed/RedoAction.java   |   58 ++
+ src-subjects/notepad/src/smashed/UndoAction.java   |   57 ++
+ src-subjects/notepad/src/splat/Main.java           |   85 +++
+ src-subjects/notepad/valid-configurations.txt      |  256 +++++++
+ src/splat/NotepadVariables.java                    |  282 +++++++
+ 76 files changed, 6878 insertions(+)
+
+commit a7e12c733cd85461d43381496055a99d398b8ab0
+Author: Sabrina Souto <sfs@cin.ufpe.br>
+Date:   Mon Apr 18 22:20:55 2016 -0300
+
+    adjusting results
+
+ src-subjects/gpl/results_gpl.txt                   |    9 +-
+ .../gpl/src-tests/tests/TestSuite_NEW.java         |  530 ++++++++++----------
+ src-subjects/gpl/src/splat/Main.java               |   87 ++--
+ src/stats/TestResults.java                         |   26 +-
+ 4 files changed, 343 insertions(+), 309 deletions(-)
+
+commit f7304c28d48abe7974a9792578509f8624742322
+Author: Sabrina Souto <sfs@cin.ufpe.br>
+Date:   Mon Apr 18 20:59:57 2016 -0300
+
+    Implementing OneDisabled and Random
+
+ src-subjects/companies/.classpath                  |   37 +
+ src-subjects/companies/.gitignore                  |    6 +
+ src-subjects/companies/.project                    |   17 +
+ .../.settings/org.eclipse.core.resources.prefs     |    2 +
+ .../companies/.settings/org.eclipse.jdt.core.prefs |  291 +++
+ .../companies/.settings/org.eclipse.jdt.ui.prefs   |    3 +
+ src-subjects/companies/companies_model.txt         |    3 +
+ src-subjects/companies/libs/ant-optional-1.5.2.jar |  Bin 0 -> 668804 bytes
+ src-subjects/companies/model.m                     |    4 +
+ src-subjects/companies/modified-model.m            |    3 +
+ src-subjects/companies/repair.txt                  |  281 ++
+ .../companies/resultsScenario123_companies.txt     |   18 +
+ src-subjects/companies/results_companies.txt       |   39 +
+ src-subjects/companies/s                           |   38 +
+ .../companies/src-tests/tests/CompaniesTest.java   |   46 +
+ .../companies/src-tests/tests/Example.java         |   41 +
+ .../companies/src-tests/tests/Interceptor.java     |  115 +
+ .../companies/src-tests/tests/NestedIfBugTest.java |   44 +
+ src-subjects/companies/src-tests/tests/Pilot.java  |  499 ++++
+ src-subjects/companies/src-tests/tests/Pilot1.java |  515 ++++
+ .../src-tests/tests/Pilot_CommandLine.java         |  123 +
+ .../companies/src-tests/tests/Pilot_GUI.java       |  383 +++
+ .../companies/src-tests/tests/Pilot_REPAIR.java    |   39 +
+ .../companies/src-tests/tests/TestAll.java         |   20 +
+ .../companies/src-tests/tests/TestBasics.java      |  182 ++
+ .../src-tests/tests/TestCombinations.java          |  144 ++
+ .../companies/src-tests/tests/TestGUIExample.java  |  132 +
+ .../companies/src-tests/tests/TestGUI_Mateus.java  |  392 +++
+ .../src-tests/tests/TestGUI_Mateus_REPAIR.java     |  212 ++
+ .../companies/src-tests/tests/TestMVC.java         |   68 +
+ .../src-tests/tests/TestObeservability.java        |   70 +
+ .../companies/src-tests/tests/TestProxying.java    |  106 +
+ .../companies/src-tests/tests/TestUndo.java        |   61 +
+ .../companies/src-tests/tests/TestUtil.java        |  123 +
+ .../internal/runners/statements/FailOnTimeout.java |   86 +
+ .../companies/src/org/softlang/command/Batch.java  |   37 +
+ .../src/org/softlang/command/Command.java          |   22 +
+ .../src/org/softlang/command/CutCompany.java       |   40 +
+ .../src/org/softlang/command/CutEmployee.java      |   42 +
+ .../src/org/softlang/company/Company.java          |   18 +
+ .../src/org/softlang/company/Component.java        |   26 +
+ .../src/org/softlang/company/Container.java        |   16 +
+ .../src/org/softlang/company/Department.java       |   29 +
+ .../src/org/softlang/company/Employee.java         |   19 +
+ .../src/org/softlang/company/Subunit.java          |   13 +
+ .../org/softlang/company/factory/BeanFactory.java  |   22 +
+ .../src/org/softlang/company/factory/Factory.java  |   19 +
+ .../org/softlang/company/factory/PojoFactory.java  |   22 +
+ .../softlang/company/impl/bean/CompanyImpl.java    |   55 +
+ .../softlang/company/impl/bean/ComponentImpl.java  |   58 +
+ .../softlang/company/impl/bean/ContainerImpl.java  |  118 +
+ .../softlang/company/impl/bean/DepartmentImpl.java |  148 ++
+ .../softlang/company/impl/bean/EmployeeImpl.java   |  166 ++
+ .../softlang/company/impl/pojo/CompanyImpl.java    |  102 +
+ .../softlang/company/impl/pojo/ComponentImpl.java  |   27 +
+ .../softlang/company/impl/pojo/ContainerImpl.java  |   31 +
+ .../softlang/company/impl/pojo/DepartmentImpl.java |  148 ++
+ .../softlang/company/impl/pojo/EmployeeImpl.java   |   95 +
+ .../src/org/softlang/features/Logging.java         |   51 +
+ .../src/org/softlang/features/OrderedCut.java      |   27 +
+ .../src/org/softlang/features/Precedence.java      |   77 +
+ .../src/org/softlang/features/SimpleCut.java       |   15 +
+ .../src/org/softlang/features/TotalReducer.java    |   26 +
+ .../src/org/softlang/features/TotalWalker.java     |   27 +
+ .../src/org/softlang/gui/Interaction.java          |   36 +
+ .../src/org/softlang/proxy/AccessControl.java      |   93 +
+ .../src/org/softlang/proxy/ProxyCompany.java       |  122 +
+ .../src/org/softlang/proxy/ProxyDepartment.java    |  169 ++
+ .../src/org/softlang/proxy/ProxyEmployee.java      |  120 +
+ .../softlang/swing/controller/ChangeListener.java  |   53 +
+ .../org/softlang/swing/controller/Controller.java  |  210 ++
+ .../src/org/softlang/swing/model/Model.java        |  204 ++
+ .../src/org/softlang/swing/view/AbstractView.java  |  119 +
+ .../src/org/softlang/swing/view/CompanyView.java   |  113 +
+ .../org/softlang/swing/view/DepartmentView.java    |  112 +
+ .../src/org/softlang/swing/view/EmployeeView.java  |  145 ++
+ .../src/org/softlang/swing/view/MainView.java      |  184 ++
+ .../src/org/softlang/template/Reducer.java         |   66 +
+ .../src/org/softlang/template/Walker.java          |   78 +
+ .../src/org/softlang/util/AddDoubles.java          |   21 +
+ .../companies/src/org/softlang/util/AddToList.java |   10 +
+ .../src/org/softlang/util/ChangeList.java          |   13 +
+ .../src/org/softlang/util/MaxDoubles.java          |   25 +
+ .../companies/src/org/softlang/util/Monoid.java    |   14 +
+ .../org/softlang/util/ObservableSimpleList.java    |   80 +
+ .../src/org/softlang/util/RemoveFromList.java      |   10 +
+ .../src/org/softlang/util/SimpleLinkedList.java    |   30 +
+ .../src/org/softlang/util/SimpleList.java          |   14 +
+ .../src/org/softlang/visitor/ReturningVisitor.java |   18 +
+ .../src/org/softlang/visitor/VoidVisitor.java      |   18 +
+ src-subjects/companies/src/splat/Main.java         |  196 ++
+ src-subjects/companies/valid-configurations.txt    |  192 ++
+ src-subjects/gpl/results_gpl.txt                   |   28 +-
+ src-subjects/gpl/src-tests/tests/TestAll.java      |   10 +-
+ .../gpl/src-tests/tests/TestSuite_NEW.java         |  530 ++--
+ src-subjects/gpl/src/splat/Main.java               |   60 +-
+ src-subjects/jtopas/.classpath                     |    9 +
+ src-subjects/jtopas/.gitignore                     |    6 +
+ src-subjects/jtopas/.project                       |   17 +
+ .../.settings/org.eclipse.core.resources.prefs     |    3 +
+ .../jtopas/.settings/org.eclipse.jdt.core.prefs    |  281 ++
+ .../jtopas/.settings/org.eclipse.jdt.ui.prefs      |    3 +
+ src-subjects/jtopas/README.html                    |  859 +++++++
+ src-subjects/jtopas/model.m                        |    1 +
+ src-subjects/jtopas/modified-model.m               |    1 +
+ src-subjects/jtopas/resultsScenario123_jtopas.txt  |   52 +
+ src-subjects/jtopas/results_jtopas.txt             |   37 +
+ src-subjects/jtopas/s                              |   38 +
+ .../jtopas/src-tests/tests/JTopasTest.java         |   35 +
+ src-subjects/jtopas/src-tests/tests/TestAll.java   |   16 +
+ .../src-tests/tests/TestDifficultSituations.java   | 2697 ++++++++++++++++++++
+ src-subjects/jtopas/src-tests/tests/TestMain.java  |   48 +
+ .../src-tests/tests/TestPatternMatching.java       |  342 +++
+ .../src-tests/tests/TestPatternMatching.java.orig  |  348 +++
+ .../jtopas/src-tests/tests/TestTextAccess.java     |  171 ++
+ .../jtopas/src-tests/tests/TestTokenizerFlags.java |  343 +++
+ .../src-tests/tests/TestTokenizerFlags.java.orig   |  355 +++
+ .../src-tests/tests/TestTokenizerProperties.java   |  711 ++++++
+ .../src-tests/tests/TestTokenizerSource.java       |  341 +++
+ .../src/de/susebox/java/io/ExtIOException.java     |  239 ++
+ .../de/susebox/java/lang/DefaultEnvironment.java   |  129 +
+ .../src/de/susebox/java/lang/Environment.java      |  171 ++
+ .../de/susebox/java/lang/EnvironmentProvider.java  |  239 ++
+ .../java/lang/ExtIllegalArgumentException.java     |  243 ++
+ .../java/lang/ExtIndexOutOfBoundsException.java    |  246 ++
+ .../java/lang/ExtNoSuchMethodException.java        |  243 ++
+ .../susebox/java/lang/ExtNullPointerException.java |  243 ++
+ .../de/susebox/java/lang/ExtRuntimeException.java  |  244 ++
+ .../lang/ExtUnsupportedOperationException.java     |  244 ++
+ .../src/de/susebox/java/lang/ThrowableList.java    |  318 +++
+ .../java/lang/ThrowableMessageFormatter.java       |  156 ++
+ .../java/util/ExtNoSuchElementException.java       |  248 ++
+ .../src/de/susebox/jtopas/AbstractTokenizer.java   | 2011 +++++++++++++++
+ .../jtopas/AbstractTokenizerProperties.java        | 1602 ++++++++++++
+ .../src/de/susebox/jtopas/CharArraySource.java     |  174 ++
+ .../jtopas/CharSequenceTokenizerSource.java        |   54 +
+ .../jtopas/src/de/susebox/jtopas/Flags.java        |  250 ++
+ .../jtopas/src/de/susebox/jtopas/ReaderSource.java |  225 ++
+ .../src/de/susebox/jtopas/StandardTokenizer.java   |  510 ++++
+ .../jtopas/StandardTokenizerProperties.java        | 1384 ++++++++++
+ .../jtopas/src/de/susebox/jtopas/StringSource.java |  141 +
+ .../jtopas/src/de/susebox/jtopas/Token.java        |  743 ++++++
+ .../jtopas/src/de/susebox/jtopas/Tokenizer.java    |  798 ++++++
+ .../src/de/susebox/jtopas/TokenizerException.java  |  250 ++
+ .../src/de/susebox/jtopas/TokenizerProperties.java | 1675 ++++++++++++
+ .../src/de/susebox/jtopas/TokenizerProperty.java   |  470 ++++
+ .../de/susebox/jtopas/TokenizerPropertyEvent.java  |  254 ++
+ .../susebox/jtopas/TokenizerPropertyListener.java  |   82 +
+ .../src/de/susebox/jtopas/TokenizerSource.java     |   65 +
+ .../susebox/jtopas/impl/NoCaseSequenceStore.java   |   95 +
+ .../src/de/susebox/jtopas/impl/PatternMatcher.java |  329 +++
+ .../src/de/susebox/jtopas/impl/SequenceStore.java  |  681 +++++
+ .../src/de/susebox/jtopas/spi/DataMapper.java      |  101 +
+ .../src/de/susebox/jtopas/spi/DataProvider.java    |  144 ++
+ .../src/de/susebox/jtopas/spi/KeywordHandler.java  |   79 +
+ .../src/de/susebox/jtopas/spi/PatternHandler.java  |  137 +
+ .../de/susebox/jtopas/spi/SeparatorHandler.java    |   66 +
+ .../src/de/susebox/jtopas/spi/SequenceHandler.java |  109 +
+ .../susebox/jtopas/spi/StandardKeywordHandler.java |  119 +
+ .../jtopas/spi/StandardSeparatorHandler.java       |  106 +
+ .../jtopas/spi/StandardSequenceHandler.java        |  214 ++
+ .../jtopas/spi/StandardWhitespaceHandler.java      |  196 ++
+ .../de/susebox/jtopas/spi/WhitespaceHandler.java   |   99 +
+ src-subjects/jtopas/src/splat/Main.java            |  195 ++
+ .../src/tests/de/susebox/SuseboxTestSuite.java     |  113 +
+ .../src/tests/de/susebox/TestExceptions.java       |  355 +++
+ .../jtopas/src/tests/de/susebox/TestUtilities.java |   96 +
+ .../src/tests/de/susebox/java/JavaTestSuite.java   |  114 +
+ .../tests/de/susebox/java/lang/LangTestSuite.java  |  105 +
+ .../de/susebox/java/lang/TestThrowableList.java    |  218 ++
+ .../tests/de/susebox/java/util/LineCountTest.txt   |   31 +
+ .../susebox/java/util/TestEmbeddedTokenizer.conf   |   36 +
+ .../java/util/TestInputStreamTokenizer.conf        |   47 +
+ .../de/susebox/java/util/TestTokenProperties.conf  |   39 +
+ .../tests/de/susebox/java/util/UtilTestSuite.java  |  109 +
+ .../de/susebox/jtopas/CustomTestLargeSource.java   | 1093 ++++++++
+ .../tests/de/susebox/jtopas/JTopasTestSuite.java   |  121 +
+ .../de/susebox/jtopas/TestDifficultSituations.java | 1690 ++++++++++++
+ .../de/susebox/jtopas/TestEmbeddedTokenizer.conf   |   48 +
+ .../de/susebox/jtopas/TestEmbeddedTokenizer.java   |  498 ++++
+ .../tests/de/susebox/jtopas/TestLargeSource.java   | 1355 ++++++++++
+ .../susebox/jtopas/TestMultithreadTokenizer.java   |  636 +++++
+ .../jtopas/TestMultithreadTokenizerProperties.java |  495 ++++
+ .../de/susebox/jtopas/TestPatternMatching.java     |  458 ++++
+ .../de/susebox/jtopas/TestPluginTokenizer.conf     |   44 +
+ .../de/susebox/jtopas/TestStandardTokenizer.conf   |   54 +
+ .../de/susebox/jtopas/TestStandardTokenizer.java   |  617 +++++
+ .../tests/de/susebox/jtopas/TestTextAccess.java    |  283 ++
+ .../de/susebox/jtopas/TestTokenizerCleanup.java    |  240 ++
+ .../de/susebox/jtopas/TestTokenizerFlags.java      |  446 ++++
+ .../de/susebox/jtopas/TestTokenizerProperties.java |  816 ++++++
+ .../de/susebox/jtopas/TestTokenizerSource.java     |  558 ++++
+ src-subjects/jtopas/www/css/basics.css             |   91 +
+ .../jtopas/www/images/bgr_dwhite2mwhite_h.png      |  Bin 0 -> 466 bytes
+ src-subjects/jtopas/www/index.html                 |   67 +
+ .../jtopas/www/jtopas/deprecated/index_right.html  |  357 +++
+ src-subjects/jtopas/www/jtopas/index.html          |   36 +
+ src-subjects/jtopas/www/jtopas/index_left.html     |   42 +
+ src-subjects/jtopas/www/jtopas/index_right.html    |  232 ++
+ src-subjects/jtopas/www/jtopas/index_top.html      |   63 +
+ src-subjects/jtopas/www/jtopas/jtopas_www.tgz      |  Bin 0 -> 8639 bytes
+ src-subjects/jtopas/www/jtopas/mailing_lists.html  |   62 +
+ src-subjects/jtopas/www/jtopas/news.html           |   66 +
+ src-subjects/sudoku/.classpath                     |   36 +
+ src-subjects/sudoku/.gitignore                     |    6 +
+ src-subjects/sudoku/.project                       |   17 +
+ .../.settings/org.eclipse.core.resources.prefs     |    2 +
+ .../sudoku/.settings/org.eclipse.jdt.core.prefs    |  281 ++
+ .../sudoku/.settings/org.eclipse.jdt.ui.prefs      |    3 +
+ src-subjects/sudoku/inputTest.txt                  |    9 +
+ src-subjects/sudoku/inputTest1.txt                 |    9 +
+ src-subjects/sudoku/minisudoku.txt                 |    2 +
+ src-subjects/sudoku/model.m                        |    7 +
+ src-subjects/sudoku/modified-model.m               |    6 +
+ src-subjects/sudoku/results_sudoku.txt             |    6 +
+ src-subjects/sudoku/s                              |   38 +
+ .../sudoku/src-tests/tests/SudokuTest.java         |   42 +
+ src-subjects/sudoku/src-tests/tests/TestAll.java   |   12 +
+ src-subjects/sudoku/src-tests/tests/TestMAB.java   |   74 +
+ src-subjects/sudoku/src-tests/tests/TestMain.java  |   89 +
+ src-subjects/sudoku/src/main/AbstractEnum.java     |  300 +++
+ src-subjects/sudoku/src/main/Board.java            |  229 ++
+ src-subjects/sudoku/src/main/BoardManager.java     |  333 +++
+ src-subjects/sudoku/src/main/Field.java            |  231 ++
+ src-subjects/sudoku/src/main/ForcedField.java      |   18 +
+ src-subjects/sudoku/src/main/ForcedNumber.java     |   38 +
+ src-subjects/sudoku/src/main/Guesser.java          |   43 +
+ .../sudoku/src/main/NotSolvableException.java      |   25 +
+ src-subjects/sudoku/src/main/Solver.java           |    6 +
+ src-subjects/sudoku/src/main/Structure.java        |   33 +
+ src-subjects/sudoku/src/main/SudokuFacade.java     |  144 ++
+ src-subjects/sudoku/src/main/SudokuGenerator.java  |   72 +
+ src-subjects/sudoku/src/splat/Main.java            |  195 ++
+ src-subjects/sudoku/sudoku.arff                    |   41 +
+ src-subjects/xstream/.classpath                    |   37 +
+ src-subjects/xstream/.gitignore                    |    6 +
+ src-subjects/xstream/.project                      |   17 +
+ .../xstream/.settings/org.eclipse.jdt.core.prefs   |  291 +++
+ .../xstream/.settings/org.eclipse.jdt.ui.prefs     |    3 +
+ src-subjects/xstream/libs/cglib-nodep-2.2.jar      |  Bin 0 -> 322362 bytes
+ src-subjects/xstream/libs/commons-lang-2.4.jar     |  Bin 0 -> 261809 bytes
+ src-subjects/xstream/libs/dom4j-1.6.1.jar          |  Bin 0 -> 313898 bytes
+ src-subjects/xstream/libs/jdom-1.1.jar             |  Bin 0 -> 153115 bytes
+ src-subjects/xstream/libs/jettison-1.2.jar         |  Bin 0 -> 72478 bytes
+ src-subjects/xstream/libs/jmock-1.0.1.jar          |  Bin 0 -> 69288 bytes
+ src-subjects/xstream/libs/joda-time-1.6.jar        |  Bin 0 -> 534827 bytes
+ src-subjects/xstream/libs/json-20080701.jar        |  Bin 0 -> 37875 bytes
+ src-subjects/xstream/libs/junit-4.11.jar           |  Bin 0 -> 245039 bytes
+ src-subjects/xstream/libs/kxml2-2.3.0.jar          |  Bin 0 -> 43858 bytes
+ src-subjects/xstream/libs/kxml2-min-2.3.0.jar      |  Bin 0 -> 10649 bytes
+ src-subjects/xstream/libs/oro-2.0.8.jar            |  Bin 0 -> 65261 bytes
+ src-subjects/xstream/libs/stax-1.2.0.jar           |  Bin 0 -> 179346 bytes
+ src-subjects/xstream/libs/stax-api-1.0.1.jar       |  Bin 0 -> 26514 bytes
+ src-subjects/xstream/libs/wstx-asl-3.2.7.jar       |  Bin 0 -> 520969 bytes
+ src-subjects/xstream/libs/xml-writer-0.2.jar       |  Bin 0 -> 5234 bytes
+ src-subjects/xstream/libs/xmlpull-1.1.3.1.jar      |  Bin 0 -> 7188 bytes
+ src-subjects/xstream/libs/xom-1.1.jar              |  Bin 0 -> 431568 bytes
+ src-subjects/xstream/libs/xpp3_min-1.1.4c.jar      |  Bin 0 -> 24956 bytes
+ src-subjects/xstream/model.m                       |    2 +
+ src-subjects/xstream/modified-model.m              |    1 +
+ .../xstream/resultsScenario123_xstream.txt         |   52 +
+ src-subjects/xstream/s                             |   38 +
+ src-subjects/xstream/splat                         |   23 +
+ src-subjects/xstream/src-tests/tests/TestAll.java  |  172 ++
+ src-subjects/xstream/src-tests/tests/TestMain.java |   89 +
+ .../xstream/src-tests/tests/TestSPLat.java         |   39 +
+ .../xstream/src-tests/tests/XStreamTest.java       |   36 +
+ .../xstream/src/com/chpkim/DummyClass.java         |    5 +
+ src-subjects/xstream/src/com/chpkim/Employee.java  |   48 +
+ .../xstream/src/com/chpkim/PhoneNumber.java        |   11 +
+ .../xstream/src/com/chpkim/Placeholder.java        |   29 +
+ .../xstream/src/com/chpkim/TelephoneBook.java      |   19 +
+ .../xstream/src/com/chpkim/XstreamExample.java     |  351 +++
+ .../xstream/InitializationException.java           |   28 +
+ .../thoughtworks/xstream/MarshallingStrategy.java  |   24 +
+ .../src/com/thoughtworks/xstream/XStream.java      | 1843 +++++++++++++
+ .../com/thoughtworks/xstream/XStreamException.java |   73 +
+ .../src/com/thoughtworks/xstream/XStreamer.java    |  166 ++
+ .../xstream/annotations/AnnotationProvider.java    |   39 +
+ .../annotations/AnnotationReflectionConverter.java |  115 +
+ .../xstream/annotations/Annotations.java           |   50 +
+ .../xstream/annotations/XStreamAlias.java          |   33 +
+ .../xstream/annotations/XStreamAsAttribute.java    |   29 +
+ .../xstream/annotations/XStreamContainedType.java  |   32 +
+ .../xstream/annotations/XStreamConverter.java      |   69 +
+ .../xstream/annotations/XStreamConverters.java     |   27 +
+ .../xstream/annotations/XStreamImplicit.java       |   37 +
+ .../annotations/XStreamImplicitCollection.java     |   29 +
+ .../xstream/annotations/XStreamInclude.java        |   29 +
+ .../xstream/annotations/XStreamOmitField.java      |   29 +
+ .../xstream/converters/ConversionException.java    |  110 +
+ .../thoughtworks/xstream/converters/Converter.java |   66 +
+ .../xstream/converters/ConverterLookup.java        |   29 +
+ .../xstream/converters/ConverterMatcher.java       |   33 +
+ .../xstream/converters/ConverterRegistry.java      |   23 +
+ .../xstream/converters/DataHolder.java             |   27 +
+ .../xstream/converters/ErrorReporter.java          |   29 +
+ .../xstream/converters/ErrorWriter.java            |   61 +
+ .../xstream/converters/MarshallingContext.java     |   30 +
+ .../xstream/converters/SingleValueConverter.java   |   42 +
+ .../converters/SingleValueConverterWrapper.java    |   58 +
+ .../xstream/converters/UnmarshallingContext.java   |   29 +
+ .../basic/AbstractSingleValueConverter.java        |   35 +
+ .../converters/basic/BigDecimalConverter.java      |   32 +
+ .../converters/basic/BigIntegerConverter.java      |   31 +
+ .../xstream/converters/basic/BooleanConverter.java |   64 +
+ .../xstream/converters/basic/ByteConverter.java    |   34 +
+ .../xstream/converters/basic/CharConverter.java    |   60 +
+ .../xstream/converters/basic/DateConverter.java    |  179 ++
+ .../xstream/converters/basic/DoubleConverter.java  |   30 +
+ .../xstream/converters/basic/FloatConverter.java   |   30 +
+ .../xstream/converters/basic/IntConverter.java     |   34 +
+ .../xstream/converters/basic/LongConverter.java    |   30 +
+ .../xstream/converters/basic/NullConverter.java    |   41 +
+ .../xstream/converters/basic/ShortConverter.java   |   34 +
+ .../converters/basic/StringBufferConverter.java    |   28 +
+ .../converters/basic/StringBuilderConverter.java   |   27 +
+ .../xstream/converters/basic/StringConverter.java  |  103 +
+ .../xstream/converters/basic/URIConverter.java     |   37 +
+ .../xstream/converters/basic/URLConverter.java     |   38 +
+ .../xstream/converters/basic/UUIDConverter.java    |   37 +
+ .../xstream/converters/basic/package.html          |   22 +
+ .../collections/AbstractCollectionConverter.java   |   84 +
+ .../converters/collections/ArrayConverter.java     |   69 +
+ .../converters/collections/BitSetConverter.java    |   61 +
+ .../converters/collections/CharArrayConverter.java |   40 +
+ .../collections/CollectionConverter.java           |   82 +
+ .../converters/collections/MapConverter.java       |   95 +
+ .../collections/PropertiesConverter.java           |  116 +
+ .../collections/SingletonCollectionConverter.java  |   57 +
+ .../collections/SingletonMapConverter.java         |   61 +
+ .../converters/collections/TreeMapConverter.java   |  159 ++
+ .../converters/collections/TreeSetConverter.java   |  152 ++
+ .../xstream/converters/collections/package.html    |   17 +
+ .../xstream/converters/enums/EnumConverter.java    |   50 +
+ .../xstream/converters/enums/EnumMapConverter.java |   92 +
+ .../xstream/converters/enums/EnumSetConverter.java |  118 +
+ .../converters/enums/EnumSingleValueConverter.java |   50 +
+ .../converters/extended/CharsetConverter.java      |   37 +
+ .../converters/extended/ColorConverter.java        |   66 +
+ .../converters/extended/CurrencyConverter.java     |   35 +
+ .../converters/extended/DurationConverter.java     |   58 +
+ .../converters/extended/DynamicProxyConverter.java |  123 +
+ .../extended/EncodedByteArrayConverter.java        |   83 +
+ .../xstream/converters/extended/FileConverter.java |   38 +
+ .../xstream/converters/extended/FontConverter.java |   52 +
+ .../extended/GregorianCalendarConverter.java       |   69 +
+ .../converters/extended/ISO8601DateConverter.java  |   40 +
+ .../ISO8601GregorianCalendarConverter.java         |  120 +
+ .../extended/ISO8601SqlTimestampConverter.java     |   61 +
+ .../converters/extended/JavaClassConverter.java    |   69 +
+ .../converters/extended/JavaFieldConverter.java    |   74 +
+ .../converters/extended/JavaMethodConverter.java   |  115 +
+ .../converters/extended/LocaleConverter.java       |   58 +
+ .../converters/extended/LookAndFeelConverter.java  |   46 +
+ .../extended/PropertyEditorCapableConverter.java   |   49 +
+ .../converters/extended/RegexPatternConverter.java |   46 +
+ .../converters/extended/SqlDateConverter.java      |   33 +
+ .../converters/extended/SqlTimeConverter.java      |   33 +
+ .../converters/extended/SqlTimestampConverter.java |   33 +
+ .../extended/StackTraceElementConverter.java       |   70 +
+ .../extended/StackTraceElementFactory.java         |   62 +
+ .../converters/extended/SubjectConverter.java      |  113 +
+ .../extended/TextAttributeConverter.java           |   35 +
+ .../converters/extended/ThrowableConverter.java    |   54 +
+ .../extended/ToAttributedValueConverter.java       |  305 +++
+ .../converters/extended/ToStringConverter.java     |   54 +
+ .../xstream/converters/extended/package.html       |   14 +
+ .../xstream/converters/javabean/BeanProperty.java  |  136 +
+ .../xstream/converters/javabean/BeanProvider.java  |  191 ++
+ .../javabean/ComparingPropertySorter.java          |   37 +
+ .../converters/javabean/JavaBeanConverter.java     |  175 ++
+ .../converters/javabean/JavaBeanProvider.java      |   41 +
+ .../converters/javabean/NativePropertySorter.java  |   29 +
+ .../converters/javabean/PropertyDictionary.java    |  128 +
+ .../converters/javabean/PropertySorter.java        |   41 +
+ ...ributedCharacterIteratorAttributeConverter.java |   98 +
+ .../reflection/AbstractReflectionConverter.java    |  574 +++++
+ .../reflection/CGLIBEnhancedConverter.java         |  475 ++++
+ .../reflection/ExternalizableConverter.java        |  152 ++
+ .../converters/reflection/FieldDictionary.java     |  196 ++
+ .../xstream/converters/reflection/FieldKey.java    |   92 +
+ .../converters/reflection/FieldKeySorter.java      |   40 +
+ .../reflection/ImmutableFieldKeySorter.java        |   27 +
+ .../reflection/MissingFieldException.java          |   54 +
+ .../reflection/NativeFieldKeySorter.java           |   44 +
+ .../reflection/ObjectAccessException.java          |   24 +
+ .../reflection/PureJavaReflectionProvider.java     |  193 ++
+ .../converters/reflection/ReflectionConverter.java |   25 +
+ .../converters/reflection/ReflectionProvider.java  |   63 +
+ .../reflection/ReflectionProviderWrapper.java      |   53 +
+ .../reflection/SelfStreamingInstanceChecker.java   |   53 +
+ .../reflection/SerializableConverter.java          |  455 ++++
+ .../reflection/SerializationMethodInvoker.java     |  176 ++
+ .../reflection/SortableFieldKeySorter.java         |   97 +
+ .../reflection/Sun14ReflectionProvider.java        |  167 ++
+ .../reflection/XStream12FieldKeySorter.java        |   44 +
+ .../xstream/core/AbstractReferenceMarshaller.java  |  144 ++
+ .../core/AbstractReferenceUnmarshaller.java        |   76 +
+ .../core/AbstractTreeMarshallingStrategy.java      |   45 +
+ .../thoughtworks/xstream/core/BaseException.java   |   27 +
+ .../src/com/thoughtworks/xstream/core/Caching.java |   21 +
+ .../xstream/core/DefaultConverterLookup.java       |   89 +
+ .../src/com/thoughtworks/xstream/core/JVM.java     |  366 +++
+ .../xstream/core/MapBackedDataHolder.java          |   43 +
+ .../xstream/core/ReferenceByIdMarshaller.java      |   55 +
+ .../core/ReferenceByIdMarshallingStrategy.java     |   30 +
+ .../xstream/core/ReferenceByIdUnmarshaller.java    |   33 +
+ .../xstream/core/ReferenceByXPathMarshaller.java   |   41 +
+ .../core/ReferenceByXPathMarshallingStrategy.java  |   39 +
+ .../xstream/core/ReferenceByXPathUnmarshaller.java |   44 +
+ .../core/ReferencingMarshallingContext.java        |   62 +
+ .../xstream/core/SequenceGenerator.java            |   26 +
+ .../thoughtworks/xstream/core/TreeMarshaller.java  |  118 +
+ .../xstream/core/TreeMarshallingStrategy.java      |   30 +
+ .../xstream/core/TreeUnmarshaller.java             |  147 ++
+ .../xstream/core/util/ArrayIterator.java           |   41 +
+ .../xstream/core/util/Base64Encoder.java           |   94 +
+ .../xstream/core/util/ClassLoaderReference.java    |   53 +
+ .../thoughtworks/xstream/core/util/Cloneables.java |   62 +
+ .../xstream/core/util/CompositeClassLoader.java    |  142 ++
+ .../xstream/core/util/CustomObjectInputStream.java |  289 +++
+ .../core/util/CustomObjectOutputStream.java        |  228 ++
+ .../core/util/DependencyInjectionFactory.java      |  229 ++
+ .../thoughtworks/xstream/core/util/FastField.java  |   60 +
+ .../thoughtworks/xstream/core/util/FastStack.java  |   90 +
+ .../com/thoughtworks/xstream/core/util/Fields.java |   57 +
+ .../xstream/core/util/HierarchicalStreams.java     |   48 +
+ .../xstream/core/util/ObjectIdDictionary.java      |  122 +
+ .../xstream/core/util/OrderRetainingMap.java       |   83 +
+ .../com/thoughtworks/xstream/core/util/Pool.java   |   76 +
+ .../xstream/core/util/PresortedMap.java            |  170 ++
+ .../xstream/core/util/PresortedSet.java            |  125 +
+ .../thoughtworks/xstream/core/util/Primitives.java |  114 +
+ .../xstream/core/util/PrioritizedList.java         |   96 +
+ .../xstream/core/util/QuickWriter.java             |  108 +
+ .../core/util/ThreadSafePropertyEditor.java        |   85 +
+ .../core/util/ThreadSafeSimpleDateFormat.java      |   85 +
+ .../thoughtworks/xstream/core/util/TypedNull.java  |   33 +
+ .../thoughtworks/xstream/core/util/WeakCache.java  |  201 ++
+ .../xstream/core/util/XmlHeaderAwareReader.java    |  286 +++
+ .../thoughtworks/xstream/io/AbstractDriver.java    |   79 +
+ .../thoughtworks/xstream/io/AbstractReader.java    |  103 +
+ .../thoughtworks/xstream/io/AbstractWriter.java    |   84 +
+ .../xstream/io/AttributeNameIterator.java          |   44 +
+ .../io/ExtendedHierarchicalStreamReader.java       |   26 +
+ .../io/ExtendedHierarchicalStreamWriter.java       |   21 +
+ .../io/ExtendedHierarchicalStreamWriterHelper.java |   22 +
+ .../xstream/io/HierarchicalStreamDriver.java       |   85 +
+ .../xstream/io/HierarchicalStreamReader.java       |  106 +
+ .../xstream/io/HierarchicalStreamWriter.java       |   60 +
+ .../com/thoughtworks/xstream/io/ReaderWrapper.java |   89 +
+ .../thoughtworks/xstream/io/StatefulWriter.java    |  176 ++
+ .../thoughtworks/xstream/io/StreamException.java   |   31 +
+ .../com/thoughtworks/xstream/io/WriterWrapper.java |   60 +
+ .../xstream/io/binary/BinaryStreamDriver.java      |   57 +
+ .../xstream/io/binary/BinaryStreamReader.java      |  223 ++
+ .../xstream/io/binary/BinaryStreamWriter.java      |  101 +
+ .../xstream/io/binary/ReaderDepthState.java        |  149 ++
+ .../com/thoughtworks/xstream/io/binary/Token.java  |  312 +++
+ .../xstream/io/copy/HierarchicalStreamCopier.java  |   52 +
+ .../xstream/io/json/AbstractJsonWriter.java        |  621 +++++
+ .../xstream/io/json/JettisonMappedXmlDriver.java   |  146 ++
+ .../xstream/io/json/JettisonStaxWriter.java        |  105 +
+ .../io/json/JsonHierarchicalStreamDriver.java      |   86 +
+ .../io/json/JsonHierarchicalStreamWriter.java      |   62 +
+ .../thoughtworks/xstream/io/json/JsonWriter.java   |  406 +++
+ .../thoughtworks/xstream/io/naming/NameCoder.java  |   76 +
+ .../xstream/io/naming/NameCoderWrapper.java        |   61 +
+ .../xstream/io/naming/NoNameCoder.java             |   54 +
+ .../xstream/io/naming/StaticNameCoder.java         |  105 +
+ .../src/com/thoughtworks/xstream/io/path/Path.java |  219 ++
+ .../thoughtworks/xstream/io/path/PathTracker.java  |  176 ++
+ .../xstream/io/path/PathTrackingReader.java        |   51 +
+ .../xstream/io/path/PathTrackingWriter.java        |   51 +
+ .../com/thoughtworks/xstream/io/path/package.html  |   43 +
+ .../xstream/io/xml/AbstractDocumentReader.java     |   97 +
+ .../xstream/io/xml/AbstractDocumentWriter.java     |  116 +
+ .../xstream/io/xml/AbstractPullReader.java         |  231 ++
+ .../xstream/io/xml/AbstractXmlDriver.java          |   64 +
+ .../xstream/io/xml/AbstractXmlReader.java          |   66 +
+ .../xstream/io/xml/AbstractXmlWriter.java          |   54 +
+ .../xstream/io/xml/AbstractXppDomDriver.java       |   99 +
+ .../xstream/io/xml/AbstractXppDriver.java          |   94 +
+ .../thoughtworks/xstream/io/xml/BEAStaxDriver.java |   51 +
+ .../thoughtworks/xstream/io/xml/CompactWriter.java |   63 +
+ .../xstream/io/xml/DocumentReader.java             |   31 +
+ .../xstream/io/xml/DocumentWriter.java             |   40 +
+ .../thoughtworks/xstream/io/xml/Dom4JDriver.java   |  151 ++
+ .../thoughtworks/xstream/io/xml/Dom4JReader.java   |  114 +
+ .../thoughtworks/xstream/io/xml/Dom4JWriter.java   |  111 +
+ .../xstream/io/xml/Dom4JXmlWriter.java             |  137 +
+ .../com/thoughtworks/xstream/io/xml/DomDriver.java |  124 +
+ .../com/thoughtworks/xstream/io/xml/DomReader.java |  140 +
+ .../com/thoughtworks/xstream/io/xml/DomWriter.java |  106 +
+ .../thoughtworks/xstream/io/xml/JDomDriver.java    |  113 +
+ .../thoughtworks/xstream/io/xml/JDomReader.java    |  122 +
+ .../thoughtworks/xstream/io/xml/JDomWriter.java    |  114 +
+ .../xstream/io/xml/KXml2DomDriver.java             |   52 +
+ .../thoughtworks/xstream/io/xml/KXml2Driver.java   |   54 +
+ .../xstream/io/xml/PrettyPrintWriter.java          |  352 +++
+ .../com/thoughtworks/xstream/io/xml/QNameMap.java  |  101 +
+ .../com/thoughtworks/xstream/io/xml/SaxWriter.java |  724 ++++++
+ .../thoughtworks/xstream/io/xml/SjsxpDriver.java   |   70 +
+ .../thoughtworks/xstream/io/xml/StaxDriver.java    |  214 ++
+ .../thoughtworks/xstream/io/xml/StaxReader.java    |  115 +
+ .../thoughtworks/xstream/io/xml/StaxWriter.java    |  227 ++
+ .../thoughtworks/xstream/io/xml/TraxSource.java    |  297 +++
+ .../thoughtworks/xstream/io/xml/WstxDriver.java    |   51 +
+ .../xstream/io/xml/XStream11NameCoder.java         |   37 +
+ .../io/xml/XStream11XmlFriendlyReplacer.java       |   58 +
+ .../xstream/io/xml/XmlFriendlyNameCoder.java       |  323 +++
+ .../xstream/io/xml/XmlFriendlyReader.java          |   33 +
+ .../xstream/io/xml/XmlFriendlyReplacer.java        |   73 +
+ .../xstream/io/xml/XmlFriendlyWriter.java          |   32 +
+ .../com/thoughtworks/xstream/io/xml/XomDriver.java |  139 +
+ .../com/thoughtworks/xstream/io/xml/XomReader.java |  120 +
+ .../com/thoughtworks/xstream/io/xml/XomWriter.java |   68 +
+ .../thoughtworks/xstream/io/xml/Xpp3DomDriver.java |   52 +
+ .../thoughtworks/xstream/io/xml/Xpp3Driver.java    |   54 +
+ .../thoughtworks/xstream/io/xml/XppDomDriver.java  |   59 +
+ .../thoughtworks/xstream/io/xml/XppDomReader.java  |   98 +
+ .../thoughtworks/xstream/io/xml/XppDomWriter.java  |   84 +
+ .../com/thoughtworks/xstream/io/xml/XppDriver.java |   61 +
+ .../com/thoughtworks/xstream/io/xml/XppReader.java |  166 ++
+ .../xstream/io/xml/xppdom/Xpp3Dom.java             |   30 +
+ .../xstream/io/xml/xppdom/Xpp3DomBuilder.java      |   39 +
+ .../thoughtworks/xstream/io/xml/xppdom/XppDom.java |  239 ++
+ .../xstream/io/xml/xppdom/XppDomComparator.java    |  158 ++
+ .../xstream/io/xml/xppdom/XppFactory.java          |   85 +
+ .../mapper/AbstractAttributeAliasingMapper.java    |   46 +
+ .../xstream/mapper/AbstractXmlFriendlyMapper.java  |  109 +
+ .../xstream/mapper/AnnotationConfiguration.java    |   25 +
+ .../xstream/mapper/AnnotationMapper.java           |  560 ++++
+ .../thoughtworks/xstream/mapper/ArrayMapper.java   |   95 +
+ .../xstream/mapper/AttributeAliasingMapper.java    |   38 +
+ .../xstream/mapper/AttributeMapper.java            |  171 ++
+ .../thoughtworks/xstream/mapper/CGLIBMapper.java   |   57 +
+ .../thoughtworks/xstream/mapper/CachingMapper.java |   58 +
+ .../mapper/CannotResolveClassException.java        |   33 +
+ .../xstream/mapper/ClassAliasingMapper.java        |  102 +
+ .../mapper/DefaultImplementationsMapper.java       |   83 +
+ .../thoughtworks/xstream/mapper/DefaultMapper.java |  170 ++
+ .../xstream/mapper/DynamicProxyMapper.java         |   64 +
+ .../thoughtworks/xstream/mapper/EnumMapper.java    |  123 +
+ .../xstream/mapper/FieldAliasingMapper.java        |   79 +
+ .../xstream/mapper/ImmutableTypesMapper.java       |   43 +
+ .../xstream/mapper/ImplicitCollectionMapper.java   |  297 +++
+ .../xstream/mapper/LocalConversionMapper.java      |   85 +
+ .../com/thoughtworks/xstream/mapper/Mapper.java    |  176 ++
+ .../thoughtworks/xstream/mapper/MapperWrapper.java |  135 +
+ .../xstream/mapper/OuterClassMapper.java           |   47 +
+ .../xstream/mapper/PackageAliasingMapper.java      |  105 +
+ .../mapper/SystemAttributeAliasingMapper.java      |   36 +
+ .../xstream/mapper/XStream11XmlFriendlyMapper.java |   48 +
+ .../xstream/mapper/XmlFriendlyMapper.java          |   61 +
+ .../AbstractFilePersistenceStrategy.java           |  216 ++
+ .../persistence/FilePersistenceStrategy.java       |  159 ++
+ .../xstream/persistence/FileStreamStrategy.java    |  104 +
+ .../xstream/persistence/PersistenceStrategy.java   |   34 +
+ .../xstream/persistence/StreamStrategy.java        |   21 +
+ .../xstream/persistence/XmlArrayList.java          |   77 +
+ .../thoughtworks/xstream/persistence/XmlMap.java   |   71 +
+ .../thoughtworks/xstream/persistence/XmlSet.java   |   56 +
+ src-subjects/xstream/src/splat/Main.java           |   91 +
+ src-subjects/xstream/target/test-data/test.xml     |    4 +
+ .../AbsoluteSingleNodeXPathReferenceTest.java      |  171 ++
+ .../acceptance/AbsoluteXPathReferenceTest.java     |  171 ++
+ .../acceptance/AbstractAcceptanceTest.java         |  212 ++
+ .../acceptance/AbstractReferenceTest.java          |  474 ++++
+ .../com/thoughtworks/acceptance/AliasTest.java     |  372 +++
+ .../com/thoughtworks/acceptance/ArraysTest.java    |  267 ++
+ .../com/thoughtworks/acceptance/AttributeTest.java |  380 +++
+ .../thoughtworks/acceptance/Basic15TypesTest.java  |   30 +
+ .../thoughtworks/acceptance/BasicTypesTest.java    |  101 +
+ .../acceptance/BeanIDCircularReferenceTest.java    |  129 +
+ .../thoughtworks/acceptance/BooleanFieldsTest.java |  113 +
+ .../acceptance/BufferedImagesTest.java             |   89 +
+ .../acceptance/CglibCompatibilityTest.java         |  401 +++
+ .../thoughtworks/acceptance/ClassLoaderTest.java   |   30 +
+ .../thoughtworks/acceptance/CollectionsTest.java   |  395 +++
+ .../acceptance/ConcreteClassesTest.java            |  116 +
+ .../thoughtworks/acceptance/ConcurrencyTest.java   |  105 +
+ .../thoughtworks/acceptance/CustomClassesTest.java |  324 +++
+ .../acceptance/CustomConverterTest.java            |   74 +
+ .../acceptance/CustomFieldKeySorterTest.java       |   81 +
+ .../thoughtworks/acceptance/CustomMapperTest.java  |  203 ++
+ .../acceptance/CustomSerializationTest.java        |  522 ++++
+ .../thoughtworks/acceptance/DataHolderTest.java    |   79 +
+ .../acceptance/DefaultImplementationTest.java      |  109 +
+ .../thoughtworks/acceptance/DynamicProxyTest.java  |   91 +
+ .../thoughtworks/acceptance/EncodingTestSuite.java |  141 +
+ .../com/thoughtworks/acceptance/ErrorTest.java     |   99 +
+ .../acceptance/Extended14TypesTest.java            |  124 +
+ .../thoughtworks/acceptance/ExtendedTypesTest.java |  134 +
+ .../acceptance/ExternalizableTest.java             |  201 ++
+ .../thoughtworks/acceptance/FinalFieldsTest.java   |   50 +
+ .../thoughtworks/acceptance/IDReferenceTest.java   |  114 +
+ .../thoughtworks/acceptance/ImplicitArrayTest.java |  497 ++++
+ .../acceptance/ImplicitCollectionTest.java         |  465 ++++
+ .../thoughtworks/acceptance/ImplicitMapTest.java   |  505 ++++
+ .../thoughtworks/acceptance/InheritanceTest.java   |  167 ++
+ .../thoughtworks/acceptance/InnerClassesTest.java  |   68 +
+ .../thoughtworks/acceptance/JodaTimeTypesTest.java |   47 +
+ .../acceptance/LocalConverterTest.java             |  106 +
+ .../com/thoughtworks/acceptance/MapTest.java       |  266 ++
+ .../acceptance/MultipleObjectsInOneStreamTest.java |  306 +++
+ .../thoughtworks/acceptance/OmitFieldsTest.java    |  283 ++
+ .../thoughtworks/acceptance/PersistenceTest.java   |  112 +
+ .../acceptance/QNameMappedConcreteClassesTest.java |  145 ++
+ .../thoughtworks/acceptance/ReadResolveTest.java   |   55 +
+ .../acceptance/ReflectionClassesTest.java          |  130 +
+ .../RelativeSingleNodeXPathReferenceTest.java      |  116 +
+ .../acceptance/RelativeXPathReferenceTest.java     |  206 ++
+ .../acceptance/SecurityManagerTest.java            |  184 ++
+ .../acceptance/SerializationCallbackOrderTest.java |  423 +++
+ .../SerializationNestedWriteObjectsTest.java       |  295 +++
+ .../acceptance/SortableFieldListTest.java          |   63 +
+ .../com/thoughtworks/acceptance/SwingTest.java     |   63 +
+ .../acceptance/TreeMapAndTreeSetTest.java          |  197 ++
+ .../thoughtworks/acceptance/WriteReplaceTest.java  |  286 +++
+ .../acceptance/XStream11XmlFriendlyTest.java       |  136 +
+ .../acceptance/XStream12CompatibilityTest.java     |  161 ++
+ .../acceptance/XStream13CompatibilityTest.java     |   55 +
+ .../com/thoughtworks/acceptance/XStreamer.xsl      |   32 +
+ .../com/thoughtworks/acceptance/XStreamerTest.java |   85 +
+ .../acceptance/annotations/AliasTest.java          |  293 +++
+ .../acceptance/annotations/AnnotationsTest.java    |  187 ++
+ .../acceptance/annotations/AttributesTest.java     |   62 +
+ .../acceptance/annotations/FieldConverterTest.java |  233 ++
+ .../acceptance/annotations/ImplicitArrayTest.java  |  122 +
+ .../annotations/ImplicitCollectionTest.java        |  183 ++
+ .../acceptance/annotations/ImplicitMapTest.java    |  195 ++
+ .../acceptance/annotations/OmitFieldTest.java      |   52 +
+ .../annotations/ParametrizedConverterTest.java     |  150 ++
+ .../XStream12AnnotationCompatibilityTest.java      |   61 +
+ .../thoughtworks/acceptance/objects/Category.java  |   67 +
+ .../thoughtworks/acceptance/objects/Hardware.java  |   27 +
+ .../acceptance/objects/OpenSourceSoftware.java     |   26 +
+ .../thoughtworks/acceptance/objects/Original.java  |   31 +
+ .../acceptance/objects/OwnerOfExternalizable.java  |   17 +
+ .../thoughtworks/acceptance/objects/Product.java   |   76 +
+ .../thoughtworks/acceptance/objects/Replaced.java  |   31 +
+ .../acceptance/objects/SampleDynamicProxy.java     |   81 +
+ .../acceptance/objects/SampleLists.java            |   23 +
+ .../acceptance/objects/SampleMaps.java             |   20 +
+ .../thoughtworks/acceptance/objects/Software.java  |   27 +
+ .../objects/SomethingExternalizable.java           |   50 +
+ .../acceptance/objects/StandardObject.java         |   37 +
+ .../acceptance/objects/StatusEnum.java             |   52 +
+ .../acceptance/someobjects/FunnyConstructor.java   |   23 +
+ .../acceptance/someobjects/Handler.java            |   29 +
+ .../acceptance/someobjects/HandlerManager.java     |   31 +
+ .../acceptance/someobjects/Protocol.java           |   29 +
+ .../com/thoughtworks/acceptance/someobjects/U.java |   22 +
+ .../acceptance/someobjects/WithList.java           |   23 +
+ .../acceptance/someobjects/WithNamedList.java      |   24 +
+ .../com/thoughtworks/acceptance/someobjects/X.java |   27 +
+ .../com/thoughtworks/acceptance/someobjects/Y.java |   18 +
+ .../com/thoughtworks/acceptance/someobjects/Z.java |   23 +
+ .../com/thoughtworks/xstream/XStreamTest.java      |  422 +++
+ .../converters/ConversionExceptionTest.java        |   50 +
+ .../converters/basic/DateConverterTest.java        |  199 ++
+ .../xstream/converters/basic/URIConverterTest.java |   58 +
+ .../xstream/converters/basic/URLConverterTest.java |   32 +
+ .../collections/BitSetConverterTest.java           |   34 +
+ .../collections/ByteArrayConverterTest.java        |   72 +
+ .../collections/CharArrayConverterTest.java        |   24 +
+ .../collections/PropertiesConverterTest.java       |  105 +
+ .../xstream/converters/enums/BigEnum.java          |   18 +
+ .../converters/enums/EnumConverterTest.java        |   68 +
+ .../converters/enums/EnumCustomConverterTest.java  |  118 +
+ .../converters/enums/EnumMapConverterTest.java     |   51 +
+ .../xstream/converters/enums/EnumMapperTest.java   |  100 +
+ .../converters/enums/EnumSetConverterTest.java     |   72 +
+ .../xstream/converters/enums/Fruit.java            |   21 +
+ .../xstream/converters/enums/PolymorphicEnum.java  |   25 +
+ .../xstream/converters/enums/SimpleEnum.java       |   16 +
+ .../converters/extended/CharsetConverterTest.java  |   24 +
+ .../converters/extended/DurationConverterTest.java |   38 +
+ .../extended/EncodedByteArrayConverterTest.java    |   69 +
+ .../converters/extended/FontConverterTest.java     |   79 +
+ .../extended/GregorianCalendarConverterTest.java   |   34 +
+ .../extended/ISO8601DateConverterTest.java         |   78 +
+ .../ISO8601GregorianCalendarConverterTest.java     |  131 +
+ .../extended/ISO8601SqlTimestampConverterTest.java |   97 +
+ .../extended/JavaClassConverterTest.java           |   60 +
+ .../extended/JavaMethodConverterTest.java          |   75 +
+ .../PropertyEditorCapableConverterTest.java        |  128 +
+ .../extended/RegexPatternConverterTest.java        |   28 +
+ .../extended/StackTraceElementConverterTest.java   |   54 +
+ .../extended/ThrowableConverterTest.java           |  155 ++
+ .../extended/ToAttributedValueConverterTest.java   |  214 ++
+ .../converters/extended/ToStringConverterTest.java |   88 +
+ .../converters/javabean/JavaBeanConverterTest.java |  449 ++++
+ .../javabean/PropertyDictionaryTest.java           |  136 +
+ .../reflection/AbstractReflectionProviderTest.java |  150 ++
+ .../converters/reflection/FieldDictionaryTest.java |   81 +
+ .../reflection/NativeFieldKeySorterTest.java       |   63 +
+ .../PureJavaReflectionProvider15Test.java          |   48 +
+ .../reflection/PureJavaReflectionProviderTest.java |  123 +
+ .../reflection/ReflectionConverterTest.java        |  159 ++
+ .../reflection/SerializableConverterTest.java      |  322 +++
+ .../reflection/SortableFieldKeySorterTest.java     |   95 +
+ .../reflection/Sun14ReflectionProviderTest.java    |   80 +
+ .../xstream/core/DefaultConverterLookupTest.java   |   44 +
+ .../com/thoughtworks/xstream/core/JVMTest.java     |   36 +
+ .../core/ReferenceByIDMarshallingStrategyTest.java |   64 +
+ .../ReferenceByXPathMarshallingStrategyTest.java   |   91 +
+ .../xstream/core/TreeMarshallerTest.java           |   41 +
+ .../xstream/core/TreeUnmarshallerTest.java         |   99 +
+ .../xstream/core/util/Base64EncoderTest.java       |   93 +
+ .../xstream/core/util/CloneablesTest.java          |   80 +
+ .../core/util/DependencyInjectionFactoryTest.java  |  146 ++
+ .../xstream/core/util/FastStackTest.java           |   34 +
+ .../xstream/core/util/ObjectIdDictionaryTest.java  |   61 +
+ .../xstream/core/util/OrderRetainingMapTest.java   |   83 +
+ .../xstream/core/util/PrioritizedListTest.java     |   86 +
+ .../xstream/core/util/QuickWriterTest.java         |   33 +
+ .../core/util/ThreadSafeSimpleDateFormatTest.java  |   99 +
+ .../xstream/core/util/WeakCacheTest.java           |  182 ++
+ .../core/util/XmlHeaderAwareReaderTest.java        |   77 +
+ .../xstream/io/DriverEndToEndTestSuite.java        |  133 +
+ .../xstream/io/StatefulWriterTest.java             |  175 ++
+ .../xstream/io/binary/BinaryStreamTest.java        |   79 +
+ .../thoughtworks/xstream/io/binary/TokenTest.java  |  109 +
+ .../io/copy/HierarchicalStreamCopierTest.java      |   61 +
+ .../io/json/JettisonMappedXmlDriverTest.java       |  299 +++
+ .../io/json/JsonHierarchicalStreamDriverTest.java  |  681 +++++
+ .../xstream/io/json/JsonWriterFormatTest.java      |  281 ++
+ .../io/json/JsonWriterModeDroppingRootTest.java    |  114 +
+ .../xstream/io/json/JsonWriterModeTest.java        |  194 ++
+ .../com/thoughtworks/xstream/io/path/PathTest.java |  104 +
+ .../xstream/io/path/PathTrackerTest.java           |  153 ++
+ .../xstream/io/path/PathTrackingReaderTest.java    |   78 +
+ .../xstream/io/path/PathTrackingWriterTest.java    |   78 +
+ .../xstream/io/xml/AbstractDocumentWriterTest.java |  134 +
+ .../xstream/io/xml/AbstractStaxWriterTest.java     |  105 +
+ .../xstream/io/xml/AbstractXMLReaderTest.java      |  243 ++
+ .../xstream/io/xml/AbstractXMLWriterTest.java      |  134 +
+ .../xstream/io/xml/BEAStaxReaderTest.java          |   28 +
+ .../xstream/io/xml/BEAStaxWriterTest.java          |   37 +
+ .../xstream/io/xml/CompactWriterTest.java          |   96 +
+ .../xstream/io/xml/Dom4JReaderTest.java            |   45 +
+ .../xstream/io/xml/Dom4JWriterTest.java            |   28 +
+ .../xstream/io/xml/Dom4JXmlWriterTest.java         |   44 +
+ .../thoughtworks/xstream/io/xml/DomReaderTest.java |   85 +
+ .../thoughtworks/xstream/io/xml/DomWriterTest.java |   80 +
+ .../xstream/io/xml/JDomAcceptanceTest.java         |   85 +
+ .../xstream/io/xml/JDomReaderTest.java             |   31 +
+ .../xstream/io/xml/JDomWriterTest.java             |   28 +
+ .../xstream/io/xml/KXml2ReaderTest.java            |   32 +
+ .../xstream/io/xml/PrettyPrintWriterTest.java      |  288 +++
+ .../thoughtworks/xstream/io/xml/SaxWriterTest.java |  231 ++
+ .../xstream/io/xml/SjsxpReaderTest.java            |   51 +
+ .../xstream/io/xml/SjsxpWriterTest.java            |   58 +
+ .../xstream/io/xml/StaxDriverTest.java             |   58 +
+ .../xstream/io/xml/StaxReaderTest.java             |   25 +
+ .../xstream/io/xml/WstxReaderTest.java             |   28 +
+ .../xstream/io/xml/WstxWriterTest.java             |   40 +
+ .../thoughtworks/xstream/io/xml/XomReaderTest.java |   31 +
+ .../thoughtworks/xstream/io/xml/XomWriterTest.java |   28 +
+ .../xstream/io/xml/Xpp3ReaderTest.java             |   28 +
+ .../xstream/io/xml/XppDomReaderTest.java           |   78 +
+ .../xstream/io/xml/XppDomWriterTest.java           |   30 +
+ .../thoughtworks/xstream/io/xml/XppReaderTest.java |   24 +
+ .../io/xml/xppdom/XppDomComparatorTest.java        |  251 ++
+ .../xstream/mapper/DefaultClassMapperTest.java     |   70 +
+ .../xstream/mapper/FieldAliasingMapperTest.java    |   33 +
+ .../mapper/ImplicitCollectionMapperTest.java       |  119 +
+ .../xstream/mapper/XmlFriendlyMapperTest.java      |   31 +
+ .../persistence/FilePersistenceStrategyTest.java   |  257 ++
+ .../persistence/FileStreamStrategyTest.java        |  250 ++
+ .../xstream/persistence/XmlArrayListTest.java      |  283 ++
+ .../xstream/persistence/XmlMapTest.java            |  249 ++
+ .../xstream/persistence/XmlSetTest.java            |  206 ++
+ .../com/thoughtworks/xstream/testutil/CallLog.java |   39 +
+ .../xstream/testutil/DynamicSecurityManager.java   |  104 +
+ .../xstream/testutil/TimeZoneChanger.java          |   28 +
+ src/backtracker/Backtracker.java                   |  191 +-
+ src/sampling/Sampling.java                         |   75 +
+ src/sampling/SamplingAlgorithms.java               |   32 -
+ src/splat/CompaniesVariables.java                  |  170 ++
+ src/splat/JTopasVariables.java                     |  129 +
+ src/splat/SPLat.java                               |  257 +-
+ src/splat/SudokuVariables.java                     |  141 +
+ src/splat/Variables.java                           |   20 +
+ src/splat/XStreamVariables.java                    |  153 ++
+ src/stats/TestResults.java                         |   13 +-
+ 789 files changed, 104302 insertions(+), 365 deletions(-)

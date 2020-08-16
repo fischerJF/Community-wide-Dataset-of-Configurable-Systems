@@ -1,0 +1,221 @@
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:false empty:false base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 1((( apos os testes))) 
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:false empty:false base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:false overloaded:false executivefloor:false empty:false base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 2((( apos os testes))) 
+conf: weight:true twothirdsfull:false overloaded:false executivefloor:false empty:false base:true
+
+
+ ----------------------- 
+
+
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:false empty:true base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 3((( apos os testes))) 
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:false empty:true base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:false overloaded:false executivefloor:false empty:true base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 4((( apos os testes))) 
+conf: weight:true twothirdsfull:false overloaded:false executivefloor:false empty:true base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:true overloaded:false executivefloor:false empty:false base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 5((( apos os testes))) 
+conf: weight:true twothirdsfull:true overloaded:false executivefloor:false empty:false base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:true overloaded:false executivefloor:false empty:true base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 6((( apos os testes))) 
+conf: weight:true twothirdsfull:true overloaded:false executivefloor:false empty:true base:true
+
+
+ ----------------------- 
+
+
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:true empty:false base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 7((( apos os testes))) 
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:true empty:false base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:false overloaded:false executivefloor:true empty:false base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 8((( apos os testes))) 
+conf: weight:true twothirdsfull:false overloaded:false executivefloor:true empty:false base:true
+
+
+ ----------------------- 
+
+
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:true empty:true base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 9((( apos os testes))) 
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:true empty:true base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:false overloaded:false executivefloor:true empty:true base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 10((( apos os testes))) 
+conf: weight:true twothirdsfull:false overloaded:false executivefloor:true empty:true base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:true overloaded:false executivefloor:true empty:false base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 11((( apos os testes))) 
+conf: weight:true twothirdsfull:true overloaded:false executivefloor:true empty:false base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:true overloaded:false executivefloor:true empty:true base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 12((( apos os testes))) 
+conf: weight:true twothirdsfull:true overloaded:false executivefloor:true empty:true base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:false overloaded:true executivefloor:false empty:false base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 13((( apos os testes))) 
+conf: weight:true twothirdsfull:false overloaded:true executivefloor:false empty:false base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:false overloaded:true executivefloor:false empty:true base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 14((( apos os testes))) 
+conf: weight:true twothirdsfull:false overloaded:true executivefloor:false empty:true base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:false empty:false base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 15((( apos os testes))) 
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:false empty:false base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:false empty:true base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 16((( apos os testes))) 
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:false empty:true base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:false overloaded:true executivefloor:true empty:false base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 17((( apos os testes))) 
+conf: weight:true twothirdsfull:false overloaded:true executivefloor:true empty:false base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:false overloaded:true executivefloor:true empty:true base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 18((( apos os testes))) 
+conf: weight:true twothirdsfull:false overloaded:true executivefloor:true empty:true base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:true empty:false base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 19((( apos os testes))) 
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:true empty:false base:true
+
+
+ ----------------------- 
+
+
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:true empty:true base:true
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+cont: 20((( apos os testes))) 
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:true empty:true base:true
+
+
+ ----------------------- 
+
+
+Tempo gasto total (milisegundos): 1346 tempo médio (milisegundos): 1346.0 número de vezes executadas:1

@@ -1,0 +1,586 @@
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+cont: 1((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 2((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 3((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 4((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+cont: 5((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+cont: 6((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+cont: 7((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+cont: 8((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+cont: 9((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+cont: 10((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+cont: 11((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+cont: 12((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+cont: 13((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+cont: 14((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+cont: 15((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+cont: 16((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 17((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 18((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 19((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 20((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 21((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 22((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 23((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 24((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 25((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 26((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 27((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 28((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+cont: 29((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+cont: 30((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+cont: 31((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+cont: 32((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 33((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 34((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 35((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 36((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 37((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 38((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+cont: 39((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 40((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+cont: 41((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+cont: 42((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+cont: 43((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+cont: 44((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+cont: 45((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 46((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 47((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+cont: 48((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+cont: 49((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 50((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 51((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+cont: 52((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:truecont: 53((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+cont: 54((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+cont: 55((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+cont: 56((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+cont: 57((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+cont: 58((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 59((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 60((( apos os testes)))  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+cont: 61((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+cont: 62((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 63((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 64((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+cont: 65((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 66((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+cont: 67((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 68((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+cont: 69((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 70((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 71((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 72((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+cont: 73((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:73
+Tempo gasto total (milisegundos): 12797 tempo médio (milisegundos): 12797.0 número de vezes executadas:1

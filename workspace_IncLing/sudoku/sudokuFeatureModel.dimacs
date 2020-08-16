@@ -1,0 +1,11 @@
+c 1 BASE	
+c 2 STATES
+c 3 UNDO
+c 4 COLOR
+c 5 SOLVER
+c 6 GENERATOR
+c 7 EXTENDEDSUDOKU
+p cnf 7 3
+-3 2 0 
+-6 5 0 
+-5 3 0 

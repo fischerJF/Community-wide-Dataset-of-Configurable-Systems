@@ -1,0 +1,128 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>labsoft</groupId>
+	<artifactId>FeatureAMP4</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.11</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-all</artifactId>
+			<version>1.10.19</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.powermock</groupId>
+			<artifactId>powermock-mockito-release-full</artifactId>
+			<version>1.6.4</version>
+			<type>pom</type>
+			<scope>test</scope>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.easytesting/fest-util -->
+		<dependency>
+			<groupId>org.easytesting</groupId>
+			<artifactId>fest-util</artifactId>
+			<version>1.1.6</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.easytesting/fest-assert-core -->
+		<dependency>
+			<groupId>org.easytesting</groupId>
+			<artifactId>fest-assert-core</artifactId>
+			<version>2.0M10</version>
+			<scope>test</scope>
+		</dependency>
+
+
+		<!-- https://mvnrepository.com/artifact/org.easytesting/fest-reflect -->
+		<dependency>
+			<groupId>org.easytesting</groupId>
+			<artifactId>fest-reflect</artifactId>
+			<version>1.2</version>
+			<scope>test</scope>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.easytesting/fest-swing -->
+		<dependency>
+			<groupId>org.easytesting</groupId>
+			<artifactId>fest-swing</artifactId>
+			<version>1.2.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/javazoom/jlayer -->
+		<dependency>
+			<groupId>javazoom</groupId>
+			<artifactId>jlayer</artifactId>
+			<version>1.0.1</version>
+		</dependency>
+
+
+
+		<!-- https://mvnrepository.com/artifact/com.mpatric/mp3agic -->
+		<dependency>
+			<groupId>com.mpatric</groupId>
+			<artifactId>mp3agic</artifactId>
+			<version>0.8.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.googlecode.soundlibs/mp3spi -->
+		<dependency>
+			<groupId>com.googlecode.soundlibs</groupId>
+			<artifactId>mp3spi</artifactId>
+			<version>1.9.5-1</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.googlecode.soundlibs/tritonus-share -->
+		<dependency>
+			<groupId>com.googlecode.soundlibs</groupId>
+			<artifactId>tritonus-share</artifactId>
+			<version>0.3.7-1</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.googlecode.soundlibs/vorbisspi -->
+		<dependency>
+			<groupId>com.googlecode.soundlibs</groupId>
+			<artifactId>vorbisspi</artifactId>
+			<version>1.0.3.3</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.jtattoo/JTattoo -->
+<dependency>
+    <groupId>com.jtattoo</groupId>
+    <artifactId>JTattoo</artifactId>
+    <version>1.6.10</version>
+</dependency>
+		
+	</dependencies>
+	<build>
+
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.7</source>
+					<target>1.7</target>
+				</configuration>
+			</plugin>
+
+			<plugin>
+				<groupId>org.pitest</groupId>
+				<artifactId>pitest-maven</artifactId>
+				<version>1.1.0</version>
+				<configuration>
+					<targetClasses>
+						<param>featureAMP*</param>
+					</targetClasses>
+					<targetTests>
+						<param>testset*</param>
+					</targetTests>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

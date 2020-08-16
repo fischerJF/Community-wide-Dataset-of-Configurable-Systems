@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;modified-model.m&apos; to &apos;Prop4J-SPL&apos;&#x0D;&#x0A;- Original project: &apos;Paycard&apos;&#x0D;&#x0A;- Destination element: &apos;Prop4J-SPL&apos;&#x0D;&#x0A;- Original element: &apos;modified-model.m&apos;" description="Copy file" destination="=Prop4J-SPL" element1="modified-model.m" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1573056408486" units="0" version="1.0"/>
+</session>

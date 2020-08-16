@@ -1,0 +1,8 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc,
+src,paycard.ChargeUI,class,1,20,1,0,32,28,5,5,0,13,0,0,5,113,
+src,paycard.LogFile,class,1,11,1,0,2,0,3,3,0,3,0,1,0,60,
+src,paycard.LogRecord,class,1,8,1,0,0,2,4,4,0,4,0,1,0,50,
+src,paycard.PayCard,class,2,31,1,0,6,25,10,7,1,5,0,0,0,127,3
+src,paycard.IssueCardUI,class,2,18,1,0,29,21,5,5,0,17,0,3,3,126,
+src,specifications.Configuration,class,0,0,1,0,0,0,0,0,0,4,4,4,0,11,
+src,paycard.CardException,class,0,3,3,0,0,0,1,1,0,0,0,0,0,9,

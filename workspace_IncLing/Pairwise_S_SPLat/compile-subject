@@ -1,0 +1,61 @@
+#!/bin/bash
+echo "COMPILE SUBJECT"
+
+source common
+
+if [ -z "$1" ];
+then
+    echo "Plese inform name of the subject you want to analyze"
+    exit
+fi
+
+SUBJECT=$1
+BASEBIN="${BASEDIR}/bin"
+CP="${BASEBIN}:${JUNIT}"
+CUR="${BASEDIR}/src-subjects/${SUBJECT}"
+
+if [ ! -d ${CUR} ];
+then
+    echo "Could not locate subject directory: ${CUR}"
+    exit
+fi
+
+### i don't know why this is called compile.  i can't see any compilation command. -M
+source ./compile
+
+############# subject libraries
+for x in `ls ${CUR}/libs/*.jar`;
+do
+	CP=${x}:${CP}
+done
+
+SRCDIR="${CUR}/src"
+BINDIR="${CUR}/bin"
+TESTDIR="${CUR}/src-tests"
+
+CP="${BINDIR}:$CP"
+echo $CP
+
+if [ -d ${BINDIR} ];
+then
+    rm -rf ${BINDIR}
+fi
+
+mkdir -p ${BINDIR}
+
+######## compile splat and splat tests
+find ${BASEDIR}/src -name "*.java" | \
+    xargs javac -cp $CP -d ${BINDIR}
+find ${BASEDIR}/src-exps -name "*.java" | \
+    xargs javac -cp $CP -d ${BINDIR}
+
+######## compile source
+find ${SRCDIR} -name "*.java" | \
+    xargs javac -cp $CP -d ${BINDIR}
+
+
+######## compile tests
+find ${TESTDIR} -name "*.java" | \
+    xargs javac -cp $CP -d ${BINDIR}
+
+export CP

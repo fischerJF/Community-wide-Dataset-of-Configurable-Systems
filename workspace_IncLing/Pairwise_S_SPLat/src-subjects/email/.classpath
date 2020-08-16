@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src-tests"/>
+	<classpathentry kind="lib" path="libs/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="libs/javabdd.jar"/>
+	<classpathentry kind="lib" path="libs/jpf-annotations.jar"/>
+	<classpathentry kind="lib" path="libs/jpf-bdd-annotations.jar"/>
+	<classpathentry kind="lib" path="libs/jpf-bdd-classes.jar"/>
+	<classpathentry kind="lib" path="libs/jpf-bdd.jar"/>
+	<classpathentry kind="lib" path="libs/jpf-classes.jar"/>
+	<classpathentry kind="lib" path="libs/jpf.jar"/>
+	<classpathentry kind="lib" path="libs/RunAnt.jar"/>
+	<classpathentry kind="lib" path="libs/RunJPF.jar"/>
+	<classpathentry kind="lib" path="libs/RunTest.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/splat-sampling"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,125 @@
+COMMAND_LINE
+desktopsearcher.Commandline.Commandline(MrPinkMain) OK
+desktopsearcher.Commandline.parseCommand(String) OK
+desktopsearcher.Commandline.printErrorMessage(String) OK
+desktopsearcher.Commandline.printHits(ScoreDoc[], Indexer, String) OK
+desktopsearcher.Commandline.printSearch_SearchPanel(ScoreDoc[], Indexer, String) OK
+desktopsearcher.Commandline.startCommandline() ---
+desktopsearcher.Commandline.substituteWhiteSpacesinSingleQuotedStringArea(String) OK
+desktopsearcher.Indexer.createIndex(String) OK
+desktopsearcher.Indexer.indexDirectory(String, IndexWriter) OK 
+desktopsearcher.MrPinkMain.createIndex(String) OK
+desktopsearcher.MrPinkMain.init() OK
+
+GUI
+desktopsearcher.ButtonListener.actionPerformed(ActionEvent) OK
+desktopsearcher.ButtonListener.ButtonListener(Component) OK
+desktopsearcher.MainFrame.createGroupBoxSearch() OK
+desktopsearcher.MainFrame.enableSearchGroupBox(boolean) OK
+desktopsearcher.MainFrame.initComponents() OK
+desktopsearcher.MainFrame.MainFrame(MrPinkMain) OK
+desktopsearcher.MainFrame.makeGroupBox(String, int, Color) OK
+desktopsearcher.MainFrame.printErrorMessage(String)
+desktopsearcher.MrPinkMain.init() OK
+
+GUI_PREFERENCES
+desktopsearcher.ButtonListener.actionPerformed(ActionEvent) OK
+desktopsearcher.MainFrame.createOptionsButton() OK
+desktopsearcher.MainFrame.enableSearchGroupBox(boolean) OK
+
+HTML
+desktopsearcher.HTML.extractText(String) OK
+desktopsearcher.HTML.getIndexedFields() OK
+desktopsearcher.HTML.handles(String) OK
+desktopsearcher.HTML.index(String, IndexWriter) OK
+desktopsearcher.HTML.isOwnerOfDocument(Document)
+desktopsearcher.Indexer.getAvailableContentHandlers() OK
+
+INDEX_HISTORY
+desktopsearcher.ButtonListener.addingPath() OK
+desktopsearcher.ButtonListener.pathAdded(String) OK
+desktopsearcher.History_Indexer.actionPerformed(ActionEvent) OK
+desktopsearcher.History_Indexer.History_Indexer(Index_History_Selector, JComboBox) OK
+desktopsearcher.History_Indexer.setEnable(Component[], boolean) OK
+desktopsearcher.Index_History_Selector.buildGUI(History_Indexer, String[]) OK
+desktopsearcher.Index_History_Selector.createGroupBoxBrowse(History_Indexer) OK
+desktopsearcher.Index_History_Selector.createGroupBoxHistory(History_Indexer, String[]) OK
+desktopsearcher.Index_History_Selector.createGroupBoxOK(History_Indexer) OK
+desktopsearcher.Index_History_Selector.Index_History_Selector(JFrame, String[]) OK
+desktopsearcher.Index_History_Selector.makeGroupBox(String, int, Color) OK
+desktopsearcher.MainFrame.initComponents() OK
+
+LATEX 
+desktopsearcher.Indexer.getAvailableContentHandlers() OK
+desktopsearcher.Latex.getContent(String) OK
+desktopsearcher.Latex.getIndexedFields() OK
+desktopsearcher.Latex.handles(String) OK
+desktopsearcher.Latex.index(String, IndexWriter) OK
+desktopsearcher.Latex.indexStructure(String) OK
+desktopsearcher.Latex.isOwnerOfDocument(Document)
+
+LINUX 
+desktopsearcher.OS.getPathSeparator() OK
+desktopsearcher.OS.getPathSeparatorChar()
+
+MULTI_DIRECTORY
+desktopsearcher.ButtonListener.actionPerformed(ActionEvent) OK
+desktopsearcher.ButtonListener.addingPath() OK
+desktopsearcher.ButtonListener.addPathToGui(String) OK
+desktopsearcher.Indexer.createIndex(String[]) OK
+desktopsearcher.Indexer.indexDirectory(String, IndexWriter) OK
+desktopsearcher.MainFrame.createGroupBoxIndex() OK
+desktopsearcher.MainFrame.initComponents() OK
+desktopsearcher.MainFrame.showIndexCreateMessageDialog() OK
+desktopsearcher.MrPinkMain.createIndex(String[]) OK
+ 
+NORMAL_VIEW
+desktopsearcher.HitComponentLabel.setText(JPanel, Point, String, Font) OK
+desktopsearcher.HitDocument.HitDocument(JPanel, Point, ArrayList) OK
+desktopsearcher.MainFrame.printSearch_SearchPanel(ScoreDoc[], Indexer, String) OK
+desktopsearcher.NoDocument.NoDocument(JPanel, Point) OK
+ 
+QUERY_HISTORY 
+desktopsearcher.History_Query.actionPerformed(ActionEvent)
+desktopsearcher.History_Query.transferCurrentListinComboBox(LinkedList, JComboBox)
+desktopsearcher.MainFrame.initComponents()
+
+SINGLE_DIRECOTORY 
+desktopsearcher.ButtonListener.actionPerformed(ActionEvent)
+desktopsearcher.ButtonListener.addingPath()
+desktopsearcher.ButtonListener.addPathToGui(String)
+desktopsearcher.Indexer.createIndex(String) OK
+desktopsearcher.Indexer.indexDirectory(String, IndexWriter) OK
+desktopsearcher.MainFrame.createGroupBoxIndex()
+desktopsearcher.MainFrame.initComponents()
+desktopsearcher.MainFrame.showIndexCreateMessageDialog()
+desktopsearcher.MrPinkMain.createIndex(String) OK
+
+TREE_VIEW
+desktopsearcher.HitComponentLabel.setText(JPanel, Point, String, Font) OK
+desktopsearcher.HitDocument.getPath() OK
+desktopsearcher.HitDocument.getTheSize()
+desktopsearcher.HitDocument.HitDocument(ArrayList) OK
+desktopsearcher.HitDocument.toString()
+desktopsearcher.MainFrame.printSearch_SearchPanel(ScoreDoc[], Indexer, String) OK
+desktopsearcher.SearchResultTree.createNodes(DefaultMutableTreeNode, TreeMap) OK
+desktopsearcher.SearchResultTree.getTree() OK
+desktopsearcher.SearchResultTree.iterateMap(DefaultMutableTreeNode, String, TreeMap) OK
+desktopsearcher.SearchResultTree.SearchResultTree(TreeMap, JPanel) OK
+
+TXT 
+desktopsearcher.Indexer.getAvailableContentHandlers() OK
+desktopsearcher.Plain.getIndexedFields() OK
+desktopsearcher.Plain.handles(String) OK
+desktopsearcher.Plain.index(String, IndexWriter) OK
+desktopsearcher.Plain.isOwnerOfDocument(Document)
+
+USER_INTERFACE 
+desktopsearcher.MrPinkMain.searchInIndex(String, int, int) OK
+
+WINDOWS
+desktopsearcher.OS.getPathSeparator() OK
+desktopsearcher.OS.getPathSeparatorChar()
+
+
+

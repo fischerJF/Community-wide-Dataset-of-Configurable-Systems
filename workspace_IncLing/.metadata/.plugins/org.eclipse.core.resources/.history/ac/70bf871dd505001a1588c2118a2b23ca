@@ -1,0 +1,22 @@
+package testset;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import wordPress.WeatherReport;
+
+public class WeatherReportTest {
+
+	WeatherReport wr;
+	@Before
+	public void setUp() {
+		wr= new WeatherReport();
+	}
+	@Test
+	public void createTextTest() {
+		
+	}
+
+}

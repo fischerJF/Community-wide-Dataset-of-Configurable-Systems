@@ -1,0 +1,3 @@
+CHESS___ : [AI_PLAYER___] [ONLINE_PLAYER___] [OFFLINE_PLAYER___] :: _CHESS___ ;
+
+

@@ -1,0 +1,4 @@
+class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc,#Variability,# Failure
+bankaccount.Transaction,class,1,19,1,0,6,3,3,1,1,1,0,0,1,38,1,6
+Controller.java,class,12,61,1,0,18,0,7,7,0,2,0,0,0,181,16,18
+Elevator.java,class,7,120,1,0,31,123,27,19,0,11,2,1,1,263,9,1

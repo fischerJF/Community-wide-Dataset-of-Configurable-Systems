@@ -1,0 +1,58 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Assignment (Testing for Configurable Systems)</title>
+</head>
+
+<body>
+
+<h2><strong>Task</strong></h2>
+<div align="justify">Every student will be assigned one  <a href="spls.html" target="_blank">configurable system</a> and will produce a test suite adequate for specific test requirements.</div>
+<p>&nbsp;</p>
+
+<h2><strong>Test Requirements</strong></h2>
+<ol>
+<li>  
+  <h4 align="justify">For every method that directly accesses a feature variable, there needs to be a test dynamically covering it. <br>
+    <em>Remark: There need Not be a separate test for every such method.</em></h4>
+</li>
+<li>  
+  <h4 align="justify">For every feature variable there needs to be a test that dynamically covers that variable without explicitly setting its value in the test code. <br>
+    <em>Remark: Do not set feature variable values unless absolutely required to satisfy some requirement.</em></h4>
+</li> 
+<li>  
+  <h4 align="justify">The assertions in a test should validate the functionality of the methods invoked in the test (specifically those that have not already been validated in another test). <br>
+    <em>Remark: If there is a specific behavior enabled by the feature variables covered by the methods, the assertions should check this behavior.</em></h4>
+</li>
+</ol>
+<p>&nbsp;</p>
+<h2>Example</h2>
+<pre><a href="http://pan.cin.ufpe.br/experiment/GPL.zip">GPL.zip</a></pre>
+<blockquote>
+  <p align="justify">The following figure illustrates the test suite produced in order to cover the test requirements, considering feature variables BFS and SEARCH, for <a href="http://pan.cin.ufpe.br/experiment/spls.html">GPL</a>.</p>
+</blockquote>
+<p align="center"><img src="req_example.jpg" width="930" height="729" alt=""/></p>
+<p align="center">&nbsp;</p>
+<ul>
+  <li>
+    <div align="justify"><strong>Requirement 1</strong>: the test suite in the figure above has tests that cover the methods which access BFS and SEARCH feature variables. The following table shows a matrix of methods that access these two feature variables, and marks the tests which cover them. Thus, this requirement is covered, once there are tests that dynamically cover all the methods which access such features. Note that the test_GraphSearch dynamically covers the methods hilighted in red, see the figure above.</div>
+  </li>
+</ul>
+<p align="center"><img src="matrix_method_feature.png" width="315" height="173" alt=""/></p>
+<blockquote>
+  <p>&nbsp;</p>
+</blockquote>
+<ul>
+  <li><strong>Requirement 2</strong>: the following table shows a matrix of test cases that dynamically cover at least one occurrence of BFS and SEARCH feature variables without explicitly setting their values in the test code.</li>
+</ul>
+<p align="center"><img src="matrix_test_feature.png" width="267" height="100" alt=""/></p>
+<p align="center">&nbsp;</p>
+<ul>
+  <li><strong>Requirement 3</strong>: all the tests have assertions that check both the functionality of the methods and specific behaviors enabled by the feature variables covered by the methods. For instance this assertion &quot;<em>assertTrue(((CycleWorkSpace) w).AnyCycles);</em>&quot; checks the state o the variable AnyCycles (means that there is a cycle) which may change according to the value of BFS feature variable.</li></ul>
+<p></p>
+<p>&nbsp;</p>
+<p>This test and the GPL source code are available at: <a href="http://pan.cin.ufpe.br/experiment/GPL.zip">GPL.zip</a></p>
+</body>
+</html>

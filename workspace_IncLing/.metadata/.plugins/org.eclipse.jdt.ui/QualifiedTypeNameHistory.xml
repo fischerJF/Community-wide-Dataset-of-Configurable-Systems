@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="testset.MinePumpTest"/>
+<fullyQualifiedTypeName name="testset.EnvironmentTest"/>
+<fullyQualifiedTypeName name="tests.BoardManagerTest"/>
+<fullyQualifiedTypeName name="tests.BoardTest"/>
+<fullyQualifiedTypeName name="tests.FieldTest"/>
+<fullyQualifiedTypeName name="tests.SudokuFacadeTest"/>
+<fullyQualifiedTypeName name="tests.SudokuGeneratorTest"/>
+<fullyQualifiedTypeName name="tests.SudokuTest"/>
+<fullyQualifiedTypeName name="testset.UnionFindTest"/>
+<fullyQualifiedTypeName name="vending.VendingMachineTestCase"/>
+<fullyQualifiedTypeName name="vending.MenuTest"/>
+<fullyQualifiedTypeName name="vending.inserCoinTest"/>
+<fullyQualifiedTypeName name="vending.DispenserTest"/>
+<fullyQualifiedTypeName name="javax.security.auth.login.Configuration"/>
+<fullyQualifiedTypeName name="testset.TestAll"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
+<fullyQualifiedTypeName name="testset.Prop4JTest"/>
+<fullyQualifiedTypeName name="testset.AI_PlayerTest"/>
+<fullyQualifiedTypeName name="specifications.Configuration"/>
+<fullyQualifiedTypeName name="wordPress.WordPress"/>
+<fullyQualifiedTypeName name="testset.WeatherReportTest"/>
+<fullyQualifiedTypeName name="wordPress.WeatherReport"/>
+</qualifiedTypeNameHistroy>

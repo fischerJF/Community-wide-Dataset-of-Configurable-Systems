@@ -1,0 +1,120 @@
+p cnf 21 46 
+c c 1 PROP4JSPL___
+c c 2 _PROP4JSPL___
+c c 3 OPERATORS___
+c c 4 INPUT_OUTPUT___
+c c 5 SATSOLVER___
+c c 6 TO_CNF___
+c c 7 TESTS___
+c c 8 _OPERATORS___
+c c 9 AND___
+c c 10 OR___
+c c 11 IMPLIES___
+c c 12 NEGATION___
+c c 13 EQUALS___
+c c 14 EXTENDED___
+c c 15 _EXTENDED___
+c c 16 ATLEAST___
+c c 17 ATMOST___
+c c 18 CHOOSE___
+c c 19 _INPUT_OUTPUT___
+c c 20 NODE_READER___
+c c 21 NODE_WRITER___
+c (PROP4JSPL___ iff _PROP4JSPL___)
+c ((not PROP4JSPL___ or _PROP4JSPL___) and (not _PROP4JSPL___ or PROP4JSPL___))
+c x ((not PROP4JSPL___ or _PROP4JSPL___) and (not _PROP4JSPL___ or PROP4JSPL___))
+-1 2  0
+-2 1  0
+c (OPERATORS___ iff _OPERATORS___)
+c ((not OPERATORS___ or _OPERATORS___) and (not _OPERATORS___ or OPERATORS___))
+c x ((not OPERATORS___ or _OPERATORS___) and (not _OPERATORS___ or OPERATORS___))
+-3 8  0
+-8 3  0
+c (EXTENDED___ iff _EXTENDED___)
+c ((not EXTENDED___ or _EXTENDED___) and (not _EXTENDED___ or EXTENDED___))
+c x ((not EXTENDED___ or _EXTENDED___) and (not _EXTENDED___ or EXTENDED___))
+-14 15  0
+-15 14  0
+c (INPUT_OUTPUT___ iff _INPUT_OUTPUT___)
+c ((not INPUT_OUTPUT___ or _INPUT_OUTPUT___) and (not _INPUT_OUTPUT___ or INPUT_OUTPUT___))
+c x ((not INPUT_OUTPUT___ or _INPUT_OUTPUT___) and (not _INPUT_OUTPUT___ or INPUT_OUTPUT___))
+-4 19  0
+-19 4  0
+c ((OPERATORS___) implies (_PROP4JSPL___) and (INPUT_OUTPUT___) implies (_PROP4JSPL___) and (SATSOLVER___) implies (_PROP4JSPL___) and (TO_CNF___) implies (_PROP4JSPL___) and (TESTS___) implies (_PROP4JSPL___))
+c ((not OPERATORS___ or _PROP4JSPL___) and (not INPUT_OUTPUT___ or _PROP4JSPL___) and (not SATSOLVER___ or _PROP4JSPL___) and (not TO_CNF___ or _PROP4JSPL___) and (not TESTS___ or _PROP4JSPL___))
+c x ((not OPERATORS___ or _PROP4JSPL___) and (not INPUT_OUTPUT___ or _PROP4JSPL___) and (not SATSOLVER___ or _PROP4JSPL___) and (not TO_CNF___ or _PROP4JSPL___) and (not TESTS___ or _PROP4JSPL___))
+-3 2  0
+-4 2  0
+-5 2  0
+-6 2  0
+-7 2  0
+c ((ATLEAST___) implies (_EXTENDED___) and (ATMOST___) implies (_EXTENDED___) and (CHOOSE___) implies (_EXTENDED___))
+c ((not ATLEAST___ or _EXTENDED___) and (not ATMOST___ or _EXTENDED___) and (not CHOOSE___ or _EXTENDED___))
+c x ((not ATLEAST___ or _EXTENDED___) and (not ATMOST___ or _EXTENDED___) and (not CHOOSE___ or _EXTENDED___))
+-16 15  0
+-17 15  0
+-18 15  0
+c ((NODE_READER___) implies (_INPUT_OUTPUT___) and (NODE_WRITER___) implies (_INPUT_OUTPUT___))
+c ((not NODE_READER___ or _INPUT_OUTPUT___) and (not NODE_WRITER___ or _INPUT_OUTPUT___))
+c x ((not NODE_READER___ or _INPUT_OUTPUT___) and (not NODE_WRITER___ or _INPUT_OUTPUT___))
+-20 19  0
+-21 19  0
+c ((AND___) implies (_OPERATORS___) and (OR___) implies (_OPERATORS___) and (IMPLIES___) implies (_OPERATORS___) and (NEGATION___) implies (_OPERATORS___) and (EQUALS___) implies (_OPERATORS___) and (EXTENDED___) implies (_OPERATORS___))
+c ((not AND___ or _OPERATORS___) and (not OR___ or _OPERATORS___) and (not IMPLIES___ or _OPERATORS___) and (not NEGATION___ or _OPERATORS___) and (not EQUALS___ or _OPERATORS___) and (not EXTENDED___ or _OPERATORS___))
+c x ((not AND___ or _OPERATORS___) and (not OR___ or _OPERATORS___) and (not IMPLIES___ or _OPERATORS___) and (not NEGATION___ or _OPERATORS___) and (not EQUALS___ or _OPERATORS___) and (not EXTENDED___ or _OPERATORS___))
+-9 8  0
+-10 8  0
+-11 8  0
+-12 8  0
+-13 8  0
+-14 8  0
+c (SATSOLVER___) implies (TO_CNF___)
+c (not SATSOLVER___ or TO_CNF___)
+c x (not SATSOLVER___ or TO_CNF___)
+-5 6  0
+c (TO_CNF___) implies (EXTENDED___)
+c (not TO_CNF___ or EXTENDED___)
+c x (not TO_CNF___ or EXTENDED___)
+-6 14  0
+c (TESTS___) implies ((TO_CNF___ and NODE_READER___))
+c (not TESTS___ or (TO_CNF___ and NODE_READER___))
+c x ((not TESTS___ or TO_CNF___) and (not TESTS___ or NODE_READER___))
+-7 6  0
+-7 20  0
+c x PROP4JSPL___
+1 0
+c x OPERATORS___
+3 0
+c x OR___
+10 0
+c x NEGATION___
+12 0
+c x ATMOST___
+17 0
+c x NODE_WRITER___
+21 0
+c x TO_CNF___
+6 0
+c x PROP4JSPL___
+1 0
+c x EXTENDED___
+14 0
+c x TESTS___
+7 0
+c x EQUALS___
+13 0
+c x NODE_READER___
+20 0
+c x IMPLIES___
+11 0
+c x ATLEAST___
+16 0
+c x CHOOSE___
+18 0
+c x INPUT_OUTPUT___
+4 0
+c x AND___
+9 0
+c x SATSOLVER___
+5 0
+

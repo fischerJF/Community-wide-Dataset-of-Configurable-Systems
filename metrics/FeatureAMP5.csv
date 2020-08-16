@@ -1,0 +1,8 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc,
+src,engine.AudioFile,class,6,40,1,0,30,23,10,4,2,2,0,0,7,125,
+src,gui.Playlist,class,5,61,3,0,34,8,19,1,0,6,0,0,3,163,
+src,engine.Playback,class,3,33,1,0,25,25,14,14,0,11,4,4,5,153,
+src,gui.Main,class,9,211,6,0,159,2889,60,3,2,34,0,4,22,860,1
+src,gui.PlaylistItem,class,2,10,1,0,10,2,5,1,0,2,0,0,4,36,
+src,engine.MetaData,class,1,9,1,0,0,12,9,6,0,6,0,0,0,43,
+src,specifications.Configuration,class,0,0,1,0,0,0,0,0,0,27,27,27,0,34,

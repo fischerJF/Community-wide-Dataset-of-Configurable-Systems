@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;specifications&apos; to &apos;WordPress/src&apos;&#x0D;&#x0A;- Original project: &apos;Elevator&apos;&#x0D;&#x0A;- Destination element: &apos;WordPress/src&apos;&#x0D;&#x0A;- Original element: &apos;Elevator/src/specifications&apos;" description="Copy package" destination="=WordPress/src" element1="/src&lt;specifications" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1573619825210" version="1.0"/>
+</session>

@@ -1,0 +1,171 @@
+configuration,trace,,description,,,testWhite_check_mate(testset.BoardTest),,,4
+ai_player:falseonline_player:falseoffline_player:false,"	at jogador.AI_Player.addPiece(AI_Player.java:33)
+",AI_Player,testRemovePiece(testset.AI_PlayerTest),,,testAddPiece_(testset.AI_PlayerTest),,,4
+ai_player:falseonline_player:falseoffline_player:false,"	at jogador.AI_Player.addPiece(AI_Player.java:33)
+",AI_Player,testAddPiece(testset.AI_PlayerTest),,,testRemovePiece(testset.AI_PlayerTest),,,4
+ai_player:falseonline_player:falseoffline_player:false,"	at jogador.AI_Player.removePiece(AI_Player.java:37)
+",AI_Player,testRemovePiece_(testset.AI_PlayerTest),,,testAddPiece(testset.AI_PlayerTest),,,4
+ai_player:falseonline_player:falseoffline_player:false,"	at testset.AI_PlayerTest.testGetPositionWeight(AI_PlayerTest.java:105)
+",AI_Player,testGetPositionWeight(testset.AI_PlayerTest),,,testRemovePiece_(testset.AI_PlayerTest),,,4
+ai_player:falseonline_player:falseoffline_player:false,"	at jogador.AI_Player.addPiece(AI_Player.java:29)
+",AI_Player,testAddPiece_(testset.AI_PlayerTest),,,testGetPositionWeight(testset.AI_PlayerTest),,,4
+ai_player:falseonline_player:falseoffline_player:false,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings(testset.BoardTest),,,testCheckKings(testset.BoardTest),,,8
+ai_player:falseonline_player:falseoffline_player:false,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testChangePosition(testset.BoardTest),,,testChangePosition(testset.BoardTest),,,4
+ai_player:falseonline_player:falseoffline_player:false,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testBlackKingCheck(testset.BoardTest),,,testBlackKingCheck(testset.BoardTest),,,1
+ai_player:falseonline_player:falseoffline_player:false,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings_(testset.BoardTest),,,testWhiteKingCheck(testset.BoardTest),,,1
+ai_player:falseonline_player:falseoffline_player:false,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testWhiteKingCheck(testset.BoardTest),,,testIsValid(testset.BoardTest),,,1
+ai_player:falseonline_player:falseoffline_player:false,"	at org.junit.Assert.fail(Assert.java:86)
+",Pawn.class,testIsValid(testset.BoardTest),,,clickedPanelTest(testset.ModelTest),,,8
+ai_player:falseonline_player:falseoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanelTest(testset.ModelTest),,,clickedPanel_2Test(testset.ModelTest),,,8
+ai_player:falseonline_player:falseoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_2Test(testset.ModelTest),,,clickedPanel_3Test(testset.ModelTest),,,8
+ai_player:falseonline_player:falseoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_3Test(testset.ModelTest),,,clickedPanel_4Test(testset.ModelTest),,,8
+ai_player:falseonline_player:falseoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_4Test(testset.ModelTest),,,testCheckKings_(testset.BoardTest),,,8
+ai_player:trueonline_player:falseoffline_player:false,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings(testset.BoardTest),,,testBlack_check_mate1(testset.BoardTest),,,1
+ai_player:trueonline_player:falseoffline_player:false,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testBlack_check_mate1(testset.BoardTest),,,testBlack_check_mate2(testset.BoardTest),,,1
+ai_player:trueonline_player:falseoffline_player:false,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testBlack_check_mate2(testset.BoardTest),,,testBlack_check_mate3(testset.BoardTest),,,1
+ai_player:trueonline_player:falseoffline_player:false,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testBlack_check_mate3(testset.BoardTest),,,,,,
+ai_player:trueonline_player:falseoffline_player:false,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings_(testset.BoardTest),,,,,,82
+ai_player:trueonline_player:falseoffline_player:false,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testWhite_check_mate(testset.BoardTest),,,,,,
+ai_player:trueonline_player:falseoffline_player:false,"	at org.junit.Assert.fail(Assert.java:88)
+",Board.java,clickedPanelTest(testset.ModelTest),,,,,,
+ai_player:trueonline_player:falseoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_2Test(testset.ModelTest),,,Board.java,62,,
+ai_player:trueonline_player:falseoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_3Test(testset.ModelTest),,,Model.java,1,,
+ai_player:trueonline_player:falseoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_4Test(testset.ModelTest),,,AI_Player,20,,
+ai_player:falseonline_player:trueoffline_player:false,"	at jogador.AI_Player.addPiece(AI_Player.java:33)
+",AI_Player,testRemovePiece(testset.AI_PlayerTest),,,Pawn.class,1,,
+ai_player:falseonline_player:trueoffline_player:false,"	at jogador.AI_Player.addPiece(AI_Player.java:33)
+",AI_Player,testAddPiece(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:false,"	at jogador.AI_Player.removePiece(AI_Player.java:37)
+",AI_Player,testRemovePiece_(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:false,"	at testset.AI_PlayerTest.testGetPositionWeight(AI_PlayerTest.java:105)
+",AI_Player,testGetPositionWeight(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:false,"	at jogador.AI_Player.addPiece(AI_Player.java:29)
+",AI_Player,testAddPiece_(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:false,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings(testset.BoardTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:false,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testChangePosition(testset.BoardTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:false,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings_(testset.BoardTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:false,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testWhite_check_mate(testset.BoardTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:false,"	at org.junit.Assert.fail(Assert.java:86)
+",,testWhiteKingCheck(testset.BoardTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanelTest(testset.ModelTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_2Test(testset.ModelTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_3Test(testset.ModelTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_4Test(testset.ModelTest),,,,,,
+ai_player:trueonline_player:trueoffline_player:false,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings(testset.BoardTest),,,,,,
+ai_player:trueonline_player:trueoffline_player:false,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings_(testset.BoardTest),,,,,,
+ai_player:trueonline_player:trueoffline_player:false,"	at org.junit.Assert.fail(Assert.java:88)
+",Board.java,clickedPanelTest(testset.ModelTest),,,,,,
+ai_player:trueonline_player:trueoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_2Test(testset.ModelTest),,,,,,
+ai_player:trueonline_player:trueoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_3Test(testset.ModelTest),,,,,,
+ai_player:trueonline_player:trueoffline_player:false,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_4Test(testset.ModelTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at jogador.AI_Player.addPiece(AI_Player.java:33)
+",AI_Player,testRemovePiece(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at jogador.AI_Player.addPiece(AI_Player.java:33)
+",AI_Player,testAddPiece(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at jogador.AI_Player.removePiece(AI_Player.java:37)
+",AI_Player,testRemovePiece_(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at testset.AI_PlayerTest.testGetPositionWeight(AI_PlayerTest.java:105)
+",AI_Player,testGetPositionWeight(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at jogador.AI_Player.addPiece(AI_Player.java:29)
+",AI_Player,testAddPiece_(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings(testset.BoardTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testChangePosition(testset.BoardTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings_(testset.BoardTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testWhite_check_mate(testset.BoardTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testWhiteKingCheck(testset.BoardTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanelTest(testset.ModelTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_2Test(testset.ModelTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_3Test(testset.ModelTest),,,,,,
+ai_player:falseonline_player:falseoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_4Test(testset.ModelTest),,,,,,
+ai_player:trueonline_player:falseoffline_player:true,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings(testset.BoardTest),,,,,,
+ai_player:trueonline_player:falseoffline_player:true,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings_(testset.BoardTest),,,,,,
+ai_player:trueonline_player:falseoffline_player:true,"	at org.junit.Assert.fail(Assert.java:88)
+",Model.java,clickedPanelTest(testset.ModelTest),,,,,,
+ai_player:trueonline_player:falseoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_2Test(testset.ModelTest),,,,,,
+ai_player:trueonline_player:falseoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_3Test(testset.ModelTest),,,,,,
+ai_player:trueonline_player:falseoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_4Test(testset.ModelTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at jogador.AI_Player.addPiece(AI_Player.java:33)
+",AI_Player,testRemovePiece(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at jogador.AI_Player.addPiece(AI_Player.java:33)
+",AI_Player,testAddPiece(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at jogador.AI_Player.removePiece(AI_Player.java:37)
+",AI_Player,testRemovePiece_(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at testset.AI_PlayerTest.testGetPositionWeight(AI_PlayerTest.java:105)
+",AI_Player,testGetPositionWeight(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at jogador.AI_Player.addPiece(AI_Player.java:29)
+",AI_Player,testAddPiece_(testset.AI_PlayerTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings(testset.BoardTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testChangePosition(testset.BoardTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings_(testset.BoardTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testWhite_check_mate(testset.BoardTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at org.junit.Assert.fail(Assert.java:86)
+",Board.java,testWhiteKingCheck(testset.BoardTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanelTest(testset.ModelTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_2Test(testset.ModelTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_3Test(testset.ModelTest),,,,,,
+ai_player:falseonline_player:trueoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_4Test(testset.ModelTest),,,,,,
+ai_player:trueonline_player:trueoffline_player:true,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings(testset.BoardTest),,,,,,
+ai_player:trueonline_player:trueoffline_player:true,"	at org.powermock.api.mockito.internal.mockcreation.MockCreator.createMethodInvocationControl(MockCreator.java:113)
+",Board.java,testCheckKings_(testset.BoardTest),,,,,,
+ai_player:trueonline_player:trueoffline_player:true,"	at org.junit.Assert.fail(Assert.java:88)
+",Board.java,clickedPanelTest(testset.ModelTest),,,,,,
+ai_player:trueonline_player:trueoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_2Test(testset.ModelTest),,,,,,
+ai_player:trueonline_player:trueoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_3Test(testset.ModelTest),,,,,,
+ai_player:trueonline_player:trueoffline_player:true,"	at model.Board.whiteKingCheck(Board.java:611)
+",Board.java,clickedPanel_4Test(testset.ModelTest),,,,,,

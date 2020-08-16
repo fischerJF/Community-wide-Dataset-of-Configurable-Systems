@@ -1,0 +1,6 @@
+/bin/*
+.DS_Store
+bin/*
+*.class
+_debug.cnf
+/bin/

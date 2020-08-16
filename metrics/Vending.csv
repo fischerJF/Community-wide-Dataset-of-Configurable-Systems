@@ -1,0 +1,8 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+src,vending.Dispenser,class,1,27,1,0,3,0,6,2,0,5,0,0,1,67
+src,vending.ReadFile,class,0,14,1,0,10,2,5,4,0,2,0,0,0,59
+src,specifications.Configuration,class,0,0,1,0,0,0,0,0,0,8,8,8,0,67
+src,vending.Menu,class,1,27,1,0,13,0,1,1,0,0,0,0,1,61
+src,vending.VendingMachine,class,1,23,1,0,5,1,7,6,0,5,0,0,0,62
+src,vending.DispenserInput,class,2,3,1,0,7,0,1,1,1,4,0,4,2,29
+src,specifications.SpecificationException,class,0,2,4,0,0,0,2,2,0,1,0,0,0,11

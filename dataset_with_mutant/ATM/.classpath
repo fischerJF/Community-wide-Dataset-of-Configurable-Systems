@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="lib" path="lib/jcip-annotations-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="lib/powermock-mockito-release-full-1.6.4-full.jar"/>
+	<classpathentry kind="lib" path="lib/testng-5.7-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/testng-5.7-sources.jar"/>
+	<classpathentry kind="lib" path="lib/fest-assert-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/fest-reflect-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/fest-swing-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/fest-swing-junit-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/fest-swing-junit-4.3.1-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/fest-swing-junit-4.5-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/fest-util-1.1.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

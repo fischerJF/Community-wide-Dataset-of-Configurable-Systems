@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src-tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/fest-assert-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/fest-reflect-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/fest-swing-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/fest-swing-junit-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/fest-swing-junit-4.3.1-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/fest-swing-junit-4.5-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/fest-util-1.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/jcip-annotations-1.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/splat-sampling"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

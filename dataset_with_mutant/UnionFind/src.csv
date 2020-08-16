@@ -1,0 +1,11 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+src,UnionFind.UnionFind,class,1,57,1,0,9,0,13,6,0,4,0,0,0,202
+src,specifications.SpecificationException,class,0,2,4,0,0,0,2,2,0,1,0,0,0,11
+src,specifications.Configuration,class,0,0,1,0,0,0,0,0,0,10,10,10,0,125
+src,testset.StopwatchTest,class,3,5,1,0,4,0,3,3,0,1,0,0,0,30
+src,testset.TestUF,class,3,11,1,0,4,0,6,6,0,2,0,1,0,48
+src,testset.UnionFindTest,class,5,61,1,0,12,0,15,15,0,1,0,0,0,240
+src,testset.InTest,class,5,36,1,0,30,0,21,21,0,1,0,0,7,269
+src,testset.TestPerformance,class,5,8,1,0,5,4,5,4,0,1,0,1,0,40
+src,UnionFind.In,class,3,48,1,0,29,0,25,25,6,3,0,0,4,389
+src,UnionFind.Stopwatch,class,0,4,1,0,1,0,2,2,0,1,0,0,2,14

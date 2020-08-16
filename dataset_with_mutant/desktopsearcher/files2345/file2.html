@@ -1,0 +1,49 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Configurable Systems</title>
+</head>
+
+<body>
+
+<h2><strong>Configurable Systems</strong></h2>
+<p>A configurable system is a system which behavior depends on configuration variables, also known as feature variables. These ones define distinct functionalties in an specific domain. A configurable system may be constructed using these feature variables, which are boolean variables that guard the inclusion of the functionality of the corresponding feature. They  are annotated in the code in a way that one can access any of them from any part of the code, e.g., GPL is a configurable system  with 13 feature variables. </p>
+<p>GPL [1, 2] is a library of graph algorithms, which provides different options for modeling graphs and different operations on them. For example, it provides different choices of search algorithms and operations to compute the connected components of a graph. Here are the GPL&rsquo;s feature variables:</p>
+<ol>
+  <li>BASE: represents the common code for all the products;</li>
+  <li>DIRECTED: represents a directed graph;</li>
+  <li>UNDIRECTED: represents an undirected graph;</li>
+  <li>WEIGHTED: represents a weighted graph;</li>
+  <li>SEARCH: represents the kinds of search;</li>
+  <li>BFS: represents breadth first search if enabled, depth first search otherwise;</li>
+  <li>NUMBER: represents the vertex numbering;</li>
+  <li>CONNECTED: represents connected components, with undirected graphs;</li>
+  <li>STRONGLYCONNECTED: represents strongly connected components, with directed graphs;</li>
+  <li>CYCLE: represents a circle graph;  </li>
+  <li>MSTPRIM: represents a Prim algorithm;</li>
+  <li>MSTKRUSKAL: represents a Kruskal algorithm;</li>
+  <li>SHORTEST: represents a single source shortest path, using Dijkstra&rsquo;s  Algorithm.</li>
+</ol>
+<p>&nbsp;</p>
+<p>All these features are defined and annotated in the code, for instance, the class GPLVariables (see below) defines the feature variables used by GPL as well as the default values of each one. By default, all feature variables are setted to &quot;0&quot; (means false), except by BASE that is setted to &quot;1&quot; (means true), because BASE represents a common feature in GPL and it always should be enabled.</p>
+<p align="center"><img src="http://pan.cin.ufpe.br/experiment/gplvars.jpg" width="348" height="402" alt=""/></p>
+<p>&nbsp;</p>
+<p>From the features definitions above, we can access any feature at any part of the GPL&rsquo;s code, following are some examples:</p>
+<p align="center"><img src="http://pan.cin.ufpe.br/experiment/examples.jpg" width="448" height="237" alt=""/></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2><strong>A Test for <a href="spls.html" target="_blank">a Configurable System</a></strong></h2>
+<p>This kind of test is aware of the features, so it may set feature values in the test code, if necessary. Following there is a simple example of a test which needs setting the features SEARCH and WEIGHTED to true, because it is required by the methods VertexConstructor() and adjustAdorns(...).</p>
+<p align="center"><img src="test.png" width="810" height="423" alt=""/></p>
+<p>This test and the GPL source code are available at: <a href="http://pan.cin.ufpe.br/experiment/GPL.zip">GPL.zip</a></p>
+<p>&nbsp;</p>
+<p><strong>References</strong><br>
+  [1] <a href="http://www.cs.utexas.edu/users/dsb/GPL/graph.htm">http://www.cs.utexas.edu/users/dsb/GPL/graph.htm</a><br>
+  [2] <a href="ftp://ftp.cs.utexas.edu/pub/predator/GPL.pdf">ftp://ftp.cs.utexas.edu/pub/predator/GPL.pdf</a></p>
+<p></p>
+<br>
+
+</body>
+</html>

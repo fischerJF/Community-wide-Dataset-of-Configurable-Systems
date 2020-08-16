@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<System name="GPL">
+  <Parameters>
+    <Parameter id="0" name="DIRECTED___" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="1" name="UNDIRECTED___" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="2" name="WEIGHTED___" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="3" name="SEARCH___" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="4" name="BFS___" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="5" name="NUMBER___" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="6" name="CONNECTED___" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="7" name="STRONGLYCONNECTED___" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="8" name="CYCLE___" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="9" name="MSTPRIM___" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="10" name="MSTKRUSKAL___" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="11" name="SHORTEST___" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+  </Parameters>
+  <OutputParameters />
+  <Relations />
+  <Constraints />
+  <Testset doi="2">
+    <Testcase TCNo="0">
+      <Value>1</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+    </Testcase>
+    <Testcase TCNo="1">
+      <Value>2</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+    </Testcase>
+    <Testcase TCNo="2">
+      <Value>3</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+    </Testcase>
+    <Testcase TCNo="3">
+      <Value>4</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+    </Testcase>
+    <Testcase TCNo="4">
+      <Value>5</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+    </Testcase>
+    <Testcase TCNo="5">
+      <Value>6</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+    </Testcase>
+    <Testcase TCNo="6">
+      <Value>7</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+    </Testcase>
+    <Testcase TCNo="7">
+      <Value>8</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+    </Testcase>
+    <Testcase TCNo="8">
+      <Value>9</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+    </Testcase>
+    <Testcase TCNo="9">
+      <Value>10</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>true</Value>
+      <Value>true</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+      <Value>false</Value>
+    </Testcase>
+  </Testset>
+  <Header>
+    <Value />
+    <Value>DIRECTED___</Value>
+    <Value>UNDIRECTED___</Value>
+    <Value>WEIGHTED___</Value>
+    <Value>SEARCH___</Value>
+    <Value>BFS___</Value>
+    <Value>NUMBER___</Value>
+    <Value>CONNECTED___</Value>
+    <Value>STRONGLYCONNECTED___</Value>
+    <Value>CYCLE___</Value>
+    <Value>MSTPRIM___</Value>
+    <Value>MSTKRUSKAL___</Value>
+    <Value>SHORTEST___</Value>
+  </Header>
+  <Stat-Data>
+    <ExecutionTime>0.05</ExecutionTime>
+    <MaxDomainSize>2</MaxDomainSize>
+    <MinDomainSize>2</MinDomainSize>
+    <TotalNoOfCombination>264</TotalNoOfCombination>
+    <TotalNoOfTests>10</TotalNoOfTests>
+    <Algorithm>IPOG</Algorithm>
+  </Stat-Data>
+</System>
+

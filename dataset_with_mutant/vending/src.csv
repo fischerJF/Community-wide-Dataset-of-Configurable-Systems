@@ -1,0 +1,12 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc,
+src,vending.Dispenser,class,1,27,1,0,3,0,6,2,0,5,0,0,1,67,0
+src,vending.ReadFile,class,0,14,1,0,10,2,5,4,0,2,0,0,0,59,0
+src,vending.MenuTest,class,3,18,1,0,4,0,12,12,0,1,0,0,11,210,0
+src,vending.VendingMachineTestCase,class,3,17,1,0,7,0,8,8,0,1,0,0,0,105,0
+src,vending.DispenserTest,class,4,19,1,0,12,0,12,12,0,1,0,0,0,97,0
+src,specifications.Configuration,class,0,0,1,0,0,0,0,0,0,8,8,8,0,67,0
+src,vending.Menu,class,1,27,1,0,13,0,1,1,0,0,0,0,1,61,0
+src,vending.VendingMachine,class,1,23,1,0,5,1,7,6,0,5,0,0,0,62,0
+src,vending.DispenserInput,class,2,3,1,0,7,0,1,1,1,4,0,4,2,29,0
+src,specifications.SpecificationException,class,0,2,4,0,0,0,2,2,0,1,0,0,0,11,0
+src,vending.inserCoinTest,class,3,11,1,0,5,0,11,11,0,1,0,0,0,95,0

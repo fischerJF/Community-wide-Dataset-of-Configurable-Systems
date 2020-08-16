@@ -1,0 +1,26 @@
+p cnf 5 9 
+c c 1 TASK___
+c c 2 _TASK___
+c c 3 OBSERVER___
+c c 4 REMOVER___
+c c 5 LOGGIN___
+c (TASK___ iff _TASK___)
+c ((not TASK___ or _TASK___) and (not _TASK___ or TASK___))
+c x ((not TASK___ or _TASK___) and (not _TASK___ or TASK___))
+-1 2  0
+-2 1  0
+c ((OBSERVER___) implies (_TASK___) and (REMOVER___) implies (_TASK___) and (LOGGIN___) implies (_TASK___))
+c ((not OBSERVER___ or _TASK___) and (not REMOVER___ or _TASK___) and (not LOGGIN___ or _TASK___))
+c x ((not OBSERVER___ or _TASK___) and (not REMOVER___ or _TASK___) and (not LOGGIN___ or _TASK___))
+-3 2  0
+-4 2  0
+-5 2  0
+c x TASK___
+1 0
+c x OBSERVER___
+3 0
+c x REMOVER___
+4 0
+c x LOGGIN___
+5 0
+

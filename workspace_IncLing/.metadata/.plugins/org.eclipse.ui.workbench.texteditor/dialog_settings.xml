@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="tryLoadFileTest" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="checkNotvalidTest"/>
+			<item value="tryLoadFileTest"/>
+			<item value="CUT_WHATEVER"/>
+			<item value="PRECEDENCE"/>
+			<item value="testCheckKings"/>
+			<item value="mutantFor_4_executivefloor"/>
+			<item value="mutantFor_4_executivefloor_overloaded"/>
+			<item value="testWhithDraw"/>
+			<item value="hithDraw"/>
+			<item value="startTest"/>
+			<item value="playWavTest"/>
+			<item value="changeSkinDarkTest"/>
+			<item value="playOGGTest"/>
+			<item value="changeSkinLightTest"/>
+			<item value="v1_TargetSystems"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="283" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="390" key="DIALOG_HEIGHT"/>
+		<item value="1029" key="DIALOG_X_ORIGIN"/>
+		<item value="156" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

@@ -1,0 +1,26 @@
+p cnf 5 9 
+c c 1 CHESS___
+c c 2 _CHESS___
+c c 3 AI_PLAYER___
+c c 4 ONLINE_PLAYER___
+c c 5 OFFLINE_PLAYER___
+c (CHESS___ iff _CHESS___)
+c ((not CHESS___ or _CHESS___) and (not _CHESS___ or CHESS___))
+c x ((not CHESS___ or _CHESS___) and (not _CHESS___ or CHESS___))
+-1 2  0
+-2 1  0
+c ((AI_PLAYER___) implies (_CHESS___) and (ONLINE_PLAYER___) implies (_CHESS___) and (OFFLINE_PLAYER___) implies (_CHESS___))
+c ((not AI_PLAYER___ or _CHESS___) and (not ONLINE_PLAYER___ or _CHESS___) and (not OFFLINE_PLAYER___ or _CHESS___))
+c x ((not AI_PLAYER___ or _CHESS___) and (not ONLINE_PLAYER___ or _CHESS___) and (not OFFLINE_PLAYER___ or _CHESS___))
+-3 2  0
+-4 2  0
+-5 2  0
+c x CHESS___
+1 0
+c x AI_PLAYER___
+3 0
+c x ONLINE_PLAYER___
+4 0
+c x OFFLINE_PLAYER___
+5 0
+

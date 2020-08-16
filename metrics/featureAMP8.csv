@@ -1,0 +1,6 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc,
+src,engine.Application,class,8,355,2,0,173,3987,75,39,1,37,1,0,11,1565,1
+src,engine.MP3Player,class,0,19,1,0,16,0,8,8,0,7,4,4,5,117,
+src,engine.Zuordnung,class,0,5,1,0,0,0,3,3,0,2,0,0,0,21,
+src,engine.ID3Tag,class,5,33,1,0,25,176,21,14,0,10,0,0,1,119,
+src,specifications.Configuration,class,0,0,1,0,0,0,0,0,0,27,27,27,0,34,

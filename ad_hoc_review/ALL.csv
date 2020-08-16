@@ -1,0 +1,133 @@
+ESPLACatalog,,SPL2go,,SPLRepository,
+Name,Language,Name,Language,Name,Language
+Airbag,Architecture model (medini model artefacts),AHEAD_Tool_Suite,"ANT (XML), HTML",,
+Alcatel-Lucent IXM-PF,C and C++,Arithmetic_Expression_Evaluator,Haskell,AHEAD-bali,
+algorithms.js,Javascript,BankAccount,"Java, JML",AHEAD-guidsl,
+AndroZoo,"Android, Java",BankAccount v2,"Java, JML",AHEAD-java,
+ApacheWeb Server,Feature model,BattleOfTanks,Java,Arith-FH-Haskell,Haskell
+ApoGames,"Android, Java",Berkeley_DB_Documentation,"Java, HTML",BankAccount-FH-JML,FH-JML
+ArgoUML,Java,Berkeley_DB_Java_Edition,"Java, HTML",BankAccountTests-FH-JML,FH-JML
+ArgoUML SPL JVM Bytecode,JVM Bytecode,Chat Application,Java,BankAccountTP-FH-JML,FH-JML
+ArgoUML UML,UML class model,Chat_HyperJ,Java,BerkeleyDB-FH-Java,Java
+ArgoUML/SPL,Java,DesktopSearcher,Java,DesktopSearcher-AHEAD,AHEAD
+Automarker systems,Text document,DiGraph,"Java, JML",Devolution-AHEAD,AHEAD
+Banking System,UML class model,Elevator JML,"Java, JML",DiGraph-FH-JML,FH-JML
+Baxter Biocience,Bill of materials,Elevator_C,C,Elevator-FH-AspectJ,
+Berkeley DB,Feature model,Elevator_Java,"Java, AspectJ",Elevator-FH-C,
+BlueJ,Java,Email JML,"Java, JML",Elevator-FH-Java,Java
+BMD .NET-based Business Software,"Plugins, .NET Libraries",EmailSystem_C,C,Elevator-FH-JML,FH-JML
+BMW car web configurator,Web,EmailSystem_Java,"Java, AspectJ",Email-FH-AspectJ,
+Body Comfort System,"Statechart models in IBM Rational Raphsody, and Excel file for requirements",ExamDB,"Java, JML",Email-FH-JML,
+brackets,Javascript,FAME_DBMS,C++,EmailSystem-FH-C,
+BSH induction hob families,Propietary DSL called IHDSL and C code,FeatureAMP,Java,EmailSystem-FH-Java,Java
+BSH induction hobs,"Propietary DSL called IHDSL (46 meta-classes, 74 references, 180 properties)",Functional_Graph_Library,CIDE,EPL-AHEAD,AHEAD
+Busybox,C,GPL,"Java, JML",ExamDB-FH-JML,FH-JML
+Choccreate web configurator,Web,Graph_Product_Line,"Jak, HTML",FGL-FH-Haskell,
+CM-1 NASA,XML files,IntegerSetSPL,"Java, JML",GameOfLife-FH-Java,
+Collaborative Software Suite (CoSS),Text documents with product descriptions,Lampiro,JAVA ME,GPL-AHEAD,AHEAD
+Communications-Based Train Control (CBTC),Text files in natural language,MinePump_C,C,GPL-FH-CSharp,
+Comparative table of PaaS,CSV file,MinePump_Java,"Java, AspectJ",GPL-FH-Java,
+Curl,Feature model,Mobile_Media,JAVA ME,GPL-FH-JML,FH-JML
+Danfoss Drives frequency converters,C and C++,Mobile_RSS_Reader,JAVA ME,GPLscratch-FH-JML,FH-JML
+Defense domain systems,C and C++,NetBot,C#,HelloWorld-AHEAD,AHEAD
+Dell laptop web configurator,Web,NumbersSPL,"Java, JML",HelloWorld-FH-AspectJ,
+Dell Laptops catalog,CSV file,Paycard,"Java, JML",HelloWorld-FH-Java,Java
+DesktopSearcher,Feature model,PokerSPL,"Java, JML",HelloWorldMSPL1-FH-Java,Java
+DirectBank,Java,Prevayler,Java,HelloWorldMSPL2-AHEAD,AHEAD
+Dog tag web configurator,Web,Prop4J,Java,IntegerSet-FH-JML,FH-JML
+DOPLER tool,Eclipse plugins,Pynche,Python,IntList-FH-JML,
+Draw Product Line,Java,SQL_Parser,ANTLR,MinePump-FH-C,
+E-Clinic,Use cases model,TankWar,Java,MinePump-FH-Java,Java
+E-Shop,Text documents,UnionFindSPL,"Java, JML",MobileMediaSPLFOP_001-AHEAD,AHEAD
+Eclipse official releases,Eclipse plugins,Vistex,Java,MobileMediaSPLFOP_002-AHEAD,AHEAD
+Eclipse Projects and Plugins,Eclipse plugins their Java code,,,MobileMediaSPLFOP_003-AHEAD,AHEAD
+eCos kernel,Feature model,,,MobileMediaSPLFOP_004-AHEAD,AHEAD
+Electric motor controller,C and C++,,,MobileMediaSPLFOP_005-AHEAD,AHEAD
+Electric Parking Brake System,Bill of materials,,,MobileMediaSPLFOP_006-AHEAD,AHEAD
+ET Software Design Robot Contest (ERC),Text files and UML class models,,,MobileMediaSPLFOP_007-AHEAD,AHEAD
+Fame-DBMS,Feature model,,,NetBot-FH-C#,
+floraJS,Javascript,,,Notepad-FH-Java,Java
+"Forum domain (Jforum, JGossip and MVNForum)",Java and SQL statements,,,Notepad-FH-Java-2,Java
+FraSCAti,"Plugins, Java",,,NumbersConsecutiveContractRef-FH-JML,FH-JML
+FreeBSD,Ontology and Feature model,,,NumbersContractOverriding-FH-JML,FH-JML
+Fujitsu Kyushu Network Technologies,C and Assembly,,,NumbersExplicitContractRef-FH-JML,FH-JML
+GameOfLife,Java,,,Paycard-FH-JML,FH-JML
+Global trading and settlement system (GTSS),,,,PokerSPL-FH-JML,FH-JML
+Graph Product Line (GPL),Java,,,Prop4J-FH-Java,Java
+Graphical Editor,Java,,,Stack-FH-Java,Java
+Health Watcher,Java,,,StringMatcher-FH-JML,Java
+Home Automation,Feature model,,,TankWar-AHEAD,AHEAD
+Home Service Robot,Not specified,,,UnionFind-FH-JML,Java
+HomeAway,ColdFusion language,,,Vistex-FH-Java,Java
+Hospital,UML class diagrams,,,WebStoreSPL-001-AHEAD,AHEAD
+I-Trust,Requirements,,,WebStoreSPL-002-AHEAD,AHEAD
+IEC 61499 Industrial Automation System,"IEC 61499 function blocks, Java, C++",,,WebStoreSPL-003-AHEAD,AHEAD
+Image Memory Handler (IMH),C,,,WebStoreSPL-004-AHEAD,AHEAD
+Images example,PNG images,,,WebStoreSPL-005-AHEAD,AHEAD
+In-Flight Entertainment System,Capella models,,,WebStoreSPL-006-AHEAD,AHEAD
+Industrial Automation System,C and C++,,,,
+Insurance Policy,Feature model,,,,
+J2ME Games Product Line,OO source code + extension join points (EJPs),,,,
+jasmine,Javascript,,,,
+Java Buffer Library,Java,,,,
+Jbook,Java,,,,
+JForum,Java and SQL statements,,,,
+JGossip,Java and SQL statements,,,,
+JHipster,Java (with Spring Boot) in the server side. AngularJS and Bootstrap (a HTML/CSS and Javascript framework),,,,
+JHotDraw,Java,,,,
+KePlast platform,Java,,,,
+Labor Market Monitoring Software Product Line (LMMSPL),Text and Java,,,,
+Library,Text documents,,,,
+Library management systems,Text file,,,,
+LinkedList,Feature model,,,,
+Linux kernel,C,,,,
+LLVMCompiler,Feature model,,,,
+Microsoft Dynamics AX,XML files,,,,
+Microwave Oven,Uml Class and UML Statechart models,,,,
+Mobile Phone,Feature model,,,,
+MobileMedia,Java,,,,
+ModelAnalyzer,Java,,,,
+MOTIV video generator SPL,Videos,,,,
+MVNForum,Java and SQL statements,,,,
+Notepad SPL,Java,,,,
+PCM Dataset,product comparison matrices (PCMs) found in Wikipedia,,,,
+Pharmaceutical wholesaler logistics systems,Magic,,,,
+PKJab,Feature model,,,,
+Pooka Email Client,Java,,,,
+Power control and protection system,C and C++,,,,
+Prevayler,Feature model,,,,
+Printworks,CSharp,,,,
+Project Management tools,Java,,,,
+QlikView,XML file,,,,
+Robocode,Java,,,,
+SELEX Sistemi Integrati Systems,Text documents,,,,
+SensorNetwork,Feature model,,,,
+ShirtsMyWay web configurator,Web,,,,
+Siemens VAI MSS tool,Eclipse plugins,,,,
+Siemens VAI Steel Plant Automation Software (CC-L2),"Java, Spring Framework",,,,
+SIP Communicator,Java,,,,
+Smart Home,UML + AOP,,,,
+Softpedia Repository,Feature descriptors,,,,
+SPLOT Feature Models,Feature model,,,,
+Statemachine metamodels,Meta-models as Ecore models with operational semantics in Java,,,,
+Sudoku,Java,,,,
+Suppliers offerings,Table,,,,
+Text Editing System SPL,Java,,,,
+TimelineJS,Javascript,,,,
+Traffic management systems,Text documents,,,,
+Trek Bikes catalog,CSV file,,,,
+uClibc,C,,,,
+Vending Machine,Yakindu SCT models,,,,
+Video On Demand,Java,,,,
+video.js,Javascript,,,,
+Warehouse,UML class diagrams,,,,
+Washing Machine,UML class diagram,,,,
+WebStore,Java,,,,
+Wget,Feature model,,,,
+Wiki engines,XML file,,,,
+Wingsoft Financial Management System,"Feature model (FM of each product, like a configuration with the relations between the features) and Source code",,,,
+WV CCHIT Health,,,,,
+x264 Library,Feature model,,,,
+Xfig System,C,,,,
+ZipMe,Java,,,,
+,Detailed type of artefact,,,,

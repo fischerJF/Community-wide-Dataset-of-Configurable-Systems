@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MainIncLingFeatureAMP4.java&apos; to &apos;FeatureAMP5/src/experiment&apos;&#x0D;&#x0A;- Original project: &apos;FeatureAMP4&apos;&#x0D;&#x0A;- Destination element: &apos;FeatureAMP5/src/experiment&apos;&#x0D;&#x0A;- Original element: &apos;experiment.MainIncLingFeatureAMP4.java&apos;" description="Copy compilation unit" destination="=FeatureAMP5/src&lt;experiment" element1="/src&lt;experiment{MainIncLingFeatureAMP4.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1572144432159" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,39 @@
+p cnf 8 16 
+c c 1 RunningExample
+c c 2 Program
+c c 3 IMAGEPARTS___
+c c 4 TOKENPOSONLY___
+c c 5 COUNTLINES___
+c c 6 BLOCKCOMMENTS___
+c c 7 LINECOMMENTS___
+c c 8 BASE___
+c (RunningExample iff Program)
+c ((not RunningExample or Program) and (not Program or RunningExample))
+c x ((not RunningExample or Program) and (not Program or RunningExample))
+-1 2  0
+-2 1  0
+c ((IMAGEPARTS___) implies (Program) and (TOKENPOSONLY___) implies (Program) and (COUNTLINES___) implies (Program) and (BLOCKCOMMENTS___) implies (Program) and (LINECOMMENTS___) implies (Program) and (Program iff BASE___))
+c ((not IMAGEPARTS___ or Program) and (not TOKENPOSONLY___ or Program) and (not COUNTLINES___ or Program) and (not BLOCKCOMMENTS___ or Program) and (not LINECOMMENTS___ or Program) and (not Program or BASE___) and (not BASE___ or Program))
+c x ((not IMAGEPARTS___ or Program) and (not TOKENPOSONLY___ or Program) and (not COUNTLINES___ or Program) and (not BLOCKCOMMENTS___ or Program) and (not LINECOMMENTS___ or Program) and (not Program or BASE___) and (not BASE___ or Program))
+-3 2  0
+-4 2  0
+-5 2  0
+-6 2  0
+-7 2  0
+-2 8  0
+-8 2  0
+c x RunningExample
+1 0
+c x BASE___
+8 0
+c x TOKENPOSONLY___
+4 0
+c x COUNTLINES___
+5 0
+c x IMAGEPARTS___
+3 0
+c x BLOCKCOMMENTS___
+6 0
+c x LINECOMMENTS___
+7 0
+

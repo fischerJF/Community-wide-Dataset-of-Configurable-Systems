@@ -1,0 +1,55 @@
+p cnf 9 21 
+c c 1 SPL
+c c 2 _SPL
+c c 3 BASE___
+c c 4 STATES___
+c c 5 UNDO___
+c c 6 COLOR___
+c c 7 SOLVER___
+c c 8 GENERATOR___
+c c 9 EXTENDEDSUDOKU___
+c (SPL iff _SPL)
+c ((not SPL or _SPL) and (not _SPL or SPL))
+c x ((not SPL or _SPL) and (not _SPL or SPL))
+-1 2  0
+-2 1  0
+c ((_SPL iff BASE___) and (STATES___) implies (_SPL) and (UNDO___) implies (_SPL) and (COLOR___) implies (_SPL) and (SOLVER___) implies (_SPL) and (GENERATOR___) implies (_SPL) and (EXTENDEDSUDOKU___) implies (_SPL))
+c ((not _SPL or BASE___) and (not BASE___ or _SPL) and (not STATES___ or _SPL) and (not UNDO___ or _SPL) and (not COLOR___ or _SPL) and (not SOLVER___ or _SPL) and (not GENERATOR___ or _SPL) and (not EXTENDEDSUDOKU___ or _SPL))
+c x ((not _SPL or BASE___) and (not BASE___ or _SPL) and (not STATES___ or _SPL) and (not UNDO___ or _SPL) and (not COLOR___ or _SPL) and (not SOLVER___ or _SPL) and (not GENERATOR___ or _SPL) and (not EXTENDEDSUDOKU___ or _SPL))
+-2 3  0
+-3 2  0
+-4 2  0
+-5 2  0
+-6 2  0
+-7 2  0
+-8 2  0
+-9 2  0
+c (UNDO___) implies (STATES___)
+c (not UNDO___ or STATES___)
+c x (not UNDO___ or STATES___)
+-5 4  0
+c (GENERATOR___) implies (SOLVER___)
+c (not GENERATOR___ or SOLVER___)
+c x (not GENERATOR___ or SOLVER___)
+-8 7  0
+c (SOLVER___) implies (UNDO___)
+c (not SOLVER___ or UNDO___)
+c x (not SOLVER___ or UNDO___)
+-7 5  0
+c x SPL
+1 0
+c x BASE___
+3 0
+c x -STATES___
+-4 0
+c x -UNDO___
+-5 0
+c x -COLOR___
+-6 0
+c x -SOLVER___
+-7 0
+c x -GENERATOR___
+-8 0
+c x -EXTENDEDSUDOKU___
+-9 0
+

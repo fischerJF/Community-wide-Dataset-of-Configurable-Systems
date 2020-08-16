@@ -1,0 +1,11 @@
+inicio
+UNDO:true STATES:true SOLVER:true GENERATOR:false EXTENDEDSUDOKU:true COLOR:false BASE:true
+UNDO:true STATES:true SOLVER:true GENERATOR:false EXTENDEDSUDOKU:true COLOR:false BASE:true
+
+
+ ----------------------- 
+
+
+cont: 1((( apos os testes))) 
+Contador de produtos:1
+Tempo gasto total (milisegundos): 1111 tempo médio (milisegundos): 1111.0 número de vezes executadas:1

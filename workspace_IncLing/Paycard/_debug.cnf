@@ -1,0 +1,37 @@
+p cnf 6 12 
+c c 1 PAYCARD___
+c c 2 _PAYCARD___
+c c 3 LOGGING___
+c c 4 LOCKOUT___
+c c 5 _LOGGING___
+c c 6 MAXIMUMRECORD___
+c (LOGGING___ iff _LOGGING___)
+c ((not LOGGING___ or _LOGGING___) and (not _LOGGING___ or LOGGING___))
+c x ((not LOGGING___ or _LOGGING___) and (not _LOGGING___ or LOGGING___))
+-3 5  0
+-5 3  0
+c (PAYCARD___ iff _PAYCARD___)
+c ((not PAYCARD___ or _PAYCARD___) and (not _PAYCARD___ or PAYCARD___))
+c x ((not PAYCARD___ or _PAYCARD___) and (not _PAYCARD___ or PAYCARD___))
+-1 2  0
+-2 1  0
+c (MAXIMUMRECORD___) implies (_LOGGING___)
+c (not MAXIMUMRECORD___ or _LOGGING___)
+c x (not MAXIMUMRECORD___ or _LOGGING___)
+-6 5  0
+c ((LOGGING___) implies (_PAYCARD___) and (LOCKOUT___) implies (_PAYCARD___))
+c ((not LOGGING___ or _PAYCARD___) and (not LOCKOUT___ or _PAYCARD___))
+c x ((not LOGGING___ or _PAYCARD___) and (not LOCKOUT___ or _PAYCARD___))
+-3 2  0
+-4 2  0
+c x PAYCARD___
+1 0
+c x PAYCARD___
+1 0
+c x LOGGING___
+3 0
+c x MAXIMUMRECORD___
+6 0
+c x LOCKOUT___
+4 0
+

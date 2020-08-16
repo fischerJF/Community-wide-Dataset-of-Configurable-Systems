@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;testset&apos; to &apos;Prop4J-SPL/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;Prop4J-SPL&apos;&#x0D;&#x0A;- Destination element: &apos;Prop4J-SPL/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;Prop4J-SPL/src/test/java/testset&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="/src\/main\/java" element1="/src\/test\/java&lt;testset" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1573057310701" version="1.0"/>
+</session>

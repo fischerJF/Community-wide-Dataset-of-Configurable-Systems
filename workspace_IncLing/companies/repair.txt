@@ -1,0 +1,281 @@
+==========================================================================================
+21 : org.softlang.tests.TestCombinations:cutWithPrecedence (ASSUMPTION ASSERTION FM)
+java.lang.AssertionError: expected:<199873.5> but was:<201046.0>
+RULE1: CUT_WHATEVER___ -> !CUT_NO_MANAGER___
+RULE2: CUT_NO_MANAGER___ -> !CUT_WHATEVER___
+RULE3: TOTAL_WALKER___ -> !TOTAL_REDUCER___
+RULE4: TOTAL_REDUCER___ -> !TOTAL_WALKER___
+
+REPAIR:
+@Test 
+  public void cutWithPrecedence() {
+    if (CompaniesVariables.getSINGLETON().isLOGGING___()) {
+      if (CompaniesVariables.getSINGLETON().isCUT_NO_MANAGER___()) {
+        Company c = TestBasics.createSampleCompany(new BeanFactory());
+        Precedence p = new Precedence();
+        addObserver(c,p);
+        checkTotal(c, 399747);
+        checkWithModel(c,399747.0/2);
+      }
+    }
+  }
+private void checkTotal(Company c, double expected) {
+    if (CompaniesVariables.getSINGLETON().isTOTAL_WALKER___()) {
+      TotalWalker tw = new TotalWalker();
+      tw.postorder(c);
+      double total = tw.getTotal();
+    - Assert.assertEquals(expected, total,0.0001);
+    + Assert.assertEquals(CompaniesVariables.getSINGLETON().isGUI___() ? expected : 0, total,0.0001);
+    }
+    else if (CompaniesVariables.getSINGLETON().isTOTAL_REDUCER___()) {
+      TotalReducer reducer = new TotalReducer();
+      double total = reducer.reduce(c);
+    - Assert.assertEquals(expected, total,0.0001);
+    + Assert.assertEquals(CompaniesVariables.getSINGLETON().isGUI___() ? expected : 0, total,0.0001);
+    }
+}
+
+private void checkWithModel(Company c, double expected) {
+  + Assume.assumeTrue(CompaniesVariables.getSINGLETON().isTOTAL_REDUCER___()
+        || CompaniesVariables.getSINGLETON().isTOTAL_WALKER___());
+    Model m = new Model(new BeanFactory());
+    m.setCompany(c);
+    m.setCurrentValue(c);
+    m.cut();
+    
+    Double total = Double.parseDouble(m.getTotal());
+  - Assert.assertEquals(expected, total,0.01);
+  + Assert.assertEquals(CompaniesVariables.getSINGLETON().isGUI___() ? expected : 0, total,0.01);
+}
+[?, 1, 0, 0, 1, 1, 1, 0, 0, ?]
+java.lang.NumberFormatException: empty String
+==========================================================================================
+22 : org.softlang.tests.TestCombinations:cutWithLogging (ASSUMPTION ASSERTION FM)
+RULE5: CUT_WHATEVER___ -> !CUT_NO_DEPARTMENT___
+RULE6: CUT_NO_DEPARTMENT___ -> !CUT_WHATEVER___
+REPAIR:
+@Test
+public void cutWithLogging() {
+    if (CompaniesVariables.getSINGLETON().isLOGGING___()) {
+      Company c = TestBasics.createSampleCompany(new BeanFactory());
+      Logging l = new Logging();
+      addObserver(c, l);
+      checkTotal(c, 399747);
+      checkWithModel(c,399747.0/2);
+      Assert.assertEquals(l.getSize(), 7);
+    }
+}
+private void checkTotal(Company c, double expected) {
+    if (CompaniesVariables.getSINGLETON().isTOTAL_WALKER___()) {
+      TotalWalker tw = new TotalWalker();
+      tw.postorder(c);
+      double total = tw.getTotal();
+      Assert.assertEquals(expected, total,0.0001);
+    }
+    else if (CompaniesVariables.getSINGLETON().isTOTAL_REDUCER___()) {
+      TotalReducer reducer = new TotalReducer();
+      double total = reducer.reduce(c);
+    - Assert.assertEquals(expected, total,0.0001);
+    + Assert.assertEquals(CompaniesVariables.getSINGLETON().isGUI___() ? expected : 0, total,0.0001);
+    }
+}
+private void checkWithModel(Company c, double expected) {
+  + Assume.assumeTrue((CompaniesVariables.getSINGLETON().isTOTAL_REDUCER___()
+        ^ CompaniesVariables.getSINGLETON().isTOTAL_WALKER___())
+        && (CompaniesVariables.getSINGLETON().isCUT_NO_DEPARTMENT___()
+            ^ CompaniesVariables.getSINGLETON().isCUT_NO_MANAGER___()
+            ^ CompaniesVariables.getSINGLETON().isCUT_WHATEVER___()));
+    Model m = new Model(new BeanFactory());
+    m.setCompany(c);
+    m.setCurrentValue(c);
+    m.cut();
+    
+    Double total = Double.parseDouble(m.getTotal());
+    Assert.assertEquals(expected, total,0.01);
+}
+==========================================================================================
+23 : org.softlang.tests.TestCombinations:cutWithAccessControl (ASSUMPTION)
+
+REPAIR:
+  @Test
+  public void cutWithAccessControl() {
+    if (CompaniesVariables.getSINGLETON().isACCESS_CONTROL___()) {
+      Company c = TestBasics.createSampleCompany(new PojoFactory());
+      AccessControl ac = new AccessControl();
+      ac.disableReadAcccess();
+      c = addAccessControl(ac, c);
+      checkForDisabledReadAccess(c);
+      ac.enableWriteAcccess();
+      checkTotal(c, 399747);
+      checkWithModel(c,399747.0/2);
+    }
+  }
+  private void checkWithModel(Company c, double expected) {
+    + Assume.assumeTrue((CompaniesVariables.getSINGLETON().isTOTAL_REDUCER___()
+        ^ CompaniesVariables.getSINGLETON().isTOTAL_WALKER___())
+        && (CompaniesVariables.getSINGLETON().isCUT_NO_DEPARTMENT___()
+            ^ CompaniesVariables.getSINGLETON().isCUT_NO_MANAGER___()
+            ^ CompaniesVariables.getSINGLETON().isCUT_WHATEVER___()));
+    Model m = new Model(new BeanFactory());
+    m.setCompany(c);
+    m.setCurrentValue(c);
+    m.cut();
+    
+    Double total = Double.parseDouble(m.getTotal());
+    Assert.assertEquals(expected, total,0.01);
+  }
+  
+==========================================================================================
+8 : org.softlang.tests.TestObeservability:testPrecedence
+java.lang.NullPointerException
+I replaced @Before by @Test by mistake.
+REPAIR:
+-@Test
++@Before
+public void createSampleCompany() {
+� � sampleCompany = (CompanyImpl)Basics.createSampleCompany(new BeanFactory());
+} 
+TEST RULED OUT
+==========================================================================================
+20 : org.softlang.tests.TestBasics:testTotalBean
+java.lang.AssertionError: expected:<399747.0> but was:<0.0>
+REPAIR:
+ @Test
+  public void testTotalBean() {
+    Company sampleCompany = createSampleCompany(new PojoFactory());
+    if (CompaniesVariables.getSINGLETON().isTOTAL_REDUCER___()) {
+      TotalReducer reducer = new TotalReducer();
+    - assertEquals(399747, reducer.reduce(sampleCompany), 0);
+    + assertEquals(CompaniesVariables.getSINGLETON().isGUI___() ? 399747 : 0,
+          reducer.reduce(sampleCompany), 0);
+    }
+    else if (CompaniesVariables.getSINGLETON().isTOTAL_WALKER___()) {
+      TotalWalker walker = new TotalWalker();
+      walker.preorder(sampleCompany);
+    - assertEquals(399747, walker.getTotal(), 0);
+    + assertEquals(CompaniesVariables.getSINGLETON().isGUI___() ? 399747 : 0,
+          walker.getTotal(), 0);
+    }
+  }
+==========================================================================================
+19 : org.softlang.tests.TestBasics:testCutBean
+java.lang.NullPointerException
+REPAIR:
+@Test
+  public void testCutBean() {
+  + Assume.assumeTrue(CompaniesVariables.getSINGLETON().isTOTAL_REDUCER___());
+    Company sampleCompany = createSampleCompany(new BeanFactory());
+    TotalReducer total = new TotalReducer();
+    double before = total.reduce(sampleCompany);
+    SimpleCut cut = new SimpleCut();
+    cut.postorder(sampleCompany);
+    double after = total.reduce(sampleCompany);
+    assertEquals(before / 2.0d, after, 0);
+  }
+==========================================================================================
+14 : org.softlang.tests.TestProxying:testCut
+java.lang.NullPointerException
+REPAIR:
+@Test
+  public void testCut() {
+  + Assume.assumeTrue(CompaniesVariables.getSINGLETON().isTOTAL_REDUCER___());
+    Company sampleCompany = TestBasics.createSampleCompany(new PojoFactory());
+    AccessControl ac = new AccessControl();
+    sampleCompany = ac.deploy(sampleCompany);
+    org.softlang.features.TotalReducer total = new org.softlang.features.TotalReducer();
+    org.softlang.features.SimpleCut cut = new org.softlang.features.SimpleCut();
+    double before = total.reduce(sampleCompany);
+    cut.postorder(sampleCompany);
+    double after = total.reduce(sampleCompany);
+    assertEquals(before / 2.0d, after, 0);
+  }
+==========================================================================================
+15 : org.softlang.tests.TestProxying:testCutException 
+java.lang.AssertionError: Expected exception: java.lang.IllegalArgumentException
+REPAIR:
+@Test(expected = IllegalArgumentException.class)
+	public void testCutException() {
+	   + Assume.assumeTrue(
+	      (CompaniesVariables.getSINGLETON().isCUT_NO_DEPARTMENT___()
+	      ^ CompaniesVariables.getSINGLETON().isCUT_NO_MANAGER___()
+	      ^ CompaniesVariables.getSINGLETON().isCUT_WHATEVER___()));
+
+		Company sampleCompany = TestBasics
+				.createSampleCompany(new PojoFactory());
+		AccessControl ac = new AccessControl();
+		ac.disableWriteAcccess();
+		sampleCompany = ac.deploy(sampleCompany);
+		SimpleCut cut = new SimpleCut();
+		cut.postorder(sampleCompany);
+	}
+
+==========================================================================================
+16 : org.softlang.tests.TestProxying:testTotal
+java.lang.NullPointerException
+REPAIR:
+@Test
+	public void testTotal() {
+	   + Assume.assumeTrue(CompaniesVariables.getSINGLETON().isTOTAL_REDUCER___());
+		Company sampleCompany = TestBasics
+				.createSampleCompany(new PojoFactory());
+		AccessControl ac = new AccessControl();
+		ac.disableWriteAcccess();
+		sampleCompany = ac.deploy(sampleCompany);
+		TotalReducer reducer = new TotalReducer();
+		assertEquals(399747, reducer.reduce(sampleCompany), 0);
+	}
+
+==========================================================================================
+17 : org.softlang.tests.TestProxying:testTotalException
+java.lang.AssertionError: Expected exception: java.lang.IllegalArgumentException
+REPAIR:
+@Test(expected = IllegalArgumentException.class)
+	public void testTotalException() {
+	   + Assume.assumeTrue(
+    		(CompaniesVariables.getSINGLETON().isTOTAL_REDUCER___()
+    			^ CompaniesVariables.getSINGLETON().isTOTAL_WALKER___()));
+
+		Company sampleCompany = TestBasics
+				.createSampleCompany(new PojoFactory());
+		AccessControl ac = new AccessControl();
+		ac.disableReadAcccess();
+		sampleCompany = ac.deploy(sampleCompany);
+		TotalReducer reducer = new TotalReducer();
+		reducer.reduce(sampleCompany);
+	}
+==========================================================================================
+13 : org.softlang.tests.TestBasics:testCutPojo 
+java.lang.NullPointerException
+REPAIR:
+ @Test
+   public void testCutPojo() {
+ + Assume.assumeTrue(CompaniesVariables.getSINGLETON().isTOTAL_REDUCER___());
+   Company sampleCompany = createSampleCompany(new PojoFactory());
+   TotalReducer total = new TotalReducer();
+   SimpleCut cut = new SimpleCut();
+   double before = total.reduce(sampleCompany);
+   cut.postorder(sampleCompany);
+   double after = total.reduce(sampleCompany);
+   assertEquals(before / 2.0d, after, 0);
+   }
+
+==========================================================================================
+18 : org.softlang.tests.TestUndo:testUndoPojo 
+java.lang.NullPointerException
+REPAIR:
+@Test
+public void testUndoPojo() {
+  + Assume.assumeTrue(CompaniesVariables.getSINGLETON().isTOTAL_REDUCER___());
+    Company sampleCompany = TestBasics.createSampleCompany(new PojoFactory());
+    TotalReducer total = new TotalReducer();
+    double before = total.reduce(sampleCompany);
+    assertEquals(399747, before, 0);
+    CutCompany cut = new CutCompany(sampleCompany);
+    assertEquals(before, total.reduce(sampleCompany), 0);
+    cut.execute();
+    assertEquals(before / 2.0, total.reduce(sampleCompany), 0);
+    cut.undo();
+    assertEquals(before, total.reduce(sampleCompany), 0);
+	}
+==========================================================================================
+

@@ -1,0 +1,11 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc,
+src,tasks.TaskEditorPanel,class,4,7,5,0,15,4,5,5,0,5,0,0,2,72,0
+src,tasks.Task,class,2,28,1,0,10,42,12,11,0,4,0,0,1,73,0
+src,tasks.Observer,interface,1,1,1,0,0,0,1,1,0,0,0,0,0,4,0
+src,tasks.LastTaskLabel,class,2,4,5,0,2,1,2,2,0,0,0,0,0,14,0
+src,specifications.SpecificationException,class,0,2,4,0,0,0,2,2,0,1,0,0,0,11,0
+src,tasks.TaskSelectorPanel,class,2,7,5,0,8,4,5,5,0,1,1,0,0,33,0
+src,tasks.TaskHistoryPanel,class,3,2,5,0,9,0,2,2,0,1,0,0,0,21,0
+src,specifications.Configuration,class,0,0,1,0,0,0,0,0,0,3,3,3,0,117,0
+src,tasks.Subject,interface,1,3,1,0,0,3,3,3,0,0,0,0,0,6,0
+src,tasks.TaskManagerWindow,class,5,8,7,0,4,9,6,5,1,4,0,1,1,40,0

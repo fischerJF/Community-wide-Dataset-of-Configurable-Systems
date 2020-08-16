@@ -1,0 +1,6 @@
+MUT_01: package.class.java:LINE
+ ORIGINAL
+ =>
+ MODIFIED
+...
+  

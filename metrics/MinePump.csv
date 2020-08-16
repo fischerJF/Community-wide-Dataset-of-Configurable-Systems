@@ -1,0 +1,8 @@
+startTest(testset.PL_Interface_implTest),class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc,
+src,Specifications.Configuration,class,0,0,1,0,0,0,0,0,0,7,7,7,0,10,0
+src,MinePumpSystem.Environment,class,1,11,1,0,0,0,6,3,0,2,0,0,0,42,0
+src,MinePumpSystem.MinePump,class,1,26,1,0,6,0,8,3,0,3,0,0,0,58,0
+src,MinePumpSystem.PL_Interface,interface,0,4,1,0,0,6,4,4,0,0,0,0,0,8,0
+src,TestSpecifications.SpecificationException,class,0,2,4,0,0,0,2,2,0,2,0,1,0,15,0
+src,MinePumpSystem.PL_Interface_impl,class,3,31,1,0,16,34,9,8,4,5,2,5,7,186,24
+src,MinePumpSystem.Actions,class,2,9,1,0,4,9,7,1,0,2,0,0,0,32,0

@@ -1,0 +1,300 @@
+RULE 1:  isDERIVATIVE_COMPRESS_ADLER32CHECKSUM___ => vars.isCOMPRESS___
+RULE 2:  isBASE___
+
+class: TesteAll_adelitobf_gmail
+
+@Test
+  public void mutacaoTest09() {
+    // NPE if RULE 1 is not set
+    ZipMeVariables vars = ZipMeVariables.getSINGLETON();
+    int res = DEFLATER.getAdler();
+    if (!vars.isDERIVATIVE_COMPRESS_ADLER32CHECKSUM___() ||
+        !vars.isCOMPRESS___() ||
+        !vars.isADLER32CHECKSUM___()) {
+        assertEquals(res, -1);
+    } else {
+        assertEquals(res, 1);
+    }
+  }
+
+
+class: TestAll_chas_cin
+note: This is pretty much the same as the test above
+
+  @Test
+  public void test05() {
+    // NPE if RULE 1 is not set
+    ZipMeVariables vars = ZipMeVariables.getSINGLETON();
+    // Output ow = new OutputWindow();
+    Deflater df = new Deflater(5);
+    // int a = 2;
+    // byte[] buffer = new byte[0xFFFF];
+    int a = df.getAdler();
+    if (!vars.isDERIVATIVE_COMPRESS_ADLER32CHECKSUM___() ||
+        !vars.isCOMPRESS___() ||
+        !vars.isADLER32CHECKSUM___()) {
+        Assert.assertEquals(a, -1);
+    } else {
+        Assert.assertEquals(a, 1);
+    }
+  }
+
+class: TestCheckoutOutputStream
+note: ...
+
+  @Test
+  public void test2() throws Throwable {
+    // AssertionError if RULE 2 is not set
+    ZipMeVariables vars = ZipMeVariables.getSINGLETON();
+    ByteArrayOutputStream byteArrayOutputStream0 = new
+  ByteArrayOutputStream(
+        1970);
+    Adler32 adler32_0 = new Adler32();
+    assertNotNull(adler32_0);
+
+    CheckedOutputStream checkedOutputStream0 = new
+    CheckedOutputStream(
+        byteArrayOutputStream0, adler32_0);
+    
+    if (vars.isDERIVATIVE_COMPRESS_ADLER32CHECKSUM___() &&
+        vars.isADLER32CHECKSUM___()) {
+      assertEquals(1, adler32_0.getValue());  
+    }
+
+    byte[] byteArray0 = new byte[7];
+    adler32_0.update(byteArray0);
+    byteArray0[1] = (byte) 0;
+    checkedOutputStream0.write(byteArray0);
+    assertEquals(7, byteArrayOutputStream0.size());
+    checkedOutputStream0.flush();
+    checkedOutputStream0.close();
+  }
+
+class: TestCheckoutOutputStream
+note: ...
+
+  @Test
+  public void test4() throws Throwable {
+    ZipMeVariables vars = ZipMeVariables.getSINGLETON();
+    Assume.assumeTrue(vars.isBASE___());
+    ByteArrayOutputStream byteArrayOutputStream0 = new
+  ByteArrayOutputStream();
+    Adler32 adler32_0 = new Adler32();
+    assertNotNull(adler32_0);
+
+    CheckedOutputStream checkedOutputStream0 = new
+    CheckedOutputStream(
+        byteArrayOutputStream0, adler32_0);
+    byte[] byteArray0 = new byte[8];
+    byteArray0[2] = (byte) (-11);
+    checkedOutputStream0.getChecksum();
+    
+    checkedOutputStream0.write((-1));
+    checkedOutputStream0.flush();
+    checkedOutputStream0.close();
+
+    ByteArrayOutputStream byteArrayOutputStream1 = new
+    ByteArrayOutputStream(
+        1970);
+    Adler32 adler32_1 = new Adler32();
+    assertNotNull(adler32_1);
+
+    CheckedOutputStream checkedOutputStream1 = new
+    CheckedOutputStream(
+        byteArrayOutputStream1, adler32_1);
+    
+    assertEquals(vars.isADLER32CHECKSUM___()?1:-1,
+    adler32_1.getValue());
+
+    byte[] byteArray1 = new byte[7];
+    adler32_1.update(byteArray1);
+    byteArray1[1] = (byte) 0;
+    checkedOutputStream1.write(byteArray1);
+    assertEquals(7, byteArrayOutputStream1.size());
+    checkedOutputStream1.flush();
+    checkedOutputStream1.close();
+
+  }
+
+class: TestAll_bnf_cin
+  
+	@Test
+	public void test8() {
+	  ZipMeVariables vars = ZipMeVariables.getSINGLETON();
+		ad.update(12);
+		assertEquals("Teste 1", vars.isADLER32CHECKSUM___()?851981:-1, ad.getValue());
+	}  
+
+class: TestAll_chas_cin
+	
+  @Test
+  public void test01() {
+    net.sf.zipme.Adler32 a32 = new net.sf.zipme.Adler32();
+    byte[] buffer = new byte[0xFFFF];
+    a32.update(buffer, 7, 8);
+    ZipMeVariables vars = ZipMeVariables.getSINGLETON();
+    Assert.assertEquals(vars.isADLER32CHECKSUM___()?524289:-1, a32.getValue());
+  }
+
+class: TestAll_chas_cin
+
+  @Test
+  public void test02() {
+    net.sf.zipme.Adler32 a32 = new net.sf.zipme.Adler32();
+    a32.update(8);
+    ZipMeVariables vars = ZipMeVariables.getSINGLETON();
+    Assert.assertEquals(vars.isADLER32CHECKSUM___()?589833:-1, a32.getValue());
+  }	
+
+class: TestAll  
+  
+  public void testIntegration06() throws IOException {
+    ZipMeVariables vars = ZipMeVariables.getSINGLETON();
+    Assume.assumeTrue(vars.isCRC___());
+    Assume.assumeTrue(!vars.isDERIVATIVE_EXTRACT_CRC___() || vars.isEXTRACT___());
+    
+    ZipMETest.main(new String[] {});
+    GZIPTest.main(new String[] {});
+
+    Adler32 adler32_0 = new Adler32();
+    assertNotNull(adler32_0);
+    byte[] byteArray0 = new byte[8];
+    ByteArrayInputStream byteArrayInputStream0 = new ByteArrayInputStream(
+        byteArray0);
+    CheckedInputStream checkedInputStream0 = new CheckedInputStream(
+        (InputStream) byteArrayInputStream0, (Checksum) adler32_0);
+    assertNotNull(checkedInputStream0);
+    assertEquals(vars.isADLER32CHECKSUM___()?1L:-1, adler32_0.getValue());
+    checkedInputStream0.read(byteArray0, (byte) 0, (byte) 0);
+
+    assertEquals(8, checkedInputStream0.available());
+    int int0 = checkedInputStream0.read(byteArray0);
+    assertEquals((8), int0);
+
+    CRC32 cRC32_0 = new CRC32();
+    cRC32_0.update(0);
+
+    adler32_0.update(byteArray0, (byte) (-54), (byte) (-45));
+    assertEquals(vars.isADLER32CHECKSUM___()?524289:-1, adler32_0.getValue());
+
+    checkedInputStream0.mark(0);
+    boolean boolean0 = checkedInputStream0.markSupported();
+    assertEquals(true, boolean0);
+
+    checkedInputStream0.reset();
+    assertEquals(0, checkedInputStream0.available());
+
+    ByteArrayOutputStream byteArrayOutputStream0 = new ByteArrayOutputStream();
+    CheckedOutputStream checkedOutputStream0 = new CheckedOutputStream(
+        byteArrayOutputStream0, adler32_0);
+    byteArray0[2] = (byte) (-11);
+    checkedOutputStream0.getChecksum();
+
+    checkedOutputStream0.write((-1));
+    checkedOutputStream0.flush();
+    checkedOutputStream0.close();
+
+    ByteArrayOutputStream byteArrayOutputStream1 = new ByteArrayOutputStream(
+        1970);
+    Adler32 adler32_1 = new Adler32();
+    assertNotNull(adler32_1);
+
+    CheckedOutputStream checkedOutputStream1 = new CheckedOutputStream(
+        byteArrayOutputStream1, adler32_1);
+    assertEquals(vars.isADLER32CHECKSUM___()?1:-1, adler32_1.getValue());
+
+    byte[] byteArray1 = new byte[7];
+    adler32_1.update(byteArray1);
+    byteArray1[1] = (byte) 0;
+    checkedOutputStream1.write(byteArray1);
+    assertEquals(7, byteArrayOutputStream1.size());
+    checkedOutputStream1.flush();
+    checkedOutputStream1.close();
+
+    Deflater deflater0 = new Deflater(0);
+    assertNotNull(deflater0);
+    deflater0.setInput(new byte[] { 0, 1, 2, 3, 4, 5, 6, 7 });
+    deflater0.end();
+    assertEquals(127, deflater0.state);
+
+    OutputWindow outputWindow0 = new OutputWindow();
+    outputWindow0.repeat(0, 0);
+    OutputWindow outputWindow1 = new OutputWindow();
+    StreamManipulator streamManipulator0 = new StreamManipulator();
+    assertNotNull(streamManipulator0);
+
+    outputWindow1.repeat(1615, 1459);
+    outputWindow1.copyStored(streamManipulator0, 0);
+
+    assertEquals(0, streamManipulator0.getAvailableBytes());
+    assertEquals(1615, outputWindow1.getAvailable());
+  }
+  
+  
+class :: net.sf.zipme.TestAll_goa2_cin  
+  
+  @Test
+  public void testTotal() throws DataFormatException, IOException {
+    adl = new Adler32();
+    byte[] buffer = new byte[0xffff];
+    adl.update(buffer, 1, 0);
+    ZipMeVariables vars = ZipMeVariables.getSINGLETON();
+    Assert.assertEquals(vars.isADLER32CHECKSUM___()?1:-1, adl.getValue());
+    
+    def = new net.sf.zipme.Deflater();
+    Assert.assertEquals(false, def.finished());
+    
+    def = new net.sf.zipme.Deflater();
+    def.setDictionary(new byte[0xffff]);
+    
+    in = new Inflater();
+    Assert.assertEquals(false, in.finished());
+
+    in = new Inflater();
+    in.inflate(new byte[0xffff], 1, 1);
+    
+    InputStream in = new InputStream() {
+      @Override
+      public int read() throws IOException {
+        return 0;
+      }
+    };
+    Inflater inf = new Inflater();
+    InflaterInputStream infStream = new InflaterInputStream(in, inf, 2);
+    
+    byte[] b = new byte[] { (byte) 0x01, (byte) 0x04, (byte) 0x00, (byte) 0x01,
+        (byte) 0x00, (byte) 0x01 };
+    
+    ZipArchive_InflaterInputStream zipInflater = new ZipArchive_InflaterInputStream(
+        in, inf, 1);
+    Assert.assertEquals(1, zipInflater.available());
+    
+    d = new net.sf.zipme.Deflater();
+    d.setInput(b, 0, b.length);
+    
+    ze = new net.sf.zipme.ZipEntry("Zip");
+    
+    ze.setSize(0);
+    
+    ze = new net.sf.zipme.ZipEntry(fileToZip.getPath());
+    String comment = null;
+    ze.setComment(comment);
+    Assert.assertEquals(comment, ze.getComment());
+    
+    zip = new ZipOutputStream(new OutputStream() {
+      public void write(int arg0) throws IOException {
+      }
+    });
+    zip.setComment("");
+
+    zip = new ZipOutputStream(new OutputStream() {
+      @Override
+      public void write(int b) throws IOException {
+      }
+    });
+    zip.setMethod(0);
+    
+    Assert.assertEquals(-1, ze.getCrc());
+  }
+
+  

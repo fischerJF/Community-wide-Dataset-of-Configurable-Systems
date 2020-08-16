@@ -1,0 +1,190 @@
+p cnf 26 90 
+c c 1 Notepad
+c c 2 NotepadProductLine
+c c 3 WORDCOUNTTOOLBAR___
+c c 4 WORDCOUNTMENUBAR___
+c c 5 WORDCOUNT___
+c c 6 UNDOREDOTOOLBAR___
+c c 7 UNDOREDOMENUBAR___
+c c 8 UNDOREDO___
+c c 9 SEARCHTOOLBAR___
+c c 10 SEARCHMENUBAR___
+c c 11 SEARCH___
+c c 12 PRINTTOOLBAR___
+c c 13 PRINTMENUBAR___
+c c 14 PRINT___
+c c 15 PERSISTENCETOOLBAR___
+c c 16 PERSISTENCEMENUBAR___
+c c 17 PERSISTENCE___
+c c 18 FORMATTOOLBAR___
+c c 19 FORMATMENUBAR___
+c c 20 FORMAT___
+c c 21 EDITTOOLBAR___
+c c 22 EDITMENUBAR___
+c c 23 EDIT___
+c c 24 BASETOOLBAR___
+c c 25 BASEMENUBAR___
+c c 26 BASE___
+c (Notepad iff NotepadProductLine)
+c ((not Notepad or NotepadProductLine) and (not NotepadProductLine or Notepad))
+c x ((not Notepad or NotepadProductLine) and (not NotepadProductLine or Notepad))
+-1 2  0
+-2 1  0
+c ((WORDCOUNTTOOLBAR___) implies (NotepadProductLine) and (WORDCOUNTMENUBAR___) implies (NotepadProductLine) and (WORDCOUNT___) implies (NotepadProductLine) and (UNDOREDOTOOLBAR___) implies (NotepadProductLine) and (UNDOREDOMENUBAR___) implies (NotepadProductLine) and (UNDOREDO___) implies (NotepadProductLine) and (SEARCHTOOLBAR___) implies (NotepadProductLine) and (SEARCHMENUBAR___) implies (NotepadProductLine) and (SEARCH___) implies (NotepadProductLine) and (PRINTTOOLBAR___) implies (NotepadProductLine) and (PRINTMENUBAR___) implies (NotepadProductLine) and (PRINT___) implies (NotepadProductLine) and (PERSISTENCETOOLBAR___) implies (NotepadProductLine) and (PERSISTENCEMENUBAR___) implies (NotepadProductLine) and (PERSISTENCE___) implies (NotepadProductLine) and (FORMATTOOLBAR___) implies (NotepadProductLine) and (FORMATMENUBAR___) implies (NotepadProductLine) and (FORMAT___) implies (NotepadProductLine) and (EDITTOOLBAR___) implies (NotepadProductLine) and (EDITMENUBAR___) implies (NotepadProductLine) and (EDIT___) implies (NotepadProductLine) and (BASETOOLBAR___) implies (NotepadProductLine) and (BASEMENUBAR___) implies (NotepadProductLine) and (NotepadProductLine iff BASE___))
+c ((not WORDCOUNTTOOLBAR___ or NotepadProductLine) and (not WORDCOUNTMENUBAR___ or NotepadProductLine) and (not WORDCOUNT___ or NotepadProductLine) and (not UNDOREDOTOOLBAR___ or NotepadProductLine) and (not UNDOREDOMENUBAR___ or NotepadProductLine) and (not UNDOREDO___ or NotepadProductLine) and (not SEARCHTOOLBAR___ or NotepadProductLine) and (not SEARCHMENUBAR___ or NotepadProductLine) and (not SEARCH___ or NotepadProductLine) and (not PRINTTOOLBAR___ or NotepadProductLine) and (not PRINTMENUBAR___ or NotepadProductLine) and (not PRINT___ or NotepadProductLine) and (not PERSISTENCETOOLBAR___ or NotepadProductLine) and (not PERSISTENCEMENUBAR___ or NotepadProductLine) and (not PERSISTENCE___ or NotepadProductLine) and (not FORMATTOOLBAR___ or NotepadProductLine) and (not FORMATMENUBAR___ or NotepadProductLine) and (not FORMAT___ or NotepadProductLine) and (not EDITTOOLBAR___ or NotepadProductLine) and (not EDITMENUBAR___ or NotepadProductLine) and (not EDIT___ or NotepadProductLine) and (not BASETOOLBAR___ or NotepadProductLine) and (not BASEMENUBAR___ or NotepadProductLine) and (not NotepadProductLine or BASE___) and (not BASE___ or NotepadProductLine))
+c x ((not WORDCOUNTTOOLBAR___ or NotepadProductLine) and (not WORDCOUNTMENUBAR___ or NotepadProductLine) and (not WORDCOUNT___ or NotepadProductLine) and (not UNDOREDOTOOLBAR___ or NotepadProductLine) and (not UNDOREDOMENUBAR___ or NotepadProductLine) and (not UNDOREDO___ or NotepadProductLine) and (not SEARCHTOOLBAR___ or NotepadProductLine) and (not SEARCHMENUBAR___ or NotepadProductLine) and (not SEARCH___ or NotepadProductLine) and (not PRINTTOOLBAR___ or NotepadProductLine) and (not PRINTMENUBAR___ or NotepadProductLine) and (not PRINT___ or NotepadProductLine) and (not PERSISTENCETOOLBAR___ or NotepadProductLine) and (not PERSISTENCEMENUBAR___ or NotepadProductLine) and (not PERSISTENCE___ or NotepadProductLine) and (not FORMATTOOLBAR___ or NotepadProductLine) and (not FORMATMENUBAR___ or NotepadProductLine) and (not FORMAT___ or NotepadProductLine) and (not EDITTOOLBAR___ or NotepadProductLine) and (not EDITMENUBAR___ or NotepadProductLine) and (not EDIT___ or NotepadProductLine) and (not BASETOOLBAR___ or NotepadProductLine) and (not BASEMENUBAR___ or NotepadProductLine) and (not NotepadProductLine or BASE___) and (not BASE___ or NotepadProductLine))
+-3 2  0
+-4 2  0
+-5 2  0
+-6 2  0
+-7 2  0
+-8 2  0
+-9 2  0
+-10 2  0
+-11 2  0
+-12 2  0
+-13 2  0
+-14 2  0
+-15 2  0
+-16 2  0
+-17 2  0
+-18 2  0
+-19 2  0
+-20 2  0
+-21 2  0
+-22 2  0
+-23 2  0
+-24 2  0
+-25 2  0
+-2 26  0
+-26 2  0
+c (BASEMENUBAR___ or BASETOOLBAR___)
+c (BASEMENUBAR___ or BASETOOLBAR___)
+c x (BASEMENUBAR___ or BASETOOLBAR___)
+25 24  0
+c (EDIT___) implies ((BASEMENUBAR___ and BASETOOLBAR___))
+c (not EDIT___ or (BASEMENUBAR___ and BASETOOLBAR___))
+c x ((not EDIT___ or BASEMENUBAR___) and (not EDIT___ or BASETOOLBAR___))
+-23 25  0
+-23 24  0
+c (WORDCOUNTTOOLBAR___ iff (WORDCOUNT___ and BASETOOLBAR___))
+c ((not WORDCOUNTTOOLBAR___ or (WORDCOUNT___ and BASETOOLBAR___)) and (not WORDCOUNT___ or not BASETOOLBAR___ or WORDCOUNTTOOLBAR___))
+c x ((not WORDCOUNTTOOLBAR___ or WORDCOUNT___) and (not WORDCOUNTTOOLBAR___ or BASETOOLBAR___) and (not WORDCOUNT___ or not BASETOOLBAR___ or WORDCOUNTTOOLBAR___))
+-3 5  0
+-3 24  0
+-5 -24 3  0
+c (WORDCOUNTMENUBAR___ iff (WORDCOUNT___ and BASEMENUBAR___))
+c ((not WORDCOUNTMENUBAR___ or (WORDCOUNT___ and BASEMENUBAR___)) and (not WORDCOUNT___ or not BASEMENUBAR___ or WORDCOUNTMENUBAR___))
+c x ((not WORDCOUNTMENUBAR___ or WORDCOUNT___) and (not WORDCOUNTMENUBAR___ or BASEMENUBAR___) and (not WORDCOUNT___ or not BASEMENUBAR___ or WORDCOUNTMENUBAR___))
+-4 5  0
+-4 25  0
+-5 -25 4  0
+c (UNDOREDOTOOLBAR___ iff (UNDOREDO___ and BASETOOLBAR___))
+c ((not UNDOREDOTOOLBAR___ or (UNDOREDO___ and BASETOOLBAR___)) and (not UNDOREDO___ or not BASETOOLBAR___ or UNDOREDOTOOLBAR___))
+c x ((not UNDOREDOTOOLBAR___ or UNDOREDO___) and (not UNDOREDOTOOLBAR___ or BASETOOLBAR___) and (not UNDOREDO___ or not BASETOOLBAR___ or UNDOREDOTOOLBAR___))
+-6 8  0
+-6 24  0
+-8 -24 6  0
+c (UNDOREDOMENUBAR___ iff (UNDOREDO___ and BASEMENUBAR___))
+c ((not UNDOREDOMENUBAR___ or (UNDOREDO___ and BASEMENUBAR___)) and (not UNDOREDO___ or not BASEMENUBAR___ or UNDOREDOMENUBAR___))
+c x ((not UNDOREDOMENUBAR___ or UNDOREDO___) and (not UNDOREDOMENUBAR___ or BASEMENUBAR___) and (not UNDOREDO___ or not BASEMENUBAR___ or UNDOREDOMENUBAR___))
+-7 8  0
+-7 25  0
+-8 -25 7  0
+c (SEARCHTOOLBAR___ iff (SEARCH___ and BASETOOLBAR___))
+c ((not SEARCHTOOLBAR___ or (SEARCH___ and BASETOOLBAR___)) and (not SEARCH___ or not BASETOOLBAR___ or SEARCHTOOLBAR___))
+c x ((not SEARCHTOOLBAR___ or SEARCH___) and (not SEARCHTOOLBAR___ or BASETOOLBAR___) and (not SEARCH___ or not BASETOOLBAR___ or SEARCHTOOLBAR___))
+-9 11  0
+-9 24  0
+-11 -24 9  0
+c (SEARCHMENUBAR___ iff (SEARCH___ and BASEMENUBAR___))
+c ((not SEARCHMENUBAR___ or (SEARCH___ and BASEMENUBAR___)) and (not SEARCH___ or not BASEMENUBAR___ or SEARCHMENUBAR___))
+c x ((not SEARCHMENUBAR___ or SEARCH___) and (not SEARCHMENUBAR___ or BASEMENUBAR___) and (not SEARCH___ or not BASEMENUBAR___ or SEARCHMENUBAR___))
+-10 11  0
+-10 25  0
+-11 -25 10  0
+c (PRINTTOOLBAR___ iff (PRINT___ and BASETOOLBAR___))
+c ((not PRINTTOOLBAR___ or (PRINT___ and BASETOOLBAR___)) and (not PRINT___ or not BASETOOLBAR___ or PRINTTOOLBAR___))
+c x ((not PRINTTOOLBAR___ or PRINT___) and (not PRINTTOOLBAR___ or BASETOOLBAR___) and (not PRINT___ or not BASETOOLBAR___ or PRINTTOOLBAR___))
+-12 14  0
+-12 24  0
+-14 -24 12  0
+c (PRINTMENUBAR___ iff (PRINT___ and BASEMENUBAR___))
+c ((not PRINTMENUBAR___ or (PRINT___ and BASEMENUBAR___)) and (not PRINT___ or not BASEMENUBAR___ or PRINTMENUBAR___))
+c x ((not PRINTMENUBAR___ or PRINT___) and (not PRINTMENUBAR___ or BASEMENUBAR___) and (not PRINT___ or not BASEMENUBAR___ or PRINTMENUBAR___))
+-13 14  0
+-13 25  0
+-14 -25 13  0
+c (PERSISTENCETOOLBAR___ iff (PERSISTENCE___ and BASETOOLBAR___))
+c ((not PERSISTENCETOOLBAR___ or (PERSISTENCE___ and BASETOOLBAR___)) and (not PERSISTENCE___ or not BASETOOLBAR___ or PERSISTENCETOOLBAR___))
+c x ((not PERSISTENCETOOLBAR___ or PERSISTENCE___) and (not PERSISTENCETOOLBAR___ or BASETOOLBAR___) and (not PERSISTENCE___ or not BASETOOLBAR___ or PERSISTENCETOOLBAR___))
+-15 17  0
+-15 24  0
+-17 -24 15  0
+c (PERSISTENCEMENUBAR___ iff (PERSISTENCE___ and BASEMENUBAR___))
+c ((not PERSISTENCEMENUBAR___ or (PERSISTENCE___ and BASEMENUBAR___)) and (not PERSISTENCE___ or not BASEMENUBAR___ or PERSISTENCEMENUBAR___))
+c x ((not PERSISTENCEMENUBAR___ or PERSISTENCE___) and (not PERSISTENCEMENUBAR___ or BASEMENUBAR___) and (not PERSISTENCE___ or not BASEMENUBAR___ or PERSISTENCEMENUBAR___))
+-16 17  0
+-16 25  0
+-17 -25 16  0
+c (FORMATTOOLBAR___ iff (FORMAT___ and BASETOOLBAR___))
+c ((not FORMATTOOLBAR___ or (FORMAT___ and BASETOOLBAR___)) and (not FORMAT___ or not BASETOOLBAR___ or FORMATTOOLBAR___))
+c x ((not FORMATTOOLBAR___ or FORMAT___) and (not FORMATTOOLBAR___ or BASETOOLBAR___) and (not FORMAT___ or not BASETOOLBAR___ or FORMATTOOLBAR___))
+-18 20  0
+-18 24  0
+-20 -24 18  0
+c (FORMATMENUBAR___ iff (FORMAT___ and BASEMENUBAR___))
+c ((not FORMATMENUBAR___ or (FORMAT___ and BASEMENUBAR___)) and (not FORMAT___ or not BASEMENUBAR___ or FORMATMENUBAR___))
+c x ((not FORMATMENUBAR___ or FORMAT___) and (not FORMATMENUBAR___ or BASEMENUBAR___) and (not FORMAT___ or not BASEMENUBAR___ or FORMATMENUBAR___))
+-19 20  0
+-19 25  0
+-20 -25 19  0
+c (EDITTOOLBAR___ iff (EDIT___ and BASETOOLBAR___))
+c ((not EDITTOOLBAR___ or (EDIT___ and BASETOOLBAR___)) and (not EDIT___ or not BASETOOLBAR___ or EDITTOOLBAR___))
+c x ((not EDITTOOLBAR___ or EDIT___) and (not EDITTOOLBAR___ or BASETOOLBAR___) and (not EDIT___ or not BASETOOLBAR___ or EDITTOOLBAR___))
+-21 23  0
+-21 24  0
+-23 -24 21  0
+c (EDITMENUBAR___ iff (EDIT___ and BASEMENUBAR___))
+c ((not EDITMENUBAR___ or (EDIT___ and BASEMENUBAR___)) and (not EDIT___ or not BASEMENUBAR___ or EDITMENUBAR___))
+c x ((not EDITMENUBAR___ or EDIT___) and (not EDITMENUBAR___ or BASEMENUBAR___) and (not EDIT___ or not BASEMENUBAR___ or EDITMENUBAR___))
+-22 23  0
+-22 25  0
+-23 -25 22  0
+c x Notepad
+1 0
+c x BASE___
+26 0
+c x BASEMENUBAR___
+25 0
+c x BASETOOLBAR___
+24 0
+c x EDITMENUBAR___
+22 0
+c x EDITTOOLBAR___
+21 0
+c x FORMATMENUBAR___
+19 0
+c x FORMATTOOLBAR___
+18 0
+c x PERSISTENCEMENUBAR___
+16 0
+c x PERSISTENCETOOLBAR___
+15 0
+c x PRINTMENUBAR___
+13 0
+c x PRINTTOOLBAR___
+12 0
+c x SEARCHMENUBAR___
+10 0
+c x SEARCHTOOLBAR___
+9 0
+c x UNDOREDOMENUBAR___
+7 0
+c x UNDOREDOTOOLBAR___
+6 0
+c x WORDCOUNTMENUBAR___
+4 0
+c x WORDCOUNTTOOLBAR___
+3 0
+

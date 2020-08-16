@@ -1,0 +1,14 @@
+package testset;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class WeatherReportTest {
+
+	@Test
+	public void test() {
+		
+	}
+
+}

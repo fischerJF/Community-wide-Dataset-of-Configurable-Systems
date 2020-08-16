@@ -1,0 +1,32 @@
+p cnf 5 12 
+c c 1 INTEGERSET___
+c c 2 _TREE___
+c c 3 TREE___
+c c 4 _HASHSET___
+c c 5 HASHSET___
+c ((INTEGERSET___ iff (_HASHSET___ or _TREE___)) and atmostone(_HASHSET___,_TREE___))
+c ((not INTEGERSET___ or _HASHSET___ or _TREE___) and ((not _HASHSET___ and not _TREE___) or INTEGERSET___) and (not _HASHSET___ or not _TREE___))
+c x ((not INTEGERSET___ or _HASHSET___ or _TREE___) and (not _HASHSET___ or INTEGERSET___) and (not _TREE___ or INTEGERSET___) and (not _HASHSET___ or not _TREE___))
+-1 4 2  0
+-4 1  0
+-2 1  0
+-4 -2  0
+c (_HASHSET___ iff HASHSET___)
+c ((not _HASHSET___ or HASHSET___) and (not HASHSET___ or _HASHSET___))
+c x ((not _HASHSET___ or HASHSET___) and (not HASHSET___ or _HASHSET___))
+-4 5  0
+-5 4  0
+c (_TREE___ iff TREE___)
+c ((not _TREE___ or TREE___) and (not TREE___ or _TREE___))
+c x ((not _TREE___ or TREE___) and (not TREE___ or _TREE___))
+-2 3  0
+-3 2  0
+c x INTEGERSET___
+1 0
+c x TREE___
+3 0
+c x INTEGERSET___
+1 0
+c x HASHSET___
+5 0
+

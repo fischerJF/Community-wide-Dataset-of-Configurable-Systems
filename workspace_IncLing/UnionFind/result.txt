@@ -1,0 +1,194 @@
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+cont: 1((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+cont: 2((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+cont: 3((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+cont: 4((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+cont: 5((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+cont: 6((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+cont: 7((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+cont: 8((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+cont: 9((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+cont: 10((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+cont: 11((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+cont: 12((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+cont: 13((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+cont: 14((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+cont: 15((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+cont: 16((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+cont: 17((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+cont: 18((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+cont: 19((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+cont: 20((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+cont: 21((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+cont: 22((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+cont: 23((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+cont: 24((( apos os testes))) 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:truequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:24
+Tempo gasto total (milisegundos): 3357 tempo médio (milisegundos): 3357.0 número de vezes executadas:1

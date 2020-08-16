@@ -1,0 +1,14 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+src,Specifications.Configuration,class,0,0,1,0,0,0,0,0,0,7,7,7,0,10
+src,TestSpecifications.SpecificationManager,class,0,8,1,0,0,4,4,4,3,1,0,1,0,27
+src,testset.MinePumpTest,class,4,15,1,0,7,0,9,9,0,2,0,0,0,89
+src,MinePumpSystem.Environment,class,1,11,1,0,0,0,6,3,0,2,0,0,0,42
+src,testset.PL_Interface_implTest,class,3,16,1,0,22,15,15,15,0,1,0,0,10,168
+src,MinePumpSystem.MinePump,class,1,26,1,0,6,0,8,3,0,3,0,0,0,58
+src,testset.ActionsTest,class,5,10,1,0,7,0,8,8,0,1,0,0,0,75
+src,MinePumpSystem.PL_Interface,interface,0,4,1,0,0,6,4,4,0,0,0,0,0,8
+src,testset.JUnit_Scenario_Tests,class,4,3,1,0,3,3,3,3,0,1,0,1,2,58
+src,TestSpecifications.SpecificationException,class,0,2,4,0,0,0,2,2,0,2,0,1,0,15
+src,testset.EnvironmentTest,class,4,4,1,0,7,0,4,4,0,2,0,0,0,45
+src,MinePumpSystem.PL_Interface_impl,class,3,31,1,0,16,34,9,8,4,5,2,5,7,186
+src,MinePumpSystem.Actions,class,2,9,1,0,4,9,7,1,0,2,0,0,0,32

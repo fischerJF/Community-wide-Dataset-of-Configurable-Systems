@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib_experiment/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="lib_experiment/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="lib_experiment/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib_experiment/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="lib_experiment/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib_experiment/commons-text-1.3.jar"/>
+	<classpathentry kind="lib" path="lib_experiment/opencsv-4.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
