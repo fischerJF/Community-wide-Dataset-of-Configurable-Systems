@@ -43,3 +43,5 @@ We conduct an ad hoc literature review analyzing survey papers on testing config
 
 [The intersection between configurable systems in the repositories analyzed](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/ad_hoc_review/Intersection%20.csv)
 
+[Running Testing Strategies- script](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools)
+
