@@ -1,0 +1,4 @@
+argouml : Diagrams [COGNITIVE___] [LOGGING___] :: _argouml ;
+
+Diagrams : [STATEDIAGRAM___] [ACTIVITYDIAGRAM___] [USECASEDIAGRAM___] [COLLABORATIONDIAGRAM___] [DEPLOYMENTDIAGRAM___] [SEQUENCEDIAGRAM___] :: _Diagrams ;
+
