@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature manual="selected" name="SPL"/>
+	<feature manual="selected" name="PREVAYLERSPL"/>
+	<feature manual="selected" name="REPLICATION"/>
+	<feature manual="selected" name="GZIP"/>
+	<feature manual="unselected" name="CENSOR"/>
+	<feature manual="unselected" name="MONITOR"/>
+	<feature manual="selected" name="SNAPSHOT"/>
+</configuration>

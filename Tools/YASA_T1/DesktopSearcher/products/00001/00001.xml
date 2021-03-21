@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature manual="selected" name="Root"/>
+	<feature manual="selected" name="ContentHandler"/>
+	<feature manual="selected" name="HTML"/>
+	<feature manual="unselected" name="TXT"/>
+	<feature manual="unselected" name="LATEX"/>
+	<feature manual="selected" name="Base"/>
+	<feature manual="selected" name="User_Interface"/>
+	<feature manual="selected" name="GUI"/>
+	<feature manual="selected" name="History"/>
+	<feature manual="unselected" name="Query_History"/>
+	<feature manual="selected" name="Index_History"/>
+	<feature manual="selected" name="Index"/>
+	<feature manual="unselected" name="Single_Directory"/>
+	<feature manual="selected" name="Multi_Directory"/>
+	<feature manual="unselected" name="Gui_Preferences"/>
+	<feature manual="selected" name="View"/>
+	<feature manual="selected" name="Tree_View"/>
+	<feature manual="unselected" name="Normal_View"/>
+	<feature manual="unselected" name="Commandline"/>
+	<feature manual="selected" name="OS"/>
+	<feature manual="selected" name="Windows"/>
+	<feature manual="unselected" name="Linux"/>
+</configuration>
