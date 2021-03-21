@@ -1,0 +1,83 @@
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:true, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+Configuration:volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+
+ volumecontrol:trueskiptrack:trueremovetrack:truetime:trueresizable:truewav:truesupportedformats:truereorderplaylist:trueplaylist:truecontrol:truelight:falsesaveandloadplaylist:truegui:truefeatureamp:truequeuetrack:truemute:trueprogressbar:trueshowtime:trueid3information:trueshowcover:trueloadfolder:trueshufflerepeat:truebase:truemp3:trueskins:truedark:trueopenfile:trueclearplaylist:true
+1 expected:<null> but was:<progress_bar>
+2 java.lang.AssertionError: expected:<null> but was:<progress_bar>
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.failNotEquals(Assert.java:834)
+	at org.junit.Assert.assertEquals(Assert.java:118)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at testset.AppGUITest.progressBarTest(AppGUITest.java:473)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:116)
+	at experiment.Challenge.run(Challenge.java:136)
+	at experiment.Challenge.main(Challenge.java:182)
+
+3 java.lang.AssertionError: expected:<null> but was:<progress_bar>
+4 null
+5 progressBarTest(testset.AppGUITest)
+6 class java.lang.AssertionError
+7 progressBarTest(testset.AppGUITest)
+javax.swing.ImageIcon@78e94dcf
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:trueConfiguration:
+
+
+ ----------------------- 
+
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+product counter:3
+Total time (ms): 91491
+Total time (ms): 91492 time average (s): 91.49291492.0 number of times performed:1

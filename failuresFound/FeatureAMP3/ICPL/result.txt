@@ -1,0 +1,894 @@
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:false, ReorderPlaylist:false, Mp3:false, Playlist:false, Light:false, SaveAndLoadPlaylist:false, ChangeListener:false, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:false, TagEditor:false, ShowTime:true, Aac:false, LoadFolder:false, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:false, Base:true, Ogg:true, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:true, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:true, RemoveTrack:true, Time:true, Wav:true, ReorderPlaylist:true, Mp3:false, Playlist:true, Light:false, SaveAndLoadPlaylist:true, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:true, FileSupport:true, PlaylistContextMenu:true, Mute:false, ProgressBar:true, TagEditor:false, ShowTime:false, Aac:true, LoadFolder:true, MultiplePlaylists:true, ShowCover:true, PlaylistMenu:true, ShuffleRepeat:true, Base:true, Ogg:false, PlaylistTabs:true, AddPlaylistWrapper:false, Skins:true, Dark:true, ClearPlaylist:true, 
+SkipTrack:true, VolumeControl:true, PlaylistControl:true, RemoveTrack:true, Time:true, Wav:true, ReorderPlaylist:false, Mp3:true, Playlist:true, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:true, Mute:true, ProgressBar:true, TagEditor:true, ShowTime:true, Aac:false, LoadFolder:true, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:true, ShuffleRepeat:false, Base:true, Ogg:true, PlaylistTabs:true, AddPlaylistWrapper:true, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:false, ReorderPlaylist:false, Mp3:true, Playlist:false, Light:true, SaveAndLoadPlaylist:false, ChangeListener:false, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:false, TagEditor:false, ShowTime:true, Aac:true, LoadFolder:false, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:true, PlaylistControl:true, RemoveTrack:false, Time:true, Wav:false, ReorderPlaylist:false, Mp3:true, Playlist:true, Light:false, SaveAndLoadPlaylist:true, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:true, Mute:true, ProgressBar:true, TagEditor:true, ShowTime:false, Aac:false, LoadFolder:true, MultiplePlaylists:true, ShowCover:true, PlaylistMenu:true, ShuffleRepeat:true, Base:true, Ogg:true, PlaylistTabs:true, AddPlaylistWrapper:true, Skins:true, Dark:true, ClearPlaylist:false, 
+SkipTrack:true, VolumeControl:true, PlaylistControl:true, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:true, Mp3:false, Playlist:true, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:true, FileSupport:true, PlaylistContextMenu:true, Mute:true, ProgressBar:true, TagEditor:false, ShowTime:true, Aac:false, LoadFolder:true, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:true, Base:true, Ogg:false, PlaylistTabs:true, AddPlaylistWrapper:true, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:true, VolumeControl:true, PlaylistControl:true, RemoveTrack:true, Time:true, Wav:false, ReorderPlaylist:true, Mp3:true, Playlist:true, Light:true, SaveAndLoadPlaylist:true, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:true, ProgressBar:true, TagEditor:false, ShowTime:false, Aac:true, LoadFolder:true, MultiplePlaylists:false, ShowCover:true, PlaylistMenu:true, ShuffleRepeat:false, Base:true, Ogg:true, PlaylistTabs:false, AddPlaylistWrapper:true, Skins:true, Dark:false, ClearPlaylist:true, 
+SkipTrack:false, VolumeControl:true, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:false, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:true, ProgressBar:false, TagEditor:false, ShowTime:true, Aac:false, LoadFolder:false, MultiplePlaylists:false, ShowCover:true, PlaylistMenu:true, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:true, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:false, ReorderPlaylist:false, Mp3:false, Playlist:true, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:true, Mute:false, ProgressBar:true, TagEditor:true, ShowTime:false, Aac:true, LoadFolder:true, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:true, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:true, VolumeControl:false, PlaylistControl:true, RemoveTrack:true, Time:true, Wav:false, ReorderPlaylist:false, Mp3:true, Playlist:true, Light:false, SaveAndLoadPlaylist:true, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:true, FileSupport:true, PlaylistContextMenu:true, Mute:false, ProgressBar:true, TagEditor:true, ShowTime:true, Aac:false, LoadFolder:true, MultiplePlaylists:true, ShowCover:false, PlaylistMenu:true, ShuffleRepeat:false, Base:true, Ogg:true, PlaylistTabs:true, AddPlaylistWrapper:false, Skins:true, Dark:true, ClearPlaylist:true, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:true, RemoveTrack:true, Time:true, Wav:true, ReorderPlaylist:true, Mp3:false, Playlist:true, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:true, Mute:false, ProgressBar:true, TagEditor:true, ShowTime:false, Aac:false, LoadFolder:true, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:true, ShuffleRepeat:true, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:true, Skins:true, Dark:false, ClearPlaylist:true, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:false, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:true, TagEditor:false, ShowTime:false, Aac:false, LoadFolder:false, MultiplePlaylists:false, ShowCover:true, PlaylistMenu:false, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:false, Light:true, SaveAndLoadPlaylist:false, ChangeListener:false, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:false, TagEditor:false, ShowTime:true, Aac:false, LoadFolder:false, MultiplePlaylists:false, ShowCover:true, PlaylistMenu:true, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:true, Light:true, SaveAndLoadPlaylist:true, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:true, TagEditor:false, ShowTime:false, Aac:false, LoadFolder:true, MultiplePlaylists:true, ShowCover:false, PlaylistMenu:true, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:true, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:true, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:true, FileSupport:true, PlaylistContextMenu:true, Mute:false, ProgressBar:true, TagEditor:false, ShowTime:false, Aac:false, LoadFolder:true, MultiplePlaylists:true, ShowCover:false, PlaylistMenu:true, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:true, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:true, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:true, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:true, TagEditor:false, ShowTime:false, Aac:false, LoadFolder:true, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:true, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:falseplaylist:falselight:falsesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:trueplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:trueclearplaylist:false
+
+Configuration:
+cont: 1((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:falseplaylist:falselight:falsesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:trueplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:trueclearplaylist:falseConfiguration:
+
+
+
+ ----------------------- 
+
+
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:falseprogressbar:truetageditor:falseshowtime:falseaac:trueloadfolder:truemultipleplaylists:trueshowcover:trueplaylistmenu:trueshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:trueclearplaylist:true
+
+cont: 2((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:falseprogressbar:truetageditor:falseshowtime:falseaac:trueloadfolder:truemultipleplaylists:trueshowcover:trueplaylistmenu:trueshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:trueclearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+
+Base()
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+1 Index: 1, Tab count: 1
+2 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+	at javax.swing.JTabbedPane.checkIndex(Unknown Source)
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source)
+	at featureamp.FeatureAmp.addPlaylistToLayout(FeatureAmp.java:1634)
+	at featureamp.FeatureAmp.addComponents__wrappee__Playlist(FeatureAmp.java:921)
+	at featureamp.FeatureAmp.addComponents(FeatureAmp.java:931)
+	at featureamp.FeatureAmp.launch__wrappee__GUI(FeatureAmp.java:891)
+	at featureamp.FeatureAmp.launch(FeatureAmp.java:905)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.AppGUITest.start(AppGUITest.java:839)
+	at testset.AppGUITest.progressBarTest(AppGUITest.java:408)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:133)
+	at experiment.Challenge.run(Challenge.java:154)
+	at experiment.Challenge.main(Challenge.java:202)
+
+3 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+4 null
+5 progressBarTest(testset.AppGUITest)
+6 class java.lang.IndexOutOfBoundsException
+7 progressBarTest(testset.AppGUITest)
+Base()
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+1 Index: 1, Tab count: 1
+2 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+	at javax.swing.JTabbedPane.checkIndex(Unknown Source)
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source)
+	at featureamp.FeatureAmp.addPlaylistToLayout(FeatureAmp.java:1634)
+	at featureamp.FeatureAmp.addComponents__wrappee__Playlist(FeatureAmp.java:921)
+	at featureamp.FeatureAmp.addComponents(FeatureAmp.java:931)
+	at featureamp.FeatureAmp.launch__wrappee__GUI(FeatureAmp.java:891)
+	at featureamp.FeatureAmp.launch(FeatureAmp.java:905)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.AppGUITest.start(AppGUITest.java:839)
+	at testset.AppGUITest.playWAVTest(AppGUITest.java:219)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:133)
+	at experiment.Challenge.run(Challenge.java:154)
+	at experiment.Challenge.main(Challenge.java:202)
+
+3 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+4 null
+5 playWAVTest(testset.AppGUITest)
+6 class java.lang.IndexOutOfBoundsException
+7 playWAVTest(testset.AppGUITest)
+Base()
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+1 Index: 1, Tab count: 1
+2 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+	at javax.swing.JTabbedPane.checkIndex(Unknown Source)
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source)
+	at featureamp.FeatureAmp.addPlaylistToLayout(FeatureAmp.java:1634)
+	at featureamp.FeatureAmp.addComponents__wrappee__Playlist(FeatureAmp.java:921)
+	at featureamp.FeatureAmp.addComponents(FeatureAmp.java:931)
+	at featureamp.FeatureAmp.launch__wrappee__GUI(FeatureAmp.java:891)
+	at featureamp.FeatureAmp.launch(FeatureAmp.java:905)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.AppGUITest.start(AppGUITest.java:839)
+	at testset.AppGUITest.playMP3Test(AppGUITest.java:94)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:133)
+	at experiment.Challenge.run(Challenge.java:154)
+	at experiment.Challenge.main(Challenge.java:202)
+
+3 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+4 null
+5 playMP3Test(testset.AppGUITest)
+6 class java.lang.IndexOutOfBoundsException
+7 playMP3Test(testset.AppGUITest)
+Base()
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+1 Index: 1, Tab count: 1
+2 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+	at javax.swing.JTabbedPane.checkIndex(Unknown Source)
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source)
+	at featureamp.FeatureAmp.addPlaylistToLayout(FeatureAmp.java:1634)
+	at featureamp.FeatureAmp.addComponents__wrappee__Playlist(FeatureAmp.java:921)
+	at featureamp.FeatureAmp.addComponents(FeatureAmp.java:931)
+	at featureamp.FeatureAmp.launch__wrappee__GUI(FeatureAmp.java:891)
+	at featureamp.FeatureAmp.launch(FeatureAmp.java:905)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.AppGUITest.start(AppGUITest.java:839)
+	at testset.AppGUITest.muteTest(AppGUITest.java:328)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:133)
+	at experiment.Challenge.run(Challenge.java:154)
+	at experiment.Challenge.main(Challenge.java:202)
+
+3 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+4 null
+5 muteTest(testset.AppGUITest)
+6 class java.lang.IndexOutOfBoundsException
+7 muteTest(testset.AppGUITest)
+Base()
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+1 Index: 1, Tab count: 1
+2 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+	at javax.swing.JTabbedPane.checkIndex(Unknown Source)
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source)
+	at featureamp.FeatureAmp.addPlaylistToLayout(FeatureAmp.java:1634)
+	at featureamp.FeatureAmp.addComponents__wrappee__Playlist(FeatureAmp.java:921)
+	at featureamp.FeatureAmp.addComponents(FeatureAmp.java:931)
+	at featureamp.FeatureAmp.launch__wrappee__GUI(FeatureAmp.java:891)
+	at featureamp.FeatureAmp.launch(FeatureAmp.java:905)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.AppGUITest.start(AppGUITest.java:839)
+	at testset.AppGUITest.playOGGTest(AppGUITest.java:156)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:133)
+	at experiment.Challenge.run(Challenge.java:154)
+	at experiment.Challenge.main(Challenge.java:202)
+
+3 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+4 null
+5 playOGGTest(testset.AppGUITest)
+6 class java.lang.IndexOutOfBoundsException
+7 playOGGTest(testset.AppGUITest)
+Base()
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+1 Index: 1, Tab count: 1
+2 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+	at javax.swing.JTabbedPane.checkIndex(Unknown Source)
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source)
+	at featureamp.FeatureAmp.addPlaylistToLayout(FeatureAmp.java:1634)
+	at featureamp.FeatureAmp.addComponents__wrappee__Playlist(FeatureAmp.java:921)
+	at featureamp.FeatureAmp.addComponents(FeatureAmp.java:931)
+	at featureamp.FeatureAmp.launch__wrappee__GUI(FeatureAmp.java:891)
+	at featureamp.FeatureAmp.launch(FeatureAmp.java:905)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.AppGUITest.start(AppGUITest.java:839)
+	at testset.AppGUITest.showtimeTest(AppGUITest.java:366)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:133)
+	at experiment.Challenge.run(Challenge.java:154)
+	at experiment.Challenge.main(Challenge.java:202)
+
+3 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+4 null
+5 showtimeTest(testset.AppGUITest)
+6 class java.lang.IndexOutOfBoundsException
+7 showtimeTest(testset.AppGUITest)
+Base()
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+1 Index: 1, Tab count: 1
+2 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+	at javax.swing.JTabbedPane.checkIndex(Unknown Source)
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source)
+	at featureamp.FeatureAmp.addPlaylistToLayout(FeatureAmp.java:1634)
+	at featureamp.FeatureAmp.addComponents__wrappee__Playlist(FeatureAmp.java:921)
+	at featureamp.FeatureAmp.addComponents(FeatureAmp.java:931)
+	at featureamp.FeatureAmp.launch__wrappee__GUI(FeatureAmp.java:891)
+	at featureamp.FeatureAmp.launch(FeatureAmp.java:905)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.AppGUITest.start(AppGUITest.java:839)
+	at testset.AppGUITest.volumecontrolTest(AppGUITest.java:279)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:133)
+	at experiment.Challenge.run(Challenge.java:154)
+	at experiment.Challenge.main(Challenge.java:202)
+
+3 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+4 null
+5 volumecontrolTest(testset.AppGUITest)
+6 class java.lang.IndexOutOfBoundsException
+7 volumecontrolTest(testset.AppGUITest)
+Base()
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+1 Index: 1, Tab count: 1
+2 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+	at javax.swing.JTabbedPane.checkIndex(Unknown Source)
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source)
+	at featureamp.FeatureAmp.addPlaylistToLayout(FeatureAmp.java:1634)
+	at featureamp.FeatureAmp.addComponents__wrappee__Playlist(FeatureAmp.java:921)
+	at featureamp.FeatureAmp.addComponents(FeatureAmp.java:931)
+	at featureamp.FeatureAmp.launch__wrappee__GUI(FeatureAmp.java:891)
+	at featureamp.FeatureAmp.launch(FeatureAmp.java:905)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.AppGUITest.start(AppGUITest.java:839)
+	at testset.AppGUITest.changeSkinLightTest(AppGUITest.java:796)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:133)
+	at experiment.Challenge.run(Challenge.java:154)
+	at experiment.Challenge.main(Challenge.java:202)
+
+3 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+4 null
+5 changeSkinLightTest(testset.AppGUITest)
+6 class java.lang.IndexOutOfBoundsException
+7 changeSkinLightTest(testset.AppGUITest)
+Base()
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+1 Index: 1, Tab count: 1
+cont: 3((( apos os testes))) 
+2 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+	at javax.swing.JTabbedPane.checkIndex(Unknown Source)
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source)
+	at featureamp.FeatureAmp.addPlaylistToLayout(FeatureAmp.java:1634)
+	at featureamp.FeatureAmp.addComponents__wrappee__Playlist(FeatureAmp.java:921)
+	at featureamp.FeatureAmp.addComponents(FeatureAmp.java:931)
+	at featureamp.FeatureAmp.launch__wrappee__GUI(FeatureAmp.java:891)
+	at featureamp.FeatureAmp.launch(FeatureAmp.java:905)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.AppGUITest.start(AppGUITest.java:839)
+	at testset.AppGUITest.playSkipTrackTest(AppGUITest.java:487)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:133)
+	at experiment.Challenge.run(Challenge.java:154)
+	at experiment.Challenge.main(Challenge.java:202)
+
+3 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+4 null
+5 playSkipTrackTest(testset.AppGUITest)
+6 class java.lang.IndexOutOfBoundsException
+7 playSkipTrackTest(testset.AppGUITest)
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:falselight:truesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:trueloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+Base()
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+[GUI.FileDialog] addAllowedFileExtensions(aac)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\Challenge\workspace_IncLing\FeatureAMP3\media\note.mp3
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Base()
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:falselight:truesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:trueloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:trueremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:trueplaylistmenu:trueshufflerepeat:trueogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:trueclearplaylist:false
+
+cont: 4((( apos os testes))) 
+Configuration:
+Base()
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:trueremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:trueplaylistmenu:trueshufflerepeat:trueogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:trueclearplaylist:false
+1 Index: 1, Tab count: 1
+2 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+	at javax.swing.JTabbedPane.checkIndex(Unknown Source)
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source)
+	at featureamp.FeatureAmp.addPlaylistToLayout(FeatureAmp.java:1634)
+	at featureamp.FeatureAmp.addComponents__wrappee__Playlist(FeatureAmp.java:921)
+	at featureamp.FeatureAmp.addComponents(FeatureAmp.java:931)
+	at featureamp.FeatureAmp.launch__wrappee__GUI(FeatureAmp.java:891)
+	at featureamp.FeatureAmp.launch(FeatureAmp.java:902)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.AppGUITest.start(AppGUITest.java:839)
+	at testset.AppGUITest.changeSkinDarkTest(AppGUITest.java:823)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:133)
+	at experiment.Challenge.run(Challenge.java:154)
+	at experiment.Challenge.main(Challenge.java:202)
+
+3 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+4 null
+5 changeSkinDarkTest(testset.AppGUITest)
+6 class java.lang.IndexOutOfBoundsException
+7 changeSkinDarkTest(testset.AppGUITest)
+cont: 5((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:trueremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:trueplaylistmenu:trueshufflerepeat:trueogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:trueclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:falsetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:trueprogressbar:truetageditor:falseshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+
+Base()
+ReorderPlaylist.initPlaylist
+ReorderPlaylist.initPlaylist
+[GUI.FileDialog] addAllowedFileExtensions(wav)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\Challenge\workspace_IncLing\FeatureAMP3\media\alarme.wav
+audioHeader=org.jaudiotagger.audio.generic.GenericAudioHeader
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: alarme.wav
+[Base.playSong] Load: alarme.wav
+Playlist.load currentSongIndex = 0
+Playlist.load currentSongIndex = 0
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:falsetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:trueprogressbar:truetageditor:falseshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:falsecont: 6((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:falsereorderplaylist:truemp3:trueplaylist:truelight:truesaveandloadplaylist:truechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:truetageditor:falseshowtime:falseaac:trueloadfolder:truemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:falseaddplaylistwrapper:trueskins:truedark:falseclearplaylist:true
+
+Base()
+ReorderPlaylist.initPlaylist
+[GUI.FileDialog] addAllowedFileExtensions(.m3u)
+Loading Playlist: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\Challenge\workspace_IncLing\FeatureAMP3\media\p1.m3u
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Playlist.load currentSongIndex = 0
+Playlist.load currentSongIndex = 0
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: insight.mp3
+Playlist.load currentSongIndex = 0
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: long-expected.mp3
+Playlist.load currentSongIndex = 0
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+Playlist.load currentSongIndex = 0
+Base()
+ReorderPlaylist.initPlaylist
+Base()
+ReorderPlaylist.initPlaylist
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+[GUI.FileDialog] addAllowedFileExtensions(aac)
+[GUI.FileDialog] addAllowedFileExtensions(ogg)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\Challenge\workspace_IncLing\FeatureAMP3\media\discreet.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Playlist.load currentSongIndex = 0
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+[GUI.FileDialog] addAllowedFileExtensions(aac)
+[GUI.FileDialog] addAllowedFileExtensions(ogg)
+File Loaded: media\insight.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: insight.mp3
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+[GUI.FileDialog] addAllowedFileExtensions(aac)
+[GUI.FileDialog] addAllowedFileExtensions(ogg)
+File Loaded: media\long-expected.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: long-expected.mp3
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+[GUI.FileDialog] addAllowedFileExtensions(aac)
+[GUI.FileDialog] addAllowedFileExtensions(ogg)
+File Loaded: media\note.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(.m3u)
+Save Playlist to: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\Challenge\workspace_IncLing\FeatureAMP3\media\p1.m3u
+cont: 7((( apos os testes))) featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:falsereorderplaylist:truemp3:trueplaylist:truelight:truesaveandloadplaylist:truechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:truetageditor:falseshowtime:falseaac:trueloadfolder:truemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:falseaddplaylistwrapper:trueskins:truedark:falseclearplaylist:true
+
+
+ ----------------------- 
+
+
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+Configuration:
+Base()
+[Base.getNextSong] NULL
+[GUI.FileDialog] addAllowedFileExtensions(wav)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\Challenge\workspace_IncLing\FeatureAMP3\media\alarme.wav
+audioHeader=org.jaudiotagger.audio.generic.GenericAudioHeader
+[Base] notifySongLoaded: alarme.wav
+[Base.playSong] Load: alarme.wav
+cont: 8((( apos os testes))) featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:falseprogressbar:truetageditor:trueshowtime:falseaac:trueloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+
+
+Configuration:
+cont: 9((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:falseprogressbar:truetageditor:trueshowtime:falseaac:trueloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:falseplaylistcontrol:trueremovetrack:truetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:falseprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:trueshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:trueclearplaylist:true
+
+Base()
+Exception in thread "Timer-12" java.lang.NullPointerException
+	at featureamp.FeatureAmp.getNextSong(FeatureAmp.java:481)
+	at featureamp.FeatureAmp.playNextSong(FeatureAmp.java:378)
+	at featureamp.FeatureAmp._onSongEnded(FeatureAmp.java:372)
+	at featureamp.FeatureAmp.timerTick__wrappee__Base(FeatureAmp.java:344)
+	at featureamp.FeatureAmp.timerTick(FeatureAmp.java:360)
+	at featureamp.FeatureAmp.access$0(FeatureAmp.java:355)
+	at featureamp.FeatureAmp$1.run(FeatureAmp.java:329)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:falseplaylistcontrol:trueremovetrack:truetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:falseprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:trueshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:trueclearplaylist:true
+
+
+ ----------------------- 
+
+
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:falseprogressbar:truetageditor:trueshowtime:falseaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:trueogg:falseplaylisttabs:falseaddplaylistwrapper:trueskins:truedark:falseclearplaylist:true
+
+cont: 10((( apos os testes))) 
+Configuration:
+cont: 11((( apos os testes))) 
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:falseprogressbar:truetageditor:trueshowtime:falseaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:trueogg:falseplaylisttabs:falseaddplaylistwrapper:trueskins:truedark:falseclearplaylist:true
+
+
+ ----------------------- 
+
+
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:falsemultipleplaylists:falseshowcover:trueplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+cont: 12((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:falsemultipleplaylists:falseshowcover:trueplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:truesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+Base()
+[GUI.FileDialog] addAllowedFileExtensions(wav)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\Challenge\workspace_IncLing\FeatureAMP3\media\alarme.wav
+audioHeader=org.jaudiotagger.audio.generic.GenericAudioHeader
+[Base] notifySongLoaded: alarme.wav
+[Base.playSong] Load: alarme.wav
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:truesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+cont: 13((( apos os testes))) 
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:truechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+cont: 14((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:truechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+cont: 15((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:trueremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:trueogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+cont: 16((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:trueremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:trueogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:16
+Total time (ms): 64200 time average (ms): 64200.0 number of times performed:1

@@ -1,0 +1,5 @@
+configuration,trace,description
+configuration,"Unable to find component using matcher org.fest.swing.core.TypeMatcher[type=javax.swing.JFileChooser, requireShowing=true].
+",playWAVTest(testset.AppGUITest)
+volumecontrol:falseskiptrack:falseremovetrack:falsetime:trueresizable:truewav:truesupportedformats:truereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:falsegui:truefeatureamp:truequeuetrack:truemute:falseprogressbar:trueshowtime:trueid3information:trueshowcover:falseloadfolder:trueshufflerepeat:truebase:truemp3:falseskins:truedark:falseopenfile:trueclearplaylist:false,"Unable to find component using matcher org.fest.swing.core.TypeMatcher[type=javax.swing.JFileChooser, requireShowing=true].
+",playWAVTest(testset.AppGUITest)

@@ -1,0 +1,48 @@
+SkipTrack:false, VolumeControl:false, LightSkin:true, RemoveTrack:false, Time:true, ReorderPlaylist:false, Playlist:false, DarkSkin:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, QueueTrack:false, ProgressBar:false, Mute:false, ShowTime:true, Player:true, ControlPlayist:false, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, OGG:true, mp3:false, Skins:true, ClearPlaylist:false, 
+SkipTrack:true, VolumeControl:true, LightSkin:false, RemoveTrack:true, Time:true, ReorderPlaylist:true, Playlist:true, DarkSkin:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, QueueTrack:true, ProgressBar:true, Mute:true, ShowTime:true, Player:true, ControlPlayist:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, OGG:true, mp3:true, Skins:true, ClearPlaylist:true, 
+SkipTrack:false, VolumeControl:false, LightSkin:true, RemoveTrack:false, Time:true, ReorderPlaylist:false, Playlist:false, DarkSkin:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, QueueTrack:false, ProgressBar:true, Mute:false, ShowTime:false, Player:true, ControlPlayist:false, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, OGG:false, mp3:true, Skins:true, ClearPlaylist:false, 
+Configuration:
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:falselightskin:trueremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:falsesaveandloadplaylist:falsequeuetrack:falseprogressbar:falsemute:falseshowtime:truecontrolplayist:falseshowcover:falseloadfolder:falseshufflerepeat:falseogg:truemp3:falseskins:trueclearplaylist:false
+
+discreet.OGG
+hollow.ogg
+cont: 1((( apos os testes))) 
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:falselightskin:trueremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:falsesaveandloadplaylist:falsequeuetrack:falseprogressbar:falsemute:falseshowtime:truecontrolplayist:falseshowcover:falseloadfolder:falseshufflerepeat:falseogg:truemp3:falseskins:trueclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:trueplayer:trueskiptrack:truevolumecontrol:truelightskin:falseremovetrack:truetime:truereorderplaylist:trueplaylist:truedarkskin:truesaveandloadplaylist:truequeuetrack:trueprogressbar:truemute:trueshowtime:truecontrolplayist:trueshowcover:trueloadfolder:trueshufflerepeat:trueogg:truemp3:trueskins:trueclearplaylist:true
+
+Exception in thread "Timer-1" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ProgressBar(GUI.java:1080)
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1094)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1108)
+	at gui.GUI.updateGui(GUI.java:1135)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+cont: 2((( apos os testes))) featureamp:truegui:trueplayer:trueskiptrack:truevolumecontrol:truelightskin:falseremovetrack:truetime:truereorderplaylist:trueplaylist:truedarkskin:truesaveandloadplaylist:truequeuetrack:trueprogressbar:truemute:trueshowtime:truecontrolplayist:trueshowcover:trueloadfolder:trueshufflerepeat:trueogg:truemp3:trueskins:trueclearplaylist:true
+
+
+ ----------------------- 
+
+
+
+Configuration:
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:falselightskin:trueremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:falsesaveandloadplaylist:falsequeuetrack:falseprogressbar:truemute:falseshowtime:falsecontrolplayist:falseshowcover:falseloadfolder:falseshufflerepeat:falseogg:falsemp3:trueskins:trueclearplaylist:false
+
+note.mp3
+note.mp3
+discreet.mp3
+cont: 3((( apos os testes))) featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:falselightskin:trueremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:falsesaveandloadplaylist:falsequeuetrack:falseprogressbar:truemute:falseshowtime:falsecontrolplayist:falseshowcover:falseloadfolder:falseshufflerepeat:falseogg:falsemp3:trueskins:trueclearplaylist:false
+
+
+
+ ----------------------- 
+
+
+Contador de produtos:3
+Total time (ms): 19679 time average (s): 19.67919679.0 number of times performed:1

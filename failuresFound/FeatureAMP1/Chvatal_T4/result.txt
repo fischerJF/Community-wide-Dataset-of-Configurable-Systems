@@ -1,0 +1,1449 @@
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:true, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:true, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:true, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:true, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:true, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:false, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:true, 
+Configuration:volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+javax.swing.ImageIcon@3e3047e6
+
+ volumecontrol:falseskiptrack:falseremovetrack:falsetime:trueresizable:truewav:truesupportedformats:truereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:falsegui:truefeatureamp:truequeuetrack:truemute:falseprogressbar:trueshowtime:trueid3information:trueshowcover:trueloadfolder:trueshufflerepeat:truebase:truemp3:trueskins:truedark:falseopenfile:trueclearplaylist:false
+1 Unable to find component using matcher org.fest.swing.core.NameMatcher[name='skiptrack', type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+javax.swing.JFrame[name='frame7', title='FeatureAmp', enabled=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.Box[,10,10,1164x461,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+          javax.swing.JLabel[name=null, text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+            javax.swing.JViewport[,1,1,304x458,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+              javax.swing.JList[name='p_list', selectedValues=[], contents=[1 - note.mp3 -  -  - 00:04,  - discreet.mp3 -  -  - 00:10], selectionMode=MULTIPLE_INTERVAL_SELECTION, enabled=true, visible=true, showing=true]
+                javax.swing.CellRendererPane[,0,0,0x0,hidden]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=458, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=304, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+          javax.swing.Box[,707,178,150x104,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+            javax.swing.JButton[name='up', text='Up', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='down', text='Down', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='addToQueue', text='Add to Queue', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='removeFromQueue', text='Remove from Queue', enabled=true, visible=true, showing=true]
+          javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+            javax.swing.JViewport[,1,1,304x458,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+              javax.swing.JList[name='queueLis', selectedValues=[], contents=[], selectionMode=MULTIPLE_INTERVAL_SELECTION, enabled=true, visible=true, showing=true]
+                javax.swing.CellRendererPane[,0,0,0x0,hidden]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=458, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=304, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+        javax.swing.Box[,0,471,1184x67,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+          javax.swing.Box$Filler[,0,0,1184x10,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=32767,height=10],minimumSize=java.awt.Dimension[width=0,height=10],preferredSize=java.awt.Dimension[width=0,height=10]]
+          javax.swing.Box[,0,10,1184x21,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+            javax.swing.JProgressBar[name=null, value=0, minimum=0, maximum=100, string='0%', stringPainted=true, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JButton[name='play', text='Play', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='pause', text='Pause', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='stop', text='Stop', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name=null, text='Playmode: ', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='playModeButton', text='normal', enabled=true, visible=true, showing=true]
+        javax.swing.Box$Filler[,0,0,1184x10,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=32767,height=10],minimumSize=java.awt.Dimension[width=0,height=10],preferredSize=java.awt.Dimension[width=0,height=10]]
+        javax.swing.Box$Filler[,0,10,10x461,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=10,height=32767],minimumSize=java.awt.Dimension[width=10,height=0],preferredSize=java.awt.Dimension[width=10,height=0]]
+        javax.swing.Box$Filler[,1174,10,10x461,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=10,height=32767],minimumSize=java.awt.Dimension[width=10,height=0],preferredSize=java.awt.Dimension[width=10,height=0]]
+      javax.swing.JMenuBar[]
+        javax.swing.JMenu[name=null, text='File', selected=false, enabled=true, visible=true, showing=true]
+          javax.swing.JPopupMenu[name=null, label=null, enabled=true, visible=false, showing=false]
+            javax.swing.JMenuItem[name=null, text='Load File', selected=false, enabled=true, visible=true, showing=false]
+            javax.swing.JMenuItem[name=null, text='Load Folder', selected=false, enabled=true, visible=true, showing=false]
+  javax.swing.JDialog[name='dialog11', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog12', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog13', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog14', title='Mensaje', enabled=true, modal=true, visible=true, showing=true]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+          javax.swing.JOptionPane[message='File extension not recognized', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JPanel[name='OptionPane.realBody']
+                javax.swing.JPanel[name='OptionPane.separator']
+                javax.swing.JPanel[name='OptionPane.body']
+                  javax.swing.JLabel[name='OptionPane.label', text='File extension not recognized', enabled=true, visible=true, showing=true]
+              javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name='OptionPane.buttonArea']
+              javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=true]
+
+2 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher org.fest.swing.core.NameMatcher[name='skiptrack', type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+javax.swing.JFrame[name='frame7', title='FeatureAmp', enabled=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.Box[,10,10,1164x461,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+          javax.swing.JLabel[name=null, text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+            javax.swing.JViewport[,1,1,304x458,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+              javax.swing.JList[name='p_list', selectedValues=[], contents=[1 - note.mp3 -  -  - 00:04,  - discreet.mp3 -  -  - 00:10], selectionMode=MULTIPLE_INTERVAL_SELECTION, enabled=true, visible=true, showing=true]
+                javax.swing.CellRendererPane[,0,0,0x0,hidden]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=458, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=304, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+          javax.swing.Box[,707,178,150x104,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+            javax.swing.JButton[name='up', text='Up', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='down', text='Down', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='addToQueue', text='Add to Queue', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='removeFromQueue', text='Remove from Queue', enabled=true, visible=true, showing=true]
+          javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+            javax.swing.JViewport[,1,1,304x458,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+              javax.swing.JList[name='queueLis', selectedValues=[], contents=[], selectionMode=MULTIPLE_INTERVAL_SELECTION, enabled=true, visible=true, showing=true]
+                javax.swing.CellRendererPane[,0,0,0x0,hidden]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=458, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=304, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+        javax.swing.Box[,0,471,1184x67,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+          javax.swing.Box$Filler[,0,0,1184x10,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=32767,height=10],minimumSize=java.awt.Dimension[width=0,height=10],preferredSize=java.awt.Dimension[width=0,height=10]]
+          javax.swing.Box[,0,10,1184x21,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+            javax.swing.JProgressBar[name=null, value=0, minimum=0, maximum=100, string='0%', stringPainted=true, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JButton[name='play', text='Play', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='pause', text='Pause', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='stop', text='Stop', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name=null, text='Playmode: ', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='playModeButton', text='normal', enabled=true, visible=true, showing=true]
+        javax.swing.Box$Filler[,0,0,1184x10,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=32767,height=10],minimumSize=java.awt.Dimension[width=0,height=10],preferredSize=java.awt.Dimension[width=0,height=10]]
+        javax.swing.Box$Filler[,0,10,10x461,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=10,height=32767],minimumSize=java.awt.Dimension[width=10,height=0],preferredSize=java.awt.Dimension[width=10,height=0]]
+        javax.swing.Box$Filler[,1174,10,10x461,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=10,height=32767],minimumSize=java.awt.Dimension[width=10,height=0],preferredSize=java.awt.Dimension[width=10,height=0]]
+      javax.swing.JMenuBar[]
+        javax.swing.JMenu[name=null, text='File', selected=false, enabled=true, visible=true, showing=true]
+          javax.swing.JPopupMenu[name=null, label=null, enabled=true, visible=false, showing=false]
+            javax.swing.JMenuItem[name=null, text='Load File', selected=false, enabled=true, visible=true, showing=false]
+            javax.swing.JMenuItem[name=null, text='Load Folder', selected=false, enabled=true, visible=true, showing=false]
+  javax.swing.JDialog[name='dialog11', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog12', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog13', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog14', title='Mensaje', enabled=true, modal=true, visible=true, showing=true]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+          javax.swing.JOptionPane[message='File extension not recognized', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JPanel[name='OptionPane.realBody']
+                javax.swing.JPanel[name='OptionPane.separator']
+                javax.swing.JPanel[name='OptionPane.body']
+                  javax.swing.JLabel[name='OptionPane.label', text='File extension not recognized', enabled=true, visible=true, showing=true]
+              javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name='OptionPane.buttonArea']
+              javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=true]
+
+	at org.fest.swing.core.BasicComponentFinder.componentNotFound(BasicComponentFinder.java:271)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:260)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:254)
+	at org.fest.swing.core.BasicComponentFinder.findByName(BasicComponentFinder.java:191)
+	at org.fest.swing.fixture.ContainerFixture.findByName(ContainerFixture.java:527)
+	at org.fest.swing.fixture.ContainerFixture.button(ContainerFixture.java:124)
+	at testset.AppGUITest.playSkipTrackTest(AppGUITest.java:168)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:116)
+	at experiment.Challenge.run(Challenge.java:136)
+	at experiment.Challenge.main(Challenge.java:176)
+
+3 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher org.fest.swing.core.NameMatcher[name='skiptrack', type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+javax.swing.JFrame[name='frame7', title='FeatureAmp', enabled=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.Box[,10,10,1164x461,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+          javax.swing.JLabel[name=null, text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+            javax.swing.JViewport[,1,1,304x458,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+              javax.swing.JList[name='p_list', selectedValues=[], contents=[1 - note.mp3 -  -  - 00:04,  - discreet.mp3 -  -  - 00:10], selectionMode=MULTIPLE_INTERVAL_SELECTION, enabled=true, visible=true, showing=true]
+                javax.swing.CellRendererPane[,0,0,0x0,hidden]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=458, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=304, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+          javax.swing.Box[,707,178,150x104,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+            javax.swing.JButton[name='up', text='Up', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='down', text='Down', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='addToQueue', text='Add to Queue', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='removeFromQueue', text='Remove from Queue', enabled=true, visible=true, showing=true]
+          javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+            javax.swing.JViewport[,1,1,304x458,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+              javax.swing.JList[name='queueLis', selectedValues=[], contents=[], selectionMode=MULTIPLE_INTERVAL_SELECTION, enabled=true, visible=true, showing=true]
+                javax.swing.CellRendererPane[,0,0,0x0,hidden]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=458, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=304, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+        javax.swing.Box[,0,471,1184x67,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+          javax.swing.Box$Filler[,0,0,1184x10,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=32767,height=10],minimumSize=java.awt.Dimension[width=0,height=10],preferredSize=java.awt.Dimension[width=0,height=10]]
+          javax.swing.Box[,0,10,1184x21,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+            javax.swing.JProgressBar[name=null, value=0, minimum=0, maximum=100, string='0%', stringPainted=true, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JButton[name='play', text='Play', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='pause', text='Pause', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='stop', text='Stop', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name=null, text='Playmode: ', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='playModeButton', text='normal', enabled=true, visible=true, showing=true]
+        javax.swing.Box$Filler[,0,0,1184x10,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=32767,height=10],minimumSize=java.awt.Dimension[width=0,height=10],preferredSize=java.awt.Dimension[width=0,height=10]]
+        javax.swing.Box$Filler[,0,10,10x461,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=10,height=32767],minimumSize=java.awt.Dimension[width=10,height=0],preferredSize=java.awt.Dimension[width=10,height=0]]
+        javax.swing.Box$Filler[,1174,10,10x461,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=10,height=32767],minimumSize=java.awt.Dimension[width=10,height=0],preferredSize=java.awt.Dimension[width=10,height=0]]
+      javax.swing.JMenuBar[]
+        javax.swing.JMenu[name=null, text='File', selected=false, enabled=true, visible=true, showing=true]
+          javax.swing.JPopupMenu[name=null, label=null, enabled=true, visible=false, showing=false]
+            javax.swing.JMenuItem[name=null, text='Load File', selected=false, enabled=true, visible=true, showing=false]
+            javax.swing.JMenuItem[name=null, text='Load Folder', selected=false, enabled=true, visible=true, showing=false]
+  javax.swing.JDialog[name='dialog11', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog12', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog13', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog14', title='Mensaje', enabled=true, modal=true, visible=true, showing=true]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+          javax.swing.JOptionPane[message='File extension not recognized', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JPanel[name='OptionPane.realBody']
+                javax.swing.JPanel[name='OptionPane.separator']
+                javax.swing.JPanel[name='OptionPane.body']
+                  javax.swing.JLabel[name='OptionPane.label', text='File extension not recognized', enabled=true, visible=true, showing=true]
+              javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name='OptionPane.buttonArea']
+              javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=true]
+
+4 null
+5 playSkipTrackTest(testset.AppGUITest)
+6 class org.fest.swing.exception.ComponentLookupException
+7 playSkipTrackTest(testset.AppGUITest)
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:trueConfiguration:
+
+
+
+ ----------------------- 
+
+
+volumecontrol:false skiptrack:true removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:true removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:true
+
+Configuration:volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+
+ volumecontrol:trueskiptrack:falseremovetrack:truetime:trueresizable:truewav:truesupportedformats:truereorderplaylist:falseplaylist:truecontrol:truelight:falsesaveandloadplaylist:falsegui:truefeatureamp:truequeuetrack:falsemute:falseprogressbar:trueshowtime:trueid3information:trueshowcover:trueloadfolder:trueshufflerepeat:falsebase:truemp3:trueskins:truedark:trueopenfile:trueclearplaylist:true
+1 expected:<null> but was:<progress_bar>
+2 java.lang.AssertionError: expected:<null> but was:<progress_bar>
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.failNotEquals(Assert.java:834)
+	at org.junit.Assert.assertEquals(Assert.java:118)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at testset.AppGUITest.progressBarTest(AppGUITest.java:473)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:116)
+	at experiment.Challenge.run(Challenge.java:136)
+	at experiment.Challenge.main(Challenge.java:176)
+
+3 java.lang.AssertionError: expected:<null> but was:<progress_bar>
+4 null
+5 progressBarTest(testset.AppGUITest)
+6 class java.lang.AssertionError
+7 progressBarTest(testset.AppGUITest)
+javax.swing.ImageIcon@4313f5bc
+
+ volumecontrol:trueskiptrack:falseremovetrack:truetime:trueresizable:truewav:truesupportedformats:truereorderplaylist:falseplaylist:truecontrol:truelight:falsesaveandloadplaylist:falsegui:truefeatureamp:truequeuetrack:falsemute:falseprogressbar:trueshowtime:trueid3information:trueshowcover:trueloadfolder:trueshufflerepeat:falsebase:truemp3:trueskins:truedark:trueopenfile:trueclearplaylist:true
+1 Unable to find component using matcher org.fest.swing.core.NameMatcher[name='skiptrack', type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+javax.swing.JFrame[name='frame17', title='FeatureAmp', enabled=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.Box[,10,10,1164x460,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+          javax.swing.JLabel[name=null, text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+            javax.swing.JViewport[,1,1,608x457,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+              javax.swing.JList[name='p_list', selectedValues=[], contents=[1 - note.mp3 -  -  - 00:04,  - discreet.mp3 -  -  - 00:10], selectionMode=MULTIPLE_INTERVAL_SELECTION, enabled=true, visible=true, showing=true]
+                javax.swing.CellRendererPane[,0,0,0x0,hidden]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=457, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=608, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+          javax.swing.Box[,1011,204,153x52,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+            javax.swing.JButton[name='remove', text='Remove from playlist', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='clear', text='Clear Playlist', enabled=true, visible=true, showing=true]
+        javax.swing.Box[,0,470,1184x68,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+          javax.swing.Box$Filler[,0,0,1184x10,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=32767,height=10],minimumSize=java.awt.Dimension[width=0,height=10],preferredSize=java.awt.Dimension[width=0,height=10]]
+          javax.swing.Box[,0,10,1184x21,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+            javax.swing.JProgressBar[name=null, value=0, minimum=0, maximum=100, string='0%', stringPainted=true, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JButton[name='play', text='Play', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='pause', text='Pause', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='stop', text='Stop', enabled=true, visible=true, showing=true]
+            featureAmp.view.VolumeSlider[name='volumeSlider', value=80, minimum=0, maximum=100, enabled=true, visible=true, showing=true]
+        javax.swing.Box$Filler[,0,0,1184x10,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=32767,height=10],minimumSize=java.awt.Dimension[width=0,height=10],preferredSize=java.awt.Dimension[width=0,height=10]]
+        javax.swing.Box$Filler[,0,10,10x460,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=10,height=32767],minimumSize=java.awt.Dimension[width=10,height=0],preferredSize=java.awt.Dimension[width=10,height=0]]
+        javax.swing.Box$Filler[,1174,10,10x460,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=10,height=32767],minimumSize=java.awt.Dimension[width=10,height=0],preferredSize=java.awt.Dimension[width=10,height=0]]
+      javax.swing.JMenuBar[]
+        javax.swing.JMenu[name=null, text='File', selected=false, enabled=true, visible=true, showing=true]
+          javax.swing.JPopupMenu[name=null, label=null, enabled=true, visible=false, showing=false]
+            javax.swing.JMenuItem[name=null, text='Load File', selected=false, enabled=true, visible=true, showing=false]
+            javax.swing.JMenuItem[name=null, text='Load Folder', selected=false, enabled=true, visible=true, showing=false]
+  javax.swing.JDialog[name='dialog28', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog29', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog30', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog31', title='Mensaje', enabled=true, modal=true, visible=true, showing=true]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+          javax.swing.JOptionPane[message='File extension not recognized', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JPanel[name='OptionPane.realBody']
+                javax.swing.JPanel[name='OptionPane.separator']
+                javax.swing.JPanel[name='OptionPane.body']
+                  javax.swing.JLabel[name='OptionPane.label', text='File extension not recognized', enabled=true, visible=true, showing=true]
+              javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name='OptionPane.buttonArea']
+              javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=true]
+
+2 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher org.fest.swing.core.NameMatcher[name='skiptrack', type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+javax.swing.JFrame[name='frame17', title='FeatureAmp', enabled=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.Box[,10,10,1164x460,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+          javax.swing.JLabel[name=null, text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+            javax.swing.JViewport[,1,1,608x457,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+              javax.swing.JList[name='p_list', selectedValues=[], contents=[1 - note.mp3 -  -  - 00:04,  - discreet.mp3 -  -  - 00:10], selectionMode=MULTIPLE_INTERVAL_SELECTION, enabled=true, visible=true, showing=true]
+                javax.swing.CellRendererPane[,0,0,0x0,hidden]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=457, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=608, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+          javax.swing.Box[,1011,204,153x52,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+            javax.swing.JButton[name='remove', text='Remove from playlist', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='clear', text='Clear Playlist', enabled=true, visible=true, showing=true]
+        javax.swing.Box[,0,470,1184x68,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+          javax.swing.Box$Filler[,0,0,1184x10,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=32767,height=10],minimumSize=java.awt.Dimension[width=0,height=10],preferredSize=java.awt.Dimension[width=0,height=10]]
+          javax.swing.Box[,0,10,1184x21,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+            javax.swing.JProgressBar[name=null, value=0, minimum=0, maximum=100, string='0%', stringPainted=true, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JButton[name='play', text='Play', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='pause', text='Pause', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='stop', text='Stop', enabled=true, visible=true, showing=true]
+            featureAmp.view.VolumeSlider[name='volumeSlider', value=80, minimum=0, maximum=100, enabled=true, visible=true, showing=true]
+        javax.swing.Box$Filler[,0,0,1184x10,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=32767,height=10],minimumSize=java.awt.Dimension[width=0,height=10],preferredSize=java.awt.Dimension[width=0,height=10]]
+        javax.swing.Box$Filler[,0,10,10x460,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=10,height=32767],minimumSize=java.awt.Dimension[width=10,height=0],preferredSize=java.awt.Dimension[width=10,height=0]]
+        javax.swing.Box$Filler[,1174,10,10x460,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=10,height=32767],minimumSize=java.awt.Dimension[width=10,height=0],preferredSize=java.awt.Dimension[width=10,height=0]]
+      javax.swing.JMenuBar[]
+        javax.swing.JMenu[name=null, text='File', selected=false, enabled=true, visible=true, showing=true]
+          javax.swing.JPopupMenu[name=null, label=null, enabled=true, visible=false, showing=false]
+            javax.swing.JMenuItem[name=null, text='Load File', selected=false, enabled=true, visible=true, showing=false]
+            javax.swing.JMenuItem[name=null, text='Load Folder', selected=false, enabled=true, visible=true, showing=false]
+  javax.swing.JDialog[name='dialog28', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog29', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog30', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog31', title='Mensaje', enabled=true, modal=true, visible=true, showing=true]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+          javax.swing.JOptionPane[message='File extension not recognized', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JPanel[name='OptionPane.realBody']
+                javax.swing.JPanel[name='OptionPane.separator']
+                javax.swing.JPanel[name='OptionPane.body']
+                  javax.swing.JLabel[name='OptionPane.label', text='File extension not recognized', enabled=true, visible=true, showing=true]
+              javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name='OptionPane.buttonArea']
+              javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=true]
+
+	at org.fest.swing.core.BasicComponentFinder.componentNotFound(BasicComponentFinder.java:271)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:260)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:254)
+	at org.fest.swing.core.BasicComponentFinder.findByName(BasicComponentFinder.java:191)
+	at org.fest.swing.fixture.ContainerFixture.findByName(ContainerFixture.java:527)
+	at org.fest.swing.fixture.ContainerFixture.button(ContainerFixture.java:124)
+	at testset.AppGUITest.playSkipTrackTest(AppGUITest.java:168)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:116)
+	at experiment.Challenge.run(Challenge.java:136)
+	at experiment.Challenge.main(Challenge.java:176)
+
+3 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher org.fest.swing.core.NameMatcher[name='skiptrack', type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+javax.swing.JFrame[name='frame17', title='FeatureAmp', enabled=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.Box[,10,10,1164x460,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+          javax.swing.JLabel[name=null, text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+            javax.swing.JViewport[,1,1,608x457,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+              javax.swing.JList[name='p_list', selectedValues=[], contents=[1 - note.mp3 -  -  - 00:04,  - discreet.mp3 -  -  - 00:10], selectionMode=MULTIPLE_INTERVAL_SELECTION, enabled=true, visible=true, showing=true]
+                javax.swing.CellRendererPane[,0,0,0x0,hidden]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=457, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=608, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+          javax.swing.Box[,1011,204,153x52,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+            javax.swing.JButton[name='remove', text='Remove from playlist', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='clear', text='Clear Playlist', enabled=true, visible=true, showing=true]
+        javax.swing.Box[,0,470,1184x68,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+          javax.swing.Box$Filler[,0,0,1184x10,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=32767,height=10],minimumSize=java.awt.Dimension[width=0,height=10],preferredSize=java.awt.Dimension[width=0,height=10]]
+          javax.swing.Box[,0,10,1184x21,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]
+            javax.swing.JProgressBar[name=null, value=0, minimum=0, maximum=100, string='0%', stringPainted=true, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JButton[name='play', text='Play', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='pause', text='Pause', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='stop', text='Stop', enabled=true, visible=true, showing=true]
+            featureAmp.view.VolumeSlider[name='volumeSlider', value=80, minimum=0, maximum=100, enabled=true, visible=true, showing=true]
+        javax.swing.Box$Filler[,0,0,1184x10,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=32767,height=10],minimumSize=java.awt.Dimension[width=0,height=10],preferredSize=java.awt.Dimension[width=0,height=10]]
+        javax.swing.Box$Filler[,0,10,10x460,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=10,height=32767],minimumSize=java.awt.Dimension[width=10,height=0],preferredSize=java.awt.Dimension[width=10,height=0]]
+        javax.swing.Box$Filler[,1174,10,10x460,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=java.awt.Dimension[width=10,height=32767],minimumSize=java.awt.Dimension[width=10,height=0],preferredSize=java.awt.Dimension[width=10,height=0]]
+      javax.swing.JMenuBar[]
+        javax.swing.JMenu[name=null, text='File', selected=false, enabled=true, visible=true, showing=true]
+          javax.swing.JPopupMenu[name=null, label=null, enabled=true, visible=false, showing=false]
+            javax.swing.JMenuItem[name=null, text='Load File', selected=false, enabled=true, visible=true, showing=false]
+            javax.swing.JMenuItem[name=null, text='Load Folder', selected=false, enabled=true, visible=true, showing=false]
+  javax.swing.JDialog[name='dialog28', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog29', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog30', title='Abrir', enabled=true, modal=true, visible=false, showing=false]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+  javax.swing.JDialog[name='dialog31', title='Mensaje', enabled=true, modal=true, visible=true, showing=true]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+          javax.swing.JOptionPane[message='File extension not recognized', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JPanel[name='OptionPane.realBody']
+                javax.swing.JPanel[name='OptionPane.separator']
+                javax.swing.JPanel[name='OptionPane.body']
+                  javax.swing.JLabel[name='OptionPane.label', text='File extension not recognized', enabled=true, visible=true, showing=true]
+              javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name='OptionPane.buttonArea']
+              javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=true]
+
+4 null
+5 playSkipTrackTest(testset.AppGUITest)
+6 class org.fest.swing.exception.ComponentLookupException
+7 playSkipTrackTest(testset.AppGUITest)
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:true
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:true removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:falseConfiguration:
+
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:true
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:falseConfiguration:
+
+
+ ----------------------- 
+
+
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:true removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:true
+
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+volumecontrol:true skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+Configuration:volumecontrol:true skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:true
+
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+volumecontrol:true skiptrack:true removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:true removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+Configuration:volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:true progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:true skiptrack:true removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:true id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:true
+
+
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:false skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:true skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+volumecontrol:false skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:false saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:false skins:true dark:true openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:false supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:true loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+Configuration:
+volumecontrol:false skiptrack:true removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:true gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:true
+
+volumecontrol:false skiptrack:false removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:true control:true light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:false openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+product counter:84
+Total time (ms): 302175
+Total time (ms): 302175 time average (s): 302.175302175.0 number of times performed:1

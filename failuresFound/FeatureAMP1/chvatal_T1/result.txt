@@ -1,0 +1,33 @@
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:false, ProgressBar:false, ShowTime:true, ID3Information:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, Time:true, Resizable:true, WAV:true, SupportedFormats:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAmp:true, QueueTrack:true, Mute:false, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, Base:true, MP3:false, Skins:true, Dark:true, OpenFile:true, ClearPlaylist:true, 
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, Time:true, Resizable:true, WAV:false, SupportedFormats:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAmp:true, QueueTrack:false, Mute:true, ProgressBar:true, ShowTime:false, ID3Information:true, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, Base:true, MP3:true, Skins:true, Dark:false, OpenFile:true, ClearPlaylist:false, 
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:falseConfiguration:
+
+
+Configuration:volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:true supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:false progressbar:false showtime:true id3information:true showcover:true loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:true
+
+volumecontrol:false skiptrack:true removetrack:true time:true resizable:true wav:true supportedformats:true reorderplaylist:true playlist:true control:true light:false saveandloadplaylist:true gui:true featureamp:true queuetrack:true mute:false progressbar:true showtime:false id3information:true showcover:false loadfolder:true shufflerepeat:true base:true mp3:false skins:true dark:true openfile:true clearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+volumecontrol:true skiptrack:false removetrack:false time:true resizable:true wav:false supportedformats:true reorderplaylist:false playlist:false control:false light:true saveandloadplaylist:false gui:true featureamp:true queuetrack:false mute:true progressbar:true showtime:false id3information:true showcover:false loadfolder:false shufflerepeat:false base:true mp3:true skins:true dark:false openfile:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+product counter:3
+Total time (ms): 914
+Total time (ms): 915 time average (ms): 915.0 number of times performed:1

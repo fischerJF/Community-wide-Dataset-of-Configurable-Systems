@@ -1,0 +1,92 @@
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:false, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:true, TagEditor:false, ShowTime:false, Aac:false, LoadFolder:false, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:true, VolumeControl:true, PlaylistControl:true, RemoveTrack:true, Time:true, Wav:true, ReorderPlaylist:true, Mp3:true, Playlist:true, Light:false, SaveAndLoadPlaylist:true, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:true, FileSupport:true, PlaylistContextMenu:true, Mute:true, ProgressBar:true, TagEditor:true, ShowTime:true, Aac:true, LoadFolder:true, MultiplePlaylists:true, ShowCover:true, PlaylistMenu:true, ShuffleRepeat:true, Base:true, Ogg:true, PlaylistTabs:true, AddPlaylistWrapper:true, Skins:true, Dark:true, ClearPlaylist:true, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:false, ReorderPlaylist:false, Mp3:true, Playlist:false, Light:true, SaveAndLoadPlaylist:false, ChangeListener:false, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:false, TagEditor:false, ShowTime:true, Aac:false, LoadFolder:false, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+cont: 1((( apos os testes))) featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:truemp3:trueplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:trueloadfolder:truemultipleplaylists:trueshowcover:trueplaylistmenu:trueshufflerepeat:trueogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:trueclearplaylist:true
+
+Base()
+ReorderPlaylist.initPlaylist
+ReorderPlaylist.initPlaylist
+cont: 2((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:truemp3:trueplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:trueaac:trueloadfolder:truemultipleplaylists:trueshowcover:trueplaylistmenu:trueshufflerepeat:trueogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:trueclearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:falselight:truesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+Base()
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\Challenge\workspace_IncLing\FeatureAMP3\media\note.mp3
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Base()
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:falselight:truesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.AppGUITest.changeSkinLightTest(AppGUITest.java:798)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:133)
+	at experiment.Challenge.run(Challenge.java:154)
+	at experiment.Challenge.main(Challenge.java:202)
+
+3 java.lang.AssertionError
+4 null
+5 changeSkinLightTest(testset.AppGUITest)
+6 class java.lang.AssertionError
+7 changeSkinLightTest(testset.AppGUITest)
+cont: 3((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:falselight:truesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:3
+Total time (ms): 9981 time average (ms): 9981.0 number of times performed:1

@@ -1,0 +1,2 @@
+"configuration","trace","description"
+"volumecontrol:trueskiptrack:trueremovetrack:truetime:trueresizable:truewav:truesupportedformats:truereorderplaylist:trueplaylist:truecontrol:truelight:falsesaveandloadplaylist:truegui:truefeatureamp:truequeuetrack:truemute:trueprogressbar:trueshowtime:trueid3information:trueshowcover:trueloadfolder:trueshufflerepeat:truebase:truemp3:trueskins:truedark:trueopenfile:trueclearplaylist:true","	at org.junit.Assert.fail(Assert.java:88)","progressBarTest(testset.AppGUITest)"

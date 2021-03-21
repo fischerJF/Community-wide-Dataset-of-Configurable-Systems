@@ -1,0 +1,2 @@
+"configuration","trace","description"
+"featureamp:truebase:truegui:truefilesupport:truevolumecontrol:trueskiptrack:falseremovetrack:falsequeueremove:falsereorderplaylist:falseplaylist:falselight:truesaveandloadplaylist:falsequeuetrack:falsemute:trueprogressbar:trueprogress:trueshowtime:falseplaylistcontrols:falseshowcover:trueloadfolder:falseskiprepeat:falseshufflerepeat:falsewave:truemp3:trueskins:truedark:falseclearplaylist:false","	at org.junit.Assert.fail(Assert.java:86)","volumecontrolTest(testset.AppGUITest)"

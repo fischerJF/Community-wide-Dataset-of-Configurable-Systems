@@ -1,0 +1,442 @@
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:false, ReorderPlaylist:false, Mp3:false, Playlist:false, Light:false, SaveAndLoadPlaylist:false, ChangeListener:false, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:false, TagEditor:false, ShowTime:true, Aac:false, LoadFolder:false, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:false, Base:true, Ogg:true, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:true, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:true, RemoveTrack:true, Time:true, Wav:true, ReorderPlaylist:true, Mp3:false, Playlist:true, Light:false, SaveAndLoadPlaylist:true, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:true, FileSupport:true, PlaylistContextMenu:true, Mute:false, ProgressBar:true, TagEditor:false, ShowTime:false, Aac:true, LoadFolder:true, MultiplePlaylists:true, ShowCover:true, PlaylistMenu:true, ShuffleRepeat:true, Base:true, Ogg:false, PlaylistTabs:true, AddPlaylistWrapper:false, Skins:true, Dark:true, ClearPlaylist:true, 
+SkipTrack:true, VolumeControl:true, PlaylistControl:true, RemoveTrack:true, Time:true, Wav:true, ReorderPlaylist:false, Mp3:true, Playlist:true, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:true, Mute:true, ProgressBar:true, TagEditor:true, ShowTime:false, Aac:false, LoadFolder:true, MultiplePlaylists:false, ShowCover:true, PlaylistMenu:true, ShuffleRepeat:false, Base:true, Ogg:true, PlaylistTabs:true, AddPlaylistWrapper:true, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:false, ReorderPlaylist:false, Mp3:true, Playlist:false, Light:true, SaveAndLoadPlaylist:false, ChangeListener:false, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:false, TagEditor:false, ShowTime:true, Aac:true, LoadFolder:false, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:true, VolumeControl:true, PlaylistControl:true, RemoveTrack:false, Time:true, Wav:false, ReorderPlaylist:true, Mp3:true, Playlist:true, Light:false, SaveAndLoadPlaylist:true, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:true, FileSupport:true, PlaylistContextMenu:true, Mute:false, ProgressBar:true, TagEditor:true, ShowTime:true, Aac:false, LoadFolder:true, MultiplePlaylists:true, ShowCover:false, PlaylistMenu:true, ShuffleRepeat:true, Base:true, Ogg:true, PlaylistTabs:true, AddPlaylistWrapper:true, Skins:true, Dark:true, ClearPlaylist:false, 
+SkipTrack:true, VolumeControl:true, PlaylistControl:true, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:true, Mp3:false, Playlist:true, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:true, ProgressBar:true, TagEditor:false, ShowTime:true, Aac:true, LoadFolder:true, MultiplePlaylists:false, ShowCover:true, PlaylistMenu:false, ShuffleRepeat:true, Base:true, Ogg:false, PlaylistTabs:true, AddPlaylistWrapper:true, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:true, RemoveTrack:true, Time:true, Wav:false, ReorderPlaylist:false, Mp3:true, Playlist:true, Light:true, SaveAndLoadPlaylist:true, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:true, Mute:false, ProgressBar:true, TagEditor:true, ShowTime:true, Aac:false, LoadFolder:true, MultiplePlaylists:false, ShowCover:true, PlaylistMenu:true, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:true, Skins:true, Dark:false, ClearPlaylist:true, 
+SkipTrack:false, VolumeControl:true, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:false, Light:false, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:true, ProgressBar:false, TagEditor:false, ShowTime:true, Aac:true, LoadFolder:false, MultiplePlaylists:false, ShowCover:true, PlaylistMenu:true, ShuffleRepeat:false, Base:true, Ogg:true, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:true, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:false, Light:true, SaveAndLoadPlaylist:false, ChangeListener:false, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:false, TagEditor:false, ShowTime:true, Aac:false, LoadFolder:false, MultiplePlaylists:false, ShowCover:true, PlaylistMenu:true, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:true, VolumeControl:true, PlaylistControl:true, RemoveTrack:true, Time:true, Wav:false, ReorderPlaylist:true, Mp3:false, Playlist:true, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:true, ProgressBar:true, TagEditor:false, ShowTime:false, Aac:false, LoadFolder:true, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:true, ShuffleRepeat:true, Base:true, Ogg:true, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:true, 
+SkipTrack:false, VolumeControl:true, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:true, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:true, FileSupport:true, PlaylistContextMenu:true, Mute:true, ProgressBar:true, TagEditor:true, ShowTime:false, Aac:true, LoadFolder:true, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:true, AddPlaylistWrapper:true, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:true, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:true, Light:true, SaveAndLoadPlaylist:true, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:true, ProgressBar:true, TagEditor:false, ShowTime:false, Aac:false, LoadFolder:true, MultiplePlaylists:true, ShowCover:false, PlaylistMenu:true, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:true, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:false, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:true, TagEditor:false, ShowTime:false, Aac:false, LoadFolder:false, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:true, VolumeControl:false, PlaylistControl:true, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:false, Mp3:false, Playlist:true, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:true, Mute:false, ProgressBar:true, TagEditor:true, ShowTime:false, Aac:false, LoadFolder:true, MultiplePlaylists:true, ShowCover:false, PlaylistMenu:true, ShuffleRepeat:true, Base:true, Ogg:false, PlaylistTabs:true, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, PlaylistControl:true, RemoveTrack:false, Time:true, Wav:true, ReorderPlaylist:true, Mp3:false, Playlist:true, Light:true, SaveAndLoadPlaylist:false, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:true, TagEditor:false, ShowTime:false, Aac:false, LoadFolder:true, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:false, Base:true, Ogg:false, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:false, ClearPlaylist:false, 
+********************************
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:falseplaylist:falselight:falsesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:trueplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:trueclearplaylist:falseConfiguration:
+
+
+cont: 1((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:falseplaylist:falselight:falsesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:trueplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:trueclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:falseprogressbar:truetageditor:falseshowtime:falseaac:trueloadfolder:truemultipleplaylists:trueshowcover:trueplaylistmenu:trueshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:trueclearplaylist:true
+
+cont: 2((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:falseprogressbar:truetageditor:falseshowtime:falseaac:trueloadfolder:truemultipleplaylists:trueshowcover:trueplaylistmenu:trueshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:trueclearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:falseaac:falseloadfolder:truemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+
+Base()
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:falseaac:falseloadfolder:truemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+1 Index: 1, Tab count: 1
+2 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+	at javax.swing.JTabbedPane.checkIndex(Unknown Source)
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source)
+	at featureamp.FeatureAmp.addPlaylistToLayout(FeatureAmp.java:1634)
+	at featureamp.FeatureAmp.addComponents__wrappee__Playlist(FeatureAmp.java:921)
+	at featureamp.FeatureAmp.addComponents(FeatureAmp.java:931)
+	at featureamp.FeatureAmp.launch__wrappee__GUI(FeatureAmp.java:891)
+	at featureamp.FeatureAmp.launch(FeatureAmp.java:905)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.AppGUITest.start(AppGUITest.java:839)
+	at testset.AppGUITest.changeSkinLightTest(AppGUITest.java:796)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.MainTestFeatureAMP3___ToolsFeatureIDE.executeJunitTestCase(MainTestFeatureAMP3___ToolsFeatureIDE.java:134)
+	at experiment.MainTestFeatureAMP3___ToolsFeatureIDE.expRun(MainTestFeatureAMP3___ToolsFeatureIDE.java:174)
+	at experiment.MainTestFeatureAMP3___ToolsFeatureIDE.main(MainTestFeatureAMP3___ToolsFeatureIDE.java:180)
+
+3 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+4 null
+5 changeSkinLightTest(testset.AppGUITest)
+6 class java.lang.IndexOutOfBoundsException
+7 changeSkinLightTest(testset.AppGUITest)
+cont: 3((( apos os testes))) featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:falseaac:falseloadfolder:truemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:falselight:truesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:trueloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+Base()
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+[GUI.FileDialog] addAllowedFileExtensions(aac)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\workspace_IncLing\FeatureAMP3\media\note.mp3
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Base()
+cont: 4((( apos os testes))) 
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:falselight:truesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:trueloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:falsetime:truewav:falsereorderplaylist:truemp3:trueplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:falseprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:trueshowcover:falseplaylistmenu:trueshufflerepeat:trueogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:trueclearplaylist:false
+
+Base()
+ReorderPlaylist.initPlaylist
+ReorderPlaylist.initPlaylist
+cont: 5((( apos os testes))) featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:falsetime:truewav:falsereorderplaylist:truemp3:trueplaylist:truelight:falsesaveandloadplaylist:truechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:falseprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:trueshowcover:falseplaylistmenu:trueshufflerepeat:trueogg:trueplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:trueclearplaylist:false
+Configuration:
+
+
+
+ ----------------------- 
+
+
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:falsetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:truetageditor:falseshowtime:trueaac:trueloadfolder:truemultipleplaylists:falseshowcover:trueplaylistmenu:falseshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+
+Base()
+ReorderPlaylist.initPlaylist
+
+ featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:falsetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:truetageditor:falseshowtime:trueaac:trueloadfolder:truemultipleplaylists:falseshowcover:trueplaylistmenu:falseshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+1 Index: 1, Tab count: 1
+2 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+	at javax.swing.JTabbedPane.checkIndex(Unknown Source)
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source)
+	at featureamp.FeatureAmp.addPlaylistToLayout(FeatureAmp.java:1634)
+	at featureamp.FeatureAmp.addComponents__wrappee__Playlist(FeatureAmp.java:921)
+	at featureamp.FeatureAmp.addComponents(FeatureAmp.java:931)
+	at featureamp.FeatureAmp.launch__wrappee__GUI(FeatureAmp.java:891)
+	at featureamp.FeatureAmp.launch(FeatureAmp.java:905)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.AppGUITest.start(AppGUITest.java:839)
+	at testset.AppGUITest.playWAVTest(AppGUITest.java:219)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.MainTestFeatureAMP3___ToolsFeatureIDE.executeJunitTestCase(MainTestFeatureAMP3___ToolsFeatureIDE.java:134)
+	at experiment.MainTestFeatureAMP3___ToolsFeatureIDE.expRun(MainTestFeatureAMP3___ToolsFeatureIDE.java:174)
+	at experiment.MainTestFeatureAMP3___ToolsFeatureIDE.main(MainTestFeatureAMP3___ToolsFeatureIDE.java:180)
+
+3 java.lang.IndexOutOfBoundsException: Index: 1, Tab count: 1
+4 null
+5 playWAVTest(testset.AppGUITest)
+6 class java.lang.IndexOutOfBoundsException
+7 playWAVTest(testset.AppGUITest)
+cont: 6((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:falsetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:truetageditor:falseshowtime:trueaac:trueloadfolder:truemultipleplaylists:falseshowcover:trueplaylistmenu:falseshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:trueremovetrack:truetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:truechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:falseprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:trueskins:truedark:falseclearplaylist:true
+
+Base()
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\workspace_IncLing\FeatureAMP3\media\discreet.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Playlist.load currentSongIndex = 0
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: media\insight.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: insight.mp3
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: media\long-expected.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: long-expected.mp3
+Playlist.load currentSongIndex = 0
+[RemoveTrack.removeSelectedSongs]
+Base()
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\workspace_IncLing\FeatureAMP3\media\note.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Playlist.load currentSongIndex = 0
+Playlist.load currentSongIndex = 0
+Base()
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\workspace_IncLing\FeatureAMP3\media\discreet.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Playlist.load currentSongIndex = 0
+Playlist.load currentSongIndex = 0
+[Playlist.getNextSong]
+[Base.playSong] Load: long-expected.mp3
+Playlist.load currentSongIndex = 1
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: media\insight.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: insight.mp3
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: media\long-expected.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: long-expected.mp3
+Playlist.load currentSongIndex = 0
+Base()
+[Playlist.getNextSong]
+[Base.getNextSong] NULL
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\workspace_IncLing\FeatureAMP3\media\note.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Playlist.load currentSongIndex = 0
+Playlist.load currentSongIndex = 0
+Base()
+[GUI.FileDialog] addAllowedFileExtensions(.m3u)
+Loading Playlist: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\workspace_IncLing\FeatureAMP3\media\p1.m3u
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Playlist.load currentSongIndex = 0
+Playlist.load currentSongIndex = 0
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: insight.mp3
+Playlist.load currentSongIndex = 0
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: long-expected.mp3
+Playlist.load currentSongIndex = 0
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+Playlist.load currentSongIndex = 0
+Base()
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\workspace_IncLing\FeatureAMP3\media\na_Gangorra.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: Na Gangorra
+[Base.playSong] Load: Na Gangorra
+Playlist.load currentSongIndex = 0
+Playlist.load currentSongIndex = 0
+Base()
+Base()
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\workspace_IncLing\FeatureAMP3\media\discreet.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Playlist.load currentSongIndex = 0
+Playlist.load currentSongIndex = 0
+[Playlist.getNextSong]
+Exception in thread "Timer-15" java.lang.ArrayIndexOutOfBoundsException: 1
+	at javax.swing.DefaultRowSorter.convertRowIndexToModel(Unknown Source)
+	at featureamp.FeatureAmp.getNextSong__wrappee__Playlist(FeatureAmp.java:437)
+	at featureamp.FeatureAmp.getNextSong__wrappee__ShuffleRepeat(FeatureAmp.java:448)
+	at featureamp.FeatureAmp.getNextSong(FeatureAmp.java:480)
+	at featureamp.FeatureAmp.playNextSong(FeatureAmp.java:378)
+	at featureamp.FeatureAmp._onSongEnded(FeatureAmp.java:372)
+	at featureamp.FeatureAmp.timerTick__wrappee__Base(FeatureAmp.java:344)
+	at featureamp.FeatureAmp.timerTick(FeatureAmp.java:360)
+	at featureamp.FeatureAmp.access$0(FeatureAmp.java:355)
+	at featureamp.FeatureAmp$1.run(FeatureAmp.java:329)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: media\insight.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: insight.mp3
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: media\long-expected.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: long-expected.mp3
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+File Loaded: media\note.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(.m3u)
+Save Playlist to: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\workspace_IncLing\FeatureAMP3\media\p1.m3u
+cont: 7((( apos os testes))) featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:trueremovetrack:truetime:truewav:falsereorderplaylist:falsemp3:trueplaylist:truelight:truesaveandloadplaylist:truechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:falseprogressbar:truetageditor:trueshowtime:trueaac:falseloadfolder:truemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:trueskins:truedark:falseclearplaylist:true
+
+
+ ----------------------- 
+
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:falsesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:falsetageditor:falseshowtime:trueaac:trueloadfolder:falsemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:trueclearplaylist:false
+
+cont: 8((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:falsesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:falsetageditor:falseshowtime:trueaac:trueloadfolder:falsemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:trueplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:trueclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:truesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+Base()
+[GUI.FileDialog] addAllowedFileExtensions(wav)
+File Loaded: C:\Users\Fischer_PC\Documents\2019_CSS_Journal\workspace_IncLing\FeatureAMP3\media\alarme.wav
+audioHeader=org.jaudiotagger.audio.generic.GenericAudioHeader
+[Base] notifySongLoaded: alarme.wav
+[Base.playSong] Load: alarme.wav
+cont: 9((( apos os testes))) featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:truesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:falseloadfolder:falsemultipleplaylists:falseshowcover:trueplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:falsereorderplaylist:truemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:trueogg:trueplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:true
+
+
+Configuration:
+cont: 10((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:falsereorderplaylist:truemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:trueshufflerepeat:trueogg:trueplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:falseaac:trueloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:false
+
+cont: 11((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:falseaac:trueloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:falseConfiguration:
+
+
+
+ ----------------------- 
+
+
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:truechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+cont: 12((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:trueplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:truechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:trueprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:falseplaylistmenu:trueshufflerepeat:falseogg:falseplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+cont: 13((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:falselight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:falseplaylistcontrol:trueremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:falseprogressbar:truetageditor:trueshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:falseplaylistmenu:trueshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+cont: 14((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:falseplaylistcontrol:trueremovetrack:falsetime:truewav:truereorderplaylist:falsemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:truemute:falseprogressbar:truetageditor:trueshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:falseplaylistmenu:trueshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:trueremovetrack:falsetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+cont: 15((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:trueremovetrack:falsetime:truewav:truereorderplaylist:truemp3:falseplaylist:truelight:truesaveandloadplaylist:falsechangelistener:truequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:truetageditor:falseshowtime:falseaac:falseloadfolder:truemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:falseplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:15
+[Playlist.getNextSong]
+[Base.playSong] Load: insight.mp3
+Playlist.load currentSongIndex = 1
+[Playlist.getNextSong]
+[Base.playSong] Load: long-expected.mp3
+Playlist.load currentSongIndex = 2
+[Playlist.getNextSong]
+[Base.playSong] Load: 
+Playlist.load currentSongIndex = 3
+[Playlist.getNextSong]
+[Base.getNextSong] NULL

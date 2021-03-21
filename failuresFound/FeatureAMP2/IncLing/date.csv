@@ -1,0 +1,2 @@
+"configuration","trace","description"
+"featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:truelightskin:trueremovetrack:falsetime:truereorderplaylist:falseplaylist:truedarkskin:falsesaveandloadplaylist:falsequeuetrack:trueprogressbar:truemute:trueshowtime:falsecontrolplayist:falseshowcover:falseloadfolder:trueshufflerepeat:falseogg:falsemp3:trueskins:trueclearplaylist:false","	at org.junit.Assert.assertEquals(Assert.java:115)","muteTest(testset.AppGUITest)"

@@ -1,0 +1,294 @@
+SkipTrack:false, VolumeControl:false, LightSkin:false, RemoveTrack:false, Time:true, ReorderPlaylist:false, Playlist:false, DarkSkin:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, QueueTrack:false, ProgressBar:true, Mute:false, ShowTime:false, Player:true, ControlPlayist:false, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, OGG:false, mp3:true, Skins:true, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, LightSkin:true, RemoveTrack:false, Time:true, ReorderPlaylist:false, Playlist:false, DarkSkin:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, QueueTrack:false, ProgressBar:false, Mute:false, ShowTime:true, Player:true, ControlPlayist:false, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, OGG:true, mp3:false, Skins:true, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:true, LightSkin:false, RemoveTrack:true, Time:true, ReorderPlaylist:false, Playlist:true, DarkSkin:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, QueueTrack:true, ProgressBar:true, Mute:true, ShowTime:true, Player:true, ControlPlayist:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, OGG:true, mp3:true, Skins:true, ClearPlaylist:true, 
+SkipTrack:true, VolumeControl:true, LightSkin:true, RemoveTrack:true, Time:true, ReorderPlaylist:true, Playlist:true, DarkSkin:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, QueueTrack:true, ProgressBar:true, Mute:true, ShowTime:false, Player:true, ControlPlayist:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, OGG:true, mp3:false, Skins:true, ClearPlaylist:true, 
+SkipTrack:true, VolumeControl:false, LightSkin:true, RemoveTrack:false, Time:true, ReorderPlaylist:true, Playlist:true, DarkSkin:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, QueueTrack:true, ProgressBar:true, Mute:false, ShowTime:true, Player:true, ControlPlayist:true, ShowCover:true, LoadFolder:true, ShuffleRepeat:true, OGG:false, mp3:true, Skins:true, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:true, LightSkin:false, RemoveTrack:false, Time:true, ReorderPlaylist:false, Playlist:false, DarkSkin:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, QueueTrack:false, ProgressBar:false, Mute:false, ShowTime:true, Player:true, ControlPlayist:false, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, OGG:false, mp3:true, Skins:true, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:true, LightSkin:false, RemoveTrack:false, Time:true, ReorderPlaylist:false, Playlist:true, DarkSkin:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, QueueTrack:true, ProgressBar:true, Mute:true, ShowTime:false, Player:true, ControlPlayist:false, ShowCover:true, LoadFolder:true, ShuffleRepeat:false, OGG:true, mp3:false, Skins:true, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:true, LightSkin:true, RemoveTrack:false, Time:true, ReorderPlaylist:false, Playlist:false, DarkSkin:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, QueueTrack:false, ProgressBar:false, Mute:true, ShowTime:true, Player:true, ControlPlayist:false, ShowCover:false, LoadFolder:false, ShuffleRepeat:false, OGG:false, mp3:true, Skins:true, ClearPlaylist:false, 
+SkipTrack:false, VolumeControl:false, LightSkin:false, RemoveTrack:true, Time:true, ReorderPlaylist:true, Playlist:true, DarkSkin:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, QueueTrack:false, ProgressBar:true, Mute:false, ShowTime:false, Player:true, ControlPlayist:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, OGG:true, mp3:false, Skins:true, ClearPlaylist:true, 
+SkipTrack:true, VolumeControl:false, LightSkin:false, RemoveTrack:true, Time:true, ReorderPlaylist:false, Playlist:true, DarkSkin:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, QueueTrack:false, ProgressBar:true, Mute:false, ShowTime:false, Player:true, ControlPlayist:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, OGG:false, mp3:true, Skins:true, ClearPlaylist:true, 
+SkipTrack:false, VolumeControl:false, LightSkin:true, RemoveTrack:true, Time:true, ReorderPlaylist:false, Playlist:true, DarkSkin:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, QueueTrack:false, ProgressBar:true, Mute:false, ShowTime:false, Player:true, ControlPlayist:true, ShowCover:false, LoadFolder:true, ShuffleRepeat:false, OGG:true, mp3:false, Skins:true, ClearPlaylist:false, 
+Configuration:featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:falselightskin:falseremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:truesaveandloadplaylist:falsequeuetrack:falseprogressbar:truemute:falseshowtime:falsecontrolplayist:falseshowcover:falseloadfolder:falseshufflerepeat:falseogg:falsemp3:trueskins:trueclearplaylist:false
+
+
+cont: 1((( apos os testes))) 
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:falselightskin:falseremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:truesaveandloadplaylist:falsequeuetrack:falseprogressbar:truemute:falseshowtime:falsecontrolplayist:falseshowcover:falseloadfolder:falseshufflerepeat:falseogg:falsemp3:trueskins:trueclearplaylist:false
+
+
+ ----------------------- 
+
+
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:falselightskin:trueremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:falsesaveandloadplaylist:falsequeuetrack:falseprogressbar:falsemute:falseshowtime:truecontrolplayist:falseshowcover:trueloadfolder:falseshufflerepeat:falseogg:truemp3:falseskins:trueclearplaylist:false
+
+Configuration:
+Exception in thread "Timer-1" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1096)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1105)
+	at gui.GUI.updateGui(GUI.java:1132)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+Exception in thread "Timer-2" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1096)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1105)
+	at gui.GUI.updateGui(GUI.java:1132)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+discreet.OGG
+hollow.ogg
+cont: 2((( apos os testes))) featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:falselightskin:trueremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:falsesaveandloadplaylist:falsequeuetrack:falseprogressbar:falsemute:falseshowtime:truecontrolplayist:falseshowcover:trueloadfolder:falseshufflerepeat:falseogg:truemp3:falseskins:trueclearplaylist:false
+
+
+ ----------------------- 
+
+
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:truelightskin:falseremovetrack:truetime:truereorderplaylist:falseplaylist:truedarkskin:truesaveandloadplaylist:truequeuetrack:trueprogressbar:truemute:trueshowtime:truecontrolplayist:trueshowcover:trueloadfolder:trueshufflerepeat:trueogg:truemp3:trueskins:trueclearplaylist:true
+
+
+Configuration:
+Exception in thread "Timer-4" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ProgressBar(GUI.java:1080)
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1094)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1108)
+	at gui.GUI.updateGui(GUI.java:1135)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+cont: 3((( apos os testes))) 
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:truelightskin:falseremovetrack:truetime:truereorderplaylist:falseplaylist:truedarkskin:truesaveandloadplaylist:truequeuetrack:trueprogressbar:truemute:trueshowtime:truecontrolplayist:trueshowcover:trueloadfolder:trueshufflerepeat:trueogg:truemp3:trueskins:trueclearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:trueplayer:trueskiptrack:truevolumecontrol:truelightskin:trueremovetrack:truetime:truereorderplaylist:trueplaylist:truedarkskin:falsesaveandloadplaylist:falsequeuetrack:trueprogressbar:truemute:trueshowtime:falsecontrolplayist:trueshowcover:falseloadfolder:trueshufflerepeat:falseogg:truemp3:falseskins:trueclearplaylist:true
+
+discreet.OGG
+hollow.ogg
+cont: 4((( apos os testes))) featureamp:truegui:trueplayer:trueskiptrack:truevolumecontrol:truelightskin:trueremovetrack:truetime:truereorderplaylist:trueplaylist:truedarkskin:falsesaveandloadplaylist:falsequeuetrack:trueprogressbar:truemute:trueshowtime:falsecontrolplayist:trueshowcover:falseloadfolder:trueshufflerepeat:falseogg:truemp3:falseskins:trueclearplaylist:true
+
+
+ ----------------------- 
+
+
+featureamp:truegui:trueplayer:trueskiptrack:truevolumecontrol:falselightskin:trueremovetrack:falsetime:truereorderplaylist:trueplaylist:truedarkskin:falsesaveandloadplaylist:truequeuetrack:trueprogressbar:truemute:falseshowtime:truecontrolplayist:trueshowcover:trueloadfolder:trueshufflerepeat:trueogg:falsemp3:trueskins:trueclearplaylist:false
+
+
+Configuration:
+Exception in thread "Timer-9" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1096)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1108)
+	at gui.GUI.updateGui(GUI.java:1135)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+note.mp3
+discreet.mp3
+Repeat All
+Linear
+Repeat One
+next!
+Repeat All
+note.mp3
+discreet.mp3
+next!
+discreet.mp3
+insight.mp3
+long-expected.mp3
+note.mp3
+next!
+next!
+discreet.mp3
+hollow.ogg
+Exception in thread "Timer-18" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ShowTime(GUI.java:1063)
+	at gui.GUI.updateGui__wrappee__ProgressBar(GUI.java:1075)
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1094)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1108)
+	at gui.GUI.updateGui(GUI.java:1135)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+cont: 5((( apos os testes))) 
+featureamp:truegui:trueplayer:trueskiptrack:truevolumecontrol:falselightskin:trueremovetrack:falsetime:truereorderplaylist:trueplaylist:truedarkskin:falsesaveandloadplaylist:truequeuetrack:trueprogressbar:truemute:falseshowtime:truecontrolplayist:trueshowcover:trueloadfolder:trueshufflerepeat:trueogg:falsemp3:trueskins:trueclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:truelightskin:falseremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:truesaveandloadplaylist:falsequeuetrack:falseprogressbar:falsemute:falseshowtime:truecontrolplayist:falseshowcover:falseloadfolder:falseshufflerepeat:falseogg:falsemp3:trueskins:trueclearplaylist:false
+
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:truelightskin:falseremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:truesaveandloadplaylist:falsequeuetrack:falseprogressbar:falsemute:falseshowtime:truecontrolplayist:falseshowcover:falseloadfolder:falseshufflerepeat:falseogg:falsemp3:trueskins:trueclearplaylist:falsecont: 6((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:truelightskin:falseremovetrack:falsetime:truereorderplaylist:falseplaylist:truedarkskin:truesaveandloadplaylist:truequeuetrack:trueprogressbar:truemute:trueshowtime:falsecontrolplayist:falseshowcover:trueloadfolder:trueshufflerepeat:falseogg:truemp3:falseskins:trueclearplaylist:false
+
+cont: 7((( apos os testes))) 
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:truelightskin:falseremovetrack:falsetime:truereorderplaylist:falseplaylist:truedarkskin:truesaveandloadplaylist:truequeuetrack:trueprogressbar:truemute:trueshowtime:falsecontrolplayist:falseshowcover:trueloadfolder:trueshufflerepeat:falseogg:truemp3:falseskins:trueclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:truelightskin:trueremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:falsesaveandloadplaylist:falsequeuetrack:falseprogressbar:falsemute:trueshowtime:truecontrolplayist:falseshowcover:falseloadfolder:falseshufflerepeat:falseogg:falsemp3:trueskins:trueclearplaylist:false
+
+note.mp3
+discreet.mp3
+note.mp3
+
+ featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:truelightskin:trueremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:falsesaveandloadplaylist:falsequeuetrack:falseprogressbar:falsemute:trueshowtime:truecontrolplayist:falseshowcover:falseloadfolder:falseshufflerepeat:falseogg:falsemp3:trueskins:trueclearplaylist:false
+1 expected:<[Unm]ute> but was:<[M]ute>
+2 org.junit.ComparisonFailure: expected:<[Unm]ute> but was:<[M]ute>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at testset.AppGUITest.muteTest(AppGUITest.java:237)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:104)
+	at experiment.Challenge.run(Challenge.java:126)
+	at experiment.Challenge.main(Challenge.java:171)
+
+3 org.junit.ComparisonFailure: expected:<[Unm]ute> but was:<[M]ute>
+4 null
+5 muteTest(testset.AppGUITest)
+6 class org.junit.ComparisonFailure
+7 muteTest(testset.AppGUITest)
+note.mp3
+cont: 8((( apos os testes))) featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:truelightskin:trueremovetrack:falsetime:truereorderplaylist:falseplaylist:falsedarkskin:falsesaveandloadplaylist:falsequeuetrack:falseprogressbar:falsemute:trueshowtime:truecontrolplayist:falseshowcover:falseloadfolder:falseshufflerepeat:falseogg:falsemp3:trueskins:trueclearplaylist:false
+Configuration:
+
+
+
+ ----------------------- 
+
+
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:falselightskin:falseremovetrack:truetime:truereorderplaylist:trueplaylist:truedarkskin:truesaveandloadplaylist:truequeuetrack:falseprogressbar:truemute:falseshowtime:falsecontrolplayist:trueshowcover:falseloadfolder:trueshufflerepeat:trueogg:truemp3:falseskins:trueclearplaylist:true
+
+cont: 9((( apos os testes))) 
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:falselightskin:falseremovetrack:truetime:truereorderplaylist:trueplaylist:truedarkskin:truesaveandloadplaylist:truequeuetrack:falseprogressbar:truemute:falseshowtime:falsecontrolplayist:trueshowcover:falseloadfolder:trueshufflerepeat:trueogg:truemp3:falseskins:trueclearplaylist:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:trueplayer:trueskiptrack:truevolumecontrol:falselightskin:falseremovetrack:truetime:truereorderplaylist:falseplaylist:truedarkskin:truesaveandloadplaylist:falsequeuetrack:falseprogressbar:truemute:falseshowtime:falsecontrolplayist:trueshowcover:falseloadfolder:trueshufflerepeat:trueogg:falsemp3:trueskins:trueclearplaylist:true
+
+Exception in thread "Timer-20" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ProgressBar(GUI.java:1083)
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1091)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1108)
+	at gui.GUI.updateGui(GUI.java:1132)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+Exception in thread "Timer-26" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ProgressBar(GUI.java:1083)
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1091)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1108)
+	at gui.GUI.updateGui(GUI.java:1132)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+Exception in thread "Timer-28" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ProgressBar(GUI.java:1080)
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1091)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1108)
+	at gui.GUI.updateGui(GUI.java:1132)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+Exception in thread "Timer-27" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ProgressBar(GUI.java:1080)
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1091)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1108)
+	at gui.GUI.updateGui(GUI.java:1132)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+next!
+Exception in thread "Timer-21" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ProgressBar(GUI.java:1083)
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1091)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1108)
+	at gui.GUI.updateGui(GUI.java:1132)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+Exception in thread "Timer-25" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ProgressBar(GUI.java:1083)
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1091)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1108)
+	at gui.GUI.updateGui(GUI.java:1132)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+featureamp:truegui:trueplayer:trueskiptrack:truevolumecontrol:falselightskin:falseremovetrack:truetime:truereorderplaylist:falseplaylist:truedarkskin:truesaveandloadplaylist:falsequeuetrack:falseprogressbar:truemute:falseshowtime:falsecontrolplayist:trueshowcover:falseloadfolder:trueshufflerepeat:trueogg:falsemp3:trueskins:trueclearplaylist:truecont: 10((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:falselightskin:trueremovetrack:truetime:truereorderplaylist:falseplaylist:truedarkskin:falsesaveandloadplaylist:falsequeuetrack:falseprogressbar:truemute:falseshowtime:falsecontrolplayist:trueshowcover:falseloadfolder:trueshufflerepeat:falseogg:truemp3:falseskins:trueclearplaylist:false
+
+next!
+Exception in thread "Timer-24" java.lang.NullPointerException
+	at gui.GUI.updateGui__wrappee__ProgressBar(GUI.java:1080)
+	at gui.GUI.updateGui__wrappee__ShowCover(GUI.java:1091)
+	at gui.GUI.updateGui__wrappee__Playlist(GUI.java:1108)
+	at gui.GUI.updateGui(GUI.java:1132)
+	at gui.GUI$1.run(GUI.java:281)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+discreet.OGG
+hollow.ogg
+cont: 11((( apos os testes))) featureamp:truegui:trueplayer:trueskiptrack:falsevolumecontrol:falselightskin:trueremovetrack:truetime:truereorderplaylist:falseplaylist:truedarkskin:falsesaveandloadplaylist:falsequeuetrack:falseprogressbar:truemute:falseshowtime:falsecontrolplayist:trueshowcover:falseloadfolder:trueshufflerepeat:falseogg:truemp3:falseskins:trueclearplaylist:false
+
+
+
+ ----------------------- 
+
+
+Contador de produtos:11
+Total time (ms): 69010 time average (s): 69.0169010.0 number of times performed:1
