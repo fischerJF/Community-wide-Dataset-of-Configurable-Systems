@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and mandatory="true" name="FeatureAMP">
+            <feature mandatory="true" name="Base"/>
+            <or mandatory="true" name="Codecs">
+                <feature name="MP3"/>
+                <feature name="AAC"/>
+                <feature name="OGG"/>
+                <feature name="WAV"/>
+                <feature name="YouTube"/>
+            </or>
+            <and name="Playlist">
+                <feature mandatory="true" name="OpenFolder"/>
+                <or mandatory="true" name="PlaylistControls">
+                    <feature name="SkipTrack"/>
+                    <feature name="ShuffleRepeat"/>
+                    <and name="RemoveTrack">
+                        <feature name="ClearPlaylist"/>
+                    </and>
+                    <feature name="Reorder"/>
+                </or>
+                <feature name="SaveAndLoad"/>
+                <feature name="QueueTrack"/>
+                <or name="NiceToHave">
+                    <feature name="MultiplePlaylists"/>
+                    <feature name="RemeberStatus"/>
+                    <feature name="TagEditor"/>
+                </or>
+            </and>
+            <and mandatory="true" name="GUI">
+                <and name="Volume">
+                    <feature name="Mute"/>
+                </and>
+                <or mandatory="true" name="Progress">
+                    <feature name="Titlebar"/>
+                    <and name="Progressbar">
+                        <feature name="JumpPosition"/>
+                    </and>
+                </or>
+                <or name="Metadata">
+                    <feature name="Cover"/>
+                    <feature name="Tracknumber"/>
+                    <feature name="Album"/>
+                </or>
+                <alt mandatory="true" name="Skins">
+                    <feature name="Light"/>
+                    <feature name="Dark"/>
+                    <feature name="OSColors"/>
+                    <feature name="RandomColor"/>
+                </alt>
+            </and>
+        </and>
+    </struct>
+    <constraints>
+        <rule>
+            <imp>
+                <var>Playlist</var>
+                <conj>
+                    <var>Tracknumber</var>
+                    <var>Album</var>
+                </conj>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>Playlist</var>
+                <var>Progressbar</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>RemeberStatus</var>
+                <var>SaveAndLoad</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>TagEditor</var>
+                <conj>
+                    <var>Metadata</var>
+                    <conj>
+                        <var>Tracknumber</var>
+                        <conj>
+                            <var>Album</var>
+                            <var>Cover</var>
+                        </conj>
+                    </conj>
+                </conj>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>SaveAndLoad</var>
+                <var>ClearPlaylist</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>QueueTrack</var>
+                <conj>
+                    <var>ShuffleRepeat</var>
+                    <var>SkipTrack</var>
+                </conj>
+            </imp>
+        </rule>
+    </constraints>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
