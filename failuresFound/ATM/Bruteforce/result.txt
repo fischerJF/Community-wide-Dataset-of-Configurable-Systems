@@ -1,0 +1,1486 @@
+LOGGING:false, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:false, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:false, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:false, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:false, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:false, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:true, DEPOSITING:true, WITHDRAWING:true, BALANCE_INQUIRY:true, ADMIN_CONTROL:true, USER_INTERFACE:true, WITHDRAWING_ALL_VALUES:true, 
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+cont: 1((( apos os testes))) 
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please insert a deposit envelope containing $3,00.
+
+Your envelope has been received.
+NOTE: The money just deposited will not be available until we verify the amount of any enclosed cash and your checks clear.
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+cont: 2((( apos os testes))) 
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please insert a deposit envelope containing $3,00.
+
+Your envelope has been received.
+NOTE: The money just deposited will not be available until we verify the amount of any enclosed cash and your checks clear.
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+cont: 3((( apos os testes))) 
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 4((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 5((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please insert a deposit envelope containing $3,00.
+
+Your envelope has been received.
+NOTE: The money just deposited will not be available until we verify the amount of any enclosed cash and your checks clear.
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+cont: 6((( apos os testes))) 
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please insert a deposit envelope containing $3,00.
+
+Your envelope has been received.
+NOTE: The money just deposited will not be available until we verify the amount of any enclosed cash and your checks clear.
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+cont: 7((( apos os testes))) 
+Configuration:
+
+Balance Information:
+ - Available balance: $1.000,00
+ - Total balance:     $1.200,00
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+cont: 8((( apos os testes))) 
+Configuration:
+
+Balance Information:
+ - Available balance: $1.000,00
+ - Total balance:     $1.200,00
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 9((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+Balance Information:
+ - Available balance: $1.000,00
+ - Total balance:     $1.200,00
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 10((( apos os testes))) 
+Configuration:
+cont: 11((( apos os testes))) 
+Configuration:
+cont: 12((( apos os testes))) 
+Configuration:
+
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please insert a deposit envelope containing $3,00.
+
+Your envelope has been received.
+NOTE: The money just deposited will not be available until we verify the amount of any enclosed cash and your checks clear.
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+Balance Information:
+ - Available balance: $1.000,00
+ - Total balance:     $1.200,00
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please insert a deposit envelope containing $3,00.
+
+Your envelope has been received.
+NOTE: The money just deposited will not be available until we verify the amount of any enclosed cash and your checks clear.
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+Balance Information:
+ - Available balance: $1.000,00
+ - Total balance:     $1.200,00
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+Balance Information:
+ - Available balance: $1.000,00
+ - Total balance:     $1.200,00
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+cont: 13((( apos os testes))) 
+Configuration:
+
+Balance Information:
+ - Available balance: $1.000,00
+ - Total balance:     $1.200,00
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please insert a deposit envelope containing $3,00.
+
+Your envelope has been received.
+NOTE: The money just deposited will not be available until we verify the amount of any enclosed cash and your checks clear.
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+cont: 14((( apos os testes))) 
+Configuration:
+
+Balance Information:
+ - Available balance: $1.000,00
+ - Total balance:     $1.200,00
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please enter a deposit amount in CENTS (or 0 to cancel): 
+Please insert a deposit envelope containing $3,00.
+
+Your envelope has been received.
+NOTE: The money just deposited will not be available until we verify the amount of any enclosed cash and your checks clear.
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:falseWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+cont: 15((( apos os testes))) 
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 16((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 17((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 18((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 19((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 20((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 21((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 22((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+1 Unable to find component using matcher org.fest.swing.core.TypeMatcher[type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+javax.swing.JOptionPane[message='You are connected', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=false]
+  javax.swing.JPanel[name=null]
+    javax.swing.JPanel[name='OptionPane.realBody']
+      javax.swing.JPanel[name='OptionPane.separator']
+      javax.swing.JPanel[name='OptionPane.body']
+        javax.swing.JLabel[name='OptionPane.label', text='You are connected', enabled=true, visible=true, showing=false]
+    javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=false]
+  javax.swing.JPanel[name='OptionPane.buttonArea']
+    javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=false]
+
+2 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher org.fest.swing.core.TypeMatcher[type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+javax.swing.JOptionPane[message='You are connected', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=false]
+  javax.swing.JPanel[name=null]
+    javax.swing.JPanel[name='OptionPane.realBody']
+      javax.swing.JPanel[name='OptionPane.separator']
+      javax.swing.JPanel[name='OptionPane.body']
+        javax.swing.JLabel[name='OptionPane.label', text='You are connected', enabled=true, visible=true, showing=false]
+    javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=false]
+  javax.swing.JPanel[name='OptionPane.buttonArea']
+    javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=false]
+
+	at org.fest.swing.core.BasicComponentFinder.componentNotFound(BasicComponentFinder.java:271)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:260)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:254)
+	at org.fest.swing.core.BasicComponentFinder.findByType(BasicComponentFinder.java:115)
+	at org.fest.swing.fixture.ContainerFixture.findByType(ContainerFixture.java:514)
+	at org.fest.swing.fixture.ContainerFixture.button(ContainerFixture.java:114)
+	at testset.ATMUserInterfaceTest.testToMakeLogging(ATMUserInterfaceTest.java:62)
+	at sun.reflect.GeneratedMethodAccessor58.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:64)
+	at experiment.Challenge.run(Challenge.java:88)
+	at experiment.Challenge.main(Challenge.java:136)
+
+3 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher org.fest.swing.core.TypeMatcher[type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+javax.swing.JOptionPane[message='You are connected', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=false]
+  javax.swing.JPanel[name=null]
+    javax.swing.JPanel[name='OptionPane.realBody']
+      javax.swing.JPanel[name='OptionPane.separator']
+      javax.swing.JPanel[name='OptionPane.body']
+        javax.swing.JLabel[name='OptionPane.label', text='You are connected', enabled=true, visible=true, showing=false]
+    javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=false]
+  javax.swing.JPanel[name='OptionPane.buttonArea']
+    javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=false]
+
+4 null
+5 testToMakeLogging(testset.ATMUserInterfaceTest)
+6 class org.fest.swing.exception.ComponentLookupException
+7 testToMakeLogging(testset.ATMUserInterfaceTest)
+
+ LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+1 Unable to find component using matcher org.fest.swing.core.TypeMatcher[type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+javax.swing.JOptionPane[message='You are connected', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=false]
+  javax.swing.JPanel[name=null]
+    javax.swing.JPanel[name='OptionPane.realBody']
+      javax.swing.JPanel[name='OptionPane.separator']
+      javax.swing.JPanel[name='OptionPane.body']
+        javax.swing.JLabel[name='OptionPane.label', text='You are connected', enabled=true, visible=true, showing=false]
+    javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=false]
+  javax.swing.JPanel[name='OptionPane.buttonArea']
+    javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=false]
+
+2 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher org.fest.swing.core.TypeMatcher[type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+javax.swing.JOptionPane[message='You are connected', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=false]
+  javax.swing.JPanel[name=null]
+    javax.swing.JPanel[name='OptionPane.realBody']
+      javax.swing.JPanel[name='OptionPane.separator']
+      javax.swing.JPanel[name='OptionPane.body']
+        javax.swing.JLabel[name='OptionPane.label', text='You are connected', enabled=true, visible=true, showing=false]
+    javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=false]
+  javax.swing.JPanel[name='OptionPane.buttonArea']
+    javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=false]
+
+	at org.fest.swing.core.BasicComponentFinder.componentNotFound(BasicComponentFinder.java:271)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:260)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:254)
+	at org.fest.swing.core.BasicComponentFinder.findByType(BasicComponentFinder.java:115)
+	at org.fest.swing.fixture.ContainerFixture.findByType(ContainerFixture.java:514)
+	at org.fest.swing.fixture.ContainerFixture.button(ContainerFixture.java:114)
+	at testset.ATMUserInterfaceTest.testToMakeLogout(ATMUserInterfaceTest.java:79)
+	at sun.reflect.GeneratedMethodAccessor61.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:64)
+	at experiment.Challenge.run(Challenge.java:88)
+	at experiment.Challenge.main(Challenge.java:136)
+
+3 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher org.fest.swing.core.TypeMatcher[type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+javax.swing.JOptionPane[message='You are connected', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=false]
+  javax.swing.JPanel[name=null]
+    javax.swing.JPanel[name='OptionPane.realBody']
+      javax.swing.JPanel[name='OptionPane.separator']
+      javax.swing.JPanel[name='OptionPane.body']
+        javax.swing.JLabel[name='OptionPane.label', text='You are connected', enabled=true, visible=true, showing=false]
+    javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=false]
+  javax.swing.JPanel[name='OptionPane.buttonArea']
+    javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=false]
+
+4 null
+5 testToMakeLogout(testset.ATMUserInterfaceTest)
+6 class org.fest.swing.exception.ComponentLookupException
+7 testToMakeLogout(testset.ATMUserInterfaceTest)
+
+ LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+1 Unable to find component using matcher org.fest.swing.core.NameMatcher[name='bt20', type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+atm.ATMUserInterface[name='frame42', title='ATM', enabled=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name=null]
+        javax.swing.JPanel[name=null]
+          javax.swing.JPanel[name=null]
+            javax.swing.JLabel[name=null, text='ATM', enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JLabel[name=null, text='Enter your account number', enabled=true, visible=true, showing=true]
+              javax.swing.JTextField[name='loggin', text='12345', enabled=true, visible=true, showing=true]
+              javax.swing.JLabel[name=null, text='Enter your PIN', enabled=true, visible=true, showing=true]
+              javax.swing.JTextField[name='password', text='54321', enabled=true, visible=true, showing=true]
+              javax.swing.JButton[name='btLogin', text='login', enabled=true, visible=true, showing=true]
+              javax.swing.JButton[name='Logout', text='logout', enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name=null]
+              javax.swing.JButton[name='btWithdraw', text='Withdraw', enabled=true, visible=true, showing=true]
+              javax.swing.JButton[name='btDeposit', text='Deposit', enabled=true, visible=true, showing=true]
+              javax.swing.JButton[name='btLog', text='Log', enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JPanel[name=null]
+                javax.swing.JButton[name='bt20', text='$20', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt40', text='$40', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt60', text='$60', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt80', text='$80', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt100', text='$100', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt200', text='$200', enabled=true, visible=true, showing=false]
+            javax.swing.JPanel[name=null]
+              javax.swing.JTextField[name='jTFDeposit', text='', enabled=true, visible=true, showing=false]
+              javax.swing.JButton[name='btSubmitDeposit', text='submit!', enabled=true, visible=true, showing=false]
+        javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+          javax.swing.JViewport[,1,1,891x382,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+            javax.swing.JTextArea[name='textArea', text='', enabled=true, visible=true, showing=true]
+          javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=382, enabled=true, visible=false, showing=false]
+            javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+          javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=891, enabled=true, visible=false, showing=false]
+            javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+  javax.swing.JDialog[name='dialog41', title='System reports:', enabled=true, modal=true, visible=true, showing=true]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+          javax.swing.JOptionPane[message='You are connected', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JPanel[name='OptionPane.realBody']
+                javax.swing.JPanel[name='OptionPane.separator']
+                javax.swing.JPanel[name='OptionPane.body']
+                  javax.swing.JLabel[name='OptionPane.label', text='You are connected', enabled=true, visible=true, showing=true]
+              javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name='OptionPane.buttonArea']
+              javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=true]
+
+2 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher org.fest.swing.core.NameMatcher[name='bt20', type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+atm.ATMUserInterface[name='frame42', title='ATM', enabled=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name=null]
+        javax.swing.JPanel[name=null]
+          javax.swing.JPanel[name=null]
+            javax.swing.JLabel[name=null, text='ATM', enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JLabel[name=null, text='Enter your account number', enabled=true, visible=true, showing=true]
+              javax.swing.JTextField[name='loggin', text='12345', enabled=true, visible=true, showing=true]
+              javax.swing.JLabel[name=null, text='Enter your PIN', enabled=true, visible=true, showing=true]
+              javax.swing.JTextField[name='password', text='54321', enabled=true, visible=true, showing=true]
+              javax.swing.JButton[name='btLogin', text='login', enabled=true, visible=true, showing=true]
+              javax.swing.JButton[name='Logout', text='logout', enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name=null]
+              javax.swing.JButton[name='btWithdraw', text='Withdraw', enabled=true, visible=true, showing=true]
+              javax.swing.JButton[name='btDeposit', text='Deposit', enabled=true, visible=true, showing=true]
+              javax.swing.JButton[name='btLog', text='Log', enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JPanel[name=null]
+                javax.swing.JButton[name='bt20', text='$20', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt40', text='$40', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt60', text='$60', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt80', text='$80', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt100', text='$100', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt200', text='$200', enabled=true, visible=true, showing=false]
+            javax.swing.JPanel[name=null]
+              javax.swing.JTextField[name='jTFDeposit', text='', enabled=true, visible=true, showing=false]
+              javax.swing.JButton[name='btSubmitDeposit', text='submit!', enabled=true, visible=true, showing=false]
+        javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+          javax.swing.JViewport[,1,1,891x382,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+            javax.swing.JTextArea[name='textArea', text='', enabled=true, visible=true, showing=true]
+          javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=382, enabled=true, visible=false, showing=false]
+            javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+          javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=891, enabled=true, visible=false, showing=false]
+            javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+  javax.swing.JDialog[name='dialog41', title='System reports:', enabled=true, modal=true, visible=true, showing=true]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+          javax.swing.JOptionPane[message='You are connected', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JPanel[name='OptionPane.realBody']
+                javax.swing.JPanel[name='OptionPane.separator']
+                javax.swing.JPanel[name='OptionPane.body']
+                  javax.swing.JLabel[name='OptionPane.label', text='You are connected', enabled=true, visible=true, showing=true]
+              javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name='OptionPane.buttonArea']
+              javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=true]
+
+	at org.fest.swing.core.BasicComponentFinder.componentNotFound(BasicComponentFinder.java:271)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:260)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:254)
+	at org.fest.swing.core.BasicComponentFinder.findByName(BasicComponentFinder.java:191)
+	at org.fest.swing.fixture.ContainerFixture.findByName(ContainerFixture.java:527)
+	at org.fest.swing.fixture.ContainerFixture.button(ContainerFixture.java:124)
+	at testset.ATMUserInterfaceTest.testWhithDraw(ATMUserInterfaceTest.java:102)
+	at sun.reflect.GeneratedMethodAccessor62.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:64)
+	at experiment.Challenge.run(Challenge.java:88)
+	at experiment.Challenge.main(Challenge.java:136)
+
+3 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher org.fest.swing.core.NameMatcher[name='bt20', type=javax.swing.JButton, requireShowing=true].
+
+Component hierarchy:
+atm.ATMUserInterface[name='frame42', title='ATM', enabled=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name=null]
+        javax.swing.JPanel[name=null]
+          javax.swing.JPanel[name=null]
+            javax.swing.JLabel[name=null, text='ATM', enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JLabel[name=null, text='Enter your account number', enabled=true, visible=true, showing=true]
+              javax.swing.JTextField[name='loggin', text='12345', enabled=true, visible=true, showing=true]
+              javax.swing.JLabel[name=null, text='Enter your PIN', enabled=true, visible=true, showing=true]
+              javax.swing.JTextField[name='password', text='54321', enabled=true, visible=true, showing=true]
+              javax.swing.JButton[name='btLogin', text='login', enabled=true, visible=true, showing=true]
+              javax.swing.JButton[name='Logout', text='logout', enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name=null]
+              javax.swing.JButton[name='btWithdraw', text='Withdraw', enabled=true, visible=true, showing=true]
+              javax.swing.JButton[name='btDeposit', text='Deposit', enabled=true, visible=true, showing=true]
+              javax.swing.JButton[name='btLog', text='Log', enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JPanel[name=null]
+                javax.swing.JButton[name='bt20', text='$20', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt40', text='$40', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt60', text='$60', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt80', text='$80', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt100', text='$100', enabled=true, visible=true, showing=false]
+                javax.swing.JButton[name='bt200', text='$200', enabled=true, visible=true, showing=false]
+            javax.swing.JPanel[name=null]
+              javax.swing.JTextField[name='jTFDeposit', text='', enabled=true, visible=true, showing=false]
+              javax.swing.JButton[name='btSubmitDeposit', text='submit!', enabled=true, visible=true, showing=false]
+        javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+          javax.swing.JViewport[,1,1,891x382,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+            javax.swing.JTextArea[name='textArea', text='', enabled=true, visible=true, showing=true]
+          javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=382, enabled=true, visible=false, showing=false]
+            javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+          javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=891, enabled=true, visible=false, showing=false]
+            javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+  javax.swing.JDialog[name='dialog41', title='System reports:', enabled=true, modal=true, visible=true, showing=true]
+    javax.swing.JRootPane[]
+      javax.swing.JPanel[name='null.glassPane']
+      javax.swing.JLayeredPane[]
+        javax.swing.JPanel[name='null.contentPane']
+          javax.swing.JOptionPane[message='You are connected', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+              javax.swing.JPanel[name='OptionPane.realBody']
+                javax.swing.JPanel[name='OptionPane.separator']
+                javax.swing.JPanel[name='OptionPane.body']
+                  javax.swing.JLabel[name='OptionPane.label', text='You are connected', enabled=true, visible=true, showing=true]
+              javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name='OptionPane.buttonArea']
+              javax.swing.JButton[name='OptionPane.button', text='Aceptar', enabled=true, visible=true, showing=true]
+
+4 null
+5 testWhithDraw(testset.ATMUserInterfaceTest)
+6 class org.fest.swing.exception.ComponentLookupException
+7 testWhithDraw(testset.ATMUserInterfaceTest)
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 23((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 24((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 25((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 26((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 27((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 28((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 29((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 30((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 31((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 32((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 33((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 34((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 35((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 36((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+cont: 37((( apos os testes))) 
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 38((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 39((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 40((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+cont: 41((( apos os testes))) 
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 42((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 43((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 44((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 45((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 46((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 47((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 48((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+cont: 49((( apos os testes))) 
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 50((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+cont: 51((( apos os testes))) 
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 52((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 53((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 54((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 55((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 56((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 57((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 58((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 59((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 60((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 61((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 62((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 63((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+cont: 64((( apos os testes))) 
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 65((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 66((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 67((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+cont: 68((( apos os testes))) 
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+cont: 69((( apos os testes))) 
+Configuration:
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 70((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 71((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 72((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 73((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+1 [javax.swing.JOptionPane[message='Thank you! Goodbye!', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=true] - property:'messageType'] expected:<'[Error] Message'> but was:<'[Information] Message'>
+2 org.junit.ComparisonFailure: [javax.swing.JOptionPane[message='Thank you! Goodbye!', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=true] - property:'messageType'] expected:<'[Error] Message'> but was:<'[Information] Message'>
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.fest.assertions.ConstructorInvoker.newInstance(ConstructorInvoker.java:36)
+	at org.fest.assertions.ComparisonFailureFactory.newComparisonFailure(ComparisonFailureFactory.java:60)
+	at org.fest.assertions.ComparisonFailureFactory.comparisonFailure(ComparisonFailureFactory.java:46)
+	at org.fest.assertions.Fail.failWhenNotEqual(Fail.java:76)
+	at org.fest.assertions.Fail.failIfNotEqual(Fail.java:72)
+	at org.fest.assertions.GenericAssert.assertEqualTo(GenericAssert.java:271)
+	at org.fest.assertions.StringAssert.isEqualTo(StringAssert.java:156)
+	at org.fest.swing.driver.JOptionPaneDriver.assertEqualMessageType(JOptionPaneDriver.java:312)
+	at org.fest.swing.driver.JOptionPaneDriver.requireErrorMessage(JOptionPaneDriver.java:270)
+	at org.fest.swing.fixture.JOptionPaneFixture.requireErrorMessage(JOptionPaneFixture.java:229)
+	at testset.ATMUserInterfaceTest.testDepositUserAuthenticatedFalse(ATMUserInterfaceTest.java:232)
+	at sun.reflect.GeneratedMethodAccessor64.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:64)
+	at experiment.Challenge.run(Challenge.java:88)
+	at experiment.Challenge.main(Challenge.java:136)
+
+3 org.junit.ComparisonFailure: [javax.swing.JOptionPane[message='Thank you! Goodbye!', messageType=INFORMATION_MESSAGE, optionType=DEFAULT_OPTION, enabled=true, visible=true, showing=true] - property:'messageType'] expected:<'[Error] Message'> but was:<'[Information] Message'>
+4 null
+5 testDepositUserAuthenticatedFalse(testset.ATMUserInterfaceTest)
+6 class org.junit.ComparisonFailure
+7 testDepositUserAuthenticatedFalse(testset.ATMUserInterfaceTest)
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 74((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 75((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 76((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 77((( apos os testes))) 
+Configuration:
+LOGGING:trueDEPOSITING:falseWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 78((( apos os testes))) 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 79((( apos os testes))) 
+LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:79
+Total time (ms): 7497284 time average (ms): 7497284.0 number of times performed:1

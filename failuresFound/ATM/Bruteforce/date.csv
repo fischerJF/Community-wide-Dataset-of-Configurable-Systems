@@ -1,0 +1,5 @@
+"configuration","trace","description"
+"LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false","","testToMakeLogging(testset.ATMUserInterfaceTest)"
+"LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false","","testToMakeLogout(testset.ATMUserInterfaceTest)"
+"LOGGING:trueDEPOSITING:trueWITHDRAWING:trueBALANCE_INQUIRY:falseADMIN_CONTROL:falseUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:false","","testWhithDraw(testset.ATMUserInterfaceTest)"
+"LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true","	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)","testDepositUserAuthenticatedFalse(testset.ATMUserInterfaceTest)"
