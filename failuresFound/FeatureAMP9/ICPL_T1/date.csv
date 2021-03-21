@@ -1,0 +1,2 @@
+"configuration","trace","description"
+"weichbrodt_featureamp:truegui:truefilesupport:truevolumecontrol:trueskiptrack:trueremovetrack:truereorderplaylist:trueplaylist:truetimedisplay:truelight:falseshuffleskipremove:truesaveandloadplaylist:truequeuetrack:trueprogressbar:truemute:trueshowtime:trueshowcover:trueloadfolder:trueshufflerepeat:trueogg:truemp3:trueskins:truedark:trueclearplaylist:true","	at java.awt.Container.addImpl(Unknown Source)","init__wrappee__GUITest(testset.GUITest)"

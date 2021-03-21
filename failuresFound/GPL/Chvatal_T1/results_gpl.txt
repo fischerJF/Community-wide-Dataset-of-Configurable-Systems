@@ -1,0 +1,193 @@
+BASE:true, DIRECTED:false, UNDIRECTED:true, WEIGHTED:true, SEARCH:true, BFS:true, NUMBER:true, CONNECTED:true, STRONGLYCONNECTED:false, CYCLE:false, MSTPRIM:true, MSTKRUSKAL:false, SHORTEST:false, 
+BASE:true, DIRECTED:true, UNDIRECTED:false, WEIGHTED:true, SEARCH:true, BFS:false, NUMBER:false, CONNECTED:false, STRONGLYCONNECTED:true, CYCLE:true, MSTPRIM:false, MSTKRUSKAL:false, SHORTEST:true, 
+BASE:false, DIRECTED:false, UNDIRECTED:false, WEIGHTED:false, SEARCH:false, BFS:false, NUMBER:false, CONNECTED:false, STRONGLYCONNECTED:false, CYCLE:false, MSTPRIM:false, MSTKRUSKAL:false, SHORTEST:false, 
+BASE:true, DIRECTED:false, UNDIRECTED:true, WEIGHTED:true, SEARCH:false, BFS:false, NUMBER:false, CONNECTED:false, STRONGLYCONNECTED:false, CYCLE:false, MSTPRIM:false, MSTKRUSKAL:true, SHORTEST:false, 
+Configuration:
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:84)
+	at experiment.Challenge.run(Challenge.java:109)
+	at experiment.Challenge.main(Challenge.java:156)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 1((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+1
+1
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 2((( apos os testes)))  WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+Configuration:
+
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 3((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:3
+Total time (ms): 872 time average (s): 0.872 number of times performed:1

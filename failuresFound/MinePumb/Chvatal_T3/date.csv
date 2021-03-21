@@ -1,0 +1,7 @@
+"configuration","trace","description"
+"base:truehighwatersensor:truelowwatersensor:falsemethanequery:truemethanealarm:falsestopcommand:truestartcommand:false","	at org.junit.Assert.fail(Assert.java:86)","startTest(testset.PL_Interface_implTest)"
+"base:truehighwatersensor:truelowwatersensor:falsemethanequery:truemethanealarm:falsestopcommand:truestartcommand:false","	at org.junit.Assert.fail(Assert.java:86)","test_3(testset.PL_Interface_implTest)"
+"base:truehighwatersensor:truelowwatersensor:falsemethanequery:truemethanealarm:falsestopcommand:truestartcommand:false","	at org.junit.Assert.fail(Assert.java:86)","test_4(testset.PL_Interface_implTest)"
+"base:truehighwatersensor:truelowwatersensor:falsemethanequery:falsemethanealarm:falsestopcommand:falsestartcommand:false","	at org.junit.Assert.fail(Assert.java:86)","startTest(testset.PL_Interface_implTest)"
+"base:truehighwatersensor:truelowwatersensor:falsemethanequery:falsemethanealarm:falsestopcommand:falsestartcommand:false","	at org.junit.Assert.fail(Assert.java:86)","test_3(testset.PL_Interface_implTest)"
+"base:truehighwatersensor:truelowwatersensor:falsemethanequery:falsemethanealarm:falsestopcommand:falsestartcommand:false","	at org.junit.Assert.fail(Assert.java:86)","test_4(testset.PL_Interface_implTest)"

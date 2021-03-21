@@ -1,0 +1,222 @@
+BASE:true, TOKENPOSONLY:false, COUNTLINES:false, IMAGEPARTS:false, BLOCKCOMMENTS:false, LINECOMMENTS:false, 
+BASE:true, TOKENPOSONLY:false, COUNTLINES:true, IMAGEPARTS:false, BLOCKCOMMENTS:true, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:false, IMAGEPARTS:true, BLOCKCOMMENTS:true, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:true, IMAGEPARTS:true, BLOCKCOMMENTS:false, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:false, COUNTLINES:true, IMAGEPARTS:true, BLOCKCOMMENTS:true, LINECOMMENTS:false, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:false, IMAGEPARTS:false, BLOCKCOMMENTS:false, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:false, IMAGEPARTS:false, BLOCKCOMMENTS:true, LINECOMMENTS:false, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:true, IMAGEPARTS:false, BLOCKCOMMENTS:false, LINECOMMENTS:false, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:false, IMAGEPARTS:true, BLOCKCOMMENTS:false, LINECOMMENTS:false, 
+BASE:true, TOKENPOSONLY:false, COUNTLINES:false, IMAGEPARTS:true, BLOCKCOMMENTS:false, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:false, COUNTLINES:false, IMAGEPARTS:false, BLOCKCOMMENTS:true, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:false, COUNTLINES:true, IMAGEPARTS:false, BLOCKCOMMENTS:false, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:true, IMAGEPARTS:false, BLOCKCOMMENTS:true, LINECOMMENTS:false, 
+BASE:true, TOKENPOSONLY:false, COUNTLINES:false, IMAGEPARTS:true, BLOCKCOMMENTS:true, LINECOMMENTS:false, 
+BASE:true, TOKENPOSONLY:false, COUNTLINES:true, IMAGEPARTS:true, BLOCKCOMMENTS:false, LINECOMMENTS:false, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:true, IMAGEPARTS:true, BLOCKCOMMENTS:true, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:false, COUNTLINES:true, IMAGEPARTS:true, BLOCKCOMMENTS:true, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:true, IMAGEPARTS:false, BLOCKCOMMENTS:true, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:true, IMAGEPARTS:true, BLOCKCOMMENTS:true, LINECOMMENTS:false, 
+BASE:true, TOKENPOSONLY:false, COUNTLINES:true, IMAGEPARTS:false, BLOCKCOMMENTS:true, LINECOMMENTS:false, 
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:false BLOCKCOMMENTS:false BASE:true
+
+Configuration:
+cont: 1((( apos os testes))) 
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:false BLOCKCOMMENTS:false BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:false LINECOMMENTS:true IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+Configuration:
+cont: 2((( apos os testes))) 
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:true IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+cont: 3((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:true LINECOMMENTS:true IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+cont: 4((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+cont: 5((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:true LINECOMMENTS:true IMAGEPARTS:false COUNTLINES:false BLOCKCOMMENTS:false BASE:true
+
+cont: 6((( apos os testes))) 
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:false BLOCKCOMMENTS:false BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+cont: 7((( apos os testes))) 
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+cont: 8((( apos os testes))) 
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:false BASE:true
+
+cont: 9((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:false BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:false LINECOMMENTS:true IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:false BASE:true
+
+cont: 10((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:false BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:false LINECOMMENTS:true IMAGEPARTS:false COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+cont: 11((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:false LINECOMMENTS:true IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+cont: 12((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+cont: 13((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+cont: 14((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+cont: 15((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:true LINECOMMENTS:true IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+cont: 16((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:false LINECOMMENTS:true IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+cont: 17((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:true LINECOMMENTS:true IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+cont: 18((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+cont: 19((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+cont: 20((( apos os testes))) 
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:20
+Total time (ms): 1943 time average (s): 1.943 number of times performed:1

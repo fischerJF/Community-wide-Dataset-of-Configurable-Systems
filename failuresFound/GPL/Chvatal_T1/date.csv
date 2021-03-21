@@ -1,0 +1,2 @@
+"configuration","trace","description"
+" WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true","	at org.junit.Assert.fail(Assert.java:86)","runMSTPRIM_Test(tests.GraphTest)"

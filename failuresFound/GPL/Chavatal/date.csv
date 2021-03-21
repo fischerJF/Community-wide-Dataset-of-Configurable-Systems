@@ -1,0 +1,3 @@
+"configuration","trace","description"
+" WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true","	at org.junit.Assert.fail(Assert.java:86)","runMSTPRIM_Test(tests.GraphTest)"
+" WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true","	at org.junit.Assert.fail(Assert.java:86)","run_STRONGLYCONNECTEDTest(tests.GraphTest)"

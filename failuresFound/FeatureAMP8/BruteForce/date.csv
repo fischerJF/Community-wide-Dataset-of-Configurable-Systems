@@ -1,0 +1,5 @@
+configuration,trace,description
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:falsewav:truereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:falseshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:falseclearplaylist:falseshowcover:false,"	at org.fest.swing.exception.ActionFailedException.actionFailure(ActionFailedException.java:33)
+",playOGGTest(testset.ApplicationGUITest)
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:falsewav:truereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:falseshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:falseclearplaylist:falseshowcover:false,"	at org.fest.swing.exception.ActionFailedException.actionFailure(ActionFailedException.java:33)
+",stopTest(testset.ApplicationGUITest)

@@ -1,0 +1,151 @@
+Logging:false, Paycard:true, MaximumRecord:false, LockOut:false, Logging:false, Paycard:true, MaximumRecord:false, LockOut:true, Logging:true, Paycard:true, MaximumRecord:true, LockOut:false, Logging:true, Paycard:true, MaximumRecord:true, LockOut:true, Logging:true, Paycard:true, MaximumRecord:false, LockOut:false, ********************************
+paycard:truelogging:falsemaximumrecord:falselockout:false
+
+Configuration:
+java.awt.Dimension[width=200,height=10]
+cont: 1((( apos os testes))) 
+paycard:truelogging:falsemaximumrecord:falselockout:falseConfiguration:
+
+
+
+ ----------------------- 
+
+
+paycard:truelogging:falsemaximumrecord:falselockout:true
+
+java.awt.Dimension[width=200,height=10]
+
+ paycard:truelogging:falsemaximumrecord:falselockout:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PaycardUserInterfaceTest.checkNotvalidTest(PaycardUserInterfaceTest.java:108)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.MainTestPaycard___ToolsFeatureIDE.executeJunitTestCase(MainTestPaycard___ToolsFeatureIDE.java:48)
+	at experiment.MainTestPaycard___ToolsFeatureIDE.expRun(MainTestPaycard___ToolsFeatureIDE.java:92)
+	at experiment.MainTestPaycard___ToolsFeatureIDE.main(MainTestPaycard___ToolsFeatureIDE.java:98)
+
+3 java.lang.AssertionError
+4 null
+5 checkNotvalidTest(testset.PaycardUserInterfaceTest)
+6 class java.lang.AssertionError
+7 checkNotvalidTest(testset.PaycardUserInterfaceTest)
+cont: 2((( apos os testes))) paycard:truelogging:falsemaximumrecord:falselockout:true
+
+
+ ----------------------- 
+
+
+paycard:truelogging:truemaximumrecord:truelockout:false
+
+
+Configuration:
+java.awt.Dimension[width=200,height=10]
+cont: 3((( apos os testes))) paycard:truelogging:truemaximumrecord:truelockout:false
+
+
+ ----------------------- 
+
+
+
+Configuration:
+paycard:truelogging:truemaximumrecord:truelockout:true
+
+java.awt.Dimension[width=200,height=10]
+
+ paycard:truelogging:truemaximumrecord:truelockout:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PaycardUserInterfaceTest.checkNotvalidTest(PaycardUserInterfaceTest.java:108)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.MainTestPaycard___ToolsFeatureIDE.executeJunitTestCase(MainTestPaycard___ToolsFeatureIDE.java:48)
+	at experiment.MainTestPaycard___ToolsFeatureIDE.expRun(MainTestPaycard___ToolsFeatureIDE.java:92)
+	at experiment.MainTestPaycard___ToolsFeatureIDE.main(MainTestPaycard___ToolsFeatureIDE.java:98)
+
+3 java.lang.AssertionError
+4 null
+5 checkNotvalidTest(testset.PaycardUserInterfaceTest)
+6 class java.lang.AssertionError
+7 checkNotvalidTest(testset.PaycardUserInterfaceTest)
+cont: 4((( apos os testes))) paycard:truelogging:truemaximumrecord:truelockout:true
+
+
+
+ ----------------------- 
+
+
+Configuration:
+paycard:truelogging:truemaximumrecord:falselockout:false
+
+java.awt.Dimension[width=200,height=10]
+cont: 5((( apos os testes))) paycard:truelogging:truemaximumrecord:falselockout:false
+
+
+
+ ----------------------- 
+
+
+Contador de produtos:5

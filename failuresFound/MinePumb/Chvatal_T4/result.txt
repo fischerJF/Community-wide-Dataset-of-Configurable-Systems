@@ -1,0 +1,1028 @@
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:true, methaneAlarm:true, stopCommand:false, startCommand:true, 
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:false, 
+Base:true, highWaterSensor:false, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:false, methaneAlarm:false, stopCommand:true, startCommand:true, 
+Base:true, highWaterSensor:false, lowWaterSensor:true, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:true, 
+Base:true, highWaterSensor:true, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:true, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:true, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:true, 
+Base:true, highWaterSensor:false, lowWaterSensor:true, methaneQuery:false, methaneAlarm:false, stopCommand:true, startCommand:false, 
+Base:true, highWaterSensor:false, lowWaterSensor:true, methaneQuery:true, methaneAlarm:false, stopCommand:true, startCommand:false, 
+Base:true, highWaterSensor:false, lowWaterSensor:true, methaneQuery:false, methaneAlarm:true, stopCommand:true, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:false, methaneAlarm:true, stopCommand:false, startCommand:true, 
+Base:true, highWaterSensor:true, lowWaterSensor:false, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:false, 
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:true, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:false, methaneQuery:false, methaneAlarm:true, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:false, stopCommand:false, startCommand:true, 
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:true, methaneAlarm:false, stopCommand:true, startCommand:true, 
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:true, stopCommand:true, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:false, methaneQuery:true, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:true, 
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:true, startCommand:true, 
+Base:true, highWaterSensor:false, lowWaterSensor:true, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:true, stopCommand:true, startCommand:true, 
+Base:true, highWaterSensor:false, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, 
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:true, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:false, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, 
+Base:true, highWaterSensor:false, lowWaterSensor:true, methaneQuery:true, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:true, methaneAlarm:true, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:false, lowWaterSensor:true, methaneQuery:false, methaneAlarm:true, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:false, stopCommand:true, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:false, methaneQuery:false, methaneAlarm:true, stopCommand:true, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Configuration:base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+
+ test1 test2
+cont: 1((( apos os testes))) 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:true	 methanealarm:true	 stopcommand:false	 startcommand:true
+
+
+ test1 test2
+cont: 2((( apos os testes))) 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:true	 methanealarm:true	 stopcommand:false	 startcommand:true
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:false
+
+
+ test1 test2
+cont: 3((( apos os testes))) 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:false
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 4((( apos os testes))) 
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+Configuration:
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 5((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:false	 methanealarm:false	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 6((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:false	 methanealarm:false	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:true
+
+
+ test1 test2
+cont: 7((( apos os testes))) 
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:true
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:true	 startcommand:false
+
+
+
+ base:truehighwatersensor:truelowwatersensor:falsemethanequery:falsemethanealarm:falsestopcommand:truestartcommand:false
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PL_Interface_implTest.startTest(PL_Interface_implTest.java:147)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:51)
+	at experiment.Challenge.run(Challenge.java:73)
+	at experiment.Challenge.main(Challenge.java:117)
+
+3 java.lang.AssertionError
+4 null
+5 startTest(testset.PL_Interface_implTest)
+6 class java.lang.AssertionError
+7 startTest(testset.PL_Interface_implTest)
+ test1 test2
+
+ base:truehighwatersensor:truelowwatersensor:falsemethanequery:falsemethanealarm:falsestopcommand:truestartcommand:false
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PL_Interface_implTest.test_3(PL_Interface_implTest.java:204)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:51)
+	at experiment.Challenge.run(Challenge.java:73)
+	at experiment.Challenge.main(Challenge.java:117)
+
+3 java.lang.AssertionError
+4 null
+5 test_3(testset.PL_Interface_implTest)
+6 class java.lang.AssertionError
+7 test_3(testset.PL_Interface_implTest)
+
+ base:truehighwatersensor:truelowwatersensor:falsemethanequery:falsemethanealarm:falsestopcommand:truestartcommand:false
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PL_Interface_implTest.test_4(PL_Interface_implTest.java:221)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:51)
+	at experiment.Challenge.run(Challenge.java:73)
+	at experiment.Challenge.main(Challenge.java:117)
+
+3 java.lang.AssertionError
+4 null
+5 test_4(testset.PL_Interface_implTest)
+6 class java.lang.AssertionError
+7 test_4(testset.PL_Interface_implTest)
+cont: 8((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:true	 startcommand:false
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:falsecont: 9((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Configuration:base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:true	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+
+ test1 test2
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:true	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:true
+
+cont: 10((( apos os testes))) 
+Configuration:
+
+
+ base:truehighwatersensor:truelowwatersensor:falsemethanequery:falsemethanealarm:falsestopcommand:falsestartcommand:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PL_Interface_implTest.startTest(PL_Interface_implTest.java:147)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:51)
+	at experiment.Challenge.run(Challenge.java:73)
+	at experiment.Challenge.main(Challenge.java:117)
+
+3 java.lang.AssertionError
+4 null
+5 startTest(testset.PL_Interface_implTest)
+6 class java.lang.AssertionError
+7 startTest(testset.PL_Interface_implTest)
+ test1 test2
+
+ base:truehighwatersensor:truelowwatersensor:falsemethanequery:falsemethanealarm:falsestopcommand:falsestartcommand:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PL_Interface_implTest.test_3(PL_Interface_implTest.java:204)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:51)
+	at experiment.Challenge.run(Challenge.java:73)
+	at experiment.Challenge.main(Challenge.java:117)
+
+3 java.lang.AssertionError
+4 null
+5 test_3(testset.PL_Interface_implTest)
+6 class java.lang.AssertionError
+7 test_3(testset.PL_Interface_implTest)
+
+ base:truehighwatersensor:truelowwatersensor:falsemethanequery:falsemethanealarm:falsestopcommand:falsestartcommand:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PL_Interface_implTest.test_4(PL_Interface_implTest.java:221)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:51)
+	at experiment.Challenge.run(Challenge.java:73)
+	at experiment.Challenge.main(Challenge.java:117)
+
+3 java.lang.AssertionError
+4 null
+5 test_4(testset.PL_Interface_implTest)
+6 class java.lang.AssertionError
+7 test_4(testset.PL_Interface_implTest)
+cont: 11((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:true
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:false	 methanealarm:false	 stopcommand:true	 startcommand:false
+
+
+ test1 test2
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:false	 methanealarm:false	 stopcommand:true	 startcommand:false
+
+
+ ----------------------- 
+
+
+cont: 12((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:true	 methanealarm:false	 stopcommand:true	 startcommand:false
+
+
+ test1 test2
+cont: 13((( apos os testes))) 
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:true	 methanealarm:false	 stopcommand:true	 startcommand:false
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:false	 methanealarm:true	 stopcommand:true	 startcommand:false
+
+
+ test1 test2
+cont: 14((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:false	 methanealarm:true	 stopcommand:true	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:false	 methanealarm:true	 stopcommand:false	 startcommand:true
+
+
+ test1 test2
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:false	 methanealarm:true	 stopcommand:false	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:false
+
+cont: 15((( apos os testes))) 
+Configuration:
+
+ test1 test2
+cont: 16((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:true	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 17((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:true	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:false	 methanealarm:true	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 18((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:false	 methanealarm:true	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:false	 stopcommand:false	 startcommand:true
+
+
+ test1 test2
+cont: 19((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:false	 stopcommand:false	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:true	 methanealarm:false	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 20((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:true	 methanealarm:false	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:true	 stopcommand:true	 startcommand:false
+
+
+ test1 test2
+cont: 21((( apos os testes))) base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:true	 stopcommand:true	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:true	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+Configuration:
+
+
+ base:truehighwatersensor:truelowwatersensor:falsemethanequery:truemethanealarm:falsestopcommand:falsestartcommand:false
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PL_Interface_implTest.startTest(PL_Interface_implTest.java:147)
+	at sun.reflect.GeneratedMethodAccessor32.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:51)
+	at experiment.Challenge.run(Challenge.java:73)
+	at experiment.Challenge.main(Challenge.java:117)
+
+3 java.lang.AssertionError
+4 null
+5 startTest(testset.PL_Interface_implTest)
+6 class java.lang.AssertionError
+7 startTest(testset.PL_Interface_implTest)
+ test1 test2
+
+ base:truehighwatersensor:truelowwatersensor:falsemethanequery:truemethanealarm:falsestopcommand:falsestartcommand:false
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PL_Interface_implTest.test_3(PL_Interface_implTest.java:204)
+	at sun.reflect.GeneratedMethodAccessor36.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:51)
+	at experiment.Challenge.run(Challenge.java:73)
+	at experiment.Challenge.main(Challenge.java:117)
+
+3 java.lang.AssertionError
+4 null
+5 test_3(testset.PL_Interface_implTest)
+6 class java.lang.AssertionError
+7 test_3(testset.PL_Interface_implTest)
+
+ base:truehighwatersensor:truelowwatersensor:falsemethanequery:truemethanealarm:falsestopcommand:falsestartcommand:false
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PL_Interface_implTest.test_4(PL_Interface_implTest.java:221)
+	at sun.reflect.GeneratedMethodAccessor37.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:51)
+	at experiment.Challenge.run(Challenge.java:73)
+	at experiment.Challenge.main(Challenge.java:117)
+
+3 java.lang.AssertionError
+4 null
+5 test_4(testset.PL_Interface_implTest)
+6 class java.lang.AssertionError
+7 test_4(testset.PL_Interface_implTest)
+cont: 22((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:true	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:true
+
+
+ test1 test2
+cont: 23((( apos os testes))) 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:true
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:true	 startcommand:truecont: 24((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 25((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 26((( apos os testes))) 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:true	 startcommand:false
+
+cont: 27((( apos os testes))) 
+Configuration:
+
+ test1 test2
+cont: 28((( apos os testes))) 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:true	 startcommand:false
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 29((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 30((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:true	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 31((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:true	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:true	 methanealarm:true	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 32((( apos os testes))) 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:true	 methanealarm:true	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:false	 methanealarm:true	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 33((( apos os testes))) base:true 	 highwatersensor:false	 lowwatersensor:true	 methanequery:false	 methanealarm:true	 stopcommand:false	 startcommand:false
+
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:false	 stopcommand:true	 startcommand:false
+
+
+ test1 test2
+cont: 34((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:false	 stopcommand:true	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:false	 methanealarm:true	 stopcommand:true	 startcommand:false
+
+Configuration:
+
+ test1 test2
+cont: 35((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:false	 methanealarm:true	 stopcommand:true	 startcommand:false
+
+
+ ----------------------- 
+
+
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+
+ base:truehighwatersensor:truelowwatersensor:falsemethanequery:falsemethanealarm:falsestopcommand:falsestartcommand:false
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PL_Interface_implTest.startTest(PL_Interface_implTest.java:147)
+	at sun.reflect.GeneratedMethodAccessor32.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:51)
+	at experiment.Challenge.run(Challenge.java:73)
+	at experiment.Challenge.main(Challenge.java:117)
+
+3 java.lang.AssertionError
+4 null
+5 startTest(testset.PL_Interface_implTest)
+6 class java.lang.AssertionError
+7 startTest(testset.PL_Interface_implTest)
+ test1 test2
+
+ base:truehighwatersensor:truelowwatersensor:falsemethanequery:falsemethanealarm:falsestopcommand:falsestartcommand:false
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PL_Interface_implTest.test_3(PL_Interface_implTest.java:204)
+	at sun.reflect.GeneratedMethodAccessor36.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:51)
+	at experiment.Challenge.run(Challenge.java:73)
+	at experiment.Challenge.main(Challenge.java:117)
+
+3 java.lang.AssertionError
+4 null
+5 test_3(testset.PL_Interface_implTest)
+6 class java.lang.AssertionError
+7 test_3(testset.PL_Interface_implTest)
+
+ base:truehighwatersensor:truelowwatersensor:falsemethanequery:falsemethanealarm:falsestopcommand:falsestartcommand:false
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.PL_Interface_implTest.test_4(PL_Interface_implTest.java:221)
+	at sun.reflect.GeneratedMethodAccessor37.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:51)
+	at experiment.Challenge.run(Challenge.java:73)
+	at experiment.Challenge.main(Challenge.java:117)
+
+3 java.lang.AssertionError
+4 null
+5 test_4(testset.PL_Interface_implTest)
+6 class java.lang.AssertionError
+7 test_4(testset.PL_Interface_implTest)
+cont: 36((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:36
+Total time (ms): 2114 time average (ms): 2114.0 number of times performed:1

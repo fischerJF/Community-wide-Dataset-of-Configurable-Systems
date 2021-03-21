@@ -1,0 +1,8634 @@
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 1((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 2((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 3((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 4((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 5((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 6((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:truecont: 7((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 8((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+comp: 0
+visited: false
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 9((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 10((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+Printing vertex: 
+null
+comp: 0
+visited: false
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 11((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+Printing vertex: 
+null
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 12((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+comp: 0
+VertexNumber: 0
+visited: false
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 13((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 14((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+Printing vertex: 
+null
+comp: 0
+VertexNumber: 0
+visited: false
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 15((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+Printing vertex: 
+null
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+cont: 16((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+1
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.run_STRONGLYCONNECTEDTest(GraphTest.java:354)
+	at sun.reflect.GeneratedMethodAccessor35.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 run_STRONGLYCONNECTEDTest(tests.GraphTest)
+6 class java.lang.AssertionError
+7 run_STRONGLYCONNECTEDTest(tests.GraphTest)
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 17((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+1
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 18((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+1
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.run_STRONGLYCONNECTEDTest(GraphTest.java:354)
+	at sun.reflect.GeneratedMethodAccessor35.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 run_STRONGLYCONNECTEDTest(tests.GraphTest)
+6 class java.lang.AssertionError
+7 run_STRONGLYCONNECTEDTest(tests.GraphTest)
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:truecont: 19((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+1
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 20((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 21((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 22((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runCYCLE_Test(GraphTest.java:326)
+	at sun.reflect.GeneratedMethodAccessor22.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runCYCLE_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runCYCLE_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 23((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runCYCLE_Test(GraphTest.java:326)
+	at sun.reflect.GeneratedMethodAccessor22.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runCYCLE_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runCYCLE_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 24((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 25((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 26((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runCYCLE_Test(GraphTest.java:326)
+	at sun.reflect.GeneratedMethodAccessor22.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runCYCLE_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runCYCLE_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 27((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runCYCLE_Test(GraphTest.java:326)
+	at sun.reflect.GeneratedMethodAccessor22.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runCYCLE_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runCYCLE_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 28((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+VertexCycle: 0
+comp: 0
+visited: false
+Connected to: 
+
+
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 29((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runCYCLE_Test(GraphTest.java:326)
+	at sun.reflect.GeneratedMethodAccessor22.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runCYCLE_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runCYCLE_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 30((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Connected to: 
+
+
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 31((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runCYCLE_Test(GraphTest.java:326)
+	at sun.reflect.GeneratedMethodAccessor22.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runCYCLE_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runCYCLE_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 32((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+1
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.run_STRONGLYCONNECTEDTest(GraphTest.java:354)
+	at sun.reflect.GeneratedMethodAccessor35.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 run_STRONGLYCONNECTEDTest(tests.GraphTest)
+6 class java.lang.AssertionError
+7 run_STRONGLYCONNECTEDTest(tests.GraphTest)
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 33((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+1
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:truecont: 34((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+1
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.run_STRONGLYCONNECTEDTest(GraphTest.java:354)
+	at sun.reflect.GeneratedMethodAccessor35.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 run_STRONGLYCONNECTEDTest(tests.GraphTest)
+6 class java.lang.AssertionError
+7 run_STRONGLYCONNECTEDTest(tests.GraphTest)
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 35((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+1
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}cont: 36((( apos os testes))) 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 37((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:truecont: 38((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 39((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 40((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:truecont: 41((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 42((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 43((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 44((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 45((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 46((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 47((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 48((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.runMSTPRIM_Test(GraphTest.java:294)
+	at sun.reflect.GeneratedMethodAccessor25.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.BaselineAdapter.makeProduct(BaselineAdapter.java:140)
+	at experiment.BaselineAdapter.baselineRun(BaselineAdapter.java:94)
+	at experiment.Main.searchTime(Main.java:23)
+	at experiment.Main.main(Main.java:6)
+
+3 java.lang.AssertionError
+4 null
+5 runMSTPRIM_Test(tests.GraphTest)
+6 class java.lang.AssertionError
+7 runMSTPRIM_Test(tests.GraphTest)
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 49((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 50((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 51((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 52((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 53((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 54((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+Rep: null 
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 55((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+Printing vertex: 
+null
+Rep: null 
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 56((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+Rep: null 
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 57((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+Printing vertex: 
+null
+Rep: null 
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 58((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+Printing vertex: 
+v0
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v1
+v2
+v4
+v6
+v7
+v44
+v59
+v91
+
+
+Printing vertex: 
+v1
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v8
+v9
+v16
+v19
+v21
+v33
+v39
+v48
+
+
+Printing vertex: 
+v2
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v3
+v11
+v13
+v17
+v20
+v22
+v32
+v50
+v60
+v67
+
+
+Printing vertex: 
+v3
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v5
+v12
+v14
+v15
+v28
+v40
+v45
+v46
+v56
+v88
+
+
+Printing vertex: 
+v4
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+Connected to: 
+v29
+v31
+v34
+v47
+v66
+
+
+Printing vertex: 
+v5
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+Connected to: 
+v10
+v26
+v27
+v38
+
+
+Printing vertex: 
+v6
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v36
+v51
+v58
+
+
+Printing vertex: 
+v7
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+Connected to: 
+v43
+v57
+v81
+v89
+
+
+Printing vertex: 
+v8
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v63
+v78
+v98
+
+
+Printing vertex: 
+v9
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v35
+
+
+Printing vertex: 
+v10
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v24
+
+
+Printing vertex: 
+v11
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+Connected to: 
+v23
+v41
+v42
+v53
+v79
+
+
+Printing vertex: 
+v12
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v30
+v54
+v69
+
+
+Printing vertex: 
+v13
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v18
+v94
+v96
+
+
+Printing vertex: 
+v14
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v87
+
+
+Printing vertex: 
+v15
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v86
+v93
+v99
+
+
+Printing vertex: 
+v16
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v25
+v68
+v71
+
+
+Printing vertex: 
+v17
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v18
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v64
+
+
+Printing vertex: 
+v19
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v83
+
+
+Printing vertex: 
+v20
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v21
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v22
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v23
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v61
+
+
+Printing vertex: 
+v24
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v25
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v37
+
+
+Printing vertex: 
+v26
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v27
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v28
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v29
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+Connected to: 
+v72
+v85
+
+
+Printing vertex: 
+v30
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v73
+
+
+Printing vertex: 
+v31
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v49
+
+
+Printing vertex: 
+v32
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v33
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v34
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v35
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v36
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v92
+
+
+Printing vertex: 
+v37
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v84
+
+
+Printing vertex: 
+v38
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v74
+
+
+Printing vertex: 
+v39
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v40
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v41
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v52
+v55
+v75
+
+
+Printing vertex: 
+v42
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v43
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v44
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v62
+
+
+Printing vertex: 
+v45
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v95
+
+
+Printing vertex: 
+v46
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v65
+
+
+Printing vertex: 
+v47
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v48
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v70
+
+
+Printing vertex: 
+v49
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v50
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v51
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v52
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v76
+
+
+Printing vertex: 
+v53
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v100
+
+
+Printing vertex: 
+v54
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v55
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v82
+
+
+Printing vertex: 
+v56
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v57
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v58
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v97
+
+
+Printing vertex: 
+v59
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v60
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v80
+
+
+Printing vertex: 
+v61
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v62
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v63
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v64
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v77
+
+
+Printing vertex: 
+v65
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v90
+
+
+Printing vertex: 
+v66
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v67
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v68
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v69
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v70
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v71
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v72
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v73
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v74
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v75
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v76
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v77
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v78
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v79
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v80
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v81
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v82
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v83
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v84
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v85
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v86
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v87
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v88
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v89
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v90
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v91
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v92
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v93
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v94
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v95
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v96
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v97
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v98
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v99
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v100
+Rep: null 
+VertexCycle: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 59((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+Printing vertex: 
+v0
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v1
+v2
+v4
+v6
+v7
+v44
+v59
+v91
+
+
+Printing vertex: 
+v1
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v8
+v9
+v16
+v19
+v21
+v33
+v39
+v48
+
+
+Printing vertex: 
+v2
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v3
+v11
+v13
+v17
+v20
+v22
+v32
+v50
+v60
+v67
+
+
+Printing vertex: 
+v3
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v5
+v12
+v14
+v15
+v28
+v40
+v45
+v46
+v56
+v88
+
+
+Printing vertex: 
+v4
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+Connected to: 
+v29
+v31
+v34
+v47
+v66
+
+
+Printing vertex: 
+v5
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+Connected to: 
+v10
+v26
+v27
+v38
+
+
+Printing vertex: 
+v6
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v36
+v51
+v58
+
+
+Printing vertex: 
+v7
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+Connected to: 
+v43
+v57
+v81
+v89
+
+
+Printing vertex: 
+v8
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v63
+v78
+v98
+
+
+Printing vertex: 
+v9
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v35
+
+
+Printing vertex: 
+v10
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v24
+
+
+Printing vertex: 
+v11
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+Connected to: 
+v23
+v41
+v42
+v53
+v79
+
+
+Printing vertex: 
+v12
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v30
+v54
+v69
+
+
+Printing vertex: 
+v13
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v18
+v94
+v96
+
+
+Printing vertex: 
+v14
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v87
+
+
+Printing vertex: 
+v15
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v86
+v93
+v99
+
+
+Printing vertex: 
+v16
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v25
+v68
+v71
+
+
+Printing vertex: 
+v17
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v18
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v64
+
+
+Printing vertex: 
+v19
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v83
+
+
+Printing vertex: 
+v20
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v21
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v22
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v23
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v61
+
+
+Printing vertex: 
+v24
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v25
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v37
+
+
+Printing vertex: 
+v26
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v27
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v28
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v29
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+Connected to: 
+v72
+v85
+
+
+Printing vertex: 
+v30
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v73
+
+
+Printing vertex: 
+v31
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v49
+
+
+Printing vertex: 
+v32
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v33
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v34
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v35
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v36
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v92
+
+
+Printing vertex: 
+v37
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v84
+
+
+Printing vertex: 
+v38
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v74
+
+
+Printing vertex: 
+v39
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v40
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v41
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v52
+v55
+v75
+
+
+Printing vertex: 
+v42
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v43
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v44
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v62
+
+
+Printing vertex: 
+v45
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v95
+
+
+Printing vertex: 
+v46
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v65
+
+
+Printing vertex: 
+v47
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v48
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v70
+
+
+Printing vertex: 
+v49
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v50
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v51
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v52
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v76
+
+
+Printing vertex: 
+v53
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v100
+
+
+Printing vertex: 
+v54
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v55
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v82
+
+
+Printing vertex: 
+v56
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v57
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v58
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v97
+
+
+Printing vertex: 
+v59
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v60
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v80
+
+
+Printing vertex: 
+v61
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v62
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v63
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v64
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v77
+
+
+Printing vertex: 
+v65
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v90
+
+
+Printing vertex: 
+v66
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v67
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v68
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v69
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v70
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v71
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v72
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v73
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v74
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v75
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v76
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v77
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v78
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v79
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v80
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v81
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v82
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v83
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v84
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v85
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v86
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v87
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v88
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v89
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v90
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v91
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v92
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v93
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v94
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v95
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v96
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v97
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v98
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v99
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v100
+Rep: null 
+VertexCycle: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 60((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+Printing vertex: 
+v0
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v1
+v2
+v4
+v6
+v7
+v44
+v59
+v91
+
+
+Printing vertex: 
+v1
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v8
+v9
+v16
+v19
+v21
+v33
+v39
+v48
+
+
+Printing vertex: 
+v2
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v3
+v11
+v13
+v17
+v20
+v22
+v32
+v50
+v60
+v67
+
+
+Printing vertex: 
+v3
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v5
+v12
+v14
+v15
+v28
+v40
+v45
+v46
+v56
+v88
+
+
+Printing vertex: 
+v4
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+Connected to: 
+v29
+v31
+v34
+v47
+v66
+
+
+Printing vertex: 
+v5
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+Connected to: 
+v10
+v26
+v27
+v38
+
+
+Printing vertex: 
+v6
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v36
+v51
+v58
+
+
+Printing vertex: 
+v7
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+Connected to: 
+v43
+v57
+v81
+v89
+
+
+Printing vertex: 
+v8
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v63
+v78
+v98
+
+
+Printing vertex: 
+v9
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v35
+
+
+Printing vertex: 
+v10
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v24
+
+
+Printing vertex: 
+v11
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+Connected to: 
+v23
+v41
+v42
+v53
+v79
+
+
+Printing vertex: 
+v12
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v30
+v54
+v69
+
+
+Printing vertex: 
+v13
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v18
+v94
+v96
+
+
+Printing vertex: 
+v14
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v87
+
+
+Printing vertex: 
+v15
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v86
+v93
+v99
+
+
+Printing vertex: 
+v16
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v25
+v68
+v71
+
+
+Printing vertex: 
+v17
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v18
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v64
+
+
+Printing vertex: 
+v19
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v83
+
+
+Printing vertex: 
+v20
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v21
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v22
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v23
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v61
+
+
+Printing vertex: 
+v24
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v25
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v37
+
+
+Printing vertex: 
+v26
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v27
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v28
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v29
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+Connected to: 
+v72
+v85
+
+
+Printing vertex: 
+v30
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v73
+
+
+Printing vertex: 
+v31
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v49
+
+
+Printing vertex: 
+v32
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v33
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v34
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v35
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v36
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v92
+
+
+Printing vertex: 
+v37
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v84
+
+
+Printing vertex: 
+v38
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v74
+
+
+Printing vertex: 
+v39
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v40
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v41
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v52
+v55
+v75
+
+
+Printing vertex: 
+v42
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v43
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v44
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v62
+
+
+Printing vertex: 
+v45
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v95
+
+
+Printing vertex: 
+v46
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v65
+
+
+Printing vertex: 
+v47
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v48
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v70
+
+
+Printing vertex: 
+v49
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v50
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v51
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v52
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v76
+
+
+Printing vertex: 
+v53
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v100
+
+
+Printing vertex: 
+v54
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v55
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v82
+
+
+Printing vertex: 
+v56
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v57
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v58
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v97
+
+
+Printing vertex: 
+v59
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v60
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v80
+
+
+Printing vertex: 
+v61
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v62
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v63
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v64
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v77
+
+
+Printing vertex: 
+v65
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v90
+
+
+Printing vertex: 
+v66
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v67
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v68
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v69
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v70
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v71
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v72
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v73
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v74
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v75
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v76
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v77
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v78
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v79
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v80
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v81
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v82
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v83
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v84
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v85
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v86
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v87
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v88
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v89
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v90
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v91
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v92
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v93
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v94
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v95
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v96
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v97
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v98
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v99
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v100
+Rep: null 
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 61((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+Printing vertex: 
+null
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+Printing vertex: 
+v0
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v1
+v2
+v4
+v6
+v7
+v44
+v59
+v91
+
+
+Printing vertex: 
+v1
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v8
+v9
+v16
+v19
+v21
+v33
+v39
+v48
+
+
+Printing vertex: 
+v2
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v3
+v11
+v13
+v17
+v20
+v22
+v32
+v50
+v60
+v67
+
+
+Printing vertex: 
+v3
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+Connected to: 
+v5
+v12
+v14
+v15
+v28
+v40
+v45
+v46
+v56
+v88
+
+
+Printing vertex: 
+v4
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+Connected to: 
+v29
+v31
+v34
+v47
+v66
+
+
+Printing vertex: 
+v5
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+Connected to: 
+v10
+v26
+v27
+v38
+
+
+Printing vertex: 
+v6
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v36
+v51
+v58
+
+
+Printing vertex: 
+v7
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+Connected to: 
+v43
+v57
+v81
+v89
+
+
+Printing vertex: 
+v8
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v63
+v78
+v98
+
+
+Printing vertex: 
+v9
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v35
+
+
+Printing vertex: 
+v10
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v24
+
+
+Printing vertex: 
+v11
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+10
+10
+Connected to: 
+v23
+v41
+v42
+v53
+v79
+
+
+Printing vertex: 
+v12
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v30
+v54
+v69
+
+
+Printing vertex: 
+v13
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v18
+v94
+v96
+
+
+Printing vertex: 
+v14
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v87
+
+
+Printing vertex: 
+v15
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v86
+v93
+v99
+
+
+Printing vertex: 
+v16
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v25
+v68
+v71
+
+
+Printing vertex: 
+v17
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v18
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v64
+
+
+Printing vertex: 
+v19
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v83
+
+
+Printing vertex: 
+v20
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v21
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v22
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v23
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v61
+
+
+Printing vertex: 
+v24
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v25
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v37
+
+
+Printing vertex: 
+v26
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v27
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v28
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v29
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+Connected to: 
+v72
+v85
+
+
+Printing vertex: 
+v30
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v73
+
+
+Printing vertex: 
+v31
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v49
+
+
+Printing vertex: 
+v32
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v33
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v34
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v35
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v36
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v92
+
+
+Printing vertex: 
+v37
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v84
+
+
+Printing vertex: 
+v38
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v74
+
+
+Printing vertex: 
+v39
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v40
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v41
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+10
+10
+Connected to: 
+v52
+v55
+v75
+
+
+Printing vertex: 
+v42
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v43
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v44
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v62
+
+
+Printing vertex: 
+v45
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v95
+
+
+Printing vertex: 
+v46
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v65
+
+
+Printing vertex: 
+v47
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v48
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v70
+
+
+Printing vertex: 
+v49
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v50
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v51
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v52
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v76
+
+
+Printing vertex: 
+v53
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v100
+
+
+Printing vertex: 
+v54
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v55
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v82
+
+
+Printing vertex: 
+v56
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v57
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v58
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v97
+
+
+Printing vertex: 
+v59
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v60
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v80
+
+
+Printing vertex: 
+v61
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v62
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v63
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v64
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v77
+
+
+Printing vertex: 
+v65
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+10
+Connected to: 
+v90
+
+
+Printing vertex: 
+v66
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v67
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v68
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v69
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v70
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v71
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v72
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v73
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v74
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v75
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v76
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v77
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v78
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v79
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v80
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v81
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v82
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v83
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v84
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v85
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v86
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v87
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v88
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v89
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v90
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v91
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v92
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v93
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v94
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v95
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v96
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v97
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v98
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v99
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+v100
+Rep: null 
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 62((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 63((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 64((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 65((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 66((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 67((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+1
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 68((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+1
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 69((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 70((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 71((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+1
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 72((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+1
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 73((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:73
+Tempo gasto total (milisegundos): 11276 tempo médio (milisegundos): 11276.0 número de vezes executadas:1

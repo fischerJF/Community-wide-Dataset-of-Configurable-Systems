@@ -1,0 +1,112 @@
+Prop4JSPL:true, Operators:false, And:false, Or:false, Implies:false, Negation:false, Equals:false, extended:false, AtLeast:false, AtMost:false, Choose:false, Input_Output:false, Node_Reader:false, Node_Writer:false, SatSolver:false, To_CNF:false, Tests:false, Prop4JSPL:true, Operators:true, And:true, Or:false, Implies:true, Negation:false, Equals:true, extended:true, AtLeast:false, AtMost:true, Choose:true, Input_Output:true, Node_Reader:true, Node_Writer:true, SatSolver:true, To_CNF:true, Tests:true, Prop4JSPL:true, Operators:true, And:true, Or:true, Implies:true, Negation:true, Equals:false, extended:true, AtLeast:true, AtMost:true, Choose:true, Input_Output:true, Node_Reader:true, Node_Writer:false, SatSolver:false, To_CNF:false, Tests:false, Prop4JSPL:true, Operators:true, And:false, Or:true, Implies:false, Negation:true, Equals:true, extended:true, AtLeast:true, AtMost:false, Choose:true, Input_Output:true, Node_Reader:false, Node_Writer:true, SatSolver:true, To_CNF:true, Tests:false, Prop4JSPL:true, Operators:true, And:true, Or:true, Implies:true, Negation:true, Equals:true, extended:false, AtLeast:false, AtMost:false, Choose:false, Input_Output:true, Node_Reader:true, Node_Writer:true, SatSolver:false, To_CNF:false, Tests:false, Prop4JSPL:true, Operators:true, And:false, Or:false, Implies:false, Negation:true, Equals:false, extended:true, AtLeast:true, AtMost:true, Choose:false, Input_Output:false, Node_Reader:false, Node_Writer:false, SatSolver:true, To_CNF:true, Tests:false, Prop4JSPL:true, Operators:true, And:false, Or:true, Implies:false, Negation:true, Equals:true, extended:true, AtLeast:true, AtMost:false, Choose:false, Input_Output:true, Node_Reader:true, Node_Writer:false, SatSolver:false, To_CNF:true, Tests:true, Prop4JSPL:true, Operators:true, And:true, Or:true, Implies:true, Negation:false, Equals:true, extended:true, AtLeast:true, AtMost:false, Choose:true, Input_Output:false, Node_Reader:false, Node_Writer:false, SatSolver:false, To_CNF:false, Tests:false, Prop4JSPL:true, Operators:false, And:false, Or:false, Implies:false, Negation:false, Equals:false, extended:false, AtLeast:false, AtMost:false, Choose:false, Input_Output:true, Node_Reader:true, Node_Writer:true, SatSolver:false, To_CNF:false, Tests:false, Prop4JSPL:true, Operators:true, And:false, Or:false, Implies:true, Negation:false, Equals:false, extended:true, AtLeast:false, AtMost:false, Choose:false, Input_Output:true, Node_Reader:true, Node_Writer:false, SatSolver:false, To_CNF:true, Tests:true, Prop4JSPL:true, Operators:true, And:true, Or:false, Implies:false, Negation:false, Equals:false, extended:false, AtLeast:false, AtMost:false, Choose:false, Input_Output:false, Node_Reader:false, Node_Writer:false, SatSolver:false, To_CNF:false, Tests:false, ********************************
+Configuration:
+operators:false or:false negation:false atmost:false node_writer:false to_cnf:false prop4jspl:true extended:false tests:false equals:false node_reader:falseimplies:false atleast:false choose:false input_output:false and:false satsolver:false
+
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:truecont: 1((( apos os testes))) 
+Configuration:
+
+
+
+ ----------------------- 
+
+
+operators:true or:false negation:false atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:false choose:true input_output:true and:true satsolver:true
+
+cont: 2((( apos os testes))) 
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+Configuration:
+operators:true or:true negation:true atmost:true node_writer:false to_cnf:false prop4jspl:true extended:true tests:false equals:false node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:false
+
+cont: 3((( apos os testes))) 
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+Configuration:
+operators:true or:true negation:true atmost:false node_writer:true to_cnf:true prop4jspl:true extended:true tests:false equals:true node_reader:falseimplies:false atleast:true choose:true input_output:true and:false satsolver:true
+
+cont: 4((( apos os testes))) 
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+Configuration:
+operators:true or:true negation:true atmost:false node_writer:true to_cnf:false prop4jspl:true extended:false tests:false equals:true node_reader:trueimplies:true atleast:false choose:false input_output:true and:true satsolver:false
+
+cont: 5((( apos os testes))) 
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+Configuration:
+operators:true or:false negation:true atmost:true node_writer:false to_cnf:true prop4jspl:true extended:true tests:false equals:false node_reader:falseimplies:false atleast:true choose:false input_output:false and:false satsolver:true
+
+cont: 6((( apos os testes))) 
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+Configuration:
+operators:true or:true negation:true atmost:false node_writer:false to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:false atleast:true choose:false input_output:true and:false satsolver:false
+
+cont: 7((( apos os testes))) 
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+Configuration:
+operators:true or:true negation:false atmost:false node_writer:false to_cnf:false prop4jspl:true extended:true tests:false equals:true node_reader:falseimplies:true atleast:true choose:true input_output:false and:true satsolver:false
+
+cont: 8((( apos os testes))) 
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+Configuration:
+operators:false or:false negation:false atmost:false node_writer:true to_cnf:false prop4jspl:true extended:false tests:false equals:false node_reader:trueimplies:false atleast:false choose:false input_output:true and:false satsolver:false
+
+cont: 9((( apos os testes))) 
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+Configuration:
+operators:true or:false negation:false atmost:false node_writer:false to_cnf:true prop4jspl:true extended:true tests:true equals:false node_reader:trueimplies:true atleast:false choose:false input_output:true and:false satsolver:false
+
+cont: 10((( apos os testes))) 
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+Configuration:
+operators:true or:false negation:false atmost:false node_writer:false to_cnf:false prop4jspl:true extended:false tests:false equals:false node_reader:falseimplies:false atleast:false choose:false input_output:false and:true satsolver:false
+
+cont: 11((( apos os testes))) 
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:11

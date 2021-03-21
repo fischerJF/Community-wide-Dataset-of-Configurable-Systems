@@ -1,0 +1,28 @@
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 1((( apos os testes))) 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+Configuration:
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 2((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:2
+Total time (ms): 998 time average (s): 0.998 number of times performed:1
