@@ -1,0 +1,707 @@
+BASE:true, BASEMENUBAR:false, BASETOOLBAR:true, EDITMENUBAR:false, EDITTOOLBAR:false, FORMATMENUBAR:false, FORMATTOOLBAR:true, PERSISTENCEMENUBAR:false, PERSISTENCETOOLBAR:true, PRINTMENUBAR:false, PRINTTOOLBAR:true, SEARCHMENUBAR:false, SEARCHTOOLBAR:false, UNDOREDOMENUBAR:false, UNDOREDOTOOLBAR:false, WORDCOUNTMENUBAR:false, WORDCOUNTTOOLBAR:false, 
+BASE:true, BASEMENUBAR:true, BASETOOLBAR:false, EDITMENUBAR:false, EDITTOOLBAR:false, FORMATMENUBAR:false, FORMATTOOLBAR:false, PERSISTENCEMENUBAR:false, PERSISTENCETOOLBAR:false, PRINTMENUBAR:true, PRINTTOOLBAR:false, SEARCHMENUBAR:false, SEARCHTOOLBAR:false, UNDOREDOMENUBAR:false, UNDOREDOTOOLBAR:false, WORDCOUNTMENUBAR:false, WORDCOUNTTOOLBAR:false, 
+BASE:true, BASEMENUBAR:true, BASETOOLBAR:true, EDITMENUBAR:true, EDITTOOLBAR:true, FORMATMENUBAR:true, FORMATTOOLBAR:true, PERSISTENCEMENUBAR:true, PERSISTENCETOOLBAR:true, PRINTMENUBAR:false, PRINTTOOLBAR:false, SEARCHMENUBAR:true, SEARCHTOOLBAR:true, UNDOREDOMENUBAR:true, UNDOREDOTOOLBAR:true, WORDCOUNTMENUBAR:true, WORDCOUNTTOOLBAR:true, 
+Configuration:
+WORDCOUNTTOOLBAR:false WORDCOUNTMENUBAR:false UNDOREDOTOOLBAR:false UNDOREDOMENUBAR:false SEARCHTOOLBAR:false SEARCHMENUBAR:false PRINTTOOLBAR:true PRINTMENUBAR:false PERSISTENCETOOLBAR:true PERSISTENCEMENUBAR:false FORMATTOOLBAR:true FORMATMENUBAR:false EDITTOOLBAR:false EDITMENUBAR:false BASETOOLBAR:true BASEMENUBAR:false BASE:true
+
+
+ WORDCOUNTTOOLBAR:false WORDCOUNTMENUBAR:false UNDOREDOTOOLBAR:false UNDOREDOMENUBAR:false SEARCHTOOLBAR:false SEARCHMENUBAR:false PRINTTOOLBAR:true PRINTMENUBAR:false PERSISTENCETOOLBAR:true PERSISTENCEMENUBAR:false FORMATTOOLBAR:true FORMATMENUBAR:false EDITTOOLBAR:false EDITMENUBAR:false BASETOOLBAR:true BASEMENUBAR:false BASE:true
+1 Unable to find component using matcher testset.TestFileMenuBar$1@57175e74.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog0', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+2 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher testset.TestFileMenuBar$1@57175e74.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog0', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+	at org.fest.swing.core.BasicComponentFinder.componentNotFound(BasicComponentFinder.java:271)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:260)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:254)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:247)
+	at org.fest.swing.fixture.ContainerFixture.find(ContainerFixture.java:540)
+	at org.fest.swing.fixture.ContainerFixture.button(ContainerFixture.java:119)
+	at testset.TestFileMenuBar.testNewMenuBarNo(TestFileMenuBar.java:78)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:84)
+	at experiment.Sampling.run(Sampling.java:116)
+	at experiment.Sampling.main(Sampling.java:213)
+
+3 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher testset.TestFileMenuBar$1@57175e74.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog0', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+4 null
+5 testNewMenuBarNo(testset.TestFileMenuBar)
+6 class org.fest.swing.exception.ComponentLookupException
+7 testNewMenuBarNo(testset.TestFileMenuBar)
+
+ WORDCOUNTTOOLBAR:false WORDCOUNTMENUBAR:false UNDOREDOTOOLBAR:false UNDOREDOMENUBAR:false SEARCHTOOLBAR:false SEARCHMENUBAR:false PRINTTOOLBAR:true PRINTMENUBAR:false PERSISTENCETOOLBAR:true PERSISTENCEMENUBAR:false FORMATTOOLBAR:true FORMATMENUBAR:false EDITTOOLBAR:false EDITMENUBAR:false BASETOOLBAR:true BASEMENUBAR:false BASE:true
+1 Unable to find component using matcher testset.TestFileToolBar$2@57d5872c.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog1', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+2 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher testset.TestFileToolBar$2@57d5872c.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog1', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+	at org.fest.swing.core.BasicComponentFinder.componentNotFound(BasicComponentFinder.java:271)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:260)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:254)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:247)
+	at org.fest.swing.fixture.ContainerFixture.find(ContainerFixture.java:540)
+	at org.fest.swing.fixture.ContainerFixture.button(ContainerFixture.java:119)
+	at testset.TestFileToolBar.testNewToolBarNo(TestFileToolBar.java:102)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:84)
+	at experiment.Sampling.run(Sampling.java:116)
+	at experiment.Sampling.main(Sampling.java:213)
+
+3 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher testset.TestFileToolBar$2@57d5872c.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog1', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+4 null
+5 testNewToolBarNo(testset.TestFileToolBar)
+6 class org.fest.swing.exception.ComponentLookupException
+7 testNewToolBarNo(testset.TestFileToolBar)
+WORDCOUNTTOOLBAR:true WORDCOUNTMENUBAR:true UNDOREDOTOOLBAR:true UNDOREDOMENUBAR:true SEARCHTOOLBAR:true SEARCHMENUBAR:true PRINTTOOLBAR:true PRINTMENUBAR:true PERSISTENCETOOLBAR:true PERSISTENCEMENUBAR:true FORMATTOOLBAR:true FORMATMENUBAR:true EDITTOOLBAR:true EDITMENUBAR:true BASETOOLBAR:true BASEMENUBAR:true BASE:truecont: 1((( apos os testes))) 
+Configuration:
+
+
+
+ ----------------------- 
+
+
+WORDCOUNTTOOLBAR:false WORDCOUNTMENUBAR:false UNDOREDOTOOLBAR:false UNDOREDOMENUBAR:false SEARCHTOOLBAR:false SEARCHMENUBAR:false PRINTTOOLBAR:false PRINTMENUBAR:true PERSISTENCETOOLBAR:false PERSISTENCEMENUBAR:false FORMATTOOLBAR:false FORMATMENUBAR:false EDITTOOLBAR:false EDITMENUBAR:false BASETOOLBAR:false BASEMENUBAR:true BASE:true
+
+
+ WORDCOUNTTOOLBAR:false WORDCOUNTMENUBAR:false UNDOREDOTOOLBAR:false UNDOREDOMENUBAR:false SEARCHTOOLBAR:false SEARCHMENUBAR:false PRINTTOOLBAR:false PRINTMENUBAR:true PERSISTENCETOOLBAR:false PERSISTENCEMENUBAR:false FORMATTOOLBAR:false FORMATMENUBAR:false EDITTOOLBAR:false EDITMENUBAR:false BASETOOLBAR:false BASEMENUBAR:true BASE:true
+1 Unable to find component using matcher testset.TestFileMenuBar$1@d706f19.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog2', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+2 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher testset.TestFileMenuBar$1@d706f19.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog2', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+	at org.fest.swing.core.BasicComponentFinder.componentNotFound(BasicComponentFinder.java:271)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:260)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:254)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:247)
+	at org.fest.swing.fixture.ContainerFixture.find(ContainerFixture.java:540)
+	at org.fest.swing.fixture.ContainerFixture.button(ContainerFixture.java:119)
+	at testset.TestFileMenuBar.testNewMenuBarNo(TestFileMenuBar.java:78)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:84)
+	at experiment.Sampling.run(Sampling.java:116)
+	at experiment.Sampling.main(Sampling.java:213)
+
+3 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher testset.TestFileMenuBar$1@d706f19.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog2', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+4 null
+5 testNewMenuBarNo(testset.TestFileMenuBar)
+6 class org.fest.swing.exception.ComponentLookupException
+7 testNewMenuBarNo(testset.TestFileMenuBar)
+
+ WORDCOUNTTOOLBAR:false WORDCOUNTMENUBAR:false UNDOREDOTOOLBAR:false UNDOREDOMENUBAR:false SEARCHTOOLBAR:false SEARCHMENUBAR:false PRINTTOOLBAR:false PRINTMENUBAR:true PERSISTENCETOOLBAR:false PERSISTENCEMENUBAR:false FORMATTOOLBAR:false FORMATMENUBAR:false EDITTOOLBAR:false EDITMENUBAR:false BASETOOLBAR:false BASEMENUBAR:true BASE:true
+1 Unable to find component using matcher testset.TestFileToolBar$2@4278a03f.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog3', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+2 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher testset.TestFileToolBar$2@4278a03f.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog3', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+	at org.fest.swing.core.BasicComponentFinder.componentNotFound(BasicComponentFinder.java:271)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:260)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:254)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:247)
+	at org.fest.swing.fixture.ContainerFixture.find(ContainerFixture.java:540)
+	at org.fest.swing.fixture.ContainerFixture.button(ContainerFixture.java:119)
+	at testset.TestFileToolBar.testNewToolBarNo(TestFileToolBar.java:102)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:84)
+	at experiment.Sampling.run(Sampling.java:116)
+	at experiment.Sampling.main(Sampling.java:213)
+
+3 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher testset.TestFileToolBar$2@4278a03f.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog3', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+4 null
+5 testNewToolBarNo(testset.TestFileToolBar)
+6 class org.fest.swing.exception.ComponentLookupException
+7 testNewToolBarNo(testset.TestFileToolBar)
+cont: 2((( apos os testes))) WORDCOUNTTOOLBAR:true WORDCOUNTMENUBAR:true UNDOREDOTOOLBAR:true UNDOREDOMENUBAR:true SEARCHTOOLBAR:true SEARCHMENUBAR:true PRINTTOOLBAR:true PRINTMENUBAR:true PERSISTENCETOOLBAR:true PERSISTENCEMENUBAR:true FORMATTOOLBAR:true FORMATMENUBAR:true EDITTOOLBAR:true EDITMENUBAR:true BASETOOLBAR:true BASEMENUBAR:true BASE:true
+
+Configuration:
+
+
+ ----------------------- 
+
+
+WORDCOUNTTOOLBAR:true WORDCOUNTMENUBAR:true UNDOREDOTOOLBAR:true UNDOREDOMENUBAR:true SEARCHTOOLBAR:true SEARCHMENUBAR:true PRINTTOOLBAR:false PRINTMENUBAR:false PERSISTENCETOOLBAR:true PERSISTENCEMENUBAR:true FORMATTOOLBAR:true FORMATMENUBAR:true EDITTOOLBAR:true EDITMENUBAR:true BASETOOLBAR:true BASEMENUBAR:true BASE:true
+
+
+ WORDCOUNTTOOLBAR:true WORDCOUNTMENUBAR:true UNDOREDOTOOLBAR:true UNDOREDOMENUBAR:true SEARCHTOOLBAR:true SEARCHMENUBAR:true PRINTTOOLBAR:false PRINTMENUBAR:false PERSISTENCETOOLBAR:true PERSISTENCEMENUBAR:true FORMATTOOLBAR:true FORMATMENUBAR:true EDITTOOLBAR:true EDITMENUBAR:true BASETOOLBAR:true BASEMENUBAR:true BASE:true
+1 Unable to find component using matcher testset.TestFileMenuBar$1@6ac13091.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog4', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+2 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher testset.TestFileMenuBar$1@6ac13091.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog4', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+	at org.fest.swing.core.BasicComponentFinder.componentNotFound(BasicComponentFinder.java:271)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:260)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:254)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:247)
+	at org.fest.swing.fixture.ContainerFixture.find(ContainerFixture.java:540)
+	at org.fest.swing.fixture.ContainerFixture.button(ContainerFixture.java:119)
+	at testset.TestFileMenuBar.testNewMenuBarNo(TestFileMenuBar.java:78)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:84)
+	at experiment.Sampling.run(Sampling.java:116)
+	at experiment.Sampling.main(Sampling.java:213)
+
+3 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher testset.TestFileMenuBar$1@6ac13091.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog4', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+4 null
+5 testNewMenuBarNo(testset.TestFileMenuBar)
+6 class org.fest.swing.exception.ComponentLookupException
+7 testNewMenuBarNo(testset.TestFileMenuBar)
+
+ WORDCOUNTTOOLBAR:true WORDCOUNTMENUBAR:true UNDOREDOTOOLBAR:true UNDOREDOMENUBAR:true SEARCHTOOLBAR:true SEARCHMENUBAR:true PRINTTOOLBAR:false PRINTMENUBAR:false PERSISTENCETOOLBAR:true PERSISTENCEMENUBAR:true FORMATTOOLBAR:true FORMATMENUBAR:true EDITTOOLBAR:true EDITMENUBAR:true BASETOOLBAR:true BASEMENUBAR:true BASE:true
+1 Unable to find component using matcher testset.TestFileToolBar$2@1e802ef9.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog5', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+2 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher testset.TestFileToolBar$2@1e802ef9.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog5', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+	at org.fest.swing.core.BasicComponentFinder.componentNotFound(BasicComponentFinder.java:271)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:260)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:254)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:247)
+	at org.fest.swing.fixture.ContainerFixture.find(ContainerFixture.java:540)
+	at org.fest.swing.fixture.ContainerFixture.button(ContainerFixture.java:119)
+	at testset.TestFileToolBar.testNewToolBarNo(TestFileToolBar.java:102)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:84)
+	at experiment.Sampling.run(Sampling.java:116)
+	at experiment.Sampling.main(Sampling.java:213)
+
+3 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher testset.TestFileToolBar$2@1e802ef9.
+
+Component hierarchy:
+javax.swing.JDialog[name='dialog5', title='Selecionar uma Opção', enabled=true, modal=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JOptionPane[message='Do you want to save the changes ??', messageType=QUESTION_MESSAGE, optionType=YES_NO_CANCEL_OPTION, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name=null]
+            javax.swing.JPanel[name='OptionPane.realBody']
+              javax.swing.JPanel[name='OptionPane.separator']
+              javax.swing.JPanel[name='OptionPane.body']
+                javax.swing.JLabel[name='OptionPane.label', text='Do you want to save the changes ??', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name='OptionPane.iconLabel', text=null, enabled=true, visible=true, showing=true]
+          javax.swing.JPanel[name='OptionPane.buttonArea']
+            javax.swing.JButton[name='OptionPane.button', text='Sim', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Não', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name='OptionPane.button', text='Cancelar', enabled=true, visible=true, showing=true]
+
+4 null
+5 testNewToolBarNo(testset.TestFileToolBar)
+6 class org.fest.swing.exception.ComponentLookupException
+7 testNewToolBarNo(testset.TestFileToolBar)
+cont: 3((( apos os testes))) WORDCOUNTTOOLBAR:true WORDCOUNTMENUBAR:true UNDOREDOTOOLBAR:true UNDOREDOMENUBAR:true SEARCHTOOLBAR:true SEARCHMENUBAR:true PRINTTOOLBAR:true PRINTMENUBAR:true PERSISTENCETOOLBAR:true PERSISTENCEMENUBAR:true FORMATTOOLBAR:true FORMATMENUBAR:true EDITTOOLBAR:true EDITMENUBAR:true BASETOOLBAR:true BASEMENUBAR:true BASE:true
+
+
+ ----------------------- 
+
+
+
+Contador de produtos:3
+Total time (ms): 193268 time average (ms): 193268.0 number of times performed:1

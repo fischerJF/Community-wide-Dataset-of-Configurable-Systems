@@ -1,0 +1,139 @@
+SkipTrack:false, Metadata:false, RemoveTrack:false, Album:false, WAV:false, NiceToHave:false, Playlist:false, JumpPosition:false, Light:false, OpenFolder:false, GUI:true, FeatureAMP:true, QueueTrack:false, Mute:true, TagEditor:false, Tracknumber:false, Codecs:true, Progress:true, AAC:true, PlaylistControls:false, MultiplePlaylists:false, RandomColor:false, SaveandLoad:false, ShuffleRepeat:false, Base:true, OGG:false, YouTube:false, MP3:false, OSColors:false, Reorder:false, Cover:false, Volume:true, Skins:true, Dark:true, ClearPlaylist:false, RemeberStatus:false, Progressbar:false, Titlebar:true, 
+SkipTrack:true, Metadata:true, RemoveTrack:true, Album:true, WAV:true, NiceToHave:true, Playlist:true, JumpPosition:true, Light:false, OpenFolder:true, GUI:true, FeatureAMP:true, QueueTrack:false, Mute:false, TagEditor:false, Tracknumber:true, Codecs:true, Progress:true, AAC:true, PlaylistControls:true, MultiplePlaylists:false, RandomColor:false, SaveandLoad:false, ShuffleRepeat:false, Base:true, OGG:true, YouTube:false, MP3:true, OSColors:true, Reorder:true, Cover:true, Volume:false, Skins:true, Dark:false, ClearPlaylist:true, RemeberStatus:true, Progressbar:true, Titlebar:false, 
+SkipTrack:true, Metadata:true, RemoveTrack:true, Album:true, WAV:false, NiceToHave:true, Playlist:true, JumpPosition:true, Light:false, OpenFolder:true, GUI:true, FeatureAMP:true, QueueTrack:true, Mute:false, TagEditor:false, Tracknumber:true, Codecs:true, Progress:true, AAC:false, PlaylistControls:true, MultiplePlaylists:false, RandomColor:true, SaveandLoad:false, ShuffleRepeat:true, Base:true, OGG:true, YouTube:true, MP3:false, OSColors:false, Reorder:false, Cover:false, Volume:true, Skins:true, Dark:false, ClearPlaylist:true, RemeberStatus:true, Progressbar:true, Titlebar:false, 
+SkipTrack:true, Metadata:true, RemoveTrack:true, Album:true, WAV:false, NiceToHave:true, Playlist:true, JumpPosition:true, Light:true, OpenFolder:true, GUI:true, FeatureAMP:true, QueueTrack:true, Mute:false, TagEditor:true, Tracknumber:true, Codecs:true, Progress:true, AAC:false, PlaylistControls:true, MultiplePlaylists:true, RandomColor:false, SaveandLoad:false, ShuffleRepeat:true, Base:true, OGG:true, YouTube:false, MP3:false, OSColors:false, Reorder:false, Cover:true, Volume:false, Skins:true, Dark:false, ClearPlaylist:true, RemeberStatus:false, Progressbar:true, Titlebar:false, 
+
+
+ *** Configuration:0
+
+
+featureamp:truebase:truecodecs:truegui:trueskiptrack:falsemetadata:falseremovetrack:falsealbum:falsewav:falsenicetohave:falseplaylist:falsejumpposition:falselight:falseopenfolder:falsequeuetrack:falsenmute:truetageditor:falsetracknumber:falseprogress:trueaac:trueplaylistcontrols:falsemultipleplaylists:falserandomcolor:falsesaveandload:falseshufflerepeat:falseogg:falseyoutube:falsemp3:falseoscolors:falsereorder:falsecover:falsevolume:trueskins:truedark:trueclearplaylist:falseremeberstatus:falseprogressbar:falsetitlebar:true
+
+cont: 1((( apos os testes))) 
+featureamp:truebase:truecodecs:truegui:trueskiptrack:falsemetadata:falseremovetrack:falsealbum:falsewav:falsenicetohave:falseplaylist:falsejumpposition:falselight:falseopenfolder:falsequeuetrack:falsenmute:truetageditor:falsetracknumber:falseprogress:trueaac:trueplaylistcontrols:falsemultipleplaylists:falserandomcolor:falsesaveandload:falseshufflerepeat:falseogg:falseyoutube:falsemp3:falseoscolors:falsereorder:falsecover:falsevolume:trueskins:truedark:trueclearplaylist:falseremeberstatus:falseprogressbar:falsetitlebar:true
+
+
+ ----------------------- 
+
+
+
+
+ *** Configuration:1
+
+
+featureamp:truebase:truecodecs:truegui:trueskiptrack:truemetadata:trueremovetrack:truealbum:truewav:truenicetohave:trueplaylist:truejumpposition:truelight:falseopenfolder:truequeuetrack:falsenmute:falsetageditor:falsetracknumber:trueprogress:trueaac:trueplaylistcontrols:truemultipleplaylists:falserandomcolor:falsesaveandload:falseshufflerepeat:falseogg:trueyoutube:falsemp3:trueoscolors:truereorder:truecover:truevolume:falseskins:truedark:falseclearplaylist:trueremeberstatus:trueprogressbar:truetitlebar:false
+
+****** Invalid ******
+
+
+ *** Configuration:2
+
+
+featureamp:truebase:truecodecs:truegui:trueskiptrack:truemetadata:trueremovetrack:truealbum:truewav:falsenicetohave:trueplaylist:truejumpposition:truelight:falseopenfolder:truequeuetrack:truenmute:falsetageditor:falsetracknumber:trueprogress:trueaac:falseplaylistcontrols:truemultipleplaylists:falserandomcolor:truesaveandload:falseshufflerepeat:trueogg:trueyoutube:truemp3:falseoscolors:falsereorder:falsecover:falsevolume:trueskins:truedark:falseclearplaylist:trueremeberstatus:trueprogressbar:truetitlebar:false
+
+****** Invalid ******
+
+
+ *** Configuration:3
+
+
+featureamp:truebase:truecodecs:truegui:trueskiptrack:truemetadata:trueremovetrack:truealbum:truewav:falsenicetohave:trueplaylist:truejumpposition:truelight:trueopenfolder:truequeuetrack:truenmute:falsetageditor:truetracknumber:trueprogress:trueaac:falseplaylistcontrols:truemultipleplaylists:truerandomcolor:falsesaveandload:falseshufflerepeat:trueogg:trueyoutube:falsemp3:falseoscolors:falsereorder:falsecover:truevolume:falseskins:truedark:falseclearplaylist:trueremeberstatus:falseprogressbar:truetitlebar:false
+
+playOGGTest
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at featureamp.controler.Kernel.loadMetaData__wrappee__Base(Kernel.java:166)
+	at featureamp.controler.Kernel.loadMetaData__wrappee__Cover(Kernel.java:179)
+	at featureamp.controler.Kernel.loadMetaData__wrappee__Tracknumber(Kernel.java:192)
+	at featureamp.controler.Kernel.loadMetaData(Kernel.java:204)
+	at featureamp.controler.Kernel.setTrack(Kernel.java:327)
+	at featureamp.gui.MainWindow.openFile(MainWindow.java:781)
+	at featureamp.gui.MainWindow.openFile__wrappee__Base(MainWindow.java:733)
+	at featureamp.gui.MainWindow.openFile(MainWindow.java:753)
+	at featureamp.gui.MainWindow.access$17(MainWindow.java:740)
+	at featureamp.gui.MainWindow$10.actionPerformed(MainWindow.java:503)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at featureamp.playlist.Playlist.getValueAt(Playlist.java:162)
+	at javax.swing.JTable.getValueAt(Unknown Source)
+	at javax.swing.JTable.prepareRenderer(Unknown Source)
+	at javax.swing.plaf.basic.BasicTableUI.paintCell(Unknown Source)
+	at javax.swing.plaf.basic.BasicTableUI.paintCells(Unknown Source)
+	at javax.swing.plaf.basic.BasicTableUI.paint(Unknown Source)
+	at javax.swing.plaf.ComponentUI.update(Unknown Source)
+	at javax.swing.JComponent.paintComponent(Unknown Source)
+	at javax.swing.JComponent.paint(Unknown Source)
+	at javax.swing.JComponent.paintToOffscreen(Unknown Source)
+	at javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(Unknown Source)
+	at javax.swing.RepaintManager$PaintManager.paint(Unknown Source)
+	at javax.swing.RepaintManager.paint(Unknown Source)
+	at javax.swing.JComponent._paintImmediately(Unknown Source)
+	at javax.swing.JComponent.paintImmediately(Unknown Source)
+	at javax.swing.RepaintManager$4.run(Unknown Source)
+	at javax.swing.RepaintManager$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	at javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	at javax.swing.RepaintManager.prePaintDirtyRegions(Unknown Source)
+	at javax.swing.RepaintManager.access$1200(Unknown Source)
+	at javax.swing.RepaintManager$ProcessingRunnable.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+cont: 4((( apos os testes))) 
+featureamp:truebase:truecodecs:truegui:trueskiptrack:truemetadata:trueremovetrack:truealbum:truewav:falsenicetohave:trueplaylist:truejumpposition:truelight:trueopenfolder:truequeuetrack:truenmute:falsetageditor:truetracknumber:trueprogress:trueaac:falseplaylistcontrols:truemultipleplaylists:truerandomcolor:falsesaveandload:falseshufflerepeat:trueogg:trueyoutube:falsemp3:falseoscolors:falsereorder:falsecover:truevolume:falseskins:truedark:falseclearplaylist:trueremeberstatus:falseprogressbar:truetitlebar:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:4
+Total time (s): 4872 time average (s): 4.872 number of times performed:1
