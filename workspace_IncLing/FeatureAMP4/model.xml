@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and mandatory="true" name="BASE_FEATUREAMP">
+            <feature mandatory="true" name="PLAYER_BAR"/>
+            <feature mandatory="true" name="ID3_TITLE"/>
+            <and name="VOLUME_CONTROL">
+                <feature name="MUTE"/>
+            </and>
+            <feature name="SHOW_COVER"/>
+            <or mandatory="true" name="PROGRESS">
+                <feature name="TITLE_TIME"/>
+                <feature name="PROGRESS_BAR"/>
+            </or>
+            <and name="PLAYLIST">
+                <feature mandatory="true" name="LOAD_FOLDER"/>
+                <feature name="SAVE_LOAD_PLAYLIST"/>
+                <or mandatory="true" name="PLAYER_CONTROL">
+                    <feature name="SHUFFLE_REPEAT"/>
+                    <feature name="SKIP_TRACK"/>
+                    <and name="REMOVE_TRACK">
+                        <feature name="CLEAR_PLAYLIST"/>
+                    </and>
+                    <feature name="REORDER_PLAYLIST"/>
+                </or>
+                <feature name="QUEUE_TRACK"/>
+            </and>
+            <alt mandatory="true" name="SKINS">
+                <feature name="LIGHT"/>
+                <feature name="DARK"/>
+            </alt>
+            <or mandatory="true" name="FILE_SUPPORT">
+                <feature name="MP3"/>
+                <feature name="OGG"/>
+            </or>
+        </and>
+    </struct>
+    <constraints>
+        <rule>
+            <imp>
+                <var>PLAYLIST</var>
+                <var>PROGRESS_BAR</var>
+            </imp>
+        </rule>
+    </constraints>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
