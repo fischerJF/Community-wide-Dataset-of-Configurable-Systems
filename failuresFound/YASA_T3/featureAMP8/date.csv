@@ -1,0 +1,2 @@
+"configuration","trace","description"
+"featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:truewav:truereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:truefilesupport:truequeuetrack:trueprogressbar:truemute:trueshowtime:trueloadfolder:truetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:falseclearplaylist:trueshowcover:true","	at org.fest.swing.driver.JListItemIndexValidator.validateIndex(JListItemIndexValidator.java:49)","queueListTest(testset.ApplicationGUITest)"

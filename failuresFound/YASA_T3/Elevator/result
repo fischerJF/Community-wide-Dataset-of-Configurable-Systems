@@ -1,0 +1,145 @@
+Base:true, Weight:true, Empty:true, TwoThirdsFull:false, ExecutiveFloor:false, Overloaded:false, 
+Base:true, Weight:false, Empty:false, TwoThirdsFull:false, ExecutiveFloor:false, Overloaded:false, 
+Base:true, Weight:false, Empty:true, TwoThirdsFull:false, ExecutiveFloor:true, Overloaded:false, 
+Base:true, Weight:false, Empty:true, TwoThirdsFull:false, ExecutiveFloor:false, Overloaded:false, 
+Base:true, Weight:true, Empty:true, TwoThirdsFull:true, ExecutiveFloor:true, Overloaded:false, 
+Base:true, Weight:true, Empty:true, TwoThirdsFull:false, ExecutiveFloor:true, Overloaded:true, 
+Base:true, Weight:true, Empty:false, TwoThirdsFull:false, ExecutiveFloor:false, Overloaded:true, 
+Base:true, Weight:true, Empty:true, TwoThirdsFull:true, ExecutiveFloor:false, Overloaded:true, 
+Base:true, Weight:true, Empty:false, TwoThirdsFull:true, ExecutiveFloor:true, Overloaded:true, 
+Base:true, Weight:true, Empty:false, TwoThirdsFull:true, ExecutiveFloor:false, Overloaded:false, 
+Base:true, Weight:false, Empty:false, TwoThirdsFull:false, ExecutiveFloor:true, Overloaded:false, 
+Configuration:
+conf: weight:true twothirdsfull:false overloaded:false executivefloor:false empty:true base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+conf: weight:true twothirdsfull:false overloaded:false executivefloor:false empty:true base:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:false empty:false base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:false empty:false base:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:true empty:true base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:true empty:true base:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:false empty:true base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:false empty:true base:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: weight:true twothirdsfull:true overloaded:false executivefloor:true empty:true base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+conf: weight:true twothirdsfull:true overloaded:false executivefloor:true empty:true base:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: weight:true twothirdsfull:false overloaded:true executivefloor:true empty:true base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+Configuration:conf: weight:true twothirdsfull:false overloaded:true executivefloor:true empty:true base:true
+
+
+ ----------------------- 
+
+
+
+conf: weight:true twothirdsfull:false overloaded:true executivefloor:false empty:false base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+conf: weight:true twothirdsfull:false overloaded:true executivefloor:false empty:false base:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:false empty:true base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:false empty:true base:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:true empty:false base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+Configuration:conf: weight:true twothirdsfull:true overloaded:true executivefloor:true empty:false base:true
+
+
+ ----------------------- 
+
+
+
+conf: weight:true twothirdsfull:true overloaded:false executivefloor:false empty:false base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+conf: weight:true twothirdsfull:true overloaded:false executivefloor:false empty:false base:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:true empty:false base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:true empty:false base:true
+
+
+ ----------------------- 
+
+
+product counter:11
+Total time (ms): 477 time average (s): 0.477 number of times performed:1
