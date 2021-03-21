@@ -1,0 +1,54 @@
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+Configuration:conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+cont: 1((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Precedence constraint violated for employee "Karl".
+Salary of Divya adjusted to 50.0
+Precedence constraint violated for employee "Karl".
+Salary of Divya adjusted to 50.0
+Salary of Ray adjusted to 117283.5
+Salary of Klaus adjusted to 11728.0
+Precedence constraint violated for employee "Karl".
+Salary of Joe adjusted to 1172.0
+cont: 2((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:falsecont: 3((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:falsecont: 4((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Contador de produtos:4
+Total time (ms): 50604 time average (s): 50.604 number of times performed:1

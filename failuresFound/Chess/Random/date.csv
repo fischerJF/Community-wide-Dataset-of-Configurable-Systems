@@ -1,0 +1,31 @@
+"configuration","trace","description"
+"ai_player:falseonline_player:trueoffline_player:true","	at org.junit.Assert.fail(Assert.java:86)","testChangePosition(testset.BoardTest)"
+"ai_player:trueonline_player:falseoffline_player:false","	at org.junit.Assert.fail(Assert.java:86)","testBlack_check_mate1(testset.BoardTest)"
+"ai_player:trueonline_player:falseoffline_player:false","	at org.junit.Assert.fail(Assert.java:86)","testBlack_check_mate2(testset.BoardTest)"
+"ai_player:trueonline_player:falseoffline_player:false","	at org.junit.Assert.fail(Assert.java:86)","testBlack_check_mate3(testset.BoardTest)"
+"ai_player:trueonline_player:falseoffline_player:false","	at org.junit.Assert.fail(Assert.java:88)","clickedPanelTest(testset.ModelTest)"
+"ai_player:trueonline_player:falseoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_2Test(testset.ModelTest)"
+"ai_player:trueonline_player:falseoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_3Test(testset.ModelTest)"
+"ai_player:trueonline_player:falseoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_4Test(testset.ModelTest)"
+"ai_player:falseonline_player:trueoffline_player:false","	at org.junit.Assert.fail(Assert.java:86)","testChangePosition(testset.BoardTest)"
+"ai_player:falseonline_player:trueoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanelTest(testset.ModelTest)"
+"ai_player:falseonline_player:trueoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_2Test(testset.ModelTest)"
+"ai_player:falseonline_player:trueoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_3Test(testset.ModelTest)"
+"ai_player:falseonline_player:trueoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_4Test(testset.ModelTest)"
+"ai_player:trueonline_player:trueoffline_player:false","	at org.junit.Assert.fail(Assert.java:88)","clickedPanelTest(testset.ModelTest)"
+"ai_player:trueonline_player:trueoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_2Test(testset.ModelTest)"
+"ai_player:trueonline_player:trueoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_3Test(testset.ModelTest)"
+"ai_player:trueonline_player:trueoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_4Test(testset.ModelTest)"
+"ai_player:trueonline_player:trueoffline_player:true","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanelTest(testset.ModelTest)"
+"ai_player:trueonline_player:trueoffline_player:true","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_2Test(testset.ModelTest)"
+"ai_player:trueonline_player:trueoffline_player:true","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_3Test(testset.ModelTest)"
+"ai_player:trueonline_player:trueoffline_player:true","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_4Test(testset.ModelTest)"
+"ai_player:falseonline_player:falseoffline_player:true","	at org.junit.Assert.fail(Assert.java:86)","testChangePosition(testset.BoardTest)"
+"ai_player:falseonline_player:falseoffline_player:true","	at org.junit.Assert.fail(Assert.java:88)","clickedPanelTest(testset.ModelTest)"
+"ai_player:falseonline_player:falseoffline_player:true","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_2Test(testset.ModelTest)"
+"ai_player:falseonline_player:falseoffline_player:true","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_3Test(testset.ModelTest)"
+"ai_player:falseonline_player:falseoffline_player:true","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_4Test(testset.ModelTest)"
+"ai_player:trueonline_player:falseoffline_player:true","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanelTest(testset.ModelTest)"
+"ai_player:trueonline_player:falseoffline_player:true","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_2Test(testset.ModelTest)"
+"ai_player:trueonline_player:falseoffline_player:true","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_3Test(testset.ModelTest)"
+"ai_player:trueonline_player:falseoffline_player:true","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_4Test(testset.ModelTest)"

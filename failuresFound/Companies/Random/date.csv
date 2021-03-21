@@ -1,0 +1,34 @@
+"configuration","trace","description"
+configuration,trace,description
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false,"
+",test2B(tests.Pilot_GUI)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false,"	at org.junit.Assert.assertEquals(Assert.java:115)
+",testTotalValueDepartment(tests.TestGUIExample)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false,"
+",test2B(tests.Pilot_GUI)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false,"	at org.junit.Assert.assertEquals(Assert.java:115)
+",testTotalValueDepartment(tests.TestGUIExample)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false,"
+",test2B(tests.Pilot_GUI)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false,"	at org.junit.Assert.assertEquals(Assert.java:115)
+",testTotalValueDepartment(tests.TestGUIExample)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false,"
+",test2B(tests.Pilot_GUI)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false,"	at org.junit.Assert.assertEquals(Assert.java:115)
+",testTotalValueDepartment(tests.TestGUIExample)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true,"
+",test2B(tests.Pilot_GUI)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true,"	at org.junit.Assert.assertEquals(Assert.java:115)
+",testTotalValueDepartment(tests.TestGUIExample)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true,"
+",test2B(tests.Pilot_GUI)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true,"	at org.junit.Assert.assertEquals(Assert.java:115)
+",testTotalValueDepartment(tests.TestGUIExample)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true,"
+",test2B(tests.Pilot_GUI)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true,"	at org.junit.Assert.assertEquals(Assert.java:115)
+",testTotalValueDepartment(tests.TestGUIExample)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true,"
+",test2B(tests.Pilot_GUI)
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true,"	at org.junit.Assert.assertEquals(Assert.java:115)
+",testTotalValueDepartment(tests.TestGUIExample)

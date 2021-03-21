@@ -1,0 +1,3 @@
+configuration,trace,description
+TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true,"
+",test2B(tests.Pilot_GUI)

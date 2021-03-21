@@ -1,0 +1,6 @@
+"configuration","trace","description"
+"ai_player:falseonline_player:trueoffline_player:false","	at org.junit.Assert.fail(Assert.java:86)","testChangePosition(testset.BoardTest)"
+"ai_player:falseonline_player:trueoffline_player:false","	at org.junit.Assert.fail(Assert.java:88)","clickedPanelTest(testset.ModelTest)"
+"ai_player:falseonline_player:trueoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_2Test(testset.ModelTest)"
+"ai_player:falseonline_player:trueoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_3Test(testset.ModelTest)"
+"ai_player:falseonline_player:trueoffline_player:false","	at model.Board.whiteKingCheck(Board.java:611)","clickedPanel_4Test(testset.ModelTest)"

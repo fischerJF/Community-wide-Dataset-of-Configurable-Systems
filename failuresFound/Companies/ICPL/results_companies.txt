@@ -1,0 +1,169 @@
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:true, TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:true, TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:false, TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:false, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:true, TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:false, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:false, TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, ********************************
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+cont: 1((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Salary of Divya adjusted to 50.0
+cont: 2((( apos os testes))) 
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+Salary of Ray1 adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+cont: 3((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 12345.05
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+cont: 4((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+Configuration:
+cont: 5((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Configuration:
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+Salary of Divya adjusted to 50.0
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:falsecont: 6((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:falsecont: 7((( apos os testes))) 
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+cont: 8((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+cont: 9((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+cont: 10((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Configuration:
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Salary of Divya adjusted to 50.0
+cont: 11((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+Configuration:
+cont: 12((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:falseConfiguration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+cont: 13((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+
+Contador de produtos:13

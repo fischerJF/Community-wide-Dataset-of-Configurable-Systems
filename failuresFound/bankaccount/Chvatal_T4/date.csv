@@ -1,0 +1,2 @@
+"configuration","trace","description"
+"TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true","	at org.junit.Assert.fail(Assert.java:86)","testTransfer(testset.TransactionTest)"
