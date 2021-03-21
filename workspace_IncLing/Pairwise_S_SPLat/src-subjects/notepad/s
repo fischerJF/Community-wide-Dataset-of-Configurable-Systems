@@ -1,6 +1,0 @@
-#!/bin/bash
-
-source ./compile
-java -cp "${CP}" \
-    org.junit.runner.JUnitCore \
-    smashed.TestAll
