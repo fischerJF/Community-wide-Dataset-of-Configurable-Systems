@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and mandatory="true" name="WEICHBRODT_featureAMP">
+            <and mandatory="true" name="GUI">
+                <or mandatory="true" name="TimeDisplay">
+                    <feature name="ProgressBar"/>
+                    <feature name="ShowTime"/>
+                </or>
+                <and name="VolumeControl">
+                    <feature name="Mute"/>
+                </and>
+                <feature name="ShowCover"/>
+                <and name="Playlist">
+                    <feature mandatory="true" name="LoadFolder"/>
+                    <or mandatory="true" name="ShuffleSkipRemove">
+                        <feature name="ShuffleRepeat"/>
+                        <feature name="SkipTrack"/>
+                        <and name="RemoveTrack">
+                            <feature name="ClearPlaylist"/>
+                        </and>
+                        <feature name="ReorderPlaylist"/>
+                    </or>
+                    <feature name="SaveAndLoadPlaylist"/>
+                    <feature name="QueueTrack"/>
+                </and>
+                <alt mandatory="true" name="Skins">
+                    <feature name="Light"/>
+                    <feature name="Dark"/>
+                </alt>
+            </and>
+            <or mandatory="true" name="FileSupport">
+                <feature name="MP3"/>
+                <feature name="OGG"/>
+            </or>
+        </and>
+    </struct>
+    <constraints>
+        <rule>
+            <imp>
+                <var>Playlist</var>
+                <var>ProgressBar</var>
+            </imp>
+        </rule>
+    </constraints>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
