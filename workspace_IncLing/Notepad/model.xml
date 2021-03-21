@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and abstract="true" mandatory="true" name="Notepad">
+            <and abstract="true" name="NotepadProductLine">
+                <feature name="WORDCOUNTTOOLBAR"/>
+                <feature name="WORDCOUNTMENUBAR"/>
+                <feature name="WORDCOUNT"/>
+                <feature name="UNDOREDOTOOLBAR"/>
+                <feature name="UNDOREDOMENUBAR"/>
+                <feature name="UNDOREDO"/>
+                <feature name="SEARCHTOOLBAR"/>
+                <feature name="SEARCHMENUBAR"/>
+                <feature name="SEARCH"/>
+                <feature name="PRINTTOOLBAR"/>
+                <feature name="PRINTMENUBAR"/>
+                <feature name="PRINT"/>
+                <feature name="PERSISTENCETOOLBAR"/>
+                <feature name="PERSISTENCEMENUBAR"/>
+                <feature name="PERSISTENCE"/>
+                <feature name="FORMATTOOLBAR"/>
+                <feature name="FORMATMENUBAR"/>
+                <feature name="FORMAT"/>
+                <feature name="EDITTOOLBAR"/>
+                <feature name="EDITMENUBAR"/>
+                <feature name="EDIT"/>
+                <feature name="BASETOOLBAR"/>
+                <feature name="BASEMENUBAR"/>
+                <feature mandatory="true" name="BASE"/>
+            </and>
+        </and>
+    </struct>
+    <constraints>
+        <rule>
+            <disj>
+                <var>BASEMENUBAR</var>
+                <var>BASETOOLBAR</var>
+            </disj>
+        </rule>
+        <rule>
+            <imp>
+                <var>EDIT</var>
+                <conj>
+                    <var>BASEMENUBAR</var>
+                    <var>BASETOOLBAR</var>
+                </conj>
+            </imp>
+        </rule>
+        <rule>
+            <eq>
+                <var>WORDCOUNTTOOLBAR</var>
+                <conj>
+                    <var>WORDCOUNT</var>
+                    <var>BASETOOLBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>WORDCOUNTMENUBAR</var>
+                <conj>
+                    <var>WORDCOUNT</var>
+                    <var>BASEMENUBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>UNDOREDOTOOLBAR</var>
+                <conj>
+                    <var>UNDOREDO</var>
+                    <var>BASETOOLBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>UNDOREDOMENUBAR</var>
+                <conj>
+                    <var>UNDOREDO</var>
+                    <var>BASEMENUBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>SEARCHTOOLBAR</var>
+                <conj>
+                    <var>SEARCH</var>
+                    <var>BASETOOLBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>SEARCHMENUBAR</var>
+                <conj>
+                    <var>SEARCH</var>
+                    <var>BASEMENUBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>PRINTTOOLBAR</var>
+                <conj>
+                    <var>PRINT</var>
+                    <var>BASETOOLBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>PRINTMENUBAR</var>
+                <conj>
+                    <var>PRINT</var>
+                    <var>BASEMENUBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>PERSISTENCETOOLBAR</var>
+                <conj>
+                    <var>PERSISTENCE</var>
+                    <var>BASETOOLBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>PERSISTENCEMENUBAR</var>
+                <conj>
+                    <var>PERSISTENCE</var>
+                    <var>BASEMENUBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>FORMATTOOLBAR</var>
+                <conj>
+                    <var>FORMAT</var>
+                    <var>BASETOOLBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>FORMATMENUBAR</var>
+                <conj>
+                    <var>FORMAT</var>
+                    <var>BASEMENUBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>EDITTOOLBAR</var>
+                <conj>
+                    <var>EDIT</var>
+                    <var>BASETOOLBAR</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <var>EDITMENUBAR</var>
+                <conj>
+                    <var>EDIT</var>
+                    <var>BASEMENUBAR</var>
+                </conj>
+            </eq>
+        </rule>
+    </constraints>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
