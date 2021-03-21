@@ -1,0 +1,547 @@
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:true, LOCK:true, LOGGING:false, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:false, INTERESTESTIMATION:false, LOCK:false, LOGGING:false, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:true, LOCK:true, LOGGING:true, OVERDRAFT:false, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:true, LOCK:true, LOGGING:false, OVERDRAFT:true, TRANSACTION:true, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:true, LOCK:true, LOGGING:true, OVERDRAFT:true, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:false, LOCK:true, LOGGING:true, OVERDRAFT:true, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:true, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:true, OVERDRAFT:true, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:true, LOCK:true, LOGGING:true, OVERDRAFT:false, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:true, LOCK:false, LOGGING:false, OVERDRAFT:false, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:false, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:true, OVERDRAFT:false, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:false, LOCK:true, LOGGING:false, OVERDRAFT:false, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:false, OVERDRAFT:false, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:false, INTEREST:false, INTERESTESTIMATION:false, LOCK:false, LOGGING:false, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:true, LOCK:true, LOGGING:true, OVERDRAFT:true, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:true, LOCK:false, LOGGING:true, OVERDRAFT:false, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:false, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:false, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:true, LOCK:true, LOGGING:true, OVERDRAFT:false, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:true, LOCK:false, LOGGING:false, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:false, LOCK:false, LOGGING:true, OVERDRAFT:false, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:true, LOCK:true, LOGGING:false, OVERDRAFT:false, TRANSACTION:true, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:true, INTEREST:false, INTERESTESTIMATION:false, LOCK:false, LOGGING:true, OVERDRAFT:false, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:true, LOCK:false, LOGGING:false, OVERDRAFT:false, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:false, INTEREST:false, INTERESTESTIMATION:false, LOCK:false, LOGGING:true, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:true, OVERDRAFT:false, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:false, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:true, OVERDRAFT:false, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:true, LOCK:true, LOGGING:true, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:false, LOCK:true, LOGGING:false, OVERDRAFT:true, TRANSACTION:true, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:false, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:true, OVERDRAFT:true, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:true, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:false, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:true, LOCK:true, LOGGING:true, OVERDRAFT:true, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:true, LOCK:false, LOGGING:false, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:false, OVERDRAFT:true, TRANSACTION:true, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:false, LOCK:false, LOGGING:false, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:false, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:true, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:false, INTERESTESTIMATION:false, LOCK:false, LOGGING:true, OVERDRAFT:false, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:false, LOCK:true, LOGGING:true, OVERDRAFT:false, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:false, CREDITWORTHINESS:false, DAILYLIMIT:false, INTEREST:false, INTERESTESTIMATION:false, LOCK:false, LOGGING:false, OVERDRAFT:false, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:true, LOCK:false, LOGGING:true, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:false, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:false, OVERDRAFT:false, TRANSACTION:true, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:false, LOCK:false, LOGGING:false, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:true, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:false, OVERDRAFT:false, TRANSACTION:true, TRANSACTIONLOG:false, 
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+cont: 1((( apos os testes))) 
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:false INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+cont: 2((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:false INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 3((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 4((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 5((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 6((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 7((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+cont: 8((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:false LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:false LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:truecont: 9((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 10((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+cont: 11((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+cont: 12((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:false INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+cont: 13((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:false INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+Configuration:
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 14((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:true LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+cont: 15((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:true LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+cont: 16((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 17((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+cont: 18((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:true LOCK:false INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+cont: 19((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:true LOCK:false INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:false LOGGING:false LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 20((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:false LOGGING:false LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:true LOCK:false INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+cont: 21((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:true LOCK:false INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:false LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+cont: 22((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:false LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:true LOCK:false INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+cont: 23((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:true LOCK:false INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 24((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 25((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+cont: 26((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 27((( apos os testes))) 
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 28((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+cont: 29((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:trueConfiguration:
+
+
+
+ ----------------------- 
+
+
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 30((( apos os testes))) 
+Configuration:
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:truecont: 31((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+
+ TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at testset.TransactionTest.testTransfer(TransactionTest.java:60)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:64)
+	at experiment.Sampling.run(Sampling.java:91)
+	at experiment.Sampling.main(Sampling.java:167)
+
+3 java.lang.AssertionError
+4 null
+5 testTransfer(testset.TransactionTest)
+6 class java.lang.AssertionError
+7 testTransfer(testset.TransactionTest)
+cont: 32((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:false INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+cont: 33((( apos os testes))) 
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:false INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+cont: 34((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:true LOCK:false INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+cont: 35((( apos os testes))) 
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:true LOCK:false INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 36((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:true LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+cont: 37((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:true LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:false LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 38((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:false LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:false INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:false LOCK:false INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:false LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+cont: 39((( apos os testes))) 
+Configuration:
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 40((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:false LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:40
+Total time (ms): 638 time average (s): 0.638 number of times performed:1
