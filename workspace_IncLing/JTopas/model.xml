@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and abstract="true" mandatory="true" name="Program">
+            <feature name="IMAGEPARTS"/>
+            <feature name="TOKENPOSONLY"/>
+            <feature name="COUNTLINES"/>
+            <feature name="BLOCKCOMMENTS"/>
+            <feature name="LINECOMMENTS"/>
+            <feature mandatory="true" name="BASE"/>
+        </and>
+    </struct>
+    <constraints/>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
