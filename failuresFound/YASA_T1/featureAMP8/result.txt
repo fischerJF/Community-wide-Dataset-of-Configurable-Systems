@@ -1,0 +1,27 @@
+VolumeControl:false, SkipTrack:false, PlayEngine:true, RemoveTrack:false, WAV:false, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:false, Mute:false, ShowTime:true, LoadFolder:false, TrackTime:true, ShuffleRepeat:false, OGG:false, MP3:true, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:false, showCover:true, 
+VolumeControl:true, SkipTrack:true, PlayEngine:true, RemoveTrack:true, WAV:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:true, ProgressBar:true, Mute:true, ShowTime:false, LoadFolder:true, TrackTime:true, ShuffleRepeat:true, OGG:true, MP3:false, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:true, showCover:false, 
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:falsewav:falsereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:falseshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:falsemp3:trueskins:truedark:falseclearplaylist:falseshowcover:true
+
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\note.mp3
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\note.mp3
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\note.mp3
+cont: 1((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:falsewav:falsereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:falseshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:falsemp3:trueskins:truedark:falseclearplaylist:falseshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:trueremovetrack:truewav:truereorderplaylist:trueplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:trueprogressbar:truemute:trueshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:truemp3:falseskins:truedark:trueclearplaylist:trueshowcover:false
+
+cont: 2((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:trueremovetrack:truewav:truereorderplaylist:trueplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:trueprogressbar:truemute:trueshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:truemp3:falseskins:truedark:trueclearplaylist:trueshowcover:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:2
+Total time (ms): 13682 time average (s): 13.682 number of times performed:1

@@ -1,0 +1,4 @@
+TREE_STRUCTURE:false, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:false, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+Contador de produtos:0
+Total time (ms): 32 time average (s): 0.032 number of times performed:1

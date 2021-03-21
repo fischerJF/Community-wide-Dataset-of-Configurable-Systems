@@ -1,0 +1,24 @@
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, QueueRemove:false, ReorderPlaylist:false, Playlist:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, QueueTrack:false, Mute:true, ProgressBar:false, Progress:true, ShowTime:true, PlaylistControls:false, ShowCover:false, LoadFolder:false, SkipRepeat:false, ShuffleRepeat:false, Base:true, Wave:true, MP3:false, Skins:true, Dark:true, ClearPlaylist:false, FileSupport:true, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, QueueRemove:true, ReorderPlaylist:true, Playlist:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, QueueTrack:true, Mute:false, ProgressBar:true, Progress:true, ShowTime:false, PlaylistControls:true, ShowCover:true, LoadFolder:true, SkipRepeat:true, ShuffleRepeat:true, Base:true, Wave:false, MP3:true, Skins:true, Dark:false, ClearPlaylist:true, FileSupport:true, 
+Configuration:
+featureamp:truebase:truegui:truefilesupport:truevolumecontrol:trueskiptrack:falseremovetrack:falsequeueremove:falsereorderplaylist:falseplaylist:falselight:falsesaveandloadplaylist:falsequeuetrack:falsemute:trueprogressbar:falseprogress:trueshowtime:trueplaylistcontrols:falseshowcover:falseloadfolder:falseskiprepeat:falseshufflerepeat:falsewave:truemp3:falseskins:truedark:trueclearplaylist:false
+
+cont: 1((( apos os testes))) 
+featureamp:truebase:truegui:truefilesupport:truevolumecontrol:trueskiptrack:falseremovetrack:falsequeueremove:falsereorderplaylist:falseplaylist:falselight:falsesaveandloadplaylist:falsequeuetrack:falsemute:trueprogressbar:falseprogress:trueshowtime:trueplaylistcontrols:falseshowcover:falseloadfolder:falseskiprepeat:falseshufflerepeat:falsewave:truemp3:falseskins:truedark:trueclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truebase:truegui:truefilesupport:truevolumecontrol:falseskiptrack:trueremovetrack:truequeueremove:truereorderplaylist:trueplaylist:truelight:truesaveandloadplaylist:truequeuetrack:truemute:falseprogressbar:trueprogress:trueshowtime:falseplaylistcontrols:trueshowcover:trueloadfolder:trueskiprepeat:trueshufflerepeat:truewave:falsemp3:trueskins:truedark:falseclearplaylist:true
+
+cont: 2((( apos os testes))) featureamp:truebase:truegui:truefilesupport:truevolumecontrol:falseskiptrack:trueremovetrack:truequeueremove:truereorderplaylist:trueplaylist:truelight:truesaveandloadplaylist:truequeuetrack:truemute:falseprogressbar:trueprogress:trueshowtime:falseplaylistcontrols:trueshowcover:trueloadfolder:trueskiprepeat:trueshufflerepeat:truewave:falsemp3:trueskins:truedark:falseclearplaylist:true
+
+
+ ----------------------- 
+
+
+
+Contador de produtos:2
+Total time (ms): 16311 time average (s): 16.31116311.0 number of times performed:1

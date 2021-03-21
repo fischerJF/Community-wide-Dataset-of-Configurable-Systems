@@ -1,0 +1,24 @@
+OBSERVER:false, REMOVER:true, LOGGIN:true, 
+OBSERVER:true, REMOVER:false, LOGGIN:false, 
+Configuration:
+observer:falseremover:trueloggin:true
+
+cont: 1((( apos os testes))) 
+observer:falseremover:trueloggin:true
+
+
+ ----------------------- 
+
+
+Configuration:
+observer:trueremover:falseloggin:false
+
+cont: 2((( apos os testes))) 
+observer:trueremover:falseloggin:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:2
+Total time (ms): 4797 time average (ms): 4797.0 number of times performed:1

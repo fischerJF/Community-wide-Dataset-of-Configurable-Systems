@@ -1,0 +1,41 @@
+SkipTrack:false, Metadata:true, RemoveTrack:false, Album:true, WAV:true, NiceToHave:false, Playlist:false, JumpPosition:false, Light:false, OpenFolder:false, GUI:true, FeatureAMP:true, QueueTrack:false, Mute:true, TagEditor:false, Tracknumber:false, Codecs:true, Progress:true, AAC:false, PlaylistControls:false, MultiplePlaylists:false, RandomColor:false, SaveandLoad:false, ShuffleRepeat:false, Base:true, OGG:false, YouTube:false, MP3:false, OSColors:true, Reorder:false, Cover:true, Volume:true, Skins:true, Dark:false, ClearPlaylist:false, RemeberStatus:false, Progressbar:false, Titlebar:true, 
+SkipTrack:true, Metadata:true, RemoveTrack:true, Album:true, WAV:true, NiceToHave:true, Playlist:true, JumpPosition:true, Light:false, OpenFolder:true, GUI:true, FeatureAMP:true, QueueTrack:true, Mute:true, TagEditor:true, Tracknumber:true, Codecs:true, Progress:true, AAC:true, PlaylistControls:true, MultiplePlaylists:true, RandomColor:false, SaveandLoad:false, ShuffleRepeat:true, Base:true, OGG:true, YouTube:true, MP3:true, OSColors:false, Reorder:true, Cover:true, Volume:true, Skins:true, Dark:true, ClearPlaylist:true, RemeberStatus:true, Progressbar:true, Titlebar:true, 
+SkipTrack:true, Metadata:true, RemoveTrack:true, Album:true, WAV:false, NiceToHave:false, Playlist:true, JumpPosition:false, Light:false, OpenFolder:true, GUI:true, FeatureAMP:true, QueueTrack:false, Mute:true, TagEditor:false, Tracknumber:true, Codecs:true, Progress:true, AAC:true, PlaylistControls:true, MultiplePlaylists:false, RandomColor:true, SaveandLoad:false, ShuffleRepeat:true, Base:true, OGG:false, YouTube:true, MP3:true, OSColors:false, Reorder:true, Cover:true, Volume:true, Skins:true, Dark:false, ClearPlaylist:false, RemeberStatus:false, Progressbar:true, Titlebar:true, 
+SkipTrack:false, Metadata:false, RemoveTrack:false, Album:false, WAV:true, NiceToHave:false, Playlist:false, JumpPosition:false, Light:true, OpenFolder:false, GUI:true, FeatureAMP:true, QueueTrack:false, Mute:false, TagEditor:false, Tracknumber:false, Codecs:true, Progress:true, AAC:false, PlaylistControls:false, MultiplePlaylists:false, RandomColor:false, SaveandLoad:false, ShuffleRepeat:false, Base:true, OGG:false, YouTube:false, MP3:false, OSColors:false, Reorder:false, Cover:false, Volume:false, Skins:true, Dark:false, ClearPlaylist:false, RemeberStatus:false, Progressbar:true, Titlebar:false, 
+Configuration:
+featureamp:truebase:truecodecs:truegui:trueskiptrack:falsemetadata:trueremovetrack:falsealbum:truewav:truenicetohave:falseplaylist:falsejumpposition:falselight:falseopenfolder:falsequeuetrack:falsenmute:truetageditor:falsetracknumber:falseprogress:trueaac:falseplaylistcontrols:falsemultipleplaylists:falserandomcolor:falsesaveandload:falseshufflerepeat:falseogg:falseyoutube:falsemp3:falseoscolors:truereorder:falsecover:truevolume:trueskins:truedark:falseclearplaylist:falseremeberstatus:falseprogressbar:falsetitlebar:true
+
+cont: 1((( apos os testes))) 
+featureamp:truebase:truecodecs:truegui:trueskiptrack:falsemetadata:trueremovetrack:falsealbum:truewav:truenicetohave:falseplaylist:falsejumpposition:falselight:falseopenfolder:falsequeuetrack:falsenmute:truetageditor:falsetracknumber:falseprogress:trueaac:falseplaylistcontrols:falsemultipleplaylists:falserandomcolor:falsesaveandload:falseshufflerepeat:falseogg:falseyoutube:falsemp3:falseoscolors:truereorder:falsecover:truevolume:trueskins:truedark:falseclearplaylist:falseremeberstatus:falseprogressbar:falsetitlebar:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truebase:truecodecs:truegui:trueskiptrack:truemetadata:trueremovetrack:truealbum:truewav:truenicetohave:trueplaylist:truejumpposition:truelight:falseopenfolder:truequeuetrack:truenmute:truetageditor:truetracknumber:trueprogress:trueaac:trueplaylistcontrols:truemultipleplaylists:truerandomcolor:falsesaveandload:falseshufflerepeat:trueogg:trueyoutube:truemp3:trueoscolors:falsereorder:truecover:truevolume:trueskins:truedark:trueclearplaylist:trueremeberstatus:trueprogressbar:truetitlebar:true
+
+****** Invalid ******
+Configuration:
+featureamp:truebase:truecodecs:truegui:trueskiptrack:truemetadata:trueremovetrack:truealbum:truewav:falsenicetohave:falseplaylist:truejumpposition:falselight:falseopenfolder:truequeuetrack:falsenmute:truetageditor:falsetracknumber:trueprogress:trueaac:trueplaylistcontrols:truemultipleplaylists:falserandomcolor:truesaveandload:falseshufflerepeat:trueogg:falseyoutube:truemp3:trueoscolors:falsereorder:truecover:truevolume:trueskins:truedark:falseclearplaylist:falseremeberstatus:falseprogressbar:truetitlebar:true
+
+cont: 2((( apos os testes))) 
+featureamp:truebase:truecodecs:truegui:trueskiptrack:truemetadata:trueremovetrack:truealbum:truewav:falsenicetohave:falseplaylist:truejumpposition:falselight:falseopenfolder:truequeuetrack:falsenmute:truetageditor:falsetracknumber:trueprogress:trueaac:trueplaylistcontrols:truemultipleplaylists:falserandomcolor:truesaveandload:falseshufflerepeat:trueogg:falseyoutube:truemp3:trueoscolors:falsereorder:truecover:truevolume:trueskins:truedark:falseclearplaylist:falseremeberstatus:falseprogressbar:truetitlebar:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truebase:truecodecs:truegui:trueskiptrack:falsemetadata:falseremovetrack:falsealbum:falsewav:truenicetohave:falseplaylist:falsejumpposition:falselight:trueopenfolder:falsequeuetrack:falsenmute:falsetageditor:falsetracknumber:falseprogress:trueaac:falseplaylistcontrols:falsemultipleplaylists:falserandomcolor:falsesaveandload:falseshufflerepeat:falseogg:falseyoutube:falsemp3:falseoscolors:falsereorder:falsecover:falsevolume:falseskins:truedark:falseclearplaylist:falseremeberstatus:falseprogressbar:truetitlebar:false
+
+playWAVTest
+cont: 3((( apos os testes))) 
+featureamp:truebase:truecodecs:truegui:trueskiptrack:falsemetadata:falseremovetrack:falsealbum:falsewav:truenicetohave:falseplaylist:falsejumpposition:falselight:trueopenfolder:falsequeuetrack:falsenmute:falsetageditor:falsetracknumber:falseprogress:trueaac:falseplaylistcontrols:falsemultipleplaylists:falserandomcolor:falsesaveandload:falseshufflerepeat:falseogg:falseyoutube:falsemp3:falseoscolors:falsereorder:falsecover:falsevolume:falseskins:truedark:falseclearplaylist:falseremeberstatus:falseprogressbar:truetitlebar:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:3
+Total time (s): 4569 time average (s): 4.569 number of times performed:1

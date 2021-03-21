@@ -1,0 +1,24 @@
+BASE:true, TOKENPOSONLY:false, COUNTLINES:true, IMAGEPARTS:false, BLOCKCOMMENTS:false, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:false, IMAGEPARTS:true, BLOCKCOMMENTS:true, LINECOMMENTS:false, 
+Configuration:TOKENPOSONLY:false LINECOMMENTS:true IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+
+cont: 1((( apos os testes))) 
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+cont: 2((( apos os testes))) 
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:2
+Total time (ms): 1341 time average (s): 1.341 number of times performed:1

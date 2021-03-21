@@ -1,0 +1,35 @@
+Prop4JSPL:true, Operators:false, And:false, Or:false, Implies:false, Negation:false, Equals:false, extended:false, AtLeast:false, AtMost:false, Choose:false, Input_Output:true, Node_Reader:true, Node_Writer:false, SatSolver:false, To_CNF:false, Tests:false, 
+Prop4JSPL:true, Operators:true, And:false, Or:false, Implies:false, Negation:false, Equals:true, extended:false, AtLeast:false, AtMost:false, Choose:false, Input_Output:false, Node_Reader:false, Node_Writer:false, SatSolver:false, To_CNF:false, Tests:false, 
+Prop4JSPL:true, Operators:true, And:true, Or:true, Implies:true, Negation:true, Equals:false, extended:true, AtLeast:true, AtMost:true, Choose:true, Input_Output:true, Node_Reader:true, Node_Writer:true, SatSolver:true, To_CNF:true, Tests:true, 
+Configuration:
+operators:false or:false negation:false atmost:false node_writer:false to_cnf:false prop4jspl:true extended:false tests:false equals:false node_reader:trueimplies:false atleast:false choose:false input_output:true and:false satsolver:false
+
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+cont: 1((( apos os testes))) 
+Configuration:
+operators:true or:false negation:false atmost:false node_writer:false to_cnf:false prop4jspl:true extended:false tests:false equals:true node_reader:falseimplies:false atleast:false choose:false input_output:false and:false satsolver:false
+
+cont: 2((( apos os testes))) 
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+Configuration:
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:false node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+cont: 3((( apos os testes))) 
+operators:true or:true negation:true atmost:true node_writer:true to_cnf:true prop4jspl:true extended:true tests:true equals:true node_reader:trueimplies:true atleast:true choose:true input_output:true and:true satsolver:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:3
+Total time (ms): 446 time average (ms): 446.0 number of times performed:1

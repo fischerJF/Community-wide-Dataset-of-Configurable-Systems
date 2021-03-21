@@ -1,0 +1,345 @@
+BASE:true, DIRECTED:false, UNDIRECTED:true, WEIGHTED:true, SEARCH:false, BFS:false, NUMBER:false, CONNECTED:true, STRONGLYCONNECTED:false, CYCLE:false, MSTPRIM:false, MSTKRUSKAL:true, SHORTEST:false, 
+BASE:true, DIRECTED:false, UNDIRECTED:true, WEIGHTED:true, SEARCH:false, BFS:false, NUMBER:true, CONNECTED:true, STRONGLYCONNECTED:false, CYCLE:true, MSTPRIM:true, MSTKRUSKAL:false, SHORTEST:false, 
+BASE:true, DIRECTED:true, UNDIRECTED:false, WEIGHTED:false, SEARCH:false, BFS:false, NUMBER:true, CONNECTED:false, STRONGLYCONNECTED:true, CYCLE:false, MSTPRIM:false, MSTKRUSKAL:false, SHORTEST:false, 
+BASE:true, DIRECTED:false, UNDIRECTED:true, WEIGHTED:true, SEARCH:false, BFS:false, NUMBER:false, CONNECTED:true, STRONGLYCONNECTED:false, CYCLE:true, MSTPRIM:true, MSTKRUSKAL:false, SHORTEST:false, 
+BASE:true, DIRECTED:true, UNDIRECTED:false, WEIGHTED:true, SEARCH:false, BFS:true, NUMBER:true, CONNECTED:false, STRONGLYCONNECTED:false, CYCLE:false, MSTPRIM:false, MSTKRUSKAL:false, SHORTEST:false, 
+BASE:true, DIRECTED:true, UNDIRECTED:false, WEIGHTED:true, SEARCH:false, BFS:false, NUMBER:false, CONNECTED:false, STRONGLYCONNECTED:true, CYCLE:true, MSTPRIM:false, MSTKRUSKAL:false, SHORTEST:false, 
+Configuration:
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+Printing vertex: 
+null
+Rep: null 
+comp: 0
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+null
+Rep: null 
+comp: 0
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 1((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+VertexCycle: 0
+comp: 0
+VertexNumber: 0
+Weights: 
+Connected to: 
+
+
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 2((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:true MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:false NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+1
+1
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+  WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:false NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.GraphTest.run_STRONGLYCONNECTEDTest(GraphTest.java:354)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:84)
+	at experiment.Sampling.run(Sampling.java:109)
+	at experiment.Sampling.main(Sampling.java:210)
+
+3 java.lang.AssertionError
+4 null
+5 run_STRONGLYCONNECTEDTest(tests.GraphTest)
+6 class java.lang.AssertionError
+7 run_STRONGLYCONNECTEDTest(tests.GraphTest)
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 3((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:false NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+VertexCycle: 0
+comp: 0
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+VertexCycle: 0
+comp: 0
+Weights: 
+Connected to: 
+
+
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 4((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 5((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+1
+1
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 6((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:false SEARCH:false NUMBER:false MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:6
+Total time (ms): 1305 time average (s): 1.305 number of times performed:1
