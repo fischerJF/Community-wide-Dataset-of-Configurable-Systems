@@ -1,0 +1,310 @@
+VolumeControl:true, SkipTrack:true, PlayEngine:true, RemoveTrack:false, WAV:false, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:true, Mute:true, ShowTime:true, LoadFolder:true, TrackTime:true, ShuffleRepeat:true, OGG:true, MP3:false, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:false, showCover:true, 
+VolumeControl:true, SkipTrack:false, PlayEngine:true, RemoveTrack:false, WAV:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:true, ProgressBar:true, Mute:true, ShowTime:false, LoadFolder:true, TrackTime:true, ShuffleRepeat:false, OGG:false, MP3:true, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:false, showCover:true, 
+VolumeControl:false, SkipTrack:true, PlayEngine:true, RemoveTrack:false, WAV:false, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:true, ProgressBar:true, Mute:false, ShowTime:true, LoadFolder:true, TrackTime:true, ShuffleRepeat:true, OGG:false, MP3:true, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:false, showCover:false, 
+VolumeControl:false, SkipTrack:true, PlayEngine:true, RemoveTrack:false, WAV:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:true, ProgressBar:true, Mute:false, ShowTime:false, LoadFolder:true, TrackTime:true, ShuffleRepeat:true, OGG:true, MP3:false, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:false, showCover:false, 
+VolumeControl:false, SkipTrack:true, PlayEngine:true, RemoveTrack:true, WAV:false, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:true, Mute:false, ShowTime:false, LoadFolder:true, TrackTime:true, ShuffleRepeat:false, OGG:true, MP3:false, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:true, showCover:false, 
+VolumeControl:true, SkipTrack:true, PlayEngine:true, RemoveTrack:true, WAV:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:true, ProgressBar:true, Mute:true, ShowTime:true, LoadFolder:true, TrackTime:true, ShuffleRepeat:false, OGG:true, MP3:true, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:true, showCover:false, 
+VolumeControl:false, SkipTrack:false, PlayEngine:true, RemoveTrack:true, WAV:false, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:true, ProgressBar:true, Mute:false, ShowTime:true, LoadFolder:true, TrackTime:true, ShuffleRepeat:false, OGG:false, MP3:true, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:true, showCover:true, 
+VolumeControl:false, SkipTrack:false, PlayEngine:true, RemoveTrack:false, WAV:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:true, Mute:false, ShowTime:false, LoadFolder:false, TrackTime:true, ShuffleRepeat:false, OGG:false, MP3:false, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:false, showCover:true, 
+VolumeControl:true, SkipTrack:false, PlayEngine:true, RemoveTrack:true, WAV:false, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:true, ProgressBar:true, Mute:true, ShowTime:false, LoadFolder:true, TrackTime:true, ShuffleRepeat:true, OGG:true, MP3:false, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:true, showCover:true, 
+VolumeControl:true, SkipTrack:false, PlayEngine:true, RemoveTrack:false, WAV:false, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:true, Mute:true, ShowTime:false, LoadFolder:false, TrackTime:true, ShuffleRepeat:false, OGG:true, MP3:true, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:false, showCover:false, 
+VolumeControl:false, SkipTrack:true, PlayEngine:true, RemoveTrack:true, WAV:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:true, Mute:false, ShowTime:false, LoadFolder:true, TrackTime:true, ShuffleRepeat:true, OGG:false, MP3:true, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:true, showCover:true, 
+VolumeControl:true, SkipTrack:true, PlayEngine:true, RemoveTrack:true, WAV:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:true, ProgressBar:true, Mute:true, ShowTime:true, LoadFolder:true, TrackTime:true, ShuffleRepeat:false, OGG:false, MP3:false, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:false, showCover:true, 
+VolumeControl:true, SkipTrack:true, PlayEngine:true, RemoveTrack:true, WAV:false, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:true, Mute:true, ShowTime:false, LoadFolder:true, TrackTime:true, ShuffleRepeat:true, OGG:false, MP3:true, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:true, showCover:false, 
+VolumeControl:true, SkipTrack:false, PlayEngine:true, RemoveTrack:false, WAV:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:false, Mute:true, ShowTime:true, LoadFolder:false, TrackTime:true, ShuffleRepeat:false, OGG:false, MP3:false, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:false, showCover:false, 
+VolumeControl:true, SkipTrack:false, PlayEngine:true, RemoveTrack:true, WAV:true, ReorderPlaylist:false, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:true, Mute:false, ShowTime:true, LoadFolder:true, TrackTime:true, ShuffleRepeat:true, OGG:false, MP3:false, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:true, showCover:false, 
+VolumeControl:false, SkipTrack:false, PlayEngine:true, RemoveTrack:true, WAV:false, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:true, Mute:false, ShowTime:false, LoadFolder:true, TrackTime:true, ShuffleRepeat:true, OGG:true, MP3:true, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:false, showCover:false, 
+VolumeControl:false, SkipTrack:false, PlayEngine:true, RemoveTrack:false, WAV:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:true, Mute:false, ShowTime:true, LoadFolder:false, TrackTime:true, ShuffleRepeat:false, OGG:true, MP3:true, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:false, showCover:true, 
+VolumeControl:true, SkipTrack:false, PlayEngine:true, RemoveTrack:false, WAV:false, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:false, Mute:true, ShowTime:true, LoadFolder:false, TrackTime:true, ShuffleRepeat:false, OGG:true, MP3:false, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:false, showCover:true, 
+VolumeControl:true, SkipTrack:false, PlayEngine:true, RemoveTrack:true, WAV:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:true, ProgressBar:true, Mute:false, ShowTime:true, LoadFolder:true, TrackTime:true, ShuffleRepeat:true, OGG:false, MP3:false, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:true, showCover:false, 
+VolumeControl:true, SkipTrack:false, PlayEngine:true, RemoveTrack:false, WAV:false, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:false, Mute:true, ShowTime:true, LoadFolder:false, TrackTime:true, ShuffleRepeat:false, OGG:true, MP3:true, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:false, showCover:false, 
+VolumeControl:false, SkipTrack:false, PlayEngine:true, RemoveTrack:false, WAV:false, ReorderPlaylist:false, Playlist:false, Control:false, Light:false, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:false, Mute:false, ShowTime:true, LoadFolder:false, TrackTime:true, ShuffleRepeat:false, OGG:false, MP3:true, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:false, showCover:true, 
+VolumeControl:false, SkipTrack:false, PlayEngine:true, RemoveTrack:false, WAV:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:false, Mute:false, ShowTime:true, LoadFolder:false, TrackTime:true, ShuffleRepeat:false, OGG:true, MP3:false, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:false, showCover:false, 
+VolumeControl:true, SkipTrack:false, PlayEngine:true, RemoveTrack:false, WAV:true, ReorderPlaylist:false, Playlist:false, Control:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:false, Mute:false, ShowTime:true, LoadFolder:false, TrackTime:true, ShuffleRepeat:false, OGG:false, MP3:true, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:false, showCover:true, 
+VolumeControl:true, SkipTrack:true, PlayEngine:true, RemoveTrack:false, WAV:false, ReorderPlaylist:false, Playlist:true, Control:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:true, ProgressBar:true, Mute:false, ShowTime:false, LoadFolder:true, TrackTime:true, ShuffleRepeat:false, OGG:true, MP3:true, Skins:true, Dark:true, ChooseFile:true, ClearPlaylist:false, showCover:true, 
+VolumeControl:true, SkipTrack:false, PlayEngine:true, RemoveTrack:false, WAV:true, ReorderPlaylist:true, Playlist:true, Control:true, Light:true, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, FileSupport:true, QueueTrack:false, ProgressBar:true, Mute:true, ShowTime:false, LoadFolder:true, TrackTime:true, ShuffleRepeat:true, OGG:false, MP3:true, Skins:true, Dark:false, ChooseFile:true, ClearPlaylist:false, showCover:false, 
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:trueremovetrack:falsewav:falsereorderplaylist:trueplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:falseprogressbar:truemute:trueshowtime:trueloadfolder:truetracktime:trueshufflerepeat:trueogg:truemp3:falseskins:truedark:trueclearplaylist:falseshowcover:true
+
+cont: 1((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:trueremovetrack:falsewav:falsereorderplaylist:trueplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:falseprogressbar:truemute:trueshowtime:trueloadfolder:truetracktime:trueshufflerepeat:trueogg:truemp3:falseskins:truedark:trueclearplaylist:falseshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:truereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:truefilesupport:truequeuetrack:trueprogressbar:truemute:trueshowtime:falseloadfolder:truetracktime:trueshufflerepeat:falseogg:falsemp3:trueskins:truedark:falseclearplaylist:falseshowcover:true
+
+cont: 2((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:truereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:truefilesupport:truequeuetrack:trueprogressbar:truemute:trueshowtime:falseloadfolder:truetracktime:trueshufflerepeat:falseogg:falsemp3:trueskins:truedark:falseclearplaylist:falseshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:trueremovetrack:falsewav:falsereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:trueprogressbar:truemute:falseshowtime:trueloadfolder:truetracktime:trueshufflerepeat:trueogg:falsemp3:trueskins:truedark:falseclearplaylist:falseshowcover:false
+
+cont: 3((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:trueremovetrack:falsewav:falsereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:trueprogressbar:truemute:falseshowtime:trueloadfolder:truetracktime:trueshufflerepeat:trueogg:falsemp3:trueskins:truedark:falseclearplaylist:falseshowcover:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:trueremovetrack:falsewav:truereorderplaylist:falseplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:trueprogressbar:truemute:falseshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:truemp3:falseskins:truedark:trueclearplaylist:falseshowcover:false
+
+cont: 4((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:trueremovetrack:falsewav:truereorderplaylist:falseplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:trueprogressbar:truemute:falseshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:truemp3:falseskins:truedark:trueclearplaylist:falseshowcover:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:trueremovetrack:truewav:falsereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:truefilesupport:truequeuetrack:falseprogressbar:truemute:falseshowtime:falseloadfolder:truetracktime:trueshufflerepeat:falseogg:truemp3:falseskins:truedark:falseclearplaylist:trueshowcover:false
+
+cont: 5((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:trueremovetrack:truewav:falsereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:truefilesupport:truequeuetrack:falseprogressbar:truemute:falseshowtime:falseloadfolder:truetracktime:trueshufflerepeat:falseogg:truemp3:falseskins:truedark:falseclearplaylist:trueshowcover:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:trueremovetrack:truewav:truereorderplaylist:trueplaylist:truecontrol:truelight:falsesaveandloadplaylist:falsefilesupport:truequeuetrack:trueprogressbar:truemute:trueshowtime:trueloadfolder:truetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:trueclearplaylist:trueshowcover:false
+
+cont: 6((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:trueremovetrack:truewav:truereorderplaylist:trueplaylist:truecontrol:truelight:falsesaveandloadplaylist:falsefilesupport:truequeuetrack:trueprogressbar:truemute:trueshowtime:trueloadfolder:truetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:trueclearplaylist:trueshowcover:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:truewav:falsereorderplaylist:falseplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:trueprogressbar:truemute:falseshowtime:trueloadfolder:truetracktime:trueshufflerepeat:falseogg:falsemp3:trueskins:truedark:trueclearplaylist:trueshowcover:true
+
+cont: 7((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:truewav:falsereorderplaylist:falseplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:trueprogressbar:truemute:falseshowtime:trueloadfolder:truetracktime:trueshufflerepeat:falseogg:falsemp3:trueskins:truedark:trueclearplaylist:trueshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:falsewav:truereorderplaylist:falseplaylist:falsecontrol:falselight:falsesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:truemute:falseshowtime:falseloadfolder:falsetracktime:trueshufflerepeat:falseogg:falsemp3:falseskins:truedark:trueclearplaylist:falseshowcover:true
+
+cont: 8((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:falsewav:truereorderplaylist:falseplaylist:falsecontrol:falselight:falsesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:truemute:falseshowtime:falseloadfolder:falsetracktime:trueshufflerepeat:falseogg:falsemp3:falseskins:truedark:trueclearplaylist:falseshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:truewav:falsereorderplaylist:falseplaylist:truecontrol:truelight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:trueprogressbar:truemute:trueshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:truemp3:falseskins:truedark:falseclearplaylist:trueshowcover:true
+
+cont: 9((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:truewav:falsereorderplaylist:falseplaylist:truecontrol:truelight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:trueprogressbar:truemute:trueshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:truemp3:falseskins:truedark:falseclearplaylist:trueshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:falsereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:truemute:trueshowtime:falseloadfolder:falsetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:falseclearplaylist:falseshowcover:false
+
+cont: 10((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:falsereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:truemute:trueshowtime:falseloadfolder:falsetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:falseclearplaylist:falseshowcover:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:trueremovetrack:truewav:truereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:truemute:falseshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:falsemp3:trueskins:truedark:falseclearplaylist:trueshowcover:true
+
+cont: 11((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:trueremovetrack:truewav:truereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:truemute:falseshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:falsemp3:trueskins:truedark:falseclearplaylist:trueshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:trueremovetrack:truewav:truereorderplaylist:falseplaylist:truecontrol:truelight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:trueprogressbar:truemute:trueshowtime:trueloadfolder:truetracktime:trueshufflerepeat:falseogg:falsemp3:falseskins:truedark:falseclearplaylist:falseshowcover:true
+
+WAV
+cont: 12((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:trueremovetrack:truewav:truereorderplaylist:falseplaylist:truecontrol:truelight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:trueprogressbar:truemute:trueshowtime:trueloadfolder:truetracktime:trueshufflerepeat:falseogg:falsemp3:falseskins:truedark:falseclearplaylist:falseshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:trueremovetrack:truewav:falsereorderplaylist:falseplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:falseprogressbar:truemute:trueshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:falsemp3:trueskins:truedark:trueclearplaylist:trueshowcover:false
+
+cont: 13((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:trueremovetrack:truewav:falsereorderplaylist:falseplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:falseprogressbar:truemute:trueshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:falsemp3:trueskins:truedark:trueclearplaylist:trueshowcover:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:truereorderplaylist:falseplaylist:falsecontrol:falselight:falsesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:trueshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:falsemp3:falseskins:truedark:trueclearplaylist:falseshowcover:false
+
+cont: 14((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:truereorderplaylist:falseplaylist:falsecontrol:falselight:falsesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:trueshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:falsemp3:falseskins:truedark:trueclearplaylist:falseshowcover:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:truewav:truereorderplaylist:falseplaylist:truecontrol:truelight:truesaveandloadplaylist:truefilesupport:truequeuetrack:falseprogressbar:truemute:falseshowtime:trueloadfolder:truetracktime:trueshufflerepeat:trueogg:falsemp3:falseskins:truedark:falseclearplaylist:trueshowcover:false
+
+WAV
+cont: 15((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:truewav:truereorderplaylist:falseplaylist:truecontrol:truelight:truesaveandloadplaylist:truefilesupport:truequeuetrack:falseprogressbar:truemute:falseshowtime:trueloadfolder:truetracktime:trueshufflerepeat:trueogg:falsemp3:falseskins:truedark:falseclearplaylist:trueshowcover:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:truewav:falsereorderplaylist:trueplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:falseprogressbar:truemute:falseshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:truemp3:trueskins:truedark:trueclearplaylist:falseshowcover:false
+
+cont: 16((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:truewav:falsereorderplaylist:trueplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:falseprogressbar:truemute:falseshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:truemp3:trueskins:truedark:trueclearplaylist:falseshowcover:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:falsewav:truereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:truemute:falseshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:falseclearplaylist:falseshowcover:true
+
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\note.mp3
+WAV
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\alarme.wav
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\note.mp3
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\note.mp3
+OGG
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\discreet.OGG
+null - null  00:00:10 - 
+null - null  00:00:10 - 
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\note.mp3
+cont: 17((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:falsewav:truereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:truemute:falseshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:falseclearplaylist:falseshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:falsereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:trueshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:truemp3:falseskins:truedark:falseclearplaylist:falseshowcover:true
+
+OGG
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\discreet.OGG
+null - null  00:00:10 - 
+null - null  00:00:10 - 
+cont: 18((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:falsereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:trueshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:truemp3:falseskins:truedark:falseclearplaylist:falseshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:truewav:truereorderplaylist:trueplaylist:truecontrol:truelight:falsesaveandloadplaylist:falsefilesupport:truequeuetrack:trueprogressbar:truemute:falseshowtime:trueloadfolder:truetracktime:trueshufflerepeat:trueogg:falsemp3:falseskins:truedark:trueclearplaylist:trueshowcover:false
+
+Exception in thread "Timer-44" java.lang.NullPointerException
+	at engine.Application.setProgress(Application.java:1360)
+	at engine.Application.changetime(Application.java:1562)
+	at engine.Application$Task.run(Application.java:1623)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+cont: 19((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:truewav:truereorderplaylist:trueplaylist:truecontrol:truelight:falsesaveandloadplaylist:falsefilesupport:truequeuetrack:trueprogressbar:truemute:falseshowtime:trueloadfolder:truetracktime:trueshufflerepeat:trueogg:falsemp3:falseskins:truedark:trueclearplaylist:trueshowcover:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:falsereorderplaylist:falseplaylist:falsecontrol:falselight:falsesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:trueshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:trueclearplaylist:falseshowcover:false
+
+cont: 20((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:falsereorderplaylist:falseplaylist:falsecontrol:falselight:falsesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:trueshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:trueclearplaylist:falseshowcover:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:falsewav:falsereorderplaylist:falseplaylist:falsecontrol:falselight:falsesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:falseshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:falsemp3:trueskins:truedark:trueclearplaylist:falseshowcover:true
+
+cont: 21((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:falsewav:falsereorderplaylist:falseplaylist:falsecontrol:falselight:falsesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:falseshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:falsemp3:trueskins:truedark:trueclearplaylist:falseshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:falsewav:truereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:falseshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:truemp3:falseskins:truedark:falseclearplaylist:falseshowcover:false
+
+WAV
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\alarme.wav
+OGG
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\discreet.OGG
+null - null  00:00:10 - 
+null - null  00:00:10 - 
+cont: 22((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:falseskiptrack:falseremovetrack:falsewav:truereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:falseshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:truemp3:falseskins:truedark:falseclearplaylist:falseshowcover:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:truereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:falseshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:falsemp3:trueskins:truedark:falseclearplaylist:falseshowcover:true
+
+WAV
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\alarme.wav
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\note.mp3
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\note.mp3
+C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP8\media\note.mp3
+cont: 23((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:truereorderplaylist:falseplaylist:falsecontrol:falselight:truesaveandloadplaylist:falsefilesupport:truequeuetrack:falseprogressbar:falsemute:falseshowtime:trueloadfolder:falsetracktime:trueshufflerepeat:falseogg:falsemp3:trueskins:truedark:falseclearplaylist:falseshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:trueremovetrack:falsewav:falsereorderplaylist:falseplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:trueprogressbar:truemute:falseshowtime:falseloadfolder:truetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:trueclearplaylist:falseshowcover:true
+
+cont: 24((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:trueremovetrack:falsewav:falsereorderplaylist:falseplaylist:truecontrol:truelight:falsesaveandloadplaylist:truefilesupport:truequeuetrack:trueprogressbar:truemute:falseshowtime:falseloadfolder:truetracktime:trueshufflerepeat:falseogg:truemp3:trueskins:truedark:trueclearplaylist:falseshowcover:true
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:truereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:truefilesupport:truequeuetrack:falseprogressbar:truemute:trueshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:falsemp3:trueskins:truedark:falseclearplaylist:falseshowcover:false
+
+cont: 25((( apos os testes))) 
+featureamp:truechoosefile:trueplayengine:truegui:truevolumecontrol:trueskiptrack:falseremovetrack:falsewav:truereorderplaylist:trueplaylist:truecontrol:truelight:truesaveandloadplaylist:truefilesupport:truequeuetrack:falseprogressbar:truemute:trueshowtime:falseloadfolder:truetracktime:trueshufflerepeat:trueogg:falsemp3:trueskins:truedark:falseclearplaylist:falseshowcover:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:25
+Total time (ms): 97426 time average (s): 97.426 number of times performed:1

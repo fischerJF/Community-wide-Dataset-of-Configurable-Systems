@@ -1,0 +1,1302 @@
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:true, PRECEDENCE:true, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:false, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:false, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:false, PRECEDENCE:true, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:true, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:false, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:true, PRECEDENCE:true, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:true, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:true, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:true, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:false, CUT_WHATEVER:true, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:true, TOTAL_REDUCER:false, ACCESS_CONTROL:false, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:true, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:true, CUT_NO_MANAGER:false, GUI:false, PRECEDENCE:false, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+TREE_STRUCTURE:true, LOGGING:true, CUT_WHATEVER:false, CUT_NO_DEPARTMENT:false, CUT_NO_MANAGER:true, GUI:true, PRECEDENCE:true, TOTAL_WALKER:false, TOTAL_REDUCER:false, ACCESS_CONTROL:true, 
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Salary of Divya adjusted to 50.0
+cont: 1((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:truecont: 2((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Configuration:
+Salary of Divya adjusted to 50.0
+cont: 3((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+Configuration:
+
+
+ ----------------------- 
+
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:falsecont: 4((( apos os testes))) 
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+cont: 5((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Salary of Divya adjusted to 50.0
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:falsecont: 6((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Precedence constraint violated for employee "Karl".
+
+ TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+1 Unable to find component using matcher tests.Pilot_GUI$9@58fdd99.
+
+Component hierarchy:
+org.softlang.swing.view.MainView[name='frame0', title='101implementation:Swing', enabled=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JPanel[name=null]
+          javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+            javax.swing.JViewport[,1,1,234x448,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+              javax.swing.JTree[name=null, selectionCount=1, selectionPaths=['[meganalysis, Development, Dev1, Dev1.1, Karl (Manager)]'], selectionMode=DISCONTIGUOUS_TREE_SELECTION, enabled=true, visible=true, showing=true]
+                javax.swing.CellRendererPane[,0,0,0x0,hidden]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=448, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=234, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+          org.softlang.swing.view.EmployeeView[name=null]
+            javax.swing.JLabel[name=null, text='Name: ', enabled=true, visible=true, showing=true]
+            javax.swing.JTextField[name=null, text='Karl', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name=null, text='Address: ', enabled=true, visible=true, showing=true]
+            javax.swing.JTextField[name=null, text='Riga', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name=null, text='Salary: ', enabled=true, visible=true, showing=true]
+            javax.swing.JTextField[name=null, text='2345.0', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name=null, text='cut', enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+
+2 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher tests.Pilot_GUI$9@58fdd99.
+
+Component hierarchy:
+org.softlang.swing.view.MainView[name='frame0', title='101implementation:Swing', enabled=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JPanel[name=null]
+          javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+            javax.swing.JViewport[,1,1,234x448,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+              javax.swing.JTree[name=null, selectionCount=1, selectionPaths=['[meganalysis, Development, Dev1, Dev1.1, Karl (Manager)]'], selectionMode=DISCONTIGUOUS_TREE_SELECTION, enabled=true, visible=true, showing=true]
+                javax.swing.CellRendererPane[,0,0,0x0,hidden]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=448, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=234, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+          org.softlang.swing.view.EmployeeView[name=null]
+            javax.swing.JLabel[name=null, text='Name: ', enabled=true, visible=true, showing=true]
+            javax.swing.JTextField[name=null, text='Karl', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name=null, text='Address: ', enabled=true, visible=true, showing=true]
+            javax.swing.JTextField[name=null, text='Riga', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name=null, text='Salary: ', enabled=true, visible=true, showing=true]
+            javax.swing.JTextField[name=null, text='2345.0', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name=null, text='cut', enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+
+	at org.fest.swing.core.BasicComponentFinder.componentNotFound(BasicComponentFinder.java:271)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:260)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:254)
+	at org.fest.swing.core.BasicComponentFinder.find(BasicComponentFinder.java:247)
+	at org.fest.swing.fixture.ContainerFixture.find(ContainerFixture.java:540)
+	at org.fest.swing.fixture.ContainerFixture.textBox(ContainerFixture.java:452)
+	at tests.Pilot_GUI.test2B(Pilot_GUI.java:275)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:79)
+	at experiment.Sampling.run(Sampling.java:113)
+	at experiment.Sampling.main(Sampling.java:210)
+
+3 org.fest.swing.exception.ComponentLookupException: Unable to find component using matcher tests.Pilot_GUI$9@58fdd99.
+
+Component hierarchy:
+org.softlang.swing.view.MainView[name='frame0', title='101implementation:Swing', enabled=true, visible=true, showing=true]
+  javax.swing.JRootPane[]
+    javax.swing.JPanel[name='null.glassPane']
+    javax.swing.JLayeredPane[]
+      javax.swing.JPanel[name='null.contentPane']
+        javax.swing.JPanel[name=null]
+          javax.swing.JScrollPane[name=null, enabled=true, visible=true, showing=true]
+            javax.swing.JViewport[,1,1,234x448,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=25165832,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+              javax.swing.JTree[name=null, selectionCount=1, selectionPaths=['[meganalysis, Development, Dev1, Dev1.1, Karl (Manager)]'], selectionMode=DISCONTIGUOUS_TREE_SELECTION, enabled=true, visible=true, showing=true]
+                javax.swing.CellRendererPane[,0,0,0x0,hidden]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=448, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+            javax.swing.JScrollPane$ScrollBar[name=null, value=0, blockIncrement=10, minimum=0, maximum=234, enabled=true, visible=false, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+              javax.swing.plaf.metal.MetalScrollButton[name=null, text='', enabled=true, visible=true, showing=false]
+          org.softlang.swing.view.EmployeeView[name=null]
+            javax.swing.JLabel[name=null, text='Name: ', enabled=true, visible=true, showing=true]
+            javax.swing.JTextField[name=null, text='Karl', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name=null, text='Address: ', enabled=true, visible=true, showing=true]
+            javax.swing.JTextField[name=null, text='Riga', enabled=true, visible=true, showing=true]
+            javax.swing.JLabel[name=null, text='Salary: ', enabled=true, visible=true, showing=true]
+            javax.swing.JTextField[name=null, text='2345.0', enabled=true, visible=true, showing=true]
+            javax.swing.JButton[name=null, text='cut', enabled=true, visible=true, showing=true]
+            javax.swing.JPanel[name=null]
+
+4 null
+5 test2B(tests.Pilot_GUI)
+6 class org.fest.swing.exception.ComponentLookupException
+7 test2B(tests.Pilot_GUI)
+Salary of Divya adjusted to 50.0
+Precedence constraint violated for employee "Karl".
+Salary of Divya adjusted to 50.0
+Salary of Ray adjusted to 117283.5
+Salary of Klaus adjusted to 11728.0
+Precedence constraint violated for employee "Karl".
+Salary of Joe adjusted to 1172.0
+
+ TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+1 expected:<13[2528.5]> but was:<13[1356.0]>
+2 org.junit.ComparisonFailure: expected:<13[2528.5]> but was:<13[1356.0]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tests.TestGUIExample.testTotalValueDepartment(TestGUIExample.java:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:79)
+	at experiment.Sampling.run(Sampling.java:113)
+	at experiment.Sampling.main(Sampling.java:210)
+
+3 org.junit.ComparisonFailure: expected:<13[2528.5]> but was:<13[1356.0]>
+4 null
+5 testTotalValueDepartment(tests.TestGUIExample)
+6 class org.junit.ComparisonFailure
+7 testTotalValueDepartment(tests.TestGUIExample)
+cont: 7((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+Configuration:
+Salary of Divya adjusted to 50.0
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:falsecont: 8((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Configuration:
+Salary of Divya adjusted to 50.0
+Precedence constraint violated for employee "Karl".
+Salary of Divya adjusted to 50.0
+Salary of Ray adjusted to 117283.5
+Salary of Klaus adjusted to 11728.0
+Precedence constraint violated for employee "Karl".
+Salary of Joe adjusted to 1172.0
+
+ TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+1 expected:<13[2528.5]> but was:<13[1356.0]>
+2 org.junit.ComparisonFailure: expected:<13[2528.5]> but was:<13[1356.0]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tests.TestGUIExample.testTotalValueDepartment(TestGUIExample.java:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:79)
+	at experiment.Sampling.run(Sampling.java:113)
+	at experiment.Sampling.main(Sampling.java:210)
+
+3 org.junit.ComparisonFailure: expected:<13[2528.5]> but was:<13[1356.0]>
+4 null
+5 testTotalValueDepartment(tests.TestGUIExample)
+6 class org.junit.ComparisonFailure
+7 testTotalValueDepartment(tests.TestGUIExample)
+cont: 9((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+Configuration:
+cont: 10((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+Configuration:
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+Salary of Erik adjusted to 12345.05
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+cont: 11((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+cont: 12((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+cont: 13((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:trueConfiguration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+cont: 14((( apos os testes))) 
+Configuration:
+Salary of Erik adjusted to 12345.05
+Salary of Divya adjusted to 50.0
+Salary of Karl adjusted to 1172.5
+Salary of Ray adjusted to 117283.5
+Salary of Klaus adjusted to 11728.0
+Salary of Karl adjusted to 1172.5
+Salary of Joe adjusted to 1172.0
+cont: 15((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+Configuration:
+Salary of Divya adjusted to 50.0
+Salary of Karl adjusted to 1172.5
+Salary of Divya adjusted to 50.0
+Salary of Karl adjusted to 1172.5
+Salary of Ray adjusted to 117283.5
+Salary of Klaus adjusted to 11728.0
+Salary of Karl adjusted to 1172.5
+Salary of Joe adjusted to 1172.0
+cont: 16((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Configuration:
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+cont: 17((( apos os testes))) 
+Configuration:
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Erik adjusted to 12345.05
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+cont: 18((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+Configuration:
+cont: 19((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+Salary of Divya adjusted to 50.0
+cont: 20((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+Configuration:
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+cont: 21((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Salary of Divya adjusted to 50.0
+cont: 22((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+Salary of Ray1 adjusted to 117283.5
+Salary of Erik adjusted to 12345.05
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+cont: 23((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+Salary of Divya adjusted to 50.0
+cont: 24((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+Configuration:
+cont: 25((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Salary of Divya adjusted to 50.0
+cont: 26((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+cont: 27((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:trueConfiguration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:falsecont: 28((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Configuration:
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 12345.05
+Salary of Divya adjusted to 50.0
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:truecont: 29((( apos os testes))) 
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Salary of Divya adjusted to 50.0
+cont: 30((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 12345.05
+Salary of Divya adjusted to 50.0
+Precedence constraint violated for employee "Karl".
+Salary of Divya adjusted to 50.0
+Salary of Ray adjusted to 117283.5
+Salary of Klaus adjusted to 11728.0
+Precedence constraint violated for employee "Karl".
+Salary of Joe adjusted to 1172.0
+
+ TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+1 expected:<13[2528.5]> but was:<13[1356.0]>
+2 org.junit.ComparisonFailure: expected:<13[2528.5]> but was:<13[1356.0]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tests.TestGUIExample.testTotalValueDepartment(TestGUIExample.java:124)
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:79)
+	at experiment.Sampling.run(Sampling.java:113)
+	at experiment.Sampling.main(Sampling.java:210)
+
+3 org.junit.ComparisonFailure: expected:<13[2528.5]> but was:<13[1356.0]>
+4 null
+5 testTotalValueDepartment(tests.TestGUIExample)
+6 class org.junit.ComparisonFailure
+7 testTotalValueDepartment(tests.TestGUIExample)
+cont: 31((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Configuration:
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 12345.05
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:falsecont: 32((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Configuration:
+Salary of Divya adjusted to 50.0
+cont: 33((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:truecont: 34((( apos os testes))) 
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Erik adjusted to 12345.05
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+cont: 35((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+cont: 36((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:falsecont: 37((( apos os testes))) 
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+cont: 38((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+Configuration:
+Salary of Divya adjusted to 50.0
+cont: 39((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Configuration:
+Salary of Erik adjusted to 12345.05
+Salary of Divya adjusted to 50.0
+Precedence constraint violated for employee "Karl".
+Salary of Divya adjusted to 50.0
+Salary of Ray adjusted to 117283.5
+Salary of Klaus adjusted to 11728.0
+Precedence constraint violated for employee "Karl".
+Salary of Joe adjusted to 1172.0
+
+ TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+1 expected:<13[2528.5]> but was:<13[1356.0]>
+2 org.junit.ComparisonFailure: expected:<13[2528.5]> but was:<13[1356.0]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tests.TestGUIExample.testTotalValueDepartment(TestGUIExample.java:124)
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:79)
+	at experiment.Sampling.run(Sampling.java:113)
+	at experiment.Sampling.main(Sampling.java:210)
+
+3 org.junit.ComparisonFailure: expected:<13[2528.5]> but was:<13[1356.0]>
+4 null
+5 testTotalValueDepartment(tests.TestGUIExample)
+6 class org.junit.ComparisonFailure
+7 testTotalValueDepartment(tests.TestGUIExample)
+cont: 40((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Configuration:
+cont: 41((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:falseConfiguration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Salary of Divya adjusted to 50.0
+cont: 42((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:falseConfiguration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Salary of Divya adjusted to 50.0
+cont: 43((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:truecont: 44((( apos os testes))) 
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+cont: 45((( apos os testes))) 
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+Salary of Ray1 adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+cont: 46((( apos os testes))) 
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+cont: 47((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Configuration:
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+cont: 48((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:falseConfiguration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+cont: 49((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:truecont: 50((( apos os testes))) 
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Salary of Erik adjusted to 12345.05
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:truecont: 51((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Configuration:
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+cont: 52((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+cont: 53((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:falseConfiguration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Salary of Divya adjusted to 50.0
+Salary of Divya adjusted to 50.0
+Salary of Karl adjusted to 1172.5
+Salary of Ray adjusted to 117283.5
+Salary of Klaus adjusted to 11728.0
+Salary of Karl adjusted to 1172.5
+Salary of Joe adjusted to 1172.0
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:falsecont: 54((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Configuration:
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+cont: 55((( apos os testes))) conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:true PRECEDENCE:true LOGGING:false GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+
+Configuration:
+Salary of Divya adjusted to 50.0
+cont: 56((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:true PRECEDENCE:true LOGGING:false GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:false
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:false CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:false
+
+Configuration:
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:false GUI:true CUT_WHATEVER:true CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:false ACCESS_CONTROL:falsecont: 57((( apos os testes))) 
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+Salary of Ray1 adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+cont: 58((( apos os testes))) 
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:false CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:true
+
+Configuration:
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Ray1 adjusted to 117283.5
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:false LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:false CUT_NO_DEPARTMENT:true ACCESS_CONTROL:truecont: 59((( apos os testes))) 
+Configuration:
+
+
+
+ ----------------------- 
+
+
+conf: TREE_STRUCTURE:true TOTAL_WALKER:false TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:true
+
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+Salary of Erik adjusted to 6172.5
+Salary of Ralf adjusted to 617.0
+Salary of Craig adjusted to 61728.0
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Joe adjusted to 1172.0
+Salary of Karl adjusted to 1172.5
+Salary of Klaus adjusted to 11728.0
+Salary of Ray adjusted to 117283.5
+Salary of Divya adjusted to 50.0
+conf: TREE_STRUCTURE:true TOTAL_WALKER:true TOTAL_REDUCER:false PRECEDENCE:true LOGGING:true GUI:true CUT_WHATEVER:false CUT_NO_MANAGER:true CUT_NO_DEPARTMENT:false ACCESS_CONTROL:truecont: 60((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Contador de produtos:60
+Total time (ms): 807991 time average (s): 807.991 number of times performed:1
