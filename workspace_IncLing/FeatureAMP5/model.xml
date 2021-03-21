@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and mandatory="true" name="FeatureAMP">
+            <and mandatory="true" name="Base">
+                <or mandatory="true" name="FileSupport">
+                    <and name="MP3">
+                        <feature name="ShowCover"/>
+                    </and>
+                    <feature name="Wave"/>
+                </or>
+                <and mandatory="true" name="GUI">
+                    <and name="VolumeControl">
+                        <feature name="Mute"/>
+                    </and>
+                    <or mandatory="true" name="Progress">
+                        <feature name="ProgressBar"/>
+                        <feature name="ShowTime"/>
+                    </or>
+                    <and name="Playlist">
+                        <feature mandatory="true" name="LoadFolder"/>
+                        <or mandatory="true" name="PlaylistControls">
+                            <feature name="ShuffleRepeat"/>
+                            <and name="SkipTrack">
+                                <feature name="SkipRepeat"/>
+                            </and>
+                            <and name="RemoveTrack">
+                                <feature name="ClearPlaylist"/>
+                            </and>
+                            <feature name="ReorderPlaylist"/>
+                        </or>
+                        <feature name="SaveAndLoadPlaylist"/>
+                        <and name="QueueTrack">
+                            <feature name="QueueRemove"/>
+                        </and>
+                    </and>
+                    <alt mandatory="true" name="Skins">
+                        <feature name="Light"/>
+                        <feature name="Dark"/>
+                    </alt>
+                </and>
+            </and>
+        </and>
+    </struct>
+    <constraints>
+        <rule>
+            <imp>
+                <var>Playlist</var>
+                <var>ProgressBar</var>
+            </imp>
+        </rule>
+        <rule>
+            <eq>
+                <var>SkipRepeat</var>
+                <conj>
+                    <var>ShuffleRepeat</var>
+                    <var>SkipTrack</var>
+                </conj>
+            </eq>
+        </rule>
+        <rule>
+            <imp>
+                <var>SaveAndLoadPlaylist</var>
+                <var>ClearPlaylist</var>
+            </imp>
+        </rule>
+        <rule>
+            <eq>
+                <var>QueueRemove</var>
+                <conj>
+                    <var>QueueTrack</var>
+                    <var>RemoveTrack</var>
+                </conj>
+            </eq>
+        </rule>
+    </constraints>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
