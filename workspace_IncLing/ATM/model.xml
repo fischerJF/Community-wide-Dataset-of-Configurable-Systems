@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and abstract="true" mandatory="true" name="ATM">
+            <feature name="LOGGING"/>
+            <feature name="DEPOSITING"/>
+            <feature name="WITHDRAWING"/>
+            <feature name="BALANCE_INQUIRY"/>
+            <feature name="ADMIN_CONTROL"/>
+            <feature name="USER_INTERFACE"/>
+            <feature name="WITHDRAWING_ALL_VALUES"/>
+        </and>
+    </struct>
+    <constraints>
+        <rule>
+            <imp>
+                <var>ADMIN_CONTROL</var>
+                <var>USER_INTERFACE</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>WITHDRAWING_ALL_VALUES</var>
+                <var>USER_INTERFACE</var>
+            </imp>
+        </rule>
+    </constraints>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
