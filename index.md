@@ -1,4 +1,3 @@
-
 Choose the configurable systems in the table below to access the related artifacts.
 All other configurable systems in our dataset follow the same structure.
 
