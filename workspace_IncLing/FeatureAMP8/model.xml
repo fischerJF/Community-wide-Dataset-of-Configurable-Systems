@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and mandatory="true" name="FeatureAMP">
+            <and mandatory="true" name="ChooseFile">
+                <or mandatory="true" name="FileSupport">
+                    <feature name="WAV"/>
+                    <feature name="OGG"/>
+                    <feature name="MP3"/>
+                </or>
+            </and>
+            <feature mandatory="true" name="PlayEngine"/>
+            <and mandatory="true" name="GUI">
+                <or mandatory="true" name="TrackTime">
+                    <feature name="ShowTime"/>
+                    <feature name="ProgressBar"/>
+                </or>
+                <and name="VolumeControl">
+                    <feature name="Mute"/>
+                </and>
+                <and name="Playlist">
+                    <feature mandatory="true" name="LoadFolder"/>
+                    <or mandatory="true" name="Control">
+                        <feature name="SkipTrack"/>
+                        <feature name="ShuffleRepeat"/>
+                        <and name="RemoveTrack">
+                            <feature name="ClearPlaylist"/>
+                        </and>
+                        <feature name="ReorderPlaylist"/>
+                    </or>
+                    <feature name="SaveAndLoadPlaylist"/>
+                    <feature name="QueueTrack"/>
+                </and>
+                <feature name="showCover"/>
+                <alt mandatory="true" name="Skins">
+                    <feature name="Light"/>
+                    <feature name="Dark"/>
+                </alt>
+            </and>
+        </and>
+    </struct>
+    <constraints>
+        <rule>
+            <imp>
+                <var>Playlist</var>
+                <var>ProgressBar</var>
+            </imp>
+        </rule>
+    </constraints>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
