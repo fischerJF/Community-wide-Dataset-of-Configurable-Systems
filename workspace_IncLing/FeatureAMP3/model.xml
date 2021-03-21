@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and mandatory="true" name="FeatureAmp">
+            <feature mandatory="true" name="Base">
+                <description>
+All basic features:
+
+ID3, Play, Stop, Mp3, ...
+</description>
+            </feature>
+            <and mandatory="true" name="GUI">
+                <feature name="ChangeListener"/>
+                <feature name="PlaylistMenu"/>
+                <alt mandatory="true" name="Skins">
+                    <feature name="Light"/>
+                    <feature name="Dark"/>
+                </alt>
+                <and name="Playlist">
+                    <feature name="PlaylistContextMenu"/>
+                    <feature name="TagEditor"/>
+                    <feature name="AddPlaylistWrapper"/>
+                    <feature name="PlaylistTabs"/>
+                    <feature mandatory="true" name="LoadFolder"/>
+                    <feature name="SaveAndLoadPlaylist"/>
+                    <or name="PlaylistControl">
+                        <feature name="SkipTrack"/>
+                        <feature name="ShuffleRepeat"/>
+                        <and name="RemoveTrack">
+                            <feature name="ClearPlaylist"/>
+                        </and>
+                        <feature name="ReorderPlaylist"/>
+                    </or>
+                    <feature name="QueueTrack"/>
+                    <feature name="MultiplePlaylists"/>
+                </and>
+                <feature name="ShowCover"/>
+                <and name="VolumeControl">
+                    <feature name="Mute"/>
+                </and>
+                <or mandatory="true" name="Time">
+                    <feature name="ShowTime"/>
+                    <feature name="ProgressBar"/>
+                </or>
+            </and>
+            <or mandatory="true" name="FileSupport">
+                <feature name="Mp3"/>
+                <feature name="Wav"/>
+                <feature name="Aac"/>
+                <feature name="Ogg"/>
+            </or>
+        </and>
+    </struct>
+    <constraints>
+        <rule>
+            <imp>
+                <var>Playlist</var>
+                <var>ProgressBar</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <disj>
+                    <var>ProgressBar</var>
+                    <var>VolumeControl</var>
+                </disj>
+                <var>ChangeListener</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <disj>
+                    <var>QueueTrack</var>
+                    <var>MultiplePlaylists</var>
+                </disj>
+                <var>PlaylistTabs</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <disj>
+                    <var>RemoveTrack</var>
+                    <disj>
+                        <var>SaveAndLoadPlaylist</var>
+                        <var>MultiplePlaylists</var>
+                    </disj>
+                </disj>
+                <var>PlaylistMenu</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <disj>
+                    <var>QueueTrack</var>
+                    <var>TagEditor</var>
+                </disj>
+                <var>PlaylistContextMenu</var>
+            </imp>
+        </rule>
+    </constraints>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
