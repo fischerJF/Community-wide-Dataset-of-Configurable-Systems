@@ -44,7 +44,7 @@
 
 5-16. [Configurations Recommended by baseline YASA_T2](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T2/ArgoUML/)
 
-5-17. [Configurations Recommended by baseline YASA_T3](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T3/ArgoUML/products/ArgoUML)
+5-17. [Configurations Recommended by baseline YASA_T3](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T3/ArgoUML/)
 
-5-18. [Configurations Recommended by baseline YASA_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T4/ArgoUML/products/ArgoUML)
+5-18. [Configurations Recommended by baseline YASA_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T4/ArgoUML/)
 
