@@ -1,0 +1,28 @@
+Base:true, Weight:true, Empty:false, TwoThirdsFull:true, ExecutiveFloor:true, Overloaded:true, 
+Base:true, Weight:false, Empty:true, TwoThirdsFull:false, ExecutiveFloor:false, Overloaded:false, 
+Configuration:
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:true empty:false base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+conf: weight:true twothirdsfull:true overloaded:true executivefloor:true empty:false base:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:false empty:true base:true
+
+DOWN
+UP
+Elevator [_] at 4 heading DOWN weight; 0
+conf: weight:false twothirdsfull:false overloaded:false executivefloor:false empty:true base:true
+
+
+ ----------------------- 
+
+
+product counter:2
+Total time (ms): 399 time average (s): 0.399 number of times performed:1

@@ -1,0 +1,132 @@
+BANKACCOUNT:false, CREDITWORTHINESS:false, DAILYLIMIT:false, INTEREST:false, INTERESTESTIMATION:false, LOCK:false, LOGGING:false, OVERDRAFT:false, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:false, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:true, OVERDRAFT:true, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:true, LOCK:true, LOGGING:true, OVERDRAFT:true, TRANSACTION:true, TRANSACTIONLOG:true, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:false, INTEREST:true, INTERESTESTIMATION:true, LOCK:true, LOGGING:false, OVERDRAFT:false, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:false, INTERESTESTIMATION:false, LOCK:true, LOGGING:false, OVERDRAFT:true, TRANSACTION:true, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:true, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:true, LOCK:false, LOGGING:true, OVERDRAFT:true, TRANSACTION:false, TRANSACTIONLOG:false, 
+BANKACCOUNT:true, CREDITWORTHINESS:false, DAILYLIMIT:true, INTEREST:true, INTERESTESTIMATION:false, LOCK:true, LOGGING:true, OVERDRAFT:false, TRANSACTION:true, TRANSACTIONLOG:true, 
+Configuration:
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 1((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 2((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:true LOGGING:true LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:false LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+cont: 3((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:false LOGGING:false LOCK:true INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:false CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+
+ TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at testset.TransactionTest.testTransfer(TransactionTest.java:60)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:64)
+	at experiment.Sampling.run(Sampling.java:91)
+	at experiment.Sampling.main(Sampling.java:189)
+
+3 java.lang.AssertionError
+4 null
+5 testTransfer(testset.TransactionTest)
+6 class java.lang.AssertionError
+7 testTransfer(testset.TransactionTest)
+cont: 4((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:true OVERDRAFT:true LOGGING:false LOCK:true INTERESTESTIMATION:false INTEREST:false DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:true LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+cont: 5((( apos os testes))) 
+conf:TRANSACTIONLOG:false TRANSACTION:false OVERDRAFT:true LOGGING:true LOCK:false INTERESTESTIMATION:true INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:true BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Configuration:
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+A0 : 900
+A1 : 1100
+A2 : 1000
+cont: 6((( apos os testes))) 
+conf:TRANSACTIONLOG:true TRANSACTION:true OVERDRAFT:false LOGGING:true LOCK:true INTERESTESTIMATION:false INTEREST:true DAILYLIMIT:true CREDITWORTHINESS:false BANKACCOUNT:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:6
+Total time (ms): 508 time average (s): 0.508 number of times performed:1

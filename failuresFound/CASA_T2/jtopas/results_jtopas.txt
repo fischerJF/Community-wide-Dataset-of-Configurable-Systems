@@ -1,0 +1,68 @@
+BASE:true, TOKENPOSONLY:true, COUNTLINES:true, IMAGEPARTS:false, BLOCKCOMMENTS:false, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:false, COUNTLINES:true, IMAGEPARTS:true, BLOCKCOMMENTS:false, LINECOMMENTS:false, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:true, IMAGEPARTS:true, BLOCKCOMMENTS:true, LINECOMMENTS:false, 
+BASE:true, TOKENPOSONLY:true, COUNTLINES:false, IMAGEPARTS:true, BLOCKCOMMENTS:true, LINECOMMENTS:true, 
+BASE:true, TOKENPOSONLY:false, COUNTLINES:false, IMAGEPARTS:false, BLOCKCOMMENTS:true, LINECOMMENTS:false, 
+BASE:true, TOKENPOSONLY:false, COUNTLINES:false, IMAGEPARTS:true, BLOCKCOMMENTS:false, LINECOMMENTS:true, 
+TOKENPOSONLY:true LINECOMMENTS:true IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:false BASE:trueConfiguration:
+
+
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+
+ ----------------------- 
+
+
+cont: 1((( apos os testes))) 
+Configuration:
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+cont: 2((( apos os testes))) 
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:false BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+cont: 3((( apos os testes))) 
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:true BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+TOKENPOSONLY:true LINECOMMENTS:true IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+cont: 4((( apos os testes))) 
+TOKENPOSONLY:true LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+cont: 5((( apos os testes))) 
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:false COUNTLINES:false BLOCKCOMMENTS:true BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+TOKENPOSONLY:false LINECOMMENTS:true IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:false BASE:true
+
+cont: 6((( apos os testes))) 
+TOKENPOSONLY:false LINECOMMENTS:false IMAGEPARTS:true COUNTLINES:false BLOCKCOMMENTS:false BASE:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:6
+Total time (ms): 759 time average (s): 0.759 number of times performed:1

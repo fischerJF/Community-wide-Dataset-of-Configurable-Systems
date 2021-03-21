@@ -1,0 +1,15 @@
+LOGGING:true, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+LOGGING:false, DEPOSITING:false, WITHDRAWING:false, BALANCE_INQUIRY:false, ADMIN_CONTROL:false, USER_INTERFACE:false, WITHDRAWING_ALL_VALUES:false, 
+Configuration:
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+java.awt.Font[family=Dialog,name=Dialog,style=bold,size=30]
+cont: 1((( apos os testes))) 
+LOGGING:falseDEPOSITING:trueWITHDRAWING:falseBALANCE_INQUIRY:trueADMIN_CONTROL:trueUSER_INTERFACE:trueWITHDRAWING_ALL_VALUES:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:1
+Total time (ms): 3790 time average (ms): 3790.0 number of times performed:1

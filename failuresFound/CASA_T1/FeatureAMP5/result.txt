@@ -1,0 +1,132 @@
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, QueueRemove:false, ReorderPlaylist:false, Playlist:false, Light:true, SaveAndLoadPlaylist:false, GUI:true, FeatureAMP:true, QueueTrack:false, Mute:true, ProgressBar:false, Progress:true, ShowTime:true, PlaylistControls:false, ShowCover:true, LoadFolder:false, SkipRepeat:false, ShuffleRepeat:false, Base:true, Wave:false, MP3:true, Skins:true, Dark:false, ClearPlaylist:false, FileSupport:true, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, QueueRemove:true, ReorderPlaylist:true, Playlist:true, Light:false, SaveAndLoadPlaylist:true, GUI:true, FeatureAMP:true, QueueTrack:true, Mute:false, ProgressBar:true, Progress:true, ShowTime:false, PlaylistControls:true, ShowCover:false, LoadFolder:true, SkipRepeat:true, ShuffleRepeat:true, Base:true, Wave:true, MP3:false, Skins:true, Dark:true, ClearPlaylist:true, FileSupport:true, 
+Configuration:
+featureamp:truebase:truegui:truefilesupport:truevolumecontrol:trueskiptrack:falseremovetrack:falsequeueremove:falsereorderplaylist:falseplaylist:falselight:truesaveandloadplaylist:falsequeuetrack:falsemute:trueprogressbar:falseprogress:trueshowtime:trueplaylistcontrols:falseshowcover:trueloadfolder:falseskiprepeat:falseshufflerepeat:falsewave:falsemp3:trueskins:truedark:falseclearplaylist:false
+
+cont: 1((( apos os testes))) 
+featureamp:truebase:truegui:truefilesupport:truevolumecontrol:trueskiptrack:falseremovetrack:falsequeueremove:falsereorderplaylist:falseplaylist:falselight:truesaveandloadplaylist:falsequeuetrack:falsemute:trueprogressbar:falseprogress:trueshowtime:trueplaylistcontrols:falseshowcover:trueloadfolder:falseskiprepeat:falseshufflerepeat:falsewave:falsemp3:trueskins:truedark:falseclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truebase:truegui:truefilesupport:truevolumecontrol:falseskiptrack:trueremovetrack:truequeueremove:truereorderplaylist:trueplaylist:truelight:falsesaveandloadplaylist:truequeuetrack:truemute:falseprogressbar:trueprogress:trueshowtime:falseplaylistcontrols:trueshowcover:falseloadfolder:trueskiprepeat:trueshufflerepeat:truewave:truemp3:falseskins:truedark:trueclearplaylist:true
+
+cont: 2((( apos os testes))) 
+featureamp:truebase:truegui:truefilesupport:truevolumecontrol:falseskiptrack:trueremovetrack:truequeueremove:truereorderplaylist:trueplaylist:truelight:falsesaveandloadplaylist:truequeuetrack:truemute:falseprogressbar:trueprogress:trueshowtime:falseplaylistcontrols:trueshowcover:falseloadfolder:trueskiprepeat:trueshufflerepeat:truewave:truemp3:falseskins:truedark:trueclearplaylist:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:2
+Total time (ms): 11391 time average (s): 11.39111391.0 number of times performed:1
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at gui.Main.updateWindow__wrappee__ProgressBar(Main.java:744)
+	at gui.Main.updateWindow__wrappee__ShowTime(Main.java:755)
+	at gui.Main.updateWindow(Main.java:773)
+	at gui.Main.access$0(Main.java:768)
+	at gui.Main$2.actionPerformed(Main.java:112)
+	at javax.swing.Timer.fireActionPerformed(Unknown Source)
+	at javax.swing.Timer$DoPostEvent.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at gui.Main.updateWindow__wrappee__ProgressBar(Main.java:748)
+	at gui.Main.updateWindow__wrappee__ShowTime(Main.java:755)
+	at gui.Main.updateWindow(Main.java:773)
+	at gui.Main.access$0(Main.java:768)
+	at gui.Main$2.actionPerformed(Main.java:112)
+	at javax.swing.Timer.fireActionPerformed(Unknown Source)
+	at javax.swing.Timer$DoPostEvent.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at gui.Main.updateWindow__wrappee__ProgressBar(Main.java:744)
+	at gui.Main.updateWindow__wrappee__ShowTime(Main.java:755)
+	at gui.Main.updateWindow(Main.java:773)
+	at gui.Main.access$0(Main.java:768)
+	at gui.Main$2.actionPerformed(Main.java:112)
+	at javax.swing.Timer.fireActionPerformed(Unknown Source)
+	at javax.swing.Timer$DoPostEvent.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at gui.Main.updateWindow__wrappee__ProgressBar(Main.java:744)
+	at gui.Main.updateWindow__wrappee__ShowTime(Main.java:755)
+	at gui.Main.updateWindow(Main.java:773)
+	at gui.Main.access$0(Main.java:768)
+	at gui.Main$2.actionPerformed(Main.java:112)
+	at javax.swing.Timer.fireActionPerformed(Unknown Source)
+	at javax.swing.Timer$DoPostEvent.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at gui.Main.updateWindow__wrappee__ProgressBar(Main.java:744)
+	at gui.Main.updateWindow__wrappee__ShowTime(Main.java:755)
+	at gui.Main.updateWindow(Main.java:773)
+	at gui.Main.access$0(Main.java:768)
+	at gui.Main$1$1.run(Main.java:711)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)

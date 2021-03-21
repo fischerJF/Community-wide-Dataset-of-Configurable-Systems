@@ -1,0 +1,2 @@
+"configuration","trace","description"
+"paycard:truelogging:truemaximumrecord:truelockout:true","	at org.junit.Assert.fail(Assert.java:86)","checkNotvalidTest(testset.PaycardUserInterfaceTest)"

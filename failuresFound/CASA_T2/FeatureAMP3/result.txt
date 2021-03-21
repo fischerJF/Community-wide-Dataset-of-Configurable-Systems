@@ -1,0 +1,108 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=128m; support was removed in 8.0
+SkipTrack:false, VolumeControl:false, PlaylistControl:false, RemoveTrack:false, Time:true, Wav:false, ReorderPlaylist:false, Mp3:false, Playlist:false, Light:false, SaveAndLoadPlaylist:false, ChangeListener:false, GUI:true, FeatureAmp:true, QueueTrack:false, FileSupport:true, PlaylistContextMenu:false, Mute:false, ProgressBar:false, TagEditor:false, ShowTime:true, Aac:true, LoadFolder:false, MultiplePlaylists:false, ShowCover:false, PlaylistMenu:false, ShuffleRepeat:false, Base:true, Ogg:true, PlaylistTabs:false, AddPlaylistWrapper:false, Skins:true, Dark:true, ClearPlaylist:false, 
+SkipTrack:true, VolumeControl:true, PlaylistControl:true, RemoveTrack:true, Time:true, Wav:true, ReorderPlaylist:true, Mp3:true, Playlist:true, Light:true, SaveAndLoadPlaylist:true, ChangeListener:true, GUI:true, FeatureAmp:true, QueueTrack:true, FileSupport:true, PlaylistContextMenu:true, Mute:true, ProgressBar:true, TagEditor:true, ShowTime:false, Aac:false, LoadFolder:true, MultiplePlaylists:true, ShowCover:true, PlaylistMenu:true, ShuffleRepeat:true, Base:true, Ogg:false, PlaylistTabs:true, AddPlaylistWrapper:true, Skins:true, Dark:false, ClearPlaylist:true, 
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:falseplaylist:falselight:falsesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:trueloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:trueplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:trueclearplaylist:false
+
+cont: 1((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:falsevolumecontrol:falseplaylistcontrol:falseremovetrack:falsetime:truewav:falsereorderplaylist:falsemp3:falseplaylist:falselight:falsesaveandloadplaylist:falsechangelistener:falsequeuetrack:falseplaylistcontextmenu:falsemute:falseprogressbar:falsetageditor:falseshowtime:trueaac:trueloadfolder:falsemultipleplaylists:falseshowcover:falseplaylistmenu:falseshufflerepeat:falseogg:trueplaylisttabs:falseaddplaylistwrapper:falseskins:truedark:trueclearplaylist:false
+
+
+ ----------------------- 
+
+
+Configuration:
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:truemp3:trueplaylist:truelight:truesaveandloadplaylist:truechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:trueplaylistmenu:trueshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:true
+
+Base()
+ReorderPlaylist.initPlaylist
+ReorderPlaylist.initPlaylist
+[GUI.FileDialog] addAllowedFileExtensions(.m3u)
+Loading Playlist: C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP3\media\p1.m3u
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Playlist.load currentSongIndex = 0
+Playlist.load currentSongIndex = 0
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: insight.mp3
+Playlist.load currentSongIndex = 0
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: long-expected.mp3
+Playlist.load currentSongIndex = 0
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+Playlist.load currentSongIndex = 0
+Base()
+ReorderPlaylist.initPlaylist
+ReorderPlaylist.initPlaylist
+Base()
+ReorderPlaylist.initPlaylist
+ReorderPlaylist.initPlaylist
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+[GUI.FileDialog] addAllowedFileExtensions(wav)
+File Loaded: C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP3\media\discreet.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+[Base.playSong] Load: 
+Playlist.load currentSongIndex = 0
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+[GUI.FileDialog] addAllowedFileExtensions(wav)
+File Loaded: media\insight.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: insight.mp3
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+[GUI.FileDialog] addAllowedFileExtensions(wav)
+File Loaded: media\long-expected.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: long-expected.mp3
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(mp3)
+[GUI.FileDialog] addAllowedFileExtensions(wav)
+File Loaded: media\note.mp3
+[Playlist.notifySongLoaded]
+[Base] notifySongLoaded: 
+Playlist.load currentSongIndex = 0
+[GUI.FileDialog] addAllowedFileExtensions(.m3u)
+Save Playlist to: C:\Users\labsoft\Documents\workspace_IncLing\FeatureAMP3\media\p1.m3u
+cont: 2((( apos os testes))) 
+featureamp:truegui:truefilesupport:truebase:trueskiptrack:truevolumecontrol:trueplaylistcontrol:trueremovetrack:truetime:truewav:truereorderplaylist:truemp3:trueplaylist:truelight:truesaveandloadplaylist:truechangelistener:truequeuetrack:trueplaylistcontextmenu:truemute:trueprogressbar:truetageditor:trueshowtime:falseaac:falseloadfolder:truemultipleplaylists:trueshowcover:trueplaylistmenu:trueshufflerepeat:trueogg:falseplaylisttabs:trueaddplaylistwrapper:trueskins:truedark:falseclearplaylist:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:2
+Total time (ms): 11653 time average (ms): 11653.0 number of times performed:1
+[ShuffleRepeat.getNextSong]
+[Playlist.getNextSong]
+Exception in thread "Timer-2" java.lang.ArrayIndexOutOfBoundsException: 1
+	at javax.swing.DefaultRowSorter.convertRowIndexToModel(Unknown Source)
+	at featureamp.FeatureAmp.getNextSong__wrappee__Playlist(FeatureAmp.java:437)
+	at featureamp.FeatureAmp.getNextSong__wrappee__ShuffleRepeat(FeatureAmp.java:473)
+	at featureamp.FeatureAmp.getNextSong(FeatureAmp.java:488)
+	at featureamp.FeatureAmp.playNextSong(FeatureAmp.java:378)
+	at featureamp.FeatureAmp._onSongEnded(FeatureAmp.java:372)
+	at featureamp.FeatureAmp.timerTick__wrappee__Base(FeatureAmp.java:344)
+	at featureamp.FeatureAmp.timerTick(FeatureAmp.java:360)
+	at featureamp.FeatureAmp.access$0(FeatureAmp.java:355)
+	at featureamp.FeatureAmp$1.run(FeatureAmp.java:329)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+[ShuffleRepeat.getNextSong]
+[Playlist.getNextSong]
+[Base.playSong] Load: insight.mp3
+Playlist.load currentSongIndex = 1
+[ShuffleRepeat.getNextSong]
+[Playlist.getNextSong]
+[Base.playSong] Load: long-expected.mp3
+Playlist.load currentSongIndex = 2
+[ShuffleRepeat.getNextSong]
+[Playlist.getNextSong]
+[Base.playSong] Load: 
+Playlist.load currentSongIndex = 3
+[ShuffleRepeat.getNextSong]
+[Playlist.getNextSong]
+[Base.getNextSong] NULL

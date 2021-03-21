@@ -1,0 +1,294 @@
+BASE:false, COMPRESS:false, GZIP:false, EXTRACT:false, ARCHIVECHECK:false, CRC:false, ADLER32CHECKSUM:false, DERIVATIVE_COMPRESS_ADLER32CHECKSUM:false, DERIVATIVE_COMPRESS_CRC:false, DERIVATIVE_COMPRESS_GZIP:false, DERIVATIVE_COMPRESS_GZIPCRC:false, DERIVATIVE_EXTRACT_CRC:false, DERIVATIVE_GZIPCRC:false, 
+BASE:true, COMPRESS:true, GZIP:true, EXTRACT:true, ARCHIVECHECK:true, CRC:true, ADLER32CHECKSUM:true, DERIVATIVE_COMPRESS_ADLER32CHECKSUM:true, DERIVATIVE_COMPRESS_CRC:true, DERIVATIVE_COMPRESS_GZIP:true, DERIVATIVE_COMPRESS_GZIPCRC:true, DERIVATIVE_EXTRACT_CRC:true, DERIVATIVE_GZIPCRC:true, 
+Configuration:
+GZIP:true EXTRACT:true DERIVATIVE_GZIPCRC:true DERIVATIVE_EXTRACT_CRC:true DERIVATIVE_COMPRESS_GZIPCRC:true DERIVATIVE_COMPRESS_GZIP:true DERIVATIVE_COMPRESS_CRC:true DERIVATIVE_COMPRESS_ADLER32CHECKSUM:true CRC:true COMPRESS:true BASE:true ARCHIVECHECK:true ADLER32CHECKSUM:true
+
+
+ GZIP:true EXTRACT:true DERIVATIVE_GZIPCRC:true DERIVATIVE_EXTRACT_CRC:true DERIVATIVE_COMPRESS_GZIPCRC:true DERIVATIVE_COMPRESS_GZIP:true DERIVATIVE_COMPRESS_CRC:true DERIVATIVE_COMPRESS_ADLER32CHECKSUM:true CRC:true COMPRESS:true BASE:true ARCHIVECHECK:true ADLER32CHECKSUM:true
+1 class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+2 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+	at java.lang.ClassLoader.checkCerts(Unknown Source)
+	at java.lang.ClassLoader.preDefineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.junit.internal.builders.JUnit4Builder.runnerForClass(JUnit4Builder.java:10)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:37)
+	at org.junit.runner.Computer.getRunner(Computer.java:50)
+	at org.junit.runner.Computer$1.runnerForClass(Computer.java:31)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:125)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:111)
+	at org.junit.runners.Suite.<init>(Suite.java:81)
+	at org.junit.runner.Computer$2.<init>(Computer.java:33)
+	at org.junit.runner.Computer.getSuite(Computer.java:28)
+	at org.junit.runner.Request.classes(Request.java:77)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:74)
+	at experiment.Sampling.run(Sampling.java:105)
+	at experiment.Sampling.main(Sampling.java:204)
+
+3 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+4 null
+5 initializationError(tests.Example_Paulo)
+6 class java.lang.SecurityException
+7 initializationError(tests.Example_Paulo)
+
+ GZIP:true EXTRACT:true DERIVATIVE_GZIPCRC:true DERIVATIVE_EXTRACT_CRC:true DERIVATIVE_COMPRESS_GZIPCRC:true DERIVATIVE_COMPRESS_GZIP:true DERIVATIVE_COMPRESS_CRC:true DERIVATIVE_COMPRESS_ADLER32CHECKSUM:true CRC:true COMPRESS:true BASE:true ARCHIVECHECK:true ADLER32CHECKSUM:true
+1 class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+2 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+	at java.lang.ClassLoader.checkCerts(Unknown Source)
+	at java.lang.ClassLoader.preDefineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.junit.internal.builders.JUnit4Builder.runnerForClass(JUnit4Builder.java:10)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:37)
+	at org.junit.runner.Computer.getRunner(Computer.java:50)
+	at org.junit.runner.Computer$1.runnerForClass(Computer.java:31)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:125)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:111)
+	at org.junit.runners.Suite.<init>(Suite.java:81)
+	at org.junit.runner.Computer$2.<init>(Computer.java:33)
+	at org.junit.runner.Computer.getSuite(Computer.java:28)
+	at org.junit.runner.Request.classes(Request.java:77)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:74)
+	at experiment.Sampling.run(Sampling.java:105)
+	at experiment.Sampling.main(Sampling.java:204)
+
+3 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+4 null
+5 initializationError(tests.Example_Paulo2)
+6 class java.lang.SecurityException
+7 initializationError(tests.Example_Paulo2)
+
+ GZIP:true EXTRACT:true DERIVATIVE_GZIPCRC:true DERIVATIVE_EXTRACT_CRC:true DERIVATIVE_COMPRESS_GZIPCRC:true DERIVATIVE_COMPRESS_GZIP:true DERIVATIVE_COMPRESS_CRC:true DERIVATIVE_COMPRESS_ADLER32CHECKSUM:true CRC:true COMPRESS:true BASE:true ARCHIVECHECK:true ADLER32CHECKSUM:true
+1 class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+2 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+	at java.lang.ClassLoader.checkCerts(Unknown Source)
+	at java.lang.ClassLoader.preDefineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.junit.internal.builders.JUnit4Builder.runnerForClass(JUnit4Builder.java:10)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:37)
+	at org.junit.runner.Computer.getRunner(Computer.java:50)
+	at org.junit.runner.Computer$1.runnerForClass(Computer.java:31)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:125)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:111)
+	at org.junit.runners.Suite.<init>(Suite.java:81)
+	at org.junit.runner.Computer$2.<init>(Computer.java:33)
+	at org.junit.runner.Computer.getSuite(Computer.java:28)
+	at org.junit.runner.Request.classes(Request.java:77)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:74)
+	at experiment.Sampling.run(Sampling.java:105)
+	at experiment.Sampling.main(Sampling.java:204)
+
+3 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+4 null
+5 initializationError(tests.Addler32CheckSumTest)
+6 class java.lang.SecurityException
+7 initializationError(tests.Addler32CheckSumTest)
+
+ GZIP:true EXTRACT:true DERIVATIVE_GZIPCRC:true DERIVATIVE_EXTRACT_CRC:true DERIVATIVE_COMPRESS_GZIPCRC:true DERIVATIVE_COMPRESS_GZIP:true DERIVATIVE_COMPRESS_CRC:true DERIVATIVE_COMPRESS_ADLER32CHECKSUM:true CRC:true COMPRESS:true BASE:true ARCHIVECHECK:true ADLER32CHECKSUM:true
+1 class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+2 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+	at java.lang.ClassLoader.checkCerts(Unknown Source)
+	at java.lang.ClassLoader.preDefineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.junit.internal.builders.JUnit4Builder.runnerForClass(JUnit4Builder.java:10)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:37)
+	at org.junit.runner.Computer.getRunner(Computer.java:50)
+	at org.junit.runner.Computer$1.runnerForClass(Computer.java:31)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:125)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:111)
+	at org.junit.runners.Suite.<init>(Suite.java:81)
+	at org.junit.runner.Computer$2.<init>(Computer.java:33)
+	at org.junit.runner.Computer.getSuite(Computer.java:28)
+	at org.junit.runner.Request.classes(Request.java:77)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:74)
+	at experiment.Sampling.run(Sampling.java:105)
+	at experiment.Sampling.main(Sampling.java:204)
+
+3 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+4 null
+5 initializationError(tests.CompressAdlerCSTests)
+6 class java.lang.SecurityException
+7 initializationError(tests.CompressAdlerCSTests)
+
+ GZIP:true EXTRACT:true DERIVATIVE_GZIPCRC:true DERIVATIVE_EXTRACT_CRC:true DERIVATIVE_COMPRESS_GZIPCRC:true DERIVATIVE_COMPRESS_GZIP:true DERIVATIVE_COMPRESS_CRC:true DERIVATIVE_COMPRESS_ADLER32CHECKSUM:true CRC:true COMPRESS:true BASE:true ARCHIVECHECK:true ADLER32CHECKSUM:true
+1 class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+2 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+	at java.lang.ClassLoader.checkCerts(Unknown Source)
+	at java.lang.ClassLoader.preDefineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.junit.internal.builders.JUnit4Builder.runnerForClass(JUnit4Builder.java:10)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:37)
+	at org.junit.runner.Computer.getRunner(Computer.java:50)
+	at org.junit.runner.Computer$1.runnerForClass(Computer.java:31)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:125)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:111)
+	at org.junit.runners.Suite.<init>(Suite.java:81)
+	at org.junit.runner.Computer$2.<init>(Computer.java:33)
+	at org.junit.runner.Computer.getSuite(Computer.java:28)
+	at org.junit.runner.Request.classes(Request.java:77)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:74)
+	at experiment.Sampling.run(Sampling.java:105)
+	at experiment.Sampling.main(Sampling.java:204)
+
+3 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+4 null
+5 initializationError(tests.GZIPtest)
+6 class java.lang.SecurityException
+7 initializationError(tests.GZIPtest)
+
+ GZIP:true EXTRACT:true DERIVATIVE_GZIPCRC:true DERIVATIVE_EXTRACT_CRC:true DERIVATIVE_COMPRESS_GZIPCRC:true DERIVATIVE_COMPRESS_GZIP:true DERIVATIVE_COMPRESS_CRC:true DERIVATIVE_COMPRESS_ADLER32CHECKSUM:true CRC:true COMPRESS:true BASE:true ARCHIVECHECK:true ADLER32CHECKSUM:true
+1 class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+2 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+	at java.lang.ClassLoader.checkCerts(Unknown Source)
+	at java.lang.ClassLoader.preDefineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.junit.internal.builders.JUnit4Builder.runnerForClass(JUnit4Builder.java:10)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:37)
+	at org.junit.runner.Computer.getRunner(Computer.java:50)
+	at org.junit.runner.Computer$1.runnerForClass(Computer.java:31)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:125)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:111)
+	at org.junit.runners.Suite.<init>(Suite.java:81)
+	at org.junit.runner.Computer$2.<init>(Computer.java:33)
+	at org.junit.runner.Computer.getSuite(Computer.java:28)
+	at org.junit.runner.Request.classes(Request.java:77)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:74)
+	at experiment.Sampling.run(Sampling.java:105)
+	at experiment.Sampling.main(Sampling.java:204)
+
+3 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+4 null
+5 initializationError(tests.LitleFeatures)
+6 class java.lang.SecurityException
+7 initializationError(tests.LitleFeatures)
+
+ GZIP:true EXTRACT:true DERIVATIVE_GZIPCRC:true DERIVATIVE_EXTRACT_CRC:true DERIVATIVE_COMPRESS_GZIPCRC:true DERIVATIVE_COMPRESS_GZIP:true DERIVATIVE_COMPRESS_CRC:true DERIVATIVE_COMPRESS_ADLER32CHECKSUM:true CRC:true COMPRESS:true BASE:true ARCHIVECHECK:true ADLER32CHECKSUM:true
+1 class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+2 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+	at java.lang.ClassLoader.checkCerts(Unknown Source)
+	at java.lang.ClassLoader.preDefineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.junit.internal.builders.JUnit4Builder.runnerForClass(JUnit4Builder.java:10)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:37)
+	at org.junit.runner.Computer.getRunner(Computer.java:50)
+	at org.junit.runner.Computer$1.runnerForClass(Computer.java:31)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:70)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:125)
+	at org.junit.runners.model.RunnerBuilder.runners(RunnerBuilder.java:111)
+	at org.junit.runners.Suite.<init>(Suite.java:81)
+	at org.junit.runner.Computer$2.<init>(Computer.java:33)
+	at org.junit.runner.Computer.getSuite(Computer.java:28)
+	at org.junit.runner.Request.classes(Request.java:77)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:74)
+	at experiment.Sampling.run(Sampling.java:105)
+	at experiment.Sampling.main(Sampling.java:204)
+
+3 java.lang.SecurityException: class "org.junit.internal.runners.statements.FailOnTimeout"'s signer information does not match signer information of other classes in the same package
+4 null
+5 initializationError(tests.ExtractTest)
+6 class java.lang.SecurityException
+7 initializationError(tests.ExtractTest)
+cont: 1((( apos os testes))) 
+GZIP:true EXTRACT:true DERIVATIVE_GZIPCRC:true DERIVATIVE_EXTRACT_CRC:true DERIVATIVE_COMPRESS_GZIPCRC:true DERIVATIVE_COMPRESS_GZIP:true DERIVATIVE_COMPRESS_CRC:true DERIVATIVE_COMPRESS_ADLER32CHECKSUM:true CRC:true COMPRESS:true BASE:true ARCHIVECHECK:true ADLER32CHECKSUM:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:1
+Total time (ms): 299 time average (ms): 299.0 number of times performed:1

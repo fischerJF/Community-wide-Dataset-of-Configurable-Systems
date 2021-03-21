@@ -1,0 +1,172 @@
+BASE:false, DIRECTED:false, UNDIRECTED:false, WEIGHTED:false, SEARCH:false, BFS:false, NUMBER:false, CONNECTED:false, STRONGLYCONNECTED:false, CYCLE:false, MSTPRIM:false, MSTKRUSKAL:false, SHORTEST:false, 
+BASE:true, DIRECTED:true, UNDIRECTED:false, WEIGHTED:true, SEARCH:true, BFS:false, NUMBER:true, CONNECTED:false, STRONGLYCONNECTED:true, CYCLE:true, MSTPRIM:false, MSTKRUSKAL:false, SHORTEST:true, 
+BASE:true, DIRECTED:false, UNDIRECTED:true, WEIGHTED:true, SEARCH:true, BFS:true, NUMBER:false, CONNECTED:true, STRONGLYCONNECTED:false, CYCLE:false, MSTPRIM:false, MSTKRUSKAL:true, SHORTEST:false, 
+BASE:true, DIRECTED:false, UNDIRECTED:true, WEIGHTED:true, SEARCH:true, BFS:false, NUMBER:false, CONNECTED:true, STRONGLYCONNECTED:false, CYCLE:true, MSTPRIM:true, MSTKRUSKAL:false, SHORTEST:false, 
+Configuration: WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+1
+1
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 1((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:false STRONGLYCONNECTED:true SHORTEST:true SEARCH:true NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:true CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+Printing vertex: 
+null
+Rep: null 
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+null
+Rep: null 
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 2((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:false MSTKRUSKAL:true DIRECTED:false CYCLE:false CONNECTED:true BFS:true BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+Printing vertex: 
+null
+MSTPrimPred: null
+Key: 0
+VertexCycle: 0
+comp: 0
+visited: false
+Weights: 
+Connected to: 
+
+
+0
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+Vertices 
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 3((( apos os testes))) 
+ WEIGHTED:true UNDIRECTED:true STRONGLYCONNECTED:false SHORTEST:false SEARCH:true NUMBER:false MSTPRIM:true MSTKRUSKAL:false DIRECTED:false CYCLE:true CONNECTED:true BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:3
+Total time (ms): 1177 time average (s): 1.177 number of times performed:1

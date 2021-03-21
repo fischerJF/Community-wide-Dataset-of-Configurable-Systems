@@ -1,0 +1,24 @@
+SKINS:true, PLAYER_CONTROL:false, REORDER_PLAYLIST:false, TITLE_TIME:true, SKIP_TRACK:false, PROGRESS:true, CLEAR_PLAYLIST:false, PROGRESS_BAR:false, VOLUME_CONTROL:false, REMOVE_TRACK:false, LIGHT:false, DARK:true, SHUFFLE_REPEAT:false, SHOW_COVER:true, OGG:true, MP3:false, SAVE_LOAD_PLAYLIST:false, BASE_FEATUREAMP:true, LOAD_FOLDER:false, QUEUE_TRACK:false, FILE_SUPPORT:true, PLAYER_BAR:true, MUTE:false, ID3_TITLE:true, PLAYLIST:false, 
+SKINS:true, PLAYER_CONTROL:true, REORDER_PLAYLIST:true, TITLE_TIME:false, SKIP_TRACK:true, PROGRESS:true, CLEAR_PLAYLIST:true, PROGRESS_BAR:true, VOLUME_CONTROL:true, REMOVE_TRACK:true, LIGHT:true, DARK:false, SHUFFLE_REPEAT:true, SHOW_COVER:false, OGG:false, MP3:true, SAVE_LOAD_PLAYLIST:true, BASE_FEATUREAMP:true, LOAD_FOLDER:true, QUEUE_TRACK:true, FILE_SUPPORT:true, PLAYER_BAR:true, MUTE:true, ID3_TITLE:true, PLAYLIST:true, 
+Configuration:
+base_featureamp:trueplayer_bar:trueid3_title:trueprogress:trueskins:truefile_support:trueplayer_control:falsereorder_playlist:falsetitle_time:trueskip_track:falseclear_playlist:falseprogress_bar:falsevolume_control:falseremove_track:falselight:falsedark:trueshuffle_repeat:falseshow_cover:trueogg:truemp3:falsesave_load_playlist:falseload_folder:falsequeue_track:falsemute:falseplaylist:false
+
+base_featureamp:trueplayer_bar:trueid3_title:trueprogress:trueskins:truefile_support:trueplayer_control:falsereorder_playlist:falsetitle_time:trueskip_track:falseclear_playlist:falseprogress_bar:falsevolume_control:falseremove_track:falselight:falsedark:trueshuffle_repeat:falseshow_cover:trueogg:truemp3:falsesave_load_playlist:falseload_folder:falsequeue_track:falsemute:falseplaylist:false
+
+
+ ----------------------- 
+
+
+cont: 1((( apos os testes))) 
+Configuration:
+base_featureamp:trueplayer_bar:trueid3_title:trueprogress:trueskins:truefile_support:trueplayer_control:truereorder_playlist:truetitle_time:falseskip_track:trueclear_playlist:trueprogress_bar:truevolume_control:trueremove_track:truelight:truedark:falseshuffle_repeat:trueshow_cover:falseogg:falsemp3:truesave_load_playlist:trueload_folder:truequeue_track:truemute:trueplaylist:true
+
+base_featureamp:trueplayer_bar:trueid3_title:trueprogress:trueskins:truefile_support:trueplayer_control:truereorder_playlist:truetitle_time:falseskip_track:trueclear_playlist:trueprogress_bar:truevolume_control:trueremove_track:truelight:truedark:falseshuffle_repeat:trueshow_cover:falseogg:falsemp3:truesave_load_playlist:trueload_folder:truequeue_track:truemute:trueplaylist:truecont: 2((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Contador de produtos:2
+Total time (ms): 29457 time average (s): 29.457 number of times performed:1

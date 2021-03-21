@@ -1,0 +1,114 @@
+VolumeControl:true, SkipTrack:false, RemoveTrack:false, WEICHBRODT_featureAMP:true, ReorderPlaylist:false, Playlist:false, TimeDisplay:true, Light:false, ShuffleSkipRemove:false, SaveAndLoadPlaylist:false, GUI:true, QueueTrack:false, FileSupport:true, ProgressBar:false, Mute:true, ShowTime:true, ShowCover:true, LoadFolder:false, ShuffleRepeat:false, OGG:false, MP3:true, Skins:true, Dark:true, ClearPlaylist:false, 
+VolumeControl:false, SkipTrack:true, RemoveTrack:true, WEICHBRODT_featureAMP:true, ReorderPlaylist:true, Playlist:true, TimeDisplay:true, Light:true, ShuffleSkipRemove:true, SaveAndLoadPlaylist:true, GUI:true, QueueTrack:true, FileSupport:true, ProgressBar:true, Mute:false, ShowTime:false, ShowCover:false, LoadFolder:true, ShuffleRepeat:true, OGG:true, MP3:false, Skins:true, Dark:false, ClearPlaylist:true, 
+
+
+ ***** Configuration:0
+
+
+weichbrodt_featureamp:true gui:true filesupport:true volumecontrol:true skiptrack:false removetrack:false reorderplaylist:false playlist:false timedisplay:true light:false  shuffleskipremove:false saveandloadplaylist:false queuetrack:false progressbar:false  mute:true showtime:true  showcover:true loadfolder:false shufflerepeat:false  ogg:false mp3:true  skins:true  dark:true clearplaylist:false
+
+-6.0206
+cont: 1((( apos os testes))) 
+weichbrodt_featureamp:true gui:true filesupport:true volumecontrol:true skiptrack:false removetrack:false reorderplaylist:false playlist:false timedisplay:true light:false  shuffleskipremove:false saveandloadplaylist:false queuetrack:false progressbar:false  mute:true showtime:true  showcover:true loadfolder:false shufflerepeat:false  ogg:false mp3:true  skins:true  dark:true clearplaylist:false
+
+
+ ----------------------- 
+
+
+
+
+ ***** Configuration:1
+
+
+weichbrodt_featureamp:true gui:true filesupport:true volumecontrol:false skiptrack:true removetrack:true reorderplaylist:true playlist:true timedisplay:true light:true  shuffleskipremove:true saveandloadplaylist:true queuetrack:true progressbar:true  mute:false showtime:false  showcover:false loadfolder:true shufflerepeat:true  ogg:true mp3:false  skins:true  dark:false clearplaylist:true
+
+
+ weichbrodt_featureamp:truegui:truefilesupport:truevolumecontrol:falseskiptrack:trueremovetrack:truereorderplaylist:trueplaylist:truetimedisplay:truelight:trueshuffleskipremove:truesaveandloadplaylist:truequeuetrack:trueprogressbar:truemute:falseshowtime:falseshowcover:falseloadfolder:trueshufflerepeat:trueogg:truemp3:falseskins:truedark:falseclearplaylist:true
+1 null
+2 java.lang.NullPointerException
+	at java.awt.Container.addImpl(Unknown Source)
+	at java.awt.Container.add(Unknown Source)
+	at javax.swing.JPopupMenu.add(Unknown Source)
+	at javax.swing.JMenu.add(Unknown Source)
+	at gui.Gui.addMenuEntry__wrappee__LoadFolder(Gui.java:941)
+	at gui.Gui.addMenuEntry(Gui.java:949)
+	at gui.Gui.init__wrappee__GUI(Gui.java:191)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.powermock.reflect.internal.WhiteboxImpl.performMethodInvocation(WhiteboxImpl.java:1873)
+	at org.powermock.reflect.internal.WhiteboxImpl.doInvokeMethod(WhiteboxImpl.java:773)
+	at org.powermock.reflect.internal.WhiteboxImpl.invokeMethod(WhiteboxImpl.java:638)
+	at org.powermock.reflect.Whitebox.invokeMethod(Whitebox.java:401)
+	at testset.GUITest.init__wrappee__GUITest(GUITest.java:59)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Sampling.executeJunitTestCase(Sampling.java:112)
+	at experiment.Sampling.run(Sampling.java:140)
+	at experiment.Sampling.main(Sampling.java:235)
+
+3 java.lang.NullPointerException
+4 null
+5 init__wrappee__GUITest(testset.GUITest)
+6 class java.lang.NullPointerException
+7 init__wrappee__GUITest(testset.GUITest)
+[+0+ 4 -  -  -  - -14:-8]
+[]
+0 1
+[]
+[+0+ 4 -  -  -  - -14:-8]
+cont: 2((( apos os testes))) 
+weichbrodt_featureamp:true gui:true filesupport:true volumecontrol:false skiptrack:true removetrack:true reorderplaylist:true playlist:true timedisplay:true light:true  shuffleskipremove:true saveandloadplaylist:false queuetrack:true progressbar:true  mute:false showtime:false  showcover:false loadfolder:false shufflerepeat:true  ogg:true mp3:false  skins:true  dark:false clearplaylist:true
+
+
+ ----------------------- 
+
+
+
+
+Contador de produtos:2
+
+
+
+Total time (ms): 2448 time average (s): 2.448 number of times performed:1
+Exception in thread "Timer-1" java.lang.NullPointerException
+	at gui.Gui.updateGui__wrappee__ProgressBar(Gui.java:1233)
+	at gui.Gui.updateGui__wrappee__ShowTime(Gui.java:1241)
+	at gui.Gui.updateGui__wrappee__ShowCover(Gui.java:1257)
+	at gui.Gui.updateGui(Gui.java:1281)
+	at gui.Gui$14.run(Gui.java:976)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
