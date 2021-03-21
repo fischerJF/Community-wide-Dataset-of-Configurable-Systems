@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and abstract="true" mandatory="true" name="RunningExample">
+            <and abstract="true" name="Program">
+                <feature name="VERIFY"/>
+                <feature name="SIGN"/>
+                <feature name="KEYS"/>
+                <feature name="FORWARD"/>
+                <feature name="ENCRYPT"/>
+                <feature name="DECRYPT"/>
+                <feature name="AUTORESPONDER"/>
+                <feature name="ADDRESSBOOK"/>
+                <feature mandatory="true" name="BASE"/>
+            </and>
+        </and>
+    </struct>
+    <constraints>
+        <rule>
+            <imp>
+                <var>ENCRYPT</var>
+                <var>DECRYPT</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>DECRYPT</var>
+                <var>ENCRYPT</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>ENCRYPT</var>
+                <var>KEYS</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>SIGN</var>
+                <var>VERIFY</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>VERIFY</var>
+                <var>SIGN</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>SIGN</var>
+                <var>KEYS</var>
+            </imp>
+        </rule>
+    </constraints>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>

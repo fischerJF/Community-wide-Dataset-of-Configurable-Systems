@@ -1,0 +1,75 @@
+p cnf 11 28 
+c c 1 RunningExample
+c c 2 Program
+c c 3 VERIFY___
+c c 4 SIGN___
+c c 5 KEYS___
+c c 6 FORWARD___
+c c 7 ENCRYPT___
+c c 8 DECRYPT___
+c c 9 AUTORESPONDER___
+c c 10 ADDRESSBOOK___
+c c 11 BASE___
+c (RunningExample iff Program)
+c ((not RunningExample or Program) and (not Program or RunningExample))
+c x ((not RunningExample or Program) and (not Program or RunningExample))
+-1 2  0
+-2 1  0
+c ((VERIFY___) implies (Program) and (SIGN___) implies (Program) and (KEYS___) implies (Program) and (FORWARD___) implies (Program) and (ENCRYPT___) implies (Program) and (DECRYPT___) implies (Program) and (AUTORESPONDER___) implies (Program) and (ADDRESSBOOK___) implies (Program) and (Program iff BASE___))
+c ((not VERIFY___ or Program) and (not SIGN___ or Program) and (not KEYS___ or Program) and (not FORWARD___ or Program) and (not ENCRYPT___ or Program) and (not DECRYPT___ or Program) and (not AUTORESPONDER___ or Program) and (not ADDRESSBOOK___ or Program) and (not Program or BASE___) and (not BASE___ or Program))
+c x ((not VERIFY___ or Program) and (not SIGN___ or Program) and (not KEYS___ or Program) and (not FORWARD___ or Program) and (not ENCRYPT___ or Program) and (not DECRYPT___ or Program) and (not AUTORESPONDER___ or Program) and (not ADDRESSBOOK___ or Program) and (not Program or BASE___) and (not BASE___ or Program))
+-3 2  0
+-4 2  0
+-5 2  0
+-6 2  0
+-7 2  0
+-8 2  0
+-9 2  0
+-10 2  0
+-2 11  0
+-11 2  0
+c (ENCRYPT___) implies (DECRYPT___)
+c (not ENCRYPT___ or DECRYPT___)
+c x (not ENCRYPT___ or DECRYPT___)
+-7 8  0
+c (DECRYPT___) implies (ENCRYPT___)
+c (not DECRYPT___ or ENCRYPT___)
+c x (not DECRYPT___ or ENCRYPT___)
+-8 7  0
+c (ENCRYPT___) implies (KEYS___)
+c (not ENCRYPT___ or KEYS___)
+c x (not ENCRYPT___ or KEYS___)
+-7 5  0
+c (SIGN___) implies (VERIFY___)
+c (not SIGN___ or VERIFY___)
+c x (not SIGN___ or VERIFY___)
+-4 3  0
+c (VERIFY___) implies (SIGN___)
+c (not VERIFY___ or SIGN___)
+c x (not VERIFY___ or SIGN___)
+-3 4  0
+c (SIGN___) implies (KEYS___)
+c (not SIGN___ or KEYS___)
+c x (not SIGN___ or KEYS___)
+-4 5  0
+c x RunningExample
+1 0
+c x BASE___
+11 0
+c x KEYS___
+5 0
+c x -ENCRYPT___
+-7 0
+c x -AUTORESPONDER___
+-9 0
+c x -ADDRESSBOOK___
+-10 0
+c x SIGN___
+4 0
+c x -FORWARD___
+-6 0
+c x VERIFY___
+3 0
+c x -DECRYPT___
+-8 0
+
