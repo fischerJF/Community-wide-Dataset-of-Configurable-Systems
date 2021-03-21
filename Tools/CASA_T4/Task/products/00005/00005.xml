@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature manual="selected" name="Task"/>
+	<feature manual="selected" name="OBSERVER"/>
+	<feature manual="selected" name="REMOVER"/>
+	<feature manual="unselected" name="LOGGIN"/>
+</configuration>

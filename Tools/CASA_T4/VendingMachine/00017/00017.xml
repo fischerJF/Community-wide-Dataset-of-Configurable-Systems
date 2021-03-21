@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature manual="selected" name="Vending"/>
+	<feature manual="selected" name="Base"/>
+	<feature manual="selected" name="coinValidation"/>
+	<feature manual="unselected" name="availability"/>
+	<feature manual="unselected" name="userInteraction"/>
+	<feature manual="unselected" name="terminal"/>
+	<feature manual="unselected" name="keyboard"/>
+	<feature manual="selected" name="showStock"/>
+	<feature manual="unselected" name="flexiblequantity"/>
+	<feature manual="selected" name="totalValueCollected"/>
+</configuration>
