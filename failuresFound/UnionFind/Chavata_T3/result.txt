@@ -1,0 +1,3459 @@
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+Configuration:tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:3
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+ tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at testset.UnionFindTest.union__wrappee__QU_WeightedTest(UnionFindTest.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at experiment.Challenge.executeJunitTestCase(Challenge.java:69)
+	at experiment.Challenge.run(Challenge.java:95)
+	at experiment.Challenge.main(Challenge.java:138)
+
+3 java.lang.AssertionError
+4 null
+5 union__wrappee__QU_WeightedTest(testset.UnionFindTest)
+6 class java.lang.AssertionError
+7 union__wrappee__QU_WeightedTest(testset.UnionFindTest)
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:6
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:9
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:12
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:true, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:true, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:true, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:true, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:false, UnionFindSPL:false, QuickUnion:false, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, WQU_ByHeight:false, QuickFind:false, QU_Weighted_Modifications:false, UnionFind:true, QU_Weighted:true, UnionFindSPL:false, QuickUnion:true, WQU_Halfing:false, WQU_PathCompression:false, tests:false, 
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:true
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:truewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:truequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:truequ_weighted_modifications:falsequ_weighted:falseunionfindspl:truequickunion:falsewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+23
+23
+readAll() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+
+readLine() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readString() from URL http://introcs.cs.princeton.edu/stdlib/InTest.txt
+---------------------------------------------------------------------------
+<!DOCTYPE
+HTML
+PUBLIC
+"-//IETF//DTD
+HTML
+2.0//EN">
+<html><head>
+<title>302
+Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The
+document
+has
+moved
+<a
+href="https://introcs.cs.princeton.edu/stdlib/InTest.txt">here</a>.</p>
+</body></html>
+
+readLine() from current directory
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from relative path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readChar() from file
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+
+readLine() from absolute OS X / Linux path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+readLine() from absolute Windows path
+---------------------------------------------------------------------------
+java.lang.NullPointerException
+
+tests:trueunionfind:truewqu_byheight:falsequickfind:falsequ_weighted_modifications:falsequ_weighted:trueunionfindspl:truequickunion:truewqu_halfing:falsewqu_pathcompression:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:15
+Total time (ms): 34389 time average (ms): 6877.0 number of times performed:5

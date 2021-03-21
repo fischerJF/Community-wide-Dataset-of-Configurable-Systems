@@ -1,0 +1,2546 @@
+HISTORIC:true, TIMING:true, 
+HISTORIC:false, TIMING:false, 
+HISTORIC:false, TIMING:true, 
+HISTORIC:true, TIMING:false, 
+timing:truehistoric:trueConfiguration:
+
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 1((( apos os testes))) 
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+Configuration:
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 2((( apos os testes))) 
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+Configuration:
+timing:falsehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 3((( apos os testes))) 
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:3
+HISTORIC:true, TIMING:true, HISTORIC:true, TIMING:true, 
+HISTORIC:false, TIMING:false, HISTORIC:false, TIMING:false, 
+HISTORIC:false, TIMING:true, HISTORIC:false, TIMING:true, 
+HISTORIC:true, TIMING:false, HISTORIC:true, TIMING:false, 
+Configuration:
+timing:truehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 1((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 2((( apos os testes))) 
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:falsehistoric:true
+
+Configuration:
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent202
+Mik(650)spent202
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent202
+Mik(650)spent352
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent202
+Mik(650)spent202
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent202
+Mik(650)spent352
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 3((( apos os testes))) 
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+Configuration:
+timing:truehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 4((( apos os testes))) 
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+Configuration:
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 5((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:falsehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+timing:falsehistoric:truecont: 6((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Contador de produtos:6
+HISTORIC:true, TIMING:true, HISTORIC:true, TIMING:true, HISTORIC:true, TIMING:true, 
+HISTORIC:false, TIMING:false, HISTORIC:false, TIMING:false, HISTORIC:false, TIMING:false, 
+HISTORIC:false, TIMING:true, HISTORIC:false, TIMING:true, HISTORIC:false, TIMING:true, 
+HISTORIC:true, TIMING:false, HISTORIC:true, TIMING:false, HISTORIC:true, TIMING:false, 
+Configuration:
+timing:truehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent363
+Crista(415)spent163
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent363
+Crista(415)spent163
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 1((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 2((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:falsehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+cont: 3((( apos os testes))) [new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+Configuration:
+timing:truehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 4((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+cont: 5((( apos os testes))) 
+Configuration:
+timing:falsehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 6((( apos os testes))) 
+Configuration:
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+cont: 7((( apos os testes))) 
+Configuration:
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 8((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:falsehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 9((( apos os testes))) 
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:9
+HISTORIC:true, TIMING:true, HISTORIC:true, TIMING:true, HISTORIC:true, TIMING:true, HISTORIC:true, TIMING:true, 
+HISTORIC:false, TIMING:false, HISTORIC:false, TIMING:false, HISTORIC:false, TIMING:false, HISTORIC:false, TIMING:false, 
+HISTORIC:false, TIMING:true, HISTORIC:false, TIMING:true, HISTORIC:false, TIMING:true, HISTORIC:false, TIMING:true, 
+HISTORIC:true, TIMING:false, HISTORIC:true, TIMING:false, HISTORIC:true, TIMING:false, HISTORIC:true, TIMING:false, 
+timing:truehistoric:true
+
+Configuration:
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 1((( apos os testes))) 
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+Configuration:
+timing:truehistoric:false
+
+Jim(650)spent0
+cont: 2((( apos os testes))) 
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+Configuration:
+timing:falsehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 3((( apos os testes))) 
+Configuration:
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 4((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 5((( apos os testes))) timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:falsehistoric:true
+
+
+Configuration:
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 6((( apos os testes))) 
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:true
+
+Configuration:
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 7((( apos os testes))) 
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+Configuration:
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 8((( apos os testes))) 
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+Configuration:
+timing:falsehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 9((( apos os testes))) timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:true
+
+
+Configuration:
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 10((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 11((( apos os testes))) 
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:falsehistoric:true
+
+Configuration:
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent350
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 12((( apos os testes))) 
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:12
+HISTORIC:true, TIMING:true, HISTORIC:true, TIMING:true, HISTORIC:true, TIMING:true, HISTORIC:true, TIMING:true, HISTORIC:true, TIMING:true, 
+HISTORIC:false, TIMING:false, HISTORIC:false, TIMING:false, HISTORIC:false, TIMING:false, HISTORIC:false, TIMING:false, HISTORIC:false, TIMING:false, 
+HISTORIC:false, TIMING:true, HISTORIC:false, TIMING:true, HISTORIC:false, TIMING:true, HISTORIC:false, TIMING:true, HISTORIC:false, TIMING:true, 
+HISTORIC:true, TIMING:false, HISTORIC:true, TIMING:false, HISTORIC:true, TIMING:false, HISTORIC:true, TIMING:false, HISTORIC:true, TIMING:false, 
+Configuration:
+timing:truehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+cont: 1((( apos os testes))) 
+Configuration:
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+cont: 2((( apos os testes))) 
+Configuration:
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:falsehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent252
+Mik(650)spent252
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent252
+Mik(650)spent402
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent252
+Mik(650)spent252
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent252
+Mik(650)spent402
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:true
+
+cont: 3((( apos os testes))) 
+Configuration:
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 4((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 5((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:falsehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 6((( apos os testes))) 
+Configuration:
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+cont: 7((( apos os testes))) 
+Configuration:
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 8((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:falsehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 9((( apos os testes))) 
+Configuration:
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent200
+Mik(650)spent200
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent200
+Mik(650)spent351
+Crista(415)spent151
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 10((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 11((( apos os testes))) 
+Configuration:
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:falsehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 12((( apos os testes))) 
+Configuration:
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 13((( apos os testes))) 
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:truehistoric:false
+
+Configuration:
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+cont: 14((( apos os testes))) 
+Configuration:
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+timing:truehistoric:true
+
+
+ ----------------------- 
+
+
+timing:falsehistoric:true
+
+jim calls mik...
+[new local connection from Jim(650) to Mik(650)]
+mik accepts...
+connection completed
+jim hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+[new long distance connection from Mik(650) to Crista(415)]
+crista accepts...
+connection completed
+crista hangs up...
+connection dropped
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+
+jim calls mik...
+pickup - caller: Jim(650) receiver: Mik(650)
+called Name: Jim areacode: 650 to name:Mikareacode: 650
+wait: 1.0
+mik accepts...
+pickup - caller: Jim(650) receiver: Mik(650)
+wait: 2.0
+jim hangs up...
+remove: Jim
+Jim(650)spent201
+Mik(650)spent201
+Crista(415)spent0
+mik calls crista...
+pickup - caller: Mik(650) receiver: Crista(415)
+called Name: Mik areacode: 650 to name:Cristaareacode: 415
+crista accepts...
+pickup - caller: Mik(650) receiver: Crista(415)
+wait: 1.5
+crista hangs up...
+remove: Crista
+Jim(650)spent201
+Mik(650)spent351
+Crista(415)spent150
+Jim(650)spent0
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Marcos(33)]
+[new local connection from Pedro(11) to Maria(11)]
+[new long distance connection from Pedro(11) to Maria(22)]
+[new long distance connection from Pedro(11) to Maria(22)]
+connection dropped
+[new long distance connection from Pedro(11) to Maria(22)]
+connection completed
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+[new local connection from Pedro(11) to Maria(22)]
+cont: 15((( apos os testes))) 
+timing:falsehistoric:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:15
+Total time (ms): 35400 time average (ms): 7080.0 number of times performed:5

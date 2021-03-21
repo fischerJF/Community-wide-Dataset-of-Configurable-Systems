@@ -1,0 +1,80 @@
+OBSERVER:true, REMOVER:true, LOGGIN:true, 
+OBSERVER:false, REMOVER:false, LOGGIN:false, 
+OBSERVER:false, REMOVER:true, LOGGIN:true, 
+OBSERVER:true, REMOVER:false, LOGGIN:true, 
+OBSERVER:false, REMOVER:true, LOGGIN:false, 
+OBSERVER:false, REMOVER:false, LOGGIN:true, 
+OBSERVER:true, REMOVER:false, LOGGIN:false, 
+OBSERVER:true, REMOVER:true, LOGGIN:false, 
+observer:trueremover:trueloggin:true
+
+Configuration:
+cont: 1((( apos os testes))) observer:trueremover:trueloggin:true
+Configuration:
+
+
+
+ ----------------------- 
+
+
+observer:falseremover:trueloggin:true
+
+cont: 2((( apos os testes))) 
+observer:falseremover:trueloggin:true
+
+
+ ----------------------- 
+
+Configuration:
+
+observer:trueremover:falseloggin:true
+
+cont: 3((( apos os testes))) 
+observer:trueremover:falseloggin:trueConfiguration:
+
+
+
+ ----------------------- 
+
+
+observer:falseremover:trueloggin:false
+
+cont: 4((( apos os testes))) 
+observer:falseremover:trueloggin:false
+
+
+ ----------------------- 
+
+
+Configuration:
+observer:falseremover:falseloggin:true
+
+cont: 5((( apos os testes))) 
+observer:falseremover:falseloggin:true
+
+
+ ----------------------- 
+
+
+Configuration:
+observer:trueremover:falseloggin:false
+
+cont: 6((( apos os testes))) observer:trueremover:falseloggin:false
+Configuration:
+
+
+
+ ----------------------- 
+
+
+observer:trueremover:trueloggin:false
+
+observer:trueremover:trueloggin:falsecont: 7((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Contador de produtos:7
+Total time (ms): 20519 time average (ms): 20519.0 number of times performed:1

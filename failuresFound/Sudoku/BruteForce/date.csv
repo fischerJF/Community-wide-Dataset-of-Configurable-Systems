@@ -1,0 +1,5 @@
+"configuration","trace","description"
+"UNDO:true STATES:true SOLVER:true GENERATOR:false EXTENDEDSUDOKU:true COLOR:false BASE:true","	at org.junit.Assert.fail(Assert.java:86)","tryLoadFileTest(tests.BoardManagerTest)"
+"UNDO:true STATES:true SOLVER:true GENERATOR:false EXTENDEDSUDOKU:true COLOR:true BASE:true","	at org.junit.Assert.fail(Assert.java:86)","tryLoadFileTest(tests.BoardManagerTest)"
+"UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:true COLOR:false BASE:true","	at org.junit.Assert.fail(Assert.java:86)","tryLoadFileTest(tests.BoardManagerTest)"
+"UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:true COLOR:true BASE:true","	at org.junit.Assert.fail(Assert.java:86)","tryLoadFileTest(tests.BoardManagerTest)"

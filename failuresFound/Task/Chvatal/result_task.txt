@@ -1,0 +1,72 @@
+OBSERVER:false, REMOVER:false, LOGGIN:false, OBSERVER:true, REMOVER:false, LOGGIN:false, OBSERVER:false, REMOVER:false, LOGGIN:true, OBSERVER:false, REMOVER:true, LOGGIN:false, OBSERVER:true, REMOVER:false, LOGGIN:true, OBSERVER:true, REMOVER:true, LOGGIN:false, OBSERVER:true, REMOVER:true, LOGGIN:true, OBSERVER:false, REMOVER:true, LOGGIN:true, ********************************
+observer:trueremover:falseloggin:false
+
+Configuration:
+cont: 1((( apos os testes))) observer:trueremover:falseloggin:false
+Configuration:
+
+
+
+ ----------------------- 
+
+
+observer:falseremover:falseloggin:true
+
+cont: 2((( apos os testes))) 
+observer:falseremover:falseloggin:true
+
+
+ ----------------------- 
+
+
+Configuration:
+observer:falseremover:trueloggin:false
+
+observer:falseremover:trueloggin:falsecont: 3((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Configuration:
+observer:trueremover:falseloggin:true
+
+cont: 4((( apos os testes))) observer:trueremover:falseloggin:true
+Configuration:
+
+
+
+ ----------------------- 
+
+
+observer:trueremover:trueloggin:false
+
+cont: 5((( apos os testes))) 
+observer:trueremover:trueloggin:falseConfiguration:
+
+
+
+ ----------------------- 
+
+
+observer:trueremover:trueloggin:true
+
+cont: 6((( apos os testes))) 
+observer:trueremover:trueloggin:true
+
+
+ ----------------------- 
+
+
+Configuration:
+observer:falseremover:trueloggin:true
+
+cont: 7((( apos os testes))) 
+observer:falseremover:trueloggin:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:7

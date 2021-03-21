@@ -1,0 +1,128 @@
+BASE:true, STATES:false, UNDO:false, COLOR:false, SOLVER:false, GENERATOR:false, EXTENDEDSUDOKU:false, BASE:true, STATES:true, UNDO:true, COLOR:true, SOLVER:true, GENERATOR:true, EXTENDEDSUDOKU:false, BASE:true, STATES:true, UNDO:false, COLOR:true, SOLVER:false, GENERATOR:false, EXTENDEDSUDOKU:true, BASE:true, STATES:false, UNDO:false, COLOR:false, SOLVER:false, GENERATOR:false, EXTENDEDSUDOKU:true, BASE:true, STATES:true, UNDO:true, COLOR:false, SOLVER:true, GENERATOR:false, EXTENDEDSUDOKU:true, BASE:true, STATES:true, UNDO:true, COLOR:false, SOLVER:true, GENERATOR:true, EXTENDEDSUDOKU:true, BASE:true, STATES:true, UNDO:true, COLOR:false, SOLVER:false, GENERATOR:false, EXTENDEDSUDOKU:false, BASE:true, STATES:false, UNDO:false, COLOR:true, SOLVER:false, GENERATOR:false, EXTENDEDSUDOKU:false, ********************************
+UNDO:false STATES:false SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:false BASE:trueConfiguration:
+
+
+cont: 1((( apos os testes))) 
+UNDO:false STATES:false SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:false BASE:trueConfiguration:
+
+
+
+ ----------------------- 
+
+
+UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:false COLOR:true BASE:true
+
+cont: 2((( apos os testes))) 
+UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:false COLOR:true BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+UNDO:false STATES:true SOLVER:false GENERATOR:false EXTENDEDSUDOKU:true COLOR:true BASE:true
+
+cont: 3((( apos os testes))) 
+UNDO:false STATES:true SOLVER:false GENERATOR:false EXTENDEDSUDOKU:true COLOR:true BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+UNDO:false STATES:false SOLVER:false GENERATOR:false EXTENDEDSUDOKU:true COLOR:false BASE:true
+
+cont: 4((( apos os testes))) 
+UNDO:false STATES:false SOLVER:false GENERATOR:false EXTENDEDSUDOKU:true COLOR:false BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+UNDO:true STATES:true SOLVER:true GENERATOR:false EXTENDEDSUDOKU:true COLOR:false BASE:true
+
+UNDO:true STATES:true SOLVER:true GENERATOR:false EXTENDEDSUDOKU:true COLOR:false BASE:true
+
+
+ ----------------------- 
+
+
+cont: 5((( apos os testes))) 
+UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:true COLOR:false BASE:true
+
+Configuration:
+
+ UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:true COLOR:false BASE:true
+1 null
+2 java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.BoardManagerTest.tryLoadFileTest(BoardManagerTest.java:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:117)
+	at experiment.MainTestSudoku___ToolsFeatureIDE.executeJunitTestCase(MainTestSudoku___ToolsFeatureIDE.java:57)
+	at experiment.MainTestSudoku___ToolsFeatureIDE.expRun(MainTestSudoku___ToolsFeatureIDE.java:109)
+	at experiment.MainTestSudoku___ToolsFeatureIDE.main(MainTestSudoku___ToolsFeatureIDE.java:115)
+
+3 java.lang.AssertionError
+4 null
+5 tryLoadFileTest(tests.BoardManagerTest)
+6 class java.lang.AssertionError
+7 tryLoadFileTest(tests.BoardManagerTest)
+cont: 6((( apos os testes))) 
+UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:true COLOR:false BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+UNDO:true STATES:true SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:false BASE:true
+
+cont: 7((( apos os testes))) UNDO:true STATES:true SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:false BASE:true
+
+
+ ----------------------- 
+
+
+UNDO:false STATES:false SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:true BASE:true
+
+
+Configuration:
+UNDO:false STATES:false SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:true BASE:truecont: 8((( apos os testes))) 
+
+
+
+ ----------------------- 
+
+
+Contador de produtos:8

@@ -1,0 +1,24 @@
+BASE:true, STATES:false, UNDO:false, COLOR:false, SOLVER:false, GENERATOR:false, EXTENDEDSUDOKU:false, 
+BASE:true, STATES:true, UNDO:true, COLOR:true, SOLVER:true, GENERATOR:true, EXTENDEDSUDOKU:true, 
+Configuration:
+UNDO:false STATES:false SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:false BASE:true
+
+UNDO:false STATES:false SOLVER:false GENERATOR:false EXTENDEDSUDOKU:false COLOR:false BASE:true
+
+
+ ----------------------- 
+
+
+cont: 1((( apos os testes))) 
+Configuration:
+UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:true COLOR:true BASE:true
+
+cont: 2((( apos os testes))) UNDO:true STATES:true SOLVER:true GENERATOR:true EXTENDEDSUDOKU:true COLOR:true BASE:true
+
+
+
+ ----------------------- 
+
+
+Contador de produtos:2
+Total time (ms): 957 time average (ms): 957.0 number of times performed:1
