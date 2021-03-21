@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and mandatory="true" name="FeatureAmp">
+            <and mandatory="true" name="GUI">
+                <and name="VolumeControl">
+                    <feature name="Mute"/>
+                </and>
+                <feature mandatory="true" name="OpenFile"/>
+                <or mandatory="true" name="Time">
+                    <feature name="ShowTime"/>
+                    <feature name="ProgressBar"/>
+                </or>
+                <and name="Playlist">
+                    <feature mandatory="true" name="LoadFolder"/>
+                    <or name="ChangePlaylist">
+                        <feature name="ShuffleRepeat"/>
+                        <feature name="SkipTrack"/>
+                        <and name="RemoveTrack">
+                            <feature name="ClearPlaylist"/>
+                        </and>
+                        <feature name="ReorderPlaylist"/>
+                    </or>
+                    <feature name="SaveAndLoadPlaylist"/>
+                    <feature name="QueueTrack"/>
+                </and>
+                <alt mandatory="true" name="Skins">
+                    <feature name="Light"/>
+                    <feature name="Dark"/>
+                    <feature name="OrangeBlueST"/>
+                </alt>
+            </and>
+            <or mandatory="true" name="AudioFormats">
+                <and name="MP3Player">
+                    <feature name="ShowTitle"/>
+                    <feature mandatory="true" name="OpenMP3File"/>
+                    <feature name="ShowCover"/>
+                </and>
+                <and name="WAVPlayer">
+                    <feature mandatory="true" name="OpenWAVFile"/>
+                </and>
+            </or>
+        </and>
+    </struct>
+    <constraints>
+        <rule>
+            <imp>
+                <var>OpenMP3File</var>
+                <var>OpenFile</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>Playlist</var>
+                <var>ProgressBar</var>
+            </imp>
+        </rule>
+    </constraints>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
