@@ -1,6 +1,5 @@
 package MinePumpSystem;
 
-import specifications.Configuration;
 
 public class Environment {
 

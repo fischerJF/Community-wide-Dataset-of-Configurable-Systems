@@ -88,7 +88,7 @@ public class TestExample_Paulo extends NotepadTest {
 
 	@Test //*
 	public void testBasic() {
-		Configuration.BASE = true;
+//		Configuration.BASE = true;
 		if (Configuration.BASE) {
 			JTextComponentFixture textArea = window.textBox();
 			textArea.requireEditable();
@@ -106,9 +106,9 @@ public class TestExample_Paulo extends NotepadTest {
 
 	//@Test //*
 	public void testEditToolBar() {
-		Configuration.BASE = true;
-		Configuration.BASETOOLBAR = true;
-		Configuration.EDITTOOLBAR = true;
+//		Configuration.BASE = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.EDITTOOLBAR = true;
 
 		if (Configuration.BASE && Configuration.BASETOOLBAR && Configuration.EDITTOOLBAR) {
 
@@ -131,9 +131,9 @@ public class TestExample_Paulo extends NotepadTest {
 
 	//@Test //*
 	public void testFormatToolBar() {
-		Configuration.BASE = true;
-		Configuration.BASETOOLBAR = true;
-		Configuration.FORMATTOOLBAR = true;
+//		Configuration.BASE = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.FORMATTOOLBAR = true;
 
 		if (Configuration.BASE && Configuration.BASETOOLBAR && Configuration.FORMATTOOLBAR) {
 			JTextComponentFixture textArea = window.textBox();
@@ -159,9 +159,9 @@ public class TestExample_Paulo extends NotepadTest {
 
 //	@Test
 	public void testPersistenceToolBar() {
-		Configuration.BASE = true;
-		Configuration.BASETOOLBAR = true;
-		Configuration.PERSISTENCETOOLBAR = true;
+//		Configuration.BASE = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.PERSISTENCETOOLBAR = true;
 
 		if (Configuration.BASE && Configuration.BASETOOLBAR && Configuration.PERSISTENCETOOLBAR) {
 			JTextComponentFixture textArea = window.textBox();
@@ -175,9 +175,9 @@ public class TestExample_Paulo extends NotepadTest {
 
 	//@Test //*
 	public void testPrintToolBar() {
-		Configuration.BASE = true;
-		Configuration.BASETOOLBAR = true;
-		Configuration.PRINTTOOLBAR = true;
+//		Configuration.BASE = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.PRINTTOOLBAR = true;
 
 		if (Configuration.BASE && Configuration.BASETOOLBAR && Configuration.PRINTTOOLBAR) {
 			JButtonFixture print = getButtonByTooltip("Print", window);
@@ -219,9 +219,9 @@ public class TestExample_Paulo extends NotepadTest {
 
 	//@Test //*
 	public void testWordCountToolBar() {
-		Configuration.BASE = true;
-		Configuration.BASETOOLBAR = true;
-		Configuration.WORDCOUNTTOOLBAR = true;
+//		Configuration.BASE = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.WORDCOUNTTOOLBAR = true;
 
 		if (Configuration.BASE && Configuration.BASETOOLBAR && Configuration.WORDCOUNTTOOLBAR) {
 			String sentence = "This is my sentence";
@@ -238,9 +238,9 @@ public class TestExample_Paulo extends NotepadTest {
 	@Test
 	public void testEditMenuBar() {
 
-		Configuration.BASE = true;
-		Configuration.BASEMENUBAR = true;
-		Configuration.EDITMENUBAR = true;
+//		Configuration.BASE = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.EDITMENUBAR = true;
 
 		if (Configuration.BASE && Configuration.BASEMENUBAR && Configuration.EDITMENUBAR) {
 			JTextComponentFixture textArea = window.textBox();
@@ -263,9 +263,9 @@ public class TestExample_Paulo extends NotepadTest {
 	//@Test //*
 	public void testFormatMenuBar() {
 
-		Configuration.BASE = true;
-		Configuration.BASEMENUBAR = true;
-		Configuration.FORMATMENUBAR = true;
+//		Configuration.BASE = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.FORMATMENUBAR = true;
 
 		if (Configuration.BASE && Configuration.BASEMENUBAR && Configuration.FORMATMENUBAR) {
 			JTextComponentFixture textArea = window.textBox();
@@ -291,9 +291,9 @@ public class TestExample_Paulo extends NotepadTest {
 
 //	@Test
 	public void testPersistenceMenuBar() {
-		Configuration.BASE = true;
-		Configuration.BASEMENUBAR = true;
-		Configuration.PERSISTENCEMENUBAR = true;
+//		Configuration.BASE = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.PERSISTENCEMENUBAR = true;
 
 		if (Configuration.BASE && Configuration.BASEMENUBAR && Configuration.PERSISTENCEMENUBAR) {
 			JTextComponentFixture textArea = window.textBox();
@@ -307,9 +307,9 @@ public class TestExample_Paulo extends NotepadTest {
 
 	@Test
 	public void testPrintMenuBar() {
-		Configuration.BASE = true;
-		Configuration.BASEMENUBAR = true;
-		Configuration.PRINTMENUBAR = true;
+//		Configuration.BASE = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.PRINTMENUBAR = true;
 
 		if (Configuration.BASE && Configuration.BASEMENUBAR && Configuration.PRINTMENUBAR) {
 			JMenuItemFixture print = getMenuItem("Print", window);
@@ -320,9 +320,9 @@ public class TestExample_Paulo extends NotepadTest {
 
 	@Test //*
 	public void testSearchMenuBar() {
-		Configuration.BASE = true;
-		Configuration.BASEMENUBAR = true;
-		Configuration.SEARCHMENUBAR = true;
+//		Configuration.BASE = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.SEARCHMENUBAR = true;
 		if (Configuration.BASE && Configuration.BASEMENUBAR && Configuration.SEARCHMENUBAR) {
 			JTextComponentFixture textArea = window.textBox();
 			String text = "HelloWorld";
@@ -349,9 +349,9 @@ public class TestExample_Paulo extends NotepadTest {
 
 	@Test //*
 	public void testWordCountMenuBar() {
-		Configuration.BASE = true;
-		Configuration.BASEMENUBAR = true;
-		Configuration.WORDCOUNTMENUBAR = true;
+//		Configuration.BASE = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.WORDCOUNTMENUBAR = true;
 		if (Configuration.BASE && Configuration.BASEMENUBAR && Configuration.WORDCOUNTMENUBAR) {
 			String sentence = "This is my sentence";
 			window.textBox().setText(sentence);

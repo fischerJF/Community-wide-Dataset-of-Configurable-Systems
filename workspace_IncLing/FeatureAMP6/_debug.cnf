@@ -330,22 +330,22 @@ c x ALBUM___
 55 0
 c x -WAV___
 -14 0
-c x -NICETOHAVE___
--22 0
+c x NICETOHAVE___
+22 0
 c x PLAYLIST___
 5 0
-c x -JUMPPOSITION___
--24 0
-c x LIGHT___
-57 0
+c x JUMPPOSITION___
+24 0
+c x -LIGHT___
+-57 0
 c x OPENFOLDER___
 18 0
-c x -QUEUETRACK___
--21 0
-c x -MUTE___
--45 0
-c x -TAGEDITOR___
--38 0
+c x QUEUETRACK___
+21 0
+c x MUTE___
+45 0
+c x TAGEDITOR___
+38 0
 c x TRACKNUMBER___
 53 0
 c x PROGRESS___
@@ -354,38 +354,38 @@ c x -AAC___
 -10 0
 c x PLAYLISTCONTROLS___
 19 0
-c x -MULTIPLEPLAYLISTS___
--34 0
+c x MULTIPLEPLAYLISTS___
+34 0
 c x -RANDOMCOLOR___
 -63 0
-c x -SAVEANDLOAD___
--20 0
+c x SAVEANDLOAD___
+20 0
 c x -SHUFFLEREPEAT___
 -28 0
 c x -OGG___
 -12 0
 c x -YOUTUBE___
 -16 0
-c x MP3___
-8 0
+c x -MP3___
+-8 0
 c x -OSCOLORS___
 -61 0
 c x -REORDER___
 -32 0
-c x -COVER___
--51 0
-c x -VOLUME___
--40 0
+c x COVER___
+51 0
+c x VOLUME___
+40 0
 c x SKINS___
 43 0
-c x -DARK___
--59 0
-c x -CLEARPLAYLIST___
--23 0
-c x -REMEBERSTATUS___
--36 0
+c x DARK___
+59 0
+c x CLEARPLAYLIST___
+23 0
+c x REMEBERSTATUS___
+36 0
 c x PROGRESSBAR___
 49 0
-c x -TITLEBAR___
--47 0
+c x TITLEBAR___
+47 0
 

@@ -25,17 +25,21 @@ import specifications.Configuration;
 public class ViewTest {
 
 	private View view;
-	
+	private JFrame frame;
 	@Before
 	public void setUp() throws IllegalArgumentException, IllegalAccessException { 
 //		Configuration.AI_PLAYER=true;
 //		Configuration.OFFLINE_PLAYER=true;
 //		Configuration.ONLINE_PLAYER=true;
 		view= new View(null);
-		JFrame frame=	(JFrame) MemberModifier.field(View.class, "f").get(view);
+		frame=	(JFrame) MemberModifier.field(View.class, "f").get(view);
+		
+		
 	}
 	@After
-	public void tearDown() {
+	public void tearDown() throws IllegalArgumentException, IllegalAccessException {
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.dispose();
 	}
 	
 
@@ -68,7 +72,7 @@ public class ViewTest {
 //		Configuration.OFFLINE_PLAYER=true; 
 		
 		if(Configuration.OFFLINE_PLAYER)  {
-			view= new View(null);
+//			view= new View(null);
 		 
 		   JPanel p= view.createMenu();
 		   JPanel menu0= (JPanel) p.getComponent(1);

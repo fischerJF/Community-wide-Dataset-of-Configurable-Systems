@@ -1,0 +1,225 @@
+p cnf 38 88 
+c c 1 FEATUREAMP___
+c c 2 _FEATUREAMP___
+c c 3 GUI___
+c c 4 PLAYER___
+c c 5 _GUI___
+c c 6 TIME___
+c c 7 SHOWCOVER___
+c c 8 PLAYLIST___
+c c 9 VOLUMECONTROL___
+c c 10 SKINS___
+c c 11 _SHOWTIME___
+c c 12 SHOWTIME___
+c c 13 _PROGRESSBAR___
+c c 14 PROGRESSBAR___
+c c 15 _PLAYLIST___
+c c 16 LOADFOLDER___
+c c 17 CONTROLPLAYIST___
+c c 18 SAVEANDLOADPLAYLIST___
+c c 19 QUEUETRACK___
+c c 20 CLEARPLAYLIST___
+c c 21 _SKIPTRACK___
+c c 22 SKIPTRACK___
+c c 23 _SHUFFLEREPEAT___
+c c 24 SHUFFLEREPEAT___
+c c 25 _REMOVETRACK___
+c c 26 REMOVETRACK___
+c c 27 _REORDERPLAYLIST___
+c c 28 REORDERPLAYLIST___
+c c 29 _VOLUMECONTROL___
+c c 30 MUTE___
+c c 31 _LIGHTSKIN___
+c c 32 LIGHTSKIN___
+c c 33 _DARKSKIN___
+c c 34 DARKSKIN___
+c c 35 _MP3___
+c c 36 MP3___
+c c 37 _OGG___
+c c 38 OGG___
+c ((SKINS___ iff (_DARKSKIN___ or _LIGHTSKIN___)) and atmostone(_DARKSKIN___,_LIGHTSKIN___))
+c ((not SKINS___ or _DARKSKIN___ or _LIGHTSKIN___) and ((not _DARKSKIN___ and not _LIGHTSKIN___) or SKINS___) and (not _DARKSKIN___ or not _LIGHTSKIN___))
+c x ((not SKINS___ or _DARKSKIN___ or _LIGHTSKIN___) and (not _DARKSKIN___ or SKINS___) and (not _LIGHTSKIN___ or SKINS___) and (not _DARKSKIN___ or not _LIGHTSKIN___))
+-10 33 31  0
+-33 10  0
+-31 10  0
+-33 -31  0
+c (FEATUREAMP___ iff _FEATUREAMP___)
+c ((not FEATUREAMP___ or _FEATUREAMP___) and (not _FEATUREAMP___ or FEATUREAMP___))
+c x ((not FEATUREAMP___ or _FEATUREAMP___) and (not _FEATUREAMP___ or FEATUREAMP___))
+-1 2  0
+-2 1  0
+c (VOLUMECONTROL___ iff _VOLUMECONTROL___)
+c ((not VOLUMECONTROL___ or _VOLUMECONTROL___) and (not _VOLUMECONTROL___ or VOLUMECONTROL___))
+c x ((not VOLUMECONTROL___ or _VOLUMECONTROL___) and (not _VOLUMECONTROL___ or VOLUMECONTROL___))
+-9 29  0
+-29 9  0
+c (CONTROLPLAYIST___ iff (_REORDERPLAYLIST___ or _REMOVETRACK___ or _SHUFFLEREPEAT___ or _SKIPTRACK___))
+c ((not CONTROLPLAYIST___ or _REORDERPLAYLIST___ or _REMOVETRACK___ or _SHUFFLEREPEAT___ or _SKIPTRACK___) and ((not _REORDERPLAYLIST___ and not _REMOVETRACK___ and not _SHUFFLEREPEAT___ and not _SKIPTRACK___) or CONTROLPLAYIST___))
+c x ((not CONTROLPLAYIST___ or _REORDERPLAYLIST___ or _REMOVETRACK___ or _SHUFFLEREPEAT___ or _SKIPTRACK___) and (not _REORDERPLAYLIST___ or CONTROLPLAYIST___) and (not _REMOVETRACK___ or CONTROLPLAYIST___) and (not _SHUFFLEREPEAT___ or CONTROLPLAYIST___) and (not _SKIPTRACK___ or CONTROLPLAYIST___))
+-17 27 25 23 21  0
+-27 17  0
+-25 17  0
+-23 17  0
+-21 17  0
+c (TIME___ iff (_PROGRESSBAR___ or _SHOWTIME___))
+c ((not TIME___ or _PROGRESSBAR___ or _SHOWTIME___) and ((not _PROGRESSBAR___ and not _SHOWTIME___) or TIME___))
+c x ((not TIME___ or _PROGRESSBAR___ or _SHOWTIME___) and (not _PROGRESSBAR___ or TIME___) and (not _SHOWTIME___ or TIME___))
+-6 13 11  0
+-13 6  0
+-11 6  0
+c (GUI___ iff _GUI___)
+c ((not GUI___ or _GUI___) and (not _GUI___ or GUI___))
+c x ((not GUI___ or _GUI___) and (not _GUI___ or GUI___))
+-3 5  0
+-5 3  0
+c (PLAYER___ iff (_OGG___ or _MP3___))
+c ((not PLAYER___ or _OGG___ or _MP3___) and ((not _OGG___ and not _MP3___) or PLAYER___))
+c x ((not PLAYER___ or _OGG___ or _MP3___) and (not _OGG___ or PLAYER___) and (not _MP3___ or PLAYER___))
+-4 37 35  0
+-37 4  0
+-35 4  0
+c (PLAYLIST___ iff _PLAYLIST___)
+c ((not PLAYLIST___ or _PLAYLIST___) and (not _PLAYLIST___ or PLAYLIST___))
+c x ((not PLAYLIST___ or _PLAYLIST___) and (not _PLAYLIST___ or PLAYLIST___))
+-8 15  0
+-15 8  0
+c (_SHUFFLEREPEAT___ iff SHUFFLEREPEAT___)
+c ((not _SHUFFLEREPEAT___ or SHUFFLEREPEAT___) and (not SHUFFLEREPEAT___ or _SHUFFLEREPEAT___))
+c x ((not _SHUFFLEREPEAT___ or SHUFFLEREPEAT___) and (not SHUFFLEREPEAT___ or _SHUFFLEREPEAT___))
+-23 24  0
+-24 23  0
+c (_OGG___ iff OGG___)
+c ((not _OGG___ or OGG___) and (not OGG___ or _OGG___))
+c x ((not _OGG___ or OGG___) and (not OGG___ or _OGG___))
+-37 38  0
+-38 37  0
+c ((_GUI___ iff TIME___) and (SHOWCOVER___) implies (_GUI___) and (PLAYLIST___) implies (_GUI___) and (VOLUMECONTROL___) implies (_GUI___) and (_GUI___ iff SKINS___))
+c ((not _GUI___ or TIME___) and (not TIME___ or _GUI___) and (not SHOWCOVER___ or _GUI___) and (not PLAYLIST___ or _GUI___) and (not VOLUMECONTROL___ or _GUI___) and (not _GUI___ or SKINS___) and (not SKINS___ or _GUI___))
+c x ((not _GUI___ or TIME___) and (not TIME___ or _GUI___) and (not SHOWCOVER___ or _GUI___) and (not PLAYLIST___ or _GUI___) and (not VOLUMECONTROL___ or _GUI___) and (not _GUI___ or SKINS___) and (not SKINS___ or _GUI___))
+-5 6  0
+-6 5  0
+-7 5  0
+-8 5  0
+-9 5  0
+-5 10  0
+-10 5  0
+c (_REORDERPLAYLIST___ iff REORDERPLAYLIST___)
+c ((not _REORDERPLAYLIST___ or REORDERPLAYLIST___) and (not REORDERPLAYLIST___ or _REORDERPLAYLIST___))
+c x ((not _REORDERPLAYLIST___ or REORDERPLAYLIST___) and (not REORDERPLAYLIST___ or _REORDERPLAYLIST___))
+-27 28  0
+-28 27  0
+c (_SHOWTIME___ iff SHOWTIME___)
+c ((not _SHOWTIME___ or SHOWTIME___) and (not SHOWTIME___ or _SHOWTIME___))
+c x ((not _SHOWTIME___ or SHOWTIME___) and (not SHOWTIME___ or _SHOWTIME___))
+-11 12  0
+-12 11  0
+c (MUTE___) implies (_VOLUMECONTROL___)
+c (not MUTE___ or _VOLUMECONTROL___)
+c x (not MUTE___ or _VOLUMECONTROL___)
+-30 29  0
+c ((_FEATUREAMP___ iff GUI___) and (_FEATUREAMP___ iff PLAYER___))
+c ((not _FEATUREAMP___ or GUI___) and (not GUI___ or _FEATUREAMP___) and (not _FEATUREAMP___ or PLAYER___) and (not PLAYER___ or _FEATUREAMP___))
+c x ((not _FEATUREAMP___ or GUI___) and (not GUI___ or _FEATUREAMP___) and (not _FEATUREAMP___ or PLAYER___) and (not PLAYER___ or _FEATUREAMP___))
+-2 3  0
+-3 2  0
+-2 4  0
+-4 2  0
+c (_REMOVETRACK___ iff REMOVETRACK___)
+c ((not _REMOVETRACK___ or REMOVETRACK___) and (not REMOVETRACK___ or _REMOVETRACK___))
+c x ((not _REMOVETRACK___ or REMOVETRACK___) and (not REMOVETRACK___ or _REMOVETRACK___))
+-25 26  0
+-26 25  0
+c ((_PLAYLIST___ iff LOADFOLDER___) and (CONTROLPLAYIST___) implies (_PLAYLIST___) and (SAVEANDLOADPLAYLIST___) implies (_PLAYLIST___) and (QUEUETRACK___) implies (_PLAYLIST___) and (CLEARPLAYLIST___) implies (_PLAYLIST___))
+c ((not _PLAYLIST___ or LOADFOLDER___) and (not LOADFOLDER___ or _PLAYLIST___) and (not CONTROLPLAYIST___ or _PLAYLIST___) and (not SAVEANDLOADPLAYLIST___ or _PLAYLIST___) and (not QUEUETRACK___ or _PLAYLIST___) and (not CLEARPLAYLIST___ or _PLAYLIST___))
+c x ((not _PLAYLIST___ or LOADFOLDER___) and (not LOADFOLDER___ or _PLAYLIST___) and (not CONTROLPLAYIST___ or _PLAYLIST___) and (not SAVEANDLOADPLAYLIST___ or _PLAYLIST___) and (not QUEUETRACK___ or _PLAYLIST___) and (not CLEARPLAYLIST___ or _PLAYLIST___))
+-15 16  0
+-16 15  0
+-17 15  0
+-18 15  0
+-19 15  0
+-20 15  0
+c (_DARKSKIN___ iff DARKSKIN___)
+c ((not _DARKSKIN___ or DARKSKIN___) and (not DARKSKIN___ or _DARKSKIN___))
+c x ((not _DARKSKIN___ or DARKSKIN___) and (not DARKSKIN___ or _DARKSKIN___))
+-33 34  0
+-34 33  0
+c (_PROGRESSBAR___ iff PROGRESSBAR___)
+c ((not _PROGRESSBAR___ or PROGRESSBAR___) and (not PROGRESSBAR___ or _PROGRESSBAR___))
+c x ((not _PROGRESSBAR___ or PROGRESSBAR___) and (not PROGRESSBAR___ or _PROGRESSBAR___))
+-13 14  0
+-14 13  0
+c (_LIGHTSKIN___ iff LIGHTSKIN___)
+c ((not _LIGHTSKIN___ or LIGHTSKIN___) and (not LIGHTSKIN___ or _LIGHTSKIN___))
+c x ((not _LIGHTSKIN___ or LIGHTSKIN___) and (not LIGHTSKIN___ or _LIGHTSKIN___))
+-31 32  0
+-32 31  0
+c (_MP3___ iff MP3___)
+c ((not _MP3___ or MP3___) and (not MP3___ or _MP3___))
+c x ((not _MP3___ or MP3___) and (not MP3___ or _MP3___))
+-35 36  0
+-36 35  0
+c (_SKIPTRACK___ iff SKIPTRACK___)
+c ((not _SKIPTRACK___ or SKIPTRACK___) and (not SKIPTRACK___ or _SKIPTRACK___))
+c x ((not _SKIPTRACK___ or SKIPTRACK___) and (not SKIPTRACK___ or _SKIPTRACK___))
+-21 22  0
+-22 21  0
+c (PLAYLIST___) implies (PROGRESSBAR___)
+c (not PLAYLIST___ or PROGRESSBAR___)
+c x (not PLAYLIST___ or PROGRESSBAR___)
+-8 14  0
+c (CLEARPLAYLIST___) implies (REMOVETRACK___)
+c (not CLEARPLAYLIST___ or REMOVETRACK___)
+c x (not CLEARPLAYLIST___ or REMOVETRACK___)
+-20 26  0
+c x FEATUREAMP___
+1 0
+c x FEATUREAMP___
+1 0
+c x GUI___
+3 0
+c x PLAYER___
+4 0
+c x -SKIPTRACK___
+-22 0
+c x VOLUMECONTROL___
+9 0
+c x LIGHTSKIN___
+32 0
+c x -REMOVETRACK___
+-26 0
+c x TIME___
+6 0
+c x -REORDERPLAYLIST___
+-28 0
+c x -PLAYLIST___
+-8 0
+c x -DARKSKIN___
+-34 0
+c x -SAVEANDLOADPLAYLIST___
+-18 0
+c x -QUEUETRACK___
+-19 0
+c x PROGRESSBAR___
+14 0
+c x MUTE___
+30 0
+c x SHOWTIME___
+12 0
+c x -CONTROLPLAYIST___
+-17 0
+c x -SHOWCOVER___
+-7 0
+c x -LOADFOLDER___
+-16 0
+c x -SHUFFLEREPEAT___
+-24 0
+c x OGG___
+38 0
+c x MP3___
+36 0
+c x SKINS___
+10 0
+c x -CLEARPLAYLIST___
+-20 0
+

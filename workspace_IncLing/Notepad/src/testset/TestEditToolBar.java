@@ -71,8 +71,8 @@ public class TestEditToolBar extends NotepadTest {
   public void testCutToolBar() {
     // Assume.assumeTrue(NotepadVariables.getSINGLETON().isBASETOOLBAR___()
     // && NotepadVariables.getSINGLETON().isEDITTOOLBAR___());
-	  Configuration.BASETOOLBAR=true;
-	  Configuration.EDITTOOLBAR=true;
+//	  Configuration.BASETOOLBAR=true;
+//	  Configuration.EDITTOOLBAR=true;
     if(Configuration.BASETOOLBAR && Configuration.EDITTOOLBAR) {
 	  selectAll();
 	  JToolBarFixture tb = window.toolBar();
@@ -86,8 +86,8 @@ public class TestEditToolBar extends NotepadTest {
 
   @Test
   public void testCopyPasteToolBar() {
-	  Configuration.BASETOOLBAR=true;
-	  Configuration.EDITTOOLBAR=true;
+//	  Configuration.BASETOOLBAR=true;
+//	  Configuration.EDITTOOLBAR=true;
     if(Configuration.BASETOOLBAR && Configuration.EDITTOOLBAR) {
 	  test_Paste("Copy");
     }
@@ -139,11 +139,11 @@ public class TestEditToolBar extends NotepadTest {
     // && NotepadVariables.getSINGLETON().isSEARCHTOOLBAR___()
     // && NotepadVariables.getSINGLETON().isUNDOREDO___()
     // && NotepadVariables.getSINGLETON().isUNDOREDOTOOLBAR___());
-   Configuration.BASETOOLBAR=true;
-   Configuration.EDITTOOLBAR=true;
-   Configuration.SEARCHTOOLBAR=true;
-   Configuration.UNDOREDOMENUBAR=true;
-   Configuration.UNDOREDOTOOLBAR=true;
+//   Configuration.BASETOOLBAR=true;
+//   Configuration.EDITTOOLBAR=true;
+//   Configuration.SEARCHTOOLBAR=true;
+//   Configuration.UNDOREDOMENUBAR=true;
+//   Configuration.UNDOREDOTOOLBAR=true;
    
    if(Configuration.BASETOOLBAR &&
      Configuration.EDITTOOLBAR &&

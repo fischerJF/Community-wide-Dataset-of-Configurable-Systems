@@ -138,18 +138,18 @@ public class BaselineAdapter {
  			junit.addListener(new RunListernerReport(Configuration.returnProduct(), record));
 			
 			 org.junit.runner.Result result = junit.run(
-//					    ConnectedTests_Caio.class,
-//				  	    CycleRelated_Caio.class,
-//				  	    CycleWorkSpaceTest.class,
-//				  	    GraphReturnTests_Caio.class,
-//				  	    GraphTest.class,
-//				  	    JavaUtilityTest.class,
-//				  	    MainTest.class,
-//				  	    MultiFeatureTest_Caio.class,
-//				  	    NetworkGeneratorTest.class,
-//				  	    NumberTests_Caio.class,
-//						TestSuite_NEW.class,
-//						TreeGeneratorTest.class
+					    ConnectedTests_Caio.class,
+				  	    CycleRelated_Caio.class,
+				  	    CycleWorkSpaceTest.class,
+				  	    GraphReturnTests_Caio.class,
+				  	    GraphTest.class,
+				  	    JavaUtilityTest.class,
+				  	    MainTest.class,
+				  	    MultiFeatureTest_Caio.class,
+				  	    NetworkGeneratorTest.class,
+				  	    NumberTests_Caio.class,
+						TestSuite_NEW.class,
+						TreeGeneratorTest.class
 					 );
 //			/* fim core junit */
 			 System.err.println("cont: "+cont+"((( apos os testes))) ");

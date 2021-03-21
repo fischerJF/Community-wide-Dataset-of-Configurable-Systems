@@ -216,40 +216,40 @@ c x -WAV___
 -9 0
 c x -REORDERPLAYLIST___
 -39 0
-c x PLAYLIST___
-17 0
-c x CONTROL___
-29 0
+c x -PLAYLIST___
+-17 0
+c x -CONTROL___
+-29 0
 c x -LIGHT___
 -41 0
-c x SAVEANDLOADPLAYLIST___
-30 0
+c x -SAVEANDLOADPLAYLIST___
+-30 0
 c x FILESUPPORT___
 7 0
 c x -QUEUETRACK___
 -31 0
-c x PROGRESSBAR___
-24 0
+c x -PROGRESSBAR___
+-24 0
 c x -MUTE___
 -26 0
 c x SHOWTIME___
 22 0
-c x LOADFOLDER___
-28 0
+c x -LOADFOLDER___
+-28 0
 c x TRACKTIME___
 15 0
-c x SHUFFLEREPEAT___
-35 0
-c x -OGG___
--11 0
-c x MP3___
-13 0
+c x -SHUFFLEREPEAT___
+-35 0
+c x OGG___
+11 0
+c x -MP3___
+-13 0
 c x SKINS___
 19 0
 c x DARK___
 43 0
 c x -CLEARPLAYLIST___
 -20 0
-c x -SHOWCOVER___
--18 0
+c x SHOWCOVER___
+18 0
 

@@ -33,7 +33,7 @@ public class TestTextArea extends NotepadTest {
 
 	@Test
 	public void testBasic() {
-		Configuration.BASE = true;
+//		Configuration.BASE = true;
 		if (Configuration.BASE) {
 			GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(JTextArea.class) {
 				@Override

@@ -180,8 +180,8 @@ c x BASE___
 7 0
 c x DIRECTED___
 9 0
-c x UNDIRECTED___
-11 0
+c x -UNDIRECTED___
+-11 0
 c x WEIGHTED___
 5 0
 c x SEARCH___
@@ -190,16 +190,16 @@ c x BFS___
 16 0
 c x NUMBER___
 20 0
-c x CONNECTED___
-22 0
-c x STRONGLYCONNECTED___
-24 0
-c x CYCLE___
-26 0
-c x MSTPRIM___
-28 0
-c x MSTKRUSKAL___
-30 0
-c x SHORTEST___
-32 0
+c x -CONNECTED___
+-22 0
+c x -STRONGLYCONNECTED___
+-24 0
+c x -CYCLE___
+-26 0
+c x -MSTPRIM___
+-28 0
+c x -MSTKRUSKAL___
+-30 0
+c x -SHORTEST___
+-32 0
 

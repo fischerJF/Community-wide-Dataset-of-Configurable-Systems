@@ -59,6 +59,53 @@ public class AppGUITest {
 
 	@Before
 	public void setUp() {
+//							Configuration.featureamp=true;
+//		 					Configuration.base=true;
+//		 					Configuration.skins=true;
+//		 					Configuration.codecs=true;
+//		 					Configuration.gui=true;
+//		 		Configuration.playlist=true;
+//		 		Configuration.openfolder=true;
+//		 		
+//		 		
+//		 		Configuration.playlistcontrols=true;
+//		 		
+//		 		Configuration.skiptrack=true; //true
+//		 		     Configuration.shufflerepeat=false;
+//		 		Configuration.removetrack=false;	//true
+//		 		Configuration.progress=false; //true
+//		 		Configuration.reorder=false; //true
+//		 		
+//		 		
+//		 Configuration.metadata=true;
+//		 	
+//		 Configuration.album=true;
+//		 Configuration.wav=true;
+//		 Configuration.nicetohave=true;
+//		 Configuration.jumpposition=true;
+//		 Configuration.light=true;		
+//		 Configuration.queuetrack=false;
+//		 Configuration.mute=false;
+//		 Configuration.tageditor=false;
+//		 Configuration.tracknumber=true;
+//		 Configuration.aac=true;
+//		 Configuration.multipleplaylists=true;
+//		 Configuration.randomcolor=false;
+//		 Configuration.saveandload=true;
+//		 		
+//		 Configuration.ogg=true;
+//		 Configuration.youtube=false;
+//		 Configuration.mp3=false;
+//		 Configuration.oscolors=false;
+//		 	
+//		 Configuration.cover=false;
+//		 Configuration.volume=false;
+//		 
+//		 Configuration.dark=false;
+//		 Configuration.clearplaylist=true;
+//		 Configuration.remeberstatus=true;
+//		 Configuration.progressbar=true;
+//		 Configuration.titlebar=false;
 	}
 
 	@After

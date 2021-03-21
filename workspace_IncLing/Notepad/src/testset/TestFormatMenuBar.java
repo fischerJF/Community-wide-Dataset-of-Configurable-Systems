@@ -43,8 +43,8 @@ public class TestFormatMenuBar extends NotepadTest {
 	@Test
 	public void testChangeFontMenuBar() {
 		// type some initial text and click in menu Format > Font
-		Configuration.BASEMENUBAR = true;
-		Configuration.FORMATMENUBAR = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.FORMATMENUBAR = true;
 
 		if (Configuration.BASEMENUBAR && Configuration.FORMATMENUBAR) {
 			Helper.fileFormatInitializerMenuBar(window, "text do be formatted", "Font");
@@ -69,8 +69,8 @@ public class TestFormatMenuBar extends NotepadTest {
 	public void testChangeFontSizeMenuBar() {
 		// Assume.assumeTrue(NotepadVariables.getSINGLETON().isFORMATMENUBAR___());
 		// type some initial text and click in menu Format > Font
-		Configuration.BASEMENUBAR = true;
-		Configuration.FORMATMENUBAR = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.FORMATMENUBAR = true;
 
 		if (Configuration.BASEMENUBAR && Configuration.FORMATMENUBAR) {
 			Helper.fileFormatInitializerMenuBar(window, "text do be formatted", "Font");
@@ -95,8 +95,8 @@ public class TestFormatMenuBar extends NotepadTest {
 	public void testChangeFontTypeMenuBar() {
 		// Assume.assumeTrue(NotepadVariables.getSINGLETON().isFORMATMENUBAR___());
 		// type some initial text and click in menu Format > Font
-		Configuration.BASEMENUBAR = true;
-		Configuration.FORMATMENUBAR = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.FORMATMENUBAR = true;
 
 		if (Configuration.BASEMENUBAR && Configuration.FORMATMENUBAR) {
 			Helper.fileFormatInitializerMenuBar(window, "text do be formatted", "Font");
@@ -121,8 +121,8 @@ public class TestFormatMenuBar extends NotepadTest {
 	 @Test
 	public void testChangeFontAllMenuBar() {
 		// type some initial text and click in menu Format > Font
-		Configuration.BASEMENUBAR = true;
-		Configuration.FORMATMENUBAR = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.FORMATMENUBAR = true;
 
 		if (Configuration.BASEMENUBAR && Configuration.FORMATMENUBAR) {
 			Helper.fileFormatInitializerMenuBar(window, "text do be formatted", "Font");
@@ -158,8 +158,8 @@ public class TestFormatMenuBar extends NotepadTest {
 //	 @Test
 	public void testLineWrap() {
 		// with line wrap
-		Configuration.BASEMENUBAR = true;
-		Configuration.FORMATMENUBAR = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.FORMATMENUBAR = true;
 
 		if (Configuration.BASEMENUBAR && Configuration.FORMATMENUBAR) {
 			Helper.fileFormatInitializerMenuBar(window,

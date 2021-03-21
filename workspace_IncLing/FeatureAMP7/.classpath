@@ -18,5 +18,6 @@
 	<classpathentry kind="lib" path="lib/mockito-all-1.10.19.jar"/>
 	<classpathentry kind="lib" path="lib/mp3agic-0.8.1.jar"/>
 	<classpathentry kind="lib" path="lib/powermock-mockito-release-full-1.6.4-full.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Tools"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

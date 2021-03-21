@@ -14,5 +14,6 @@ public class MVC {
     m.setView(v);
     c.setModel(m);
   }
+ 
 
 }

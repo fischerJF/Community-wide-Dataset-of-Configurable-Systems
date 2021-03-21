@@ -1,4 +1,4 @@
-p cnf 43 95 
+p cnf 43 104 
 c c 1 FEATUREAMP___
 c c 2 _FEATUREAMP___
 c c 3 GUI___
@@ -199,44 +199,62 @@ c x (not OPENWAVFILE___ or WAVPLAYER___)
 -5 43  0
 c x FEATUREAMP___
 1 0
-c x ORANGEBLUEST___
-37 0
-c x -MUTE___
--13 0
-c x -DARK___
--35 0
-c x -SHUFFLEREPEAT___
--25 0
-c x REMOVETRACK___
-29 0
-c x -LIGHT___
--33 0
-c x CLEARPLAYLIST___
-23 0
-c x -WAVPLAYER___
--43 0
-c x -REORDERPLAYLIST___
--31 0
-c x SHOWTIME___
-15 0
+c x FEATUREAMP___
+1 0
+c x GUI___
+3 0
+c x AUDIOFORMATS___
+4 0
 c x -OPENWAVFILE___
 -5 0
 c x -VOLUMECONTROL___
 -7 0
-c x SKIPTRACK___
-27 0
+c x -SKIPTRACK___
+-27 0
+c x MP3PLAYER___
+38 0
+c x -REMOVETRACK___
+-29 0
+c x TIME___
+9 0
+c x -CHANGEPLAYLIST___
+-20 0
 c x OPENMP3FILE___
 40 0
-c x FEATUREAMP___
-1 0
+c x -REORDERPLAYLIST___
+-31 0
+c x -PLAYLIST___
+-10 0
+c x -LIGHT___
+-33 0
 c x -SAVEANDLOADPLAYLIST___
 -21 0
-c x AUDIOFORMATS___
-4 0
-c x -SHOWTITLE___
--39 0
-c x -GUI___
--3 0
 c x -QUEUETRACK___
 -22 0
+c x -MUTE___
+-13 0
+c x -PROGRESSBAR___
+-17 0
+c x SHOWTIME___
+15 0
+c x SHOWTITLE___
+39 0
+c x -WAVPLAYER___
+-43 0
+c x -LOADFOLDER___
+-19 0
+c x SHOWCOVER___
+41 0
+c x -SHUFFLEREPEAT___
+-25 0
+c x SKINS___
+11 0
+c x ORANGEBLUEST___
+37 0
+c x -DARK___
+-35 0
+c x OPENFILE___
+8 0
+c x -CLEARPLAYLIST___
+-23 0
 

@@ -17,7 +17,7 @@ public class MainIncLingFeatureAMP6 {
 		Record record = new Record();
 		for (Combination combination : incling.getCombsForTest()) {
 			for (FeatureIncling f : combination.getListFeatures()) {
-				if(f.getName().equals("SKIPTRACK")){ 
+					if(f.getName().equals("SKIPTRACK")){ 
 					 Configuration.skiptrack=(f.getState().equals("0") ? false : true);
 					}
 					if(f.getName().equals("METADATA")){ 

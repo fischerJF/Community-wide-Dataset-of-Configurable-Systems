@@ -19,7 +19,7 @@ public class Configuration {
 	public static boolean MSTPRIM = false;
 	public static boolean MSTKRUSKAL = false;
 	public static boolean SHORTEST = false;
-	
+//	
 	public static Tool tool = new Tool( "modified-model.m" );
 	public static boolean makeCnfFile = true;
     public static boolean compatSelections = true;

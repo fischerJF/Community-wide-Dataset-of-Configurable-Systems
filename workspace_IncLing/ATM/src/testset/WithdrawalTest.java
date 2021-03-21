@@ -5,6 +5,7 @@ import org.powermock.api.support.membermodification.MemberModifier;
 import org.powermock.reflect.Whitebox;
 
 import atm.ATM;
+import atm.ATMUserInterface;
 import atm.BankDatabase;
 import atm.CashDispenser;
 import atm.DepositSlot;
@@ -18,6 +19,8 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import java.util.Arrays;
+
+import javax.swing.JFrame;
 
 import org.junit.After;
 import org.junit.Before;
@@ -38,6 +41,7 @@ public class WithdrawalTest {
 
 	private ATM atm;
 	private Withdrawal withdrawal;
+	private Screen screen;
 
 	@Before
 	public void setUp() {
@@ -49,7 +53,8 @@ public class WithdrawalTest {
 //		Configuration.ADMIN_CONTROL = true;
 //		Configuration.USER_INTERFACE = false;
 //		Configuration.WITHDRAWING_ALL_VALUES = true;
-		withdrawal = new Withdrawal(12345, new Screen(atm), new BankDatabase(), new Keypad(), new CashDispenser());
+		screen =new Screen(atm);
+		withdrawal = new Withdrawal(12345, screen, new BankDatabase(), new Keypad(), new CashDispenser());
 
 	}
 
@@ -146,7 +151,7 @@ public class WithdrawalTest {
 			int input = 2;
 			PowerMockito.when(k.getInput()).thenReturn(input);
 			assertEquals(k.getInput(), input);
-			withdrawal = new Withdrawal(12345, new Screen(atm), bankDatabase, k, new CashDispenser());
+			withdrawal = new Withdrawal(12345, screen, bankDatabase, k, new CashDispenser());
 			int testPrivate = Whitebox.invokeMethod(withdrawal, "displayMenuOfAmounts");
 			
 			
@@ -231,7 +236,11 @@ public class WithdrawalTest {
 	}
 
 	@After
-	public void tearDown() {
+	public void tearDown() throws IllegalArgumentException, IllegalAccessException {
+		ATMUserInterface gui=	(ATMUserInterface) MemberModifier.field(Screen.class, "frame").get(screen);
+		
+		gui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		gui.dispose();
 
 	}
 

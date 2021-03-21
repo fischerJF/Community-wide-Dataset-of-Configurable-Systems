@@ -6,7 +6,7 @@ import org.junit.runners.Suite;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
   TestEditMenuBar.class,
- TestEditToolBar.class,
+  TestEditToolBar.class,
   TestFileMenuBar.class,
   TestFileToolBar.class,
   TestFormatMenuBar.class,
@@ -14,7 +14,7 @@ import org.junit.runners.Suite;
   TestTextArea.class,
   TestHelp.class,
   TestWordCount.class, 
-	TestEditMenuBar.class ,
+  TestEditMenuBar.class ,
   NotepadJUnitTest_lest.class  
 })
 

@@ -194,17 +194,17 @@ public class Configuration {
 	}
 
 	public static void productPrint() {
-		System.out.println("weichbrodt_featureamp:" + Configuration.weichbrodt_featureamp + "gui:" + Configuration.gui
-				+ "filesupport:" + Configuration.filesupport + "volumecontrol:" + Configuration.volumecontrol
-				+ "skiptrack:" + Configuration.skiptrack + "removetrack:" + Configuration.removetrack
-				+ "reorderplaylist:" + Configuration.reorderplaylist + "playlist:" + Configuration.playlist
-				+ "timedisplay:" + Configuration.timedisplay + "light:" + Configuration.light + "shuffleskipremove:"
-				+ Configuration.shuffleskipremove + "saveandloadplaylist:" + Configuration.saveandloadplaylist
-				+ "queuetrack:" + Configuration.queuetrack + "progressbar:" + Configuration.progressbar + "mute:"
-				+ Configuration.mute + "showtime:" + Configuration.showtime + "showcover:" + Configuration.showcover
-				+ "loadfolder:" + Configuration.loadfolder + "shufflerepeat:" + Configuration.shufflerepeat + "ogg:"
-				+ Configuration.ogg + "mp3:" + Configuration.mp3 + "skins:" + Configuration.skins + "dark:"
-				+ Configuration.dark + "clearplaylist:" + Configuration.clearplaylist);
+		System.out.println("weichbrodt_featureamp:" + Configuration.weichbrodt_featureamp + " gui:" + Configuration.gui
+				+ " filesupport:" + Configuration.filesupport + " volumecontrol:" + Configuration.volumecontrol
+				+ " skiptrack:" + Configuration.skiptrack + " removetrack:" + Configuration.removetrack
+				+ " reorderplaylist:" + Configuration.reorderplaylist + " playlist:" + Configuration.playlist
+				+ " timedisplay:" + Configuration.timedisplay + " light:" + Configuration.light + "  shuffleskipremove:"
+				+ Configuration.shuffleskipremove + " saveandloadplaylist:" + Configuration.saveandloadplaylist
+				+ " queuetrack:" + Configuration.queuetrack + " progressbar:" + Configuration.progressbar + "  mute:"
+				+ Configuration.mute + " showtime:" + Configuration.showtime + "  showcover:" + Configuration.showcover
+				+ " loadfolder:" + Configuration.loadfolder + " shufflerepeat:" + Configuration.shufflerepeat + "  ogg:"
+				+ Configuration.ogg + " mp3:" + Configuration.mp3 + "  skins:" + Configuration.skins + "  dark:"
+				+ Configuration.dark + " clearplaylist:" + Configuration.clearplaylist);
 	}
 
 	public static String returnProduct() {

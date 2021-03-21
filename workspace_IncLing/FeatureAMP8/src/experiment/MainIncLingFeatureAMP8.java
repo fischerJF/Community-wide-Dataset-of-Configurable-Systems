@@ -17,7 +17,7 @@ public class MainIncLingFeatureAMP8 {
 		Record record = new Record();
 		for (Combination combination : incling.getCombsForTest()) {
 			for (FeatureIncling f : combination.getListFeatures()) {
-				if(f.getName().equals("VOLUMECONTROL")){ 
+				   if(f.getName().equals("VOLUMECONTROL")){ 
 					 Configuration.volumecontrol=(f.getState().equals("0") ? false : true);
 					}
 					if(f.getName().equals("SKIPTRACK")){ 

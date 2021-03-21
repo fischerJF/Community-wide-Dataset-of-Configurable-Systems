@@ -3,12 +3,17 @@ package testset;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.powermock.api.support.membermodification.MemberModifier;
 
 import atm.ATM;
 import atm.ATMUserInterface;
 import atm.Logger;
+import atm.Screen;
 import specifications.Configuration;
 import static org.junit.Assert.assertTrue;
+
+import javax.swing.JFrame;
+
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertEquals;
 import org.fest.swing.fixture.FrameFixture;
@@ -19,6 +24,7 @@ public class ATMUserInterfaceTest {
 	private ATM atm;
 	private ATMUserInterface userInterface;
 
+	@Before
 	public void setUp() {
 		atm = new ATM();
 		atm.run();
@@ -27,7 +33,12 @@ public class ATMUserInterfaceTest {
 	}
 
 	@After
-	public void tearDown() {
+	public void tearDown() throws IllegalArgumentException, IllegalAccessException {
+		Screen s=	(Screen) MemberModifier.field(ATM.class, "screen").get(atm);
+		ATMUserInterface f=	(ATMUserInterface) MemberModifier.field(Screen.class, "frame").get(s);
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		f.dispose();
+		
 		if(demo!=null)
 		demo.cleanUp();
 	}

@@ -40,7 +40,7 @@ public class TestHelp extends NotepadTest {
 
 	@Test 
 	public void testAboutToolBar() {
-		Configuration.BASETOOLBAR = true;
+//		Configuration.BASETOOLBAR = true;
 		if (Configuration.BASETOOLBAR) {
 			GenericTypeMatcher<JButton> buttonMatcher = new GenericTypeMatcher<JButton>(JButton.class) {
 				@Override
@@ -89,7 +89,7 @@ public class TestHelp extends NotepadTest {
 
 //	@Test
 	public void testAboutMenuBar() {
-		Configuration.BASETOOLBAR = true;
+//		Configuration.BASETOOLBAR = true;
 		if (Configuration.BASETOOLBAR) {
 			JMenuItemFixture menuItemFixture1 = window.menuItemWithPath("Help", "About Notepad");
 			menuItemFixture1.click();

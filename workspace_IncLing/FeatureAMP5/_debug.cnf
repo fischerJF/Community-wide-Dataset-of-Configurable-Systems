@@ -234,22 +234,22 @@ c x FILESUPPORT___
 5 0
 c x -VOLUMECONTROL___
 -13 0
-c x SKIPTRACK___
-33 0
-c x REMOVETRACK___
-35 0
-c x QUEUEREMOVE___
-39 0
+c x -SKIPTRACK___
+-33 0
+c x -REMOVETRACK___
+-35 0
+c x -QUEUEREMOVE___
+-39 0
 c x -REORDERPLAYLIST___
 -37 0
-c x PLAYLIST___
-15 0
-c x -LIGHT___
--41 0
+c x -PLAYLIST___
+-15 0
+c x LIGHT___
+41 0
 c x -SAVEANDLOADPLAYLIST___
 -26 0
-c x QUEUETRACK___
-27 0
+c x -QUEUETRACK___
+-27 0
 c x -MUTE___
 -18 0
 c x PROGRESSBAR___
@@ -258,24 +258,24 @@ c x PROGRESS___
 14 0
 c x -SHOWTIME___
 -22 0
-c x PLAYLISTCONTROLS___
-25 0
+c x -PLAYLISTCONTROLS___
+-25 0
 c x -SHOWCOVER___
 -7 0
-c x LOADFOLDER___
-24 0
+c x -LOADFOLDER___
+-24 0
 c x -SKIPREPEAT___
 -29 0
 c x -SHUFFLEREPEAT___
 -31 0
-c x -WAVE___
--11 0
-c x MP3___
-9 0
+c x WAVE___
+11 0
+c x -MP3___
+-9 0
 c x SKINS___
 16 0
-c x DARK___
-43 0
+c x -DARK___
+-43 0
 c x -CLEARPLAYLIST___
 -28 0
 

@@ -15,8 +15,8 @@ c x ((not HISTORIC___ or _TELECON___) and (not TIMING___ or _TELECON___))
 -4 2  0
 c x TELECON___
 1 0
-c x TIMING___
-4 0
+c x -TIMING___
+-4 0
 c x HISTORIC___
 3 0
 

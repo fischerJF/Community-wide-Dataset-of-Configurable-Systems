@@ -64,8 +64,8 @@ public class TestFileToolBar extends NotepadTest {
 	//@Test /*
 	public void testNewToolBarCancel() {
 		// Assume.assumeTrue(NotepadVariables.getSINGLETON().isPERSISTENCETOOLBAR___());
-		Configuration.PERSISTENCETOOLBAR = true;
-		Configuration.BASETOOLBAR = true;
+//		Configuration.PERSISTENCETOOLBAR = true;
+//		Configuration.BASETOOLBAR = true;
 
 		if (Configuration.PERSISTENCETOOLBAR && Configuration.BASETOOLBAR) {
 			DialogFixture dialog = Helper.fileInitializerToolBar(window, "New");
@@ -108,8 +108,8 @@ public class TestFileToolBar extends NotepadTest {
 	//@Test /*
 	public void testNewToolBarYes() {
 		// Assume.assumeTrue(NotepadVariables.getSINGLETON().isPERSISTENCETOOLBAR___());
-		Configuration.PERSISTENCETOOLBAR = true;
-		Configuration.BASETOOLBAR = true;
+//		Configuration.PERSISTENCETOOLBAR = true;
+//		Configuration.BASETOOLBAR = true;
 
 		if (Configuration.PERSISTENCETOOLBAR && Configuration.BASETOOLBAR) {
 			DialogFixture dialog = Helper.fileInitializerToolBar(window, "New");
@@ -158,8 +158,8 @@ public class TestFileToolBar extends NotepadTest {
 
 	//@Test /*
 	public void testSaveToolBar() {
-		Configuration.PERSISTENCETOOLBAR = true;
-		Configuration.BASETOOLBAR = true;
+//		Configuration.PERSISTENCETOOLBAR = true;
+//		Configuration.BASETOOLBAR = true;
 
 		if (Configuration.PERSISTENCETOOLBAR && Configuration.BASETOOLBAR) {
 			DialogFixture dialog = Helper.fileInitializerToolBar(window, "Save");
@@ -194,8 +194,8 @@ public class TestFileToolBar extends NotepadTest {
 
 	//@Test /*
 	public void testSaveAsToolBar() {
-		Configuration.PERSISTENCETOOLBAR = true;
-		Configuration.BASETOOLBAR = true;
+//		Configuration.PERSISTENCETOOLBAR = true;
+//		Configuration.BASETOOLBAR = true;
 
 		if (Configuration.PERSISTENCETOOLBAR && Configuration.BASETOOLBAR) {
 			DialogFixture dialog = Helper.fileInitializerToolBar(window, "Save As");
@@ -287,14 +287,9 @@ public class TestFileToolBar extends NotepadTest {
 	public void testPrintToolBar() {
 		// Assume.assumeTrue(NotepadVariables.getSINGLETON().isPRINTTOOLBAR___());
 		// (1) type some text
-		Configuration.PERSISTENCETOOLBAR = true;
-		Configuration.BASETOOLBAR = true;
-		Configuration.PRINTTOOLBAR = true;
-		if (Configuration.PERSISTENCETOOLBAR && Configuration.BASETOOLBAR && Configuration.PRINTTOOLBAR) {
-
-			Configuration.PERSISTENCETOOLBAR = true;
-			Configuration.BASETOOLBAR = true;
-			Configuration.PRINTTOOLBAR = true;
+//		Configuration.PERSISTENCETOOLBAR = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.PRINTTOOLBAR = true;
 			if (Configuration.PERSISTENCETOOLBAR && Configuration.BASETOOLBAR && Configuration.PRINTTOOLBAR) {
 
 				GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(JTextArea.class) {
@@ -323,5 +318,5 @@ public class TestFileToolBar extends NotepadTest {
 				window.close();
 			}
 		}
-	}
+	
 }

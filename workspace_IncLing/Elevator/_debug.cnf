@@ -1,4 +1,4 @@
-p cnf 8 17 
+p cnf 8 16 
 c c 1 RunningExample
 c c 2 Program
 c c 3 WEIGHT___
@@ -32,14 +32,12 @@ c x (not TWOTHIRDSFULL___ or WEIGHT___)
 -5 3  0
 c x RunningExample
 1 0
+c x BASE___
+8 0
 c x -WEIGHT___
 -3 0
 c x -EMPTY___
 -4 0
-c x -TWOTHIRDSFULL___
--5 0
 c x -EXECUTIVEFLOOR___
 -6 0
-c x -OVERLOADED___
--7 0
 

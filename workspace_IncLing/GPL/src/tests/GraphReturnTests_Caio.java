@@ -17,6 +17,7 @@ public class GraphReturnTests_Caio  {
 		// Setting Feature
 		// GPLVariables.getSINGLETON().setMSTKRUSKAL___(true);
 //		Configuration.MSTKRUSKAL=true;
+		
 		if (Configuration.MSTKRUSKAL) {
 			// Preparing Variables
 			Vertex v1 = new Vertex();

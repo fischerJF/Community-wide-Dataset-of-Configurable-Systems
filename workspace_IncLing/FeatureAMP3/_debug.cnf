@@ -250,32 +250,32 @@ c x -WAV___
 -46 0
 c x -REORDERPLAYLIST___
 -36 0
-c x -MP3___
--44 0
-c x PLAYLIST___
-10 0
-c x -LIGHT___
--15 0
+c x MP3___
+44 0
+c x -PLAYLIST___
+-10 0
+c x LIGHT___
+15 0
 c x -SAVEANDLOADPLAYLIST___
 -24 0
-c x CHANGELISTENER___
-7 0
-c x QUEUETRACK___
-26 0
-c x PLAYLISTCONTEXTMENU___
-19 0
+c x -CHANGELISTENER___
+-7 0
+c x -QUEUETRACK___
+-26 0
+c x -PLAYLISTCONTEXTMENU___
+-19 0
 c x -MUTE___
 -38 0
-c x PROGRESSBAR___
-42 0
+c x -PROGRESSBAR___
+-42 0
 c x -TAGEDITOR___
 -20 0
-c x -SHOWTIME___
--40 0
-c x -AAC___
--48 0
-c x LOADFOLDER___
-23 0
+c x SHOWTIME___
+40 0
+c x AAC___
+48 0
+c x -LOADFOLDER___
+-23 0
 c x -MULTIPLEPLAYLISTS___
 -27 0
 c x -SHOWCOVER___
@@ -286,14 +286,14 @@ c x -SHUFFLEREPEAT___
 -32 0
 c x OGG___
 50 0
-c x PLAYLISTTABS___
-22 0
+c x -PLAYLISTTABS___
+-22 0
 c x -ADDPLAYLISTWRAPPER___
 -21 0
 c x SKINS___
 9 0
-c x DARK___
-17 0
+c x -DARK___
+-17 0
 c x -CLEARPLAYLIST___
 -28 0
 

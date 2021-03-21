@@ -15,6 +15,7 @@ import java.util.Arrays;
 import java.util.List;
 
 import javax.swing.JButton;
+import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
@@ -31,6 +32,7 @@ import org.powermock.reflect.Whitebox;
 
 import atm.ATM;
 import atm.ATMUserInterface;
+import atm.Screen;
 
 import static org.mockito.Matchers.anyObject;
 import specifications.Configuration;
@@ -38,20 +40,23 @@ import specifications.Configuration;
 public class ATMUserInterfaceTest2 {
 
 	private ATMUserInterface atm;
+	private ATM a;
 
 	@Before
 	public void setUp() {
-		ATM a = new ATM();
+		a = new ATM();
 		atm = new ATMUserInterface(a);
 	}
    
-	@Test
+//	@Test
 	public void ATMUserInterfaceTest() {
-		assertEquals(atm.getDefaultCloseOperation(), 3);
-		assertEquals(atm.getWidth(), 900);
-		assertEquals(atm.getHeight(), 800);
-		assertFalse(atm.isResizable());
-		assertTrue(atm.isVisible());
+		if (Configuration.USER_INTERFACE) {
+			assertEquals(atm.getDefaultCloseOperation(), 3);
+			assertEquals(atm.getWidth(), 900);
+			assertEquals(atm.getHeight(), 800);
+			assertFalse(atm.isResizable());
+			assertTrue(atm.isVisible());
+		}
 	}
 
 	@Test
@@ -394,6 +399,16 @@ public class ATMUserInterfaceTest2 {
 		assertTrue(JTA.getLineWrap()); 
         assertTrue(JTA.getWrapStyleWord()); 
 		
+	}
+	@After
+	public void tearDown() throws IllegalArgumentException, IllegalAccessException {
+		Screen s=	(Screen) MemberModifier.field(ATM.class, "screen").get(a);
+		ATMUserInterface f=	(ATMUserInterface) MemberModifier.field(Screen.class, "frame").get(s);
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		f.dispose();
+		
+		atm.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		atm.dispose();
 	}
 	
 }

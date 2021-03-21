@@ -94,10 +94,6 @@ public class BaselineAdapter {
 			 org.junit.runner.Result result = junit.run(
 					 TestMain.class,
 				      TestPatternMatching.class//,
-				   //   TestTokenizerFlags.class//,
-//				      TestTextAccess.class//,
-//				      TestTokenizerProperties.class,
-//				      TestDifficultSituations.class
 					 );
 //			/* fim core junit */
 			System.err.println("cont: "+cont+"((( apos os testes))) ");

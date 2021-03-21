@@ -1,4 +1,4 @@
-p cnf 38 67 
+p cnf 38 89 
 c c 1 WEICHBRODT_FEATUREAMP___
 c c 2 _WEICHBRODT_FEATUREAMP___
 c c 3 GUI___
@@ -175,8 +175,52 @@ c x (not CLEARPLAYLIST___ or REMOVETRACK___)
 -11 28  0
 c x WEICHBRODT_FEATUREAMP___
 1 0
+c x WEICHBRODT_FEATUREAMP___
+1 0
+c x GUI___
+3 0
+c x FILESUPPORT___
+4 0
+c x -VOLUMECONTROL___
+-7 0
+c x -SKIPTRACK___
+-26 0
+c x -REMOVETRACK___
+-28 0
+c x -REORDERPLAYLIST___
+-30 0
+c x -PLAYLIST___
+-9 0
+c x TIMEDISPLAY___
+6 0
+c x -LIGHT___
+-32 0
+c x -SHUFFLESKIPREMOVE___
+-20 0
+c x -SAVEANDLOADPLAYLIST___
+-21 0
+c x -QUEUETRACK___
+-22 0
+c x PROGRESSBAR___
+13 0
 c x -MUTE___
 -17 0
-c x SKIPTRACK___
-26 0
+c x -SHOWTIME___
+-15 0
+c x -SHOWCOVER___
+-8 0
+c x -LOADFOLDER___
+-19 0
+c x -SHUFFLEREPEAT___
+-24 0
+c x -OGG___
+-38 0
+c x MP3___
+36 0
+c x SKINS___
+10 0
+c x DARK___
+34 0
+c x -CLEARPLAYLIST___
+-11 0
 

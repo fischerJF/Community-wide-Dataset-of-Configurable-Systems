@@ -56,8 +56,8 @@ public class NotepadJUnitTest_lest extends NotepadTest {
 	@Test
 	public void wordCountTest() {
 		// Assume.assumeTrue(NotepadVariables.getSINGLETON().isWORDCOUNTMENUBAR___());
-		Configuration.WORDCOUNTMENUBAR = true;
-		Configuration.BASEMENUBAR = true;
+//		Configuration.WORDCOUNTMENUBAR = true;
+//		Configuration.BASEMENUBAR = true;
 		if (Configuration.WORDCOUNTMENUBAR && Configuration.BASEMENUBAR) {
 			GenericTypeMatcher<JMenuItem> menuItemMatcher = new GenericTypeMatcher<JMenuItem>(JMenuItem.class) {
 				@Override
@@ -82,8 +82,8 @@ public class NotepadJUnitTest_lest extends NotepadTest {
 
 	@Test
 	public void insertBlankWord() {
-		Configuration.WORDCOUNTMENUBAR = true;
-		Configuration.BASEMENUBAR = true;
+//		Configuration.WORDCOUNTMENUBAR = true;
+//		Configuration.BASEMENUBAR = true;
 		if (Configuration.WORDCOUNTMENUBAR && Configuration.BASEMENUBAR) {
 			GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(JTextArea.class) {
 				@Override
@@ -118,8 +118,8 @@ public class NotepadJUnitTest_lest extends NotepadTest {
 
 	@Test
 	public void testButtonCut() {
-		Configuration.BASETOOLBAR = true;
-		Configuration.EDITTOOLBAR = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.EDITTOOLBAR = true;
 		if (Configuration.BASETOOLBAR && Configuration.EDITTOOLBAR) {
 		GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(JTextArea.class) {
 			@Override
@@ -160,10 +160,10 @@ public class NotepadJUnitTest_lest extends NotepadTest {
 	@Test
 	public void selectAll() {
 		
-		Configuration.BASEMENUBAR = true;
-		Configuration.EDITMENUBAR = true;
-		Configuration.BASETOOLBAR = true;
-		Configuration.EDITTOOLBAR = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.EDITMENUBAR = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.EDITTOOLBAR = true;
 		if (Configuration.BASEMENUBAR && Configuration.EDITMENUBAR && Configuration.BASETOOLBAR && Configuration.EDITTOOLBAR) {
 			
 		
@@ -232,9 +232,9 @@ public class NotepadJUnitTest_lest extends NotepadTest {
 
 	@Test
 	public void seachrButton() {
-		Configuration.SEARCHMENUBAR = true;
-		Configuration.SEARCHTOOLBAR = true;
-		Configuration.BASEMENUBAR= true;
+//		Configuration.SEARCHMENUBAR = true;
+//		Configuration.SEARCHTOOLBAR = true;
+//		Configuration.BASEMENUBAR= true;
 		
 		if (Configuration.SEARCHMENUBAR && Configuration.SEARCHTOOLBAR && Configuration.BASEMENUBAR ) {
 		GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(JTextArea.class) {

@@ -297,7 +297,7 @@ public class Configuration {
 				+ Configuration.album + "wav:" + Configuration.wav + "nicetohave:" + Configuration.nicetohave
 				+ "playlist:" + Configuration.playlist + "jumpposition:" + Configuration.jumpposition + "light:"
 				+ Configuration.light + "openfolder:" + Configuration.openfolder + "queuetrack:"
-				+ Configuration.queuetrack + "mute:" + Configuration.mute + "tageditor:" + Configuration.tageditor
+				+ Configuration.queuetrack + "nmute:" + Configuration.mute + "tageditor:" + Configuration.tageditor
 				+ "tracknumber:" + Configuration.tracknumber + "progress:" + Configuration.progress + "aac:"
 				+ Configuration.aac + "playlistcontrols:" + Configuration.playlistcontrols + "multipleplaylists:"
 				+ Configuration.multipleplaylists + "randomcolor:" + Configuration.randomcolor + "saveandload:"

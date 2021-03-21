@@ -6,11 +6,14 @@ import org.junit.Test;
 import org.powermock.api.support.membermodification.MemberModifier;
 
 import atm.ATM;
+import atm.ATMUserInterface;
 import atm.Account;
 import atm.Screen;
 import specifications.Configuration;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
+
+import javax.swing.JFrame;
 
 public class AccountTest {
 
@@ -32,8 +35,11 @@ public class AccountTest {
 	}
 
 	@After
-	public void tearDown() {
-
+	public void tearDown() throws IllegalArgumentException, IllegalAccessException {
+		Screen s=	(Screen) MemberModifier.field(ATM.class, "screen").get(atm);
+		ATMUserInterface f=	(ATMUserInterface) MemberModifier.field(Screen.class, "frame").get(s);
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		f.dispose();
 	}
 
 	@Test

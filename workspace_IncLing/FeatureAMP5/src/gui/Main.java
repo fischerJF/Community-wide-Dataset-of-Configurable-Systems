@@ -854,16 +854,7 @@ public   class  Main  extends JFrame {
 //		Configuration.skins=true;
 //		Configuration.dark=true;
 //		Configuration.clearplaylist=true;
-		
-		Configuration.filesupport =true;
-		Configuration.gui=true;
-		Configuration.base=true;
-		Configuration.mp3=true;
-		Configuration.progress=true;
-		Configuration.skins=true;
-		Configuration.light=true;
-		Configuration.playlist=true;
-		Configuration.saveandloadplaylist=true;
+		        
 		
 		
 		

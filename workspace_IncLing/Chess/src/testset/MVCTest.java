@@ -7,6 +7,10 @@ import MVC.MVC;
 import gui.View;
 import model.Model;
 import static org.junit.Assert.assertTrue;
+
+import javax.swing.JFrame;
+
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import specifications.Configuration;
@@ -15,7 +19,6 @@ import specifications.Configuration;
 public class MVCTest {
 
 	private MVC mvc;
-	
 	@Before
 	public void setUp() { 
 //		Configuration.AI_PLAYER=true;
@@ -23,7 +26,15 @@ public class MVCTest {
 //		Configuration.ONLINE_PLAYER=true;
 		mvc= new MVC();
 	}
-
+	@After
+	public void tearDown() throws IllegalArgumentException, IllegalAccessException {
+	    
+		View view=	(View) MemberModifier.field(MVC.class, "v").get(mvc);
+		JFrame f=	(JFrame) MemberModifier.field(View.class, "f").get(view);
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		f.dispose();
+			
+	}
 
 	@Test
 	public void testMVC() throws IllegalArgumentException, IllegalAccessException {

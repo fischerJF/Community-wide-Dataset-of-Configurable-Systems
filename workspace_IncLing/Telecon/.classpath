@@ -10,5 +10,7 @@
 	<classpathentry kind="lib" path="lib/powermock-mockito-release-full-1.6.4-full.jar"/>
 	<classpathentry kind="lib" path="lib/guidsl.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Tools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Sampling_one-disabled"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

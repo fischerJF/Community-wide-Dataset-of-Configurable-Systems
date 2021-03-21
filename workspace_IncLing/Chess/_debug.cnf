@@ -19,8 +19,8 @@ c x CHESS___
 1 0
 c x AI_PLAYER___
 3 0
-c x ONLINE_PLAYER___
-4 0
-c x OFFLINE_PLAYER___
-5 0
+c x -ONLINE_PLAYER___
+-4 0
+c x -OFFLINE_PLAYER___
+-5 0
 

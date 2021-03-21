@@ -98,5 +98,13 @@
 	<classpathentry kind="lib" path="tools/pmd-4.0/lib/jaxen-1.1.jar"/>
 	<classpathentry kind="lib" path="tools/pmd-4.0/lib/pmd-4.0.jar"/>
 	<classpathentry kind="lib" path="tools/lib/jmiuml-1.4di.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/IncLing"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Pairwise_S_SPLat"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Report"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Tools"/>
+	<classpathentry kind="lib" path="src/argouml-app/lib/guidsl.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Sampling_one-disabled"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,1 +1,24 @@
-paycard:truelogging:falsemaximumrecord:falselockout:false
+Tree:false, IntegerSet:true, HashSet:true, 
+Tree:true, IntegerSet:true, HashSet:false, 
+tree:falseintegerset:truehashset:true
+
+Configuration:
+tree:falseintegerset:truehashset:true
+
+
+ ----------------------- 
+
+
+cont: 1((( apos os testes))) 
+tree:trueintegerset:truehashset:false
+
+Configuration:
+cont: 2((( apos os testes))) 
+tree:trueintegerset:truehashset:false
+
+
+ ----------------------- 
+
+
+Contador de produtos:2
+Total time (ms): 596 time average (s): 0.596 number of times performed:1

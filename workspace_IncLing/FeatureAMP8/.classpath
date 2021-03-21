@@ -24,5 +24,7 @@
 	<classpathentry kind="lib" path="lib/powermock-mockito-release-full-1.6.4-full.jar"/>
 	<classpathentry kind="lib" path="lib/tritonus_share.jar"/>
 	<classpathentry kind="lib" path="lib/vorbisspi1.0.3.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Tools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Sampling_one-disabled"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

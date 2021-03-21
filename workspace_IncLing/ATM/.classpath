@@ -22,5 +22,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/IncLing"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Pairwise_S_SPLat"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Report"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Tools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Sampling_one-disabled"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

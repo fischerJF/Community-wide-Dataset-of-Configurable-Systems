@@ -57,6 +57,33 @@ public class AppGUITest {
 
 	@Before
 	public void setUp() {
+//		 Configuration.featureamp=true;
+//		 Configuration.base=true; 
+//		 Configuration.gui=true;
+//		 Configuration.filesupport=true; 
+//		 Configuration.volumecontrol=false; 
+//		 Configuration.skiptrack=false; 
+//		 Configuration.removetrack=false; 
+//		 Configuration.queueremove=false; 
+//		 Configuration.reorderplaylist=false; 
+//		 Configuration.playlist=true; 
+//		 Configuration.light=true; 
+//		 Configuration.saveandloadplaylist=false; 
+//		 Configuration.queuetrack=true;
+//		 Configuration.mute=false;
+//		 Configuration.progressbar=true; 
+//		 Configuration.progress=true; 
+//		 Configuration.showtime=false; 
+//		 Configuration.playlistcontrols=true; 
+//		 Configuration.showcover=false; 
+//		 Configuration.loadfolder=true; 
+//		 Configuration.skiprepeat=false; 
+//		 Configuration.shufflerepeat=true; 
+//		 Configuration.wave=true; 
+//		 Configuration.mp3=true; 
+//		 Configuration.skins=true; 
+//		 Configuration.dark=false; 
+//		 Configuration.clearplaylist=false;
 	}
 
 	@After

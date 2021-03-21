@@ -15,5 +15,7 @@
 	<classpathentry kind="lib" path="lib_experiment/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="lib_experiment/commons-text-1.3.jar"/>
 	<classpathentry kind="lib" path="lib_experiment/opencsv-4.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Tools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Sampling_one-disabled"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

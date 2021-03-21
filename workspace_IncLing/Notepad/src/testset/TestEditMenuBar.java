@@ -65,9 +65,9 @@ public class TestEditMenuBar extends NotepadTest {
   public void testSelectAll() {
 //    Assume.assumeTrue(NotepadVariables.getSINGLETON().isBASEMENUBAR___()
 //    && NotepadVariables.getSINGLETON().isEDITMENUBAR___());
-	  Configuration.BASEMENUBAR=true;
-	  Configuration.EDITMENUBAR=true;
-	  Configuration.BASE=true;
+//	  Configuration.BASEMENUBAR=true;
+//	  Configuration.EDITMENUBAR=true;
+//	  Configuration.BASE=true;
 	  if(Configuration.BASEMENUBAR  && Configuration.EDITMENUBAR) {
 		  findTextArea();
 		  tareaFixture.setText(sampleText);
@@ -114,9 +114,9 @@ public class TestEditMenuBar extends NotepadTest {
 //    Assume.assumeTrue(NotepadVariables.getSINGLETON().isEDITMENUBAR___()
 //     && NotepadVariables.getSINGLETON().isBASEMENUBAR___()
 //     && NotepadVariables.getSINGLETON().isSEARCHMENUBAR___());
-	  Configuration.EDITMENUBAR=true;
-	  Configuration.BASEMENUBAR=true;
-	  Configuration.SEARCHMENUBAR=true;
+//	  Configuration.EDITMENUBAR=true;
+//	  Configuration.BASEMENUBAR=true;
+//	  Configuration.SEARCHMENUBAR=true;
 	  if(Configuration.EDITMENUBAR && Configuration.BASEMENUBAR && Configuration.SEARCHMENUBAR) {
 		findTextArea();
     	tareaFixture.setText("The quick brown fox jumps over the lazy dog");
@@ -132,9 +132,9 @@ public class TestEditMenuBar extends NotepadTest {
 //     Assume.assumeTrue(NotepadVariables.getSINGLETON().isEDITMENUBAR___()
 //     && NotepadVariables.getSINGLETON().isBASEMENUBAR___()
 //     && NotepadVariables.getSINGLETON().isSEARCHMENUBAR___());
-	  Configuration.EDITMENUBAR=true;
-	  Configuration.BASEMENUBAR=true;
-	  Configuration.SEARCHMENUBAR=true;
+//	  Configuration.EDITMENUBAR=true;
+//	  Configuration.BASEMENUBAR=true;
+//	  Configuration.SEARCHMENUBAR=true;
     if(Configuration.EDITMENUBAR && Configuration.BASEMENUBAR && Configuration.SEARCHMENUBAR ) {
     	//testFindMenuBar();
     	JMenuItemFixture item1 = window.menuItemWithPath("Edit", "Find Next");

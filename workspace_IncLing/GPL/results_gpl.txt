@@ -1,0 +1,62 @@
+BASE:true, DIRECTED:true, UNDIRECTED:false, WEIGHTED:false, SEARCH:false, BFS:false, NUMBER:true, CONNECTED:false, STRONGLYCONNECTED:false, CYCLE:false, MSTPRIM:false, MSTKRUSKAL:false, SHORTEST:false, 
+BASE:true, DIRECTED:true, UNDIRECTED:false, WEIGHTED:false, SEARCH:false, BFS:false, NUMBER:true, CONNECTED:false, STRONGLYCONNECTED:false, CYCLE:false, MSTPRIM:false, MSTKRUSKAL:false, SHORTEST:false, 
+Configuration: WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 1((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+Configuration:
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+creating inFile
+test
+JavaUtilityTest
+[files/random1-gpl-benchmark.txt]
+creating inFile
+arg1: {null}
+
+cont: 2((( apos os testes))) 
+ WEIGHTED:false UNDIRECTED:false STRONGLYCONNECTED:false SHORTEST:false SEARCH:false NUMBER:true MSTPRIM:false MSTKRUSKAL:false DIRECTED:true CYCLE:false CONNECTED:false BFS:false BASE:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:2
+Total time (ms): 631 time average (s): 0.631 number of times performed:1

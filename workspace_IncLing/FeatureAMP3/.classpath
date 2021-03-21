@@ -2,10 +2,6 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Baseline"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/IncLing"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Pairwise_S_SPLat"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Report"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="lib/args4j.jar"/>
 	<classpathentry kind="lib" path="lib/castor-core.jar"/>
@@ -31,5 +27,11 @@
 	<classpathentry kind="lib" path="lib/fest-swing-junit-4.5-1.2.jar"/>
 	<classpathentry kind="lib" path="lib/fest-util-1.1.2.jar"/>
 	<classpathentry kind="lib" path="lib/mockito-all-1.10.19.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Baseline"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/IncLing"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Pairwise_S_SPLat"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Report"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Tools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Sampling_one-disabled"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

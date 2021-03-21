@@ -54,12 +54,12 @@ c x (not WITHDRAWING_ALL_VALUES___ or USER_INTERFACE___)
 -9 11  0
 c x ATM___
 1 0
-c x LOGGING___
-3 0
+c x -LOGGING___
+-3 0
 c x DEPOSITING___
 4 0
-c x WITHDRAWING___
-5 0
+c x -WITHDRAWING___
+-5 0
 c x BALANCE_INQUIRY___
 6 0
 c x ADMIN_CONTROL___

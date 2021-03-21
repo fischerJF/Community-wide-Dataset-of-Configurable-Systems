@@ -137,7 +137,7 @@ public class Vertex {
     visited = true;
 
     s = adjacentVertices.size();
-    for (c = 0; c < s; c++) {
+    for (c = 0; c < s; c++) {	
       v = (Vertex) adjacentVertices.get(c);
       w.checkNeighborAction((Vertex) this, v);
       v.dftNodeSearch(w);

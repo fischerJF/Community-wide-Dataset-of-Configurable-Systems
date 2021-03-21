@@ -6,8 +6,14 @@ import org.powermock.reflect.Whitebox;
 
 import MVC.MVC;
 import gui.RoundState;
+import gui.View;
 import model.Model;
 import static org.junit.Assert.assertTrue;
+
+import javax.swing.JFrame;
+
+import org.junit.After;
+
 import static org.junit.Assert.assertEquals;
 import org.junit.Before;
 import org.junit.Test;
@@ -26,7 +32,12 @@ public class ModelTest {
 		MVC mvc = new MVC();
 		model= model.getInstance();
 	}
-
+	@After
+	public void tearDown() throws IllegalArgumentException, IllegalAccessException {
+		JFrame f=	(JFrame) MemberModifier.field(View.class, "f").get(model.v);
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		f.dispose();
+	}
 
 	@Test
 	public void testSetMode() throws Exception {

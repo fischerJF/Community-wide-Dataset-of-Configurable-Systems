@@ -196,18 +196,18 @@ c x (not CLEARPLAYLIST___ or REMOVETRACK___)
 -31 39  0
 c x FEATUREAMP___
 1 0
-c x -VOLUMECONTROL___
--11 0
-c x -SKIPTRACK___
--33 0
-c x -REMOVETRACK___
--39 0
+c x VOLUMECONTROL___
+11 0
+c x SKIPTRACK___
+33 0
+c x REMOVETRACK___
+39 0
 c x TIME___
 13 0
 c x RESIZABLE___
 8 0
-c x -WAV___
--43 0
+c x WAV___
+43 0
 c x SUPPORTEDFORMATS___
 6 0
 c x -REORDERPLAYLIST___
@@ -216,10 +216,10 @@ c x PLAYLIST___
 15 0
 c x CONTROL___
 29 0
-c x -LIGHT___
--23 0
-c x -SAVEANDLOADPLAYLIST___
--28 0
+c x LIGHT___
+23 0
+c x SAVEANDLOADPLAYLIST___
+28 0
 c x GUI___
 5 0
 c x FEATUREAMP___
@@ -234,8 +234,8 @@ c x -SHOWTIME___
 -19 0
 c x ID3INFORMATION___
 9 0
-c x -SHOWCOVER___
--12 0
+c x SHOWCOVER___
+12 0
 c x LOADFOLDER___
 27 0
 c x SHUFFLEREPEAT___
@@ -246,8 +246,8 @@ c x MP3___
 41 0
 c x SKINS___
 14 0
-c x DARK___
-25 0
+c x -DARK___
+-25 0
 c x OPENFILE___
 10 0
 

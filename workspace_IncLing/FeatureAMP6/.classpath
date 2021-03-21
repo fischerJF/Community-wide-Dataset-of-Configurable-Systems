@@ -31,5 +31,7 @@
 	<classpathentry kind="lib" path="lib/fest-swing-junit-4.3.1-1.2.jar"/>
 	<classpathentry kind="lib" path="lib/fest-swing-junit-4.5-1.2.jar"/>
 	<classpathentry kind="lib" path="lib/fest-util-1.1.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Tools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Sampling_one-disabled"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

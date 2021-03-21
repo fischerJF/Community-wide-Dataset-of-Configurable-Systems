@@ -150,8 +150,29 @@ public class Configuration  {
 		FORMATMENUBAR:0 
 		EDITTOOLBAR:1 
 		EDITMENUBAR:1 BASETOOLBAR:1 BASEMENUBAR:1 BASE:1 
-		*/
+		 */
 		System.out.println(
+				"WORDCOUNTTOOLBAR:"+Configuration.WORDCOUNTTOOLBAR+
+				" WORDCOUNTMENUBAR:"+Configuration.WORDCOUNTMENUBAR+
+				" UNDOREDOTOOLBAR:"+Configuration.UNDOREDOTOOLBAR+
+				" UNDOREDOMENUBAR:"+Configuration.UNDOREDOMENUBAR+
+				" SEARCHTOOLBAR:"+Configuration.SEARCHTOOLBAR+
+				" SEARCHMENUBAR:"+Configuration.SEARCHMENUBAR+
+				" PRINTTOOLBAR:"+Configuration.PRINTTOOLBAR+
+				" PRINTMENUBAR:"+Configuration.PRINTMENUBAR+
+				" PERSISTENCETOOLBAR:"+Configuration.PERSISTENCETOOLBAR+
+				" PERSISTENCEMENUBAR:"+Configuration.PERSISTENCEMENUBAR+
+				" FORMATTOOLBAR:"+Configuration.FORMATTOOLBAR+
+				" FORMATMENUBAR:"+Configuration.FORMATMENUBAR +
+				" EDITTOOLBAR:"+ Configuration.EDITTOOLBAR+
+				" EDITMENUBAR:"+Configuration.EDITMENUBAR+       
+				" BASETOOLBAR:"+Configuration.BASETOOLBAR+       
+				" BASEMENUBAR:"+Configuration.BASEMENUBAR+       
+				" BASE:"+Configuration.BASE       
+				);
+	}
+	public static String returnProduct() {
+		return (
 				"WORDCOUNTTOOLBAR:"+Configuration.WORDCOUNTTOOLBAR+
 				" WORDCOUNTMENUBAR:"+Configuration.WORDCOUNTMENUBAR+
 			    " UNDOREDOTOOLBAR:"+Configuration.UNDOREDOTOOLBAR+
@@ -171,5 +192,6 @@ public class Configuration  {
 		        " BASE:"+Configuration.BASE       
 				);
 	}
+	
 
 }

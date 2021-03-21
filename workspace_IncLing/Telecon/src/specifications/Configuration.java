@@ -5,6 +5,7 @@ import guidsl.Tool;
 
 public class Configuration {
 
+	public static boolean Telecon;
 	public static boolean HISTORIC;
 	public static boolean TIMING;
 

@@ -40,8 +40,8 @@ public class TestWordCount extends NotepadTest {
 	@Test
 	public void testWordCountMenuBar() {
 		// Assume.assumeTrue(NotepadVariables.getSINGLETON().isWORDCOUNTMENUBAR___());
-		Configuration.BASEMENUBAR = true;
-		Configuration.WORDCOUNTMENUBAR = true;
+//		Configuration.BASEMENUBAR = true;
+//		Configuration.WORDCOUNTMENUBAR = true;
 
 		if (Configuration.BASEMENUBAR && Configuration.WORDCOUNTMENUBAR) {
 			// (1) type some text
@@ -75,8 +75,8 @@ public class TestWordCount extends NotepadTest {
 	@Test
 	public void testWordCountToolBar() {
 		// (1) type some text
-		Configuration.BASETOOLBAR = true;
-		Configuration.WORDCOUNTTOOLBAR = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.WORDCOUNTTOOLBAR = true;
 
 		if (Configuration.BASETOOLBAR && Configuration.WORDCOUNTTOOLBAR) {
 			GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(JTextArea.class) {

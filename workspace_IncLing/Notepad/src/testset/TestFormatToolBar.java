@@ -127,8 +127,8 @@ public class TestFormatToolBar extends NotepadTest {
 	@Test
 	public void testChangeFontAllToolBar() {
 		// type some initial text and click in Font button
-		Configuration.BASETOOLBAR = true;
-		Configuration.FORMATTOOLBAR = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.FORMATTOOLBAR = true;
 
 		if (Configuration.BASETOOLBAR && Configuration.FORMATTOOLBAR) {
 

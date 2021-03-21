@@ -136,9 +136,9 @@ public class TestFileMenuBar extends NotepadTest {
 
 	//@Test //*
 	public void testNewMenuBarYesSavedText() {
-		Configuration.PERSISTENCEMENUBAR = true;
-		Configuration.BASETOOLBAR = true;
-		Configuration.BASEMENUBAR = true;
+//		Configuration.PERSISTENCEMENUBAR = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.BASEMENUBAR = true;
 		if (Configuration.PERSISTENCEMENUBAR && Configuration.BASETOOLBAR && Configuration.BASEMENUBAR) {
 			savingText();
 			addingMoreText("Yes");
@@ -147,9 +147,9 @@ public class TestFileMenuBar extends NotepadTest {
 
 	//@Test //*
 	public void testNewMenuBarNoSavedText() {
-		Configuration.PERSISTENCEMENUBAR = true;
-		Configuration.BASETOOLBAR = true;
-		Configuration.BASEMENUBAR = true;
+//		Configuration.PERSISTENCEMENUBAR = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.BASEMENUBAR = true;
 		if (Configuration.PERSISTENCEMENUBAR && Configuration.BASETOOLBAR && Configuration.BASEMENUBAR) {
 			savingText();
 			addingMoreText("No");
@@ -158,9 +158,9 @@ public class TestFileMenuBar extends NotepadTest {
 
 	//@Test //*
 	public void testNewMenuBarAfterSavedText() {
-		Configuration.PERSISTENCEMENUBAR = true;
-		Configuration.BASETOOLBAR = true;
-		Configuration.BASEMENUBAR = true;
+//		Configuration.PERSISTENCEMENUBAR = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.BASEMENUBAR = true;
 		if (Configuration.PERSISTENCEMENUBAR && Configuration.BASETOOLBAR && Configuration.BASEMENUBAR) {
 			savingText();
 			// Try File > New. It should ask if you want to save
@@ -171,9 +171,9 @@ public class TestFileMenuBar extends NotepadTest {
 
 	//@Test //*
 	public void testNewMenuBarAfterSavedTextWithoutFeature() {
-		Configuration.PERSISTENCEMENUBAR = true;
-		Configuration.BASETOOLBAR = true;
-		Configuration.BASEMENUBAR = true;
+//		Configuration.PERSISTENCEMENUBAR = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.BASEMENUBAR = true;
 		if (Configuration.PERSISTENCEMENUBAR && Configuration.BASETOOLBAR && Configuration.BASEMENUBAR) {
 			savingText();
 			// Try File > New. It should ask if you want to save
@@ -276,8 +276,8 @@ public class TestFileMenuBar extends NotepadTest {
 		// Assume.assumeTrue(NotepadVariables.getSINGLETON().isBASEMENUBAR___()
 		// && NotepadVariables.getSINGLETON().isPERSISTENCE___());
 		// (1) type some text
-		Configuration.PERSISTENCEMENUBAR = true;
-		Configuration.BASEMENUBAR = true;
+//		Configuration.PERSISTENCEMENUBAR = true;
+//		Configuration.BASEMENUBAR = true;
 		if (Configuration.PERSISTENCEMENUBAR && Configuration.BASEMENUBAR) {
 			GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(JTextArea.class) {
 				@Override
@@ -368,9 +368,9 @@ public class TestFileMenuBar extends NotepadTest {
 	//@Test //*
 	public void testOpenMenuBarWithoutPreviusFile() throws IOException {
 		// (1) Type some text
-		Configuration.PERSISTENCEMENUBAR = true;
-		Configuration.BASETOOLBAR = true;
-		Configuration.BASEMENUBAR = true;
+//		Configuration.PERSISTENCEMENUBAR = true;
+//		Configuration.BASETOOLBAR = true;
+//		Configuration.BASEMENUBAR = true;
 		if (Configuration.PERSISTENCEMENUBAR && Configuration.BASETOOLBAR && Configuration.BASEMENUBAR) {
 			GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(JTextArea.class) {
 				@Override
@@ -421,9 +421,9 @@ public class TestFileMenuBar extends NotepadTest {
 	public void testPrintMenuBar() {
 		// Assume.assumeTrue(NotepadVariables.getSINGLETON().isPRINTMENUBAR___());
 		// (1) type some text
-		Configuration.PERSISTENCEMENUBAR= true;
-		  Configuration.PRINTMENUBAR = true;
-		  Configuration.BASEMENUBAR = true;
+//		Configuration.PERSISTENCEMENUBAR= true;
+//		  Configuration.PRINTMENUBAR = true;
+//		  Configuration.BASEMENUBAR = true;
 	      if (Configuration.PERSISTENCEMENUBAR && Configuration.PRINTMENUBAR && Configuration.BASEMENUBAR ) {
 		GenericTypeMatcher<JTextArea> textAreaMatcher = new GenericTypeMatcher<JTextArea>(JTextArea.class) {
 			@Override

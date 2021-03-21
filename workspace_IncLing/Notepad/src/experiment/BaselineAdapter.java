@@ -155,8 +155,8 @@ public class BaselineAdapter {
 			JUnitCore junit = new JUnitCore();
 			 junit.addListener(new TextListener(System.out));
 			 org.junit.runner.Result result = junit.run(
-//					  TestEditMenuBar.class,
-					/*  TestEditToolBar.class,
+					  TestEditMenuBar.class,
+					  TestEditToolBar.class,
 					  TestFileMenuBar.class,
 					  TestFileToolBar.class,
 					  TestFormatMenuBar.class,
@@ -165,7 +165,7 @@ public class BaselineAdapter {
 					  TestHelp.class,
 					  TestWordCount.class,
 					  TestExample_Paulo.class,
-					  NotepadJUnitTest_lest.class*/
+					  NotepadJUnitTest_lest.class
 					 );
 			/* fim core junit */
 			System.err.println("cont: "+cont+"((( apos os testes))) ");

@@ -28,12 +28,12 @@ c x BASE___
 8 0
 c x TOKENPOSONLY___
 4 0
-c x COUNTLINES___
-5 0
-c x IMAGEPARTS___
-3 0
-c x BLOCKCOMMENTS___
-6 0
-c x LINECOMMENTS___
-7 0
+c x -COUNTLINES___
+-5 0
+c x -IMAGEPARTS___
+-3 0
+c x -BLOCKCOMMENTS___
+-6 0
+c x -LINECOMMENTS___
+-7 0
 

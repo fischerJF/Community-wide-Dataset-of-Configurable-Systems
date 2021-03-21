@@ -1,9 +1,11 @@
 package testset;
 
 import org.powermock.api.mockito.PowerMockito;
+import org.powermock.api.support.membermodification.MemberModifier;
 import org.powermock.reflect.Whitebox;
 
 import atm.ATM;
+import atm.ATMUserInterface;
 import atm.BankDatabase;
 import atm.Deposit;
 import atm.DepositSlot;
@@ -19,6 +21,8 @@ import java.io.OutputStream;
 import java.io.PrintStream;
 import java.util.Arrays;
 
+import javax.swing.JFrame;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -32,29 +36,25 @@ public class DepositTest {
 
 	private ATM atm;
 	private Deposit dep;
+	private Screen screen;
 
 	@Before
 	public void setUp() {
 		atm = new ATM();
-
-	}
-
-	@After
-	public void tearDown() {
-
+		screen = new Screen(atm);
 	}
 
 	@Test
 	public void testPromptForDepositAmountWithValidInput() throws Exception {
-//		Configuration.DEPOSITING = true;
+		// Configuration.DEPOSITING = true;
 		if (Configuration.DEPOSITING && !Configuration.USER_INTERFACE) {
 			ByteArrayOutputStream stream = new ByteArrayOutputStream();
 			PrintStream ps = new PrintStream(stream);
 			PrintStream originalPrintStream = System.out;
 			System.setOut(ps);
-			
+
 			Keypad k = PowerMockito.mock(Keypad.class);
-			dep = new Deposit(0, new Screen(atm), new BankDatabase(), k, new DepositSlot());
+			dep = new Deposit(0, screen, new BankDatabase(), k, new DepositSlot());
 			int input = 300;
 			PowerMockito.when(k.getInput()).thenReturn(input);
 			assertEquals(k.getInput(), input);
@@ -64,21 +64,21 @@ public class DepositTest {
 			System.setOut(originalPrintStream);
 			String output = new String(stream.toByteArray());
 			assertTrue(output.toString().contains("\nPlease enter a deposit amount in "));
-			
+
 		}
 	}
 
 	@Test
 	public void testPromptForDepositAmountWithInvalidInput() throws Exception {
-//		Configuration.DEPOSITING = true;
+		// Configuration.DEPOSITING = true;
 		if (Configuration.DEPOSITING && !Configuration.USER_INTERFACE) {
 			ByteArrayOutputStream stream = new ByteArrayOutputStream();
 			PrintStream ps = new PrintStream(stream);
 			PrintStream originalPrintStream = System.out;
 			System.setOut(ps);
-			
+
 			Keypad k = PowerMockito.mock(Keypad.class);
-			dep = new Deposit(0, new Screen(atm), new BankDatabase(), k, new DepositSlot());
+			dep = new Deposit(0, screen, new BankDatabase(), k, new DepositSlot());
 			int input = 0;
 			PowerMockito.when(k.getInput()).thenReturn(input);
 			assertEquals(k.getInput(), input);
@@ -93,13 +93,13 @@ public class DepositTest {
 
 	@Test
 	public void testExecute() throws Exception {
-//		Configuration.DEPOSITING = true;
+		// Configuration.DEPOSITING = true;
 		if (Configuration.DEPOSITING) {
 			DepositSlot depSlot = PowerMockito.mock(DepositSlot.class);
 			BankDatabase bankDatabase = PowerMockito.mock(BankDatabase.class);
 			Keypad k = PowerMockito.mock(Keypad.class);
 
-			dep = new Deposit(12345, new Screen(atm), bankDatabase, k, depSlot);
+			dep = new Deposit(12345, screen, bankDatabase, k, depSlot);
 			dep.setAmount(100);
 			PowerMockito.when(depSlot.isEnvelopeReceived()).thenReturn(true);
 
@@ -116,7 +116,7 @@ public class DepositTest {
 
 	@Test
 	public void envelopeWasNotReceived() throws Exception {
-//		Configuration.DEPOSITING = true;
+		// Configuration.DEPOSITING = true;
 		if (Configuration.DEPOSITING) {
 			DepositSlot depSlot = PowerMockito.mock(DepositSlot.class);
 			BankDatabase bankDatabase = PowerMockito.mock(BankDatabase.class);
@@ -142,7 +142,7 @@ public class DepositTest {
 
 	@Test
 	public void testsIfTheDepositHasBeenCanceled() throws Exception {
-//		Configuration.DEPOSITING = true;
+		// Configuration.DEPOSITING = true;
 		if (Configuration.DEPOSITING) {
 			DepositSlot depSlot = PowerMockito.mock(DepositSlot.class);
 			BankDatabase bankDatabase = PowerMockito.mock(BankDatabase.class);
@@ -165,7 +165,7 @@ public class DepositTest {
 
 	@Test
 	public void testsTheInstanceOfScreen() throws Exception {
-		Screen screen = new Screen(atm);
+
 		dep = new Deposit(0, screen, new BankDatabase(), new Keypad(), new DepositSlot());
 
 		assertEquals(dep.getScreen(), screen);
@@ -174,19 +174,24 @@ public class DepositTest {
 	@Test
 	public void getAmountTest() {
 		double v = 100;
-		dep = new Deposit(0, new Screen(atm), new BankDatabase(), new Keypad(), new DepositSlot());
+		dep = new Deposit(0, screen, new BankDatabase(), new Keypad(), new DepositSlot());
 		dep.setAmount(v);
 		assertTrue(dep.getAmount() == v);
 	}
 
-	 @Test
+	@Test
 	public void promptForDepositAmount() throws Exception {
-//		OutputStream os = new ByteArrayOutputStream();
-//		PrintStream ps = new PrintStream(os);
-//		System.setOut(ps);
-		dep = new Deposit(0, new Screen(atm), new BankDatabase(), new Keypad(), new DepositSlot());
-
-		
+		// OutputStream os = new ByteArrayOutputStream();
+		// PrintStream ps = new PrintStream(os);
+		// System.setOut(ps);
+		dep = new Deposit(0, screen, new BankDatabase(), new Keypad(), new DepositSlot());
 	}
 
+	@After
+	public void tearDown() throws IllegalArgumentException, IllegalAccessException {
+		ATMUserInterface gui = (ATMUserInterface) MemberModifier.field(Screen.class, "frame").get(screen);
+		gui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		gui.dispose();
+
+	}
 }

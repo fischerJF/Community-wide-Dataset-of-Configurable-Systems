@@ -53,6 +53,24 @@ public class AppGUITest {
 
 	@Before
 	public void setUp() {
+//		Configuration.time=true;
+//		Configuration.resizable=true;
+//		Configuration.wav=true;
+//		Configuration.supportedformats=true;
+//		Configuration.playlist=true;
+//		Configuration.control=true;
+//		Configuration.gui=true;
+//		Configuration.featureamp=true;
+//		Configuration.showtime=true;
+//		Configuration.id3information=true;
+//		Configuration.loadfolder=true;
+//		Configuration.base=true;
+//		Configuration.mp3=true;
+//		Configuration.skins=true;
+//		Configuration.openfile=true;
+//		
+//		Configuration.showtime=true;
+
 	}
 
 	@After
@@ -143,6 +161,7 @@ public class AppGUITest {
 				Configuration.base &&
 				Configuration.mp3 &&
 				Configuration.skins &&
+				Configuration.skiptrack &&
 				Configuration.openfile) {
 			start();
 			

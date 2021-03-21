@@ -6,6 +6,7 @@ import org.powermock.api.support.membermodification.MemberModifier;
 import org.powermock.reflect.Whitebox;
 
 import atm.ATM;
+import atm.ATMUserInterface;
 import atm.BalanceInquiry;
 import atm.BankDatabase;
 import atm.CashDispenser;
@@ -29,6 +30,8 @@ import java.io.FileReader;
 import java.io.OutputStream;
 import java.io.PrintStream;
 
+import javax.swing.JFrame;
+
 public class ATMTest {
 
 	private ATM atm;
@@ -48,17 +51,23 @@ public class ATMTest {
 //		
 		atm = new ATM();
 		screen = new Screen(atm);
+		
 	}
 
 	@After
-	public void tearDown() {
+	public void tearDown() throws IllegalArgumentException, IllegalAccessException {
+		Screen s=	(Screen) MemberModifier.field(ATM.class, "screen").get(atm);
+		ATMUserInterface f=	(ATMUserInterface) MemberModifier.field(Screen.class, "frame").get(s);
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		f.dispose();
 		
+		ATMUserInterface frame=	(ATMUserInterface) MemberModifier.field(Screen.class, "frame").get(screen);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.dispose();
 	}
 
 	@Test
 	public void testsCurrentTransactionIsScreenInstance() throws Exception {
-		atm = new ATM();
-		Screen screen = new Screen(atm);
 		trans = new Deposit(0, screen, new BankDatabase(), new Keypad(), new DepositSlot());
 		assertEquals(trans.getScreen(), screen);
 	}
@@ -68,7 +77,6 @@ public class ATMTest {
 //		Configuration.WITHDRAWING =true;
 //		Configuration.USER_INTERFACE=true;
 		if (Configuration.WITHDRAWING && Configuration.USER_INTERFACE) {
-			atm = new ATM();
 			atm.setCurrentAccountNumber(12345);
 			atm.Withdrawal(100);
 			assertTrue(atm.getCurrentTransaction() instanceof Withdrawal);
@@ -79,7 +87,6 @@ public class ATMTest {
 	public void testCurrentTransactionIsBalanceInstance() {
 //		Configuration.BALANCE_INQUIRY=true;
 		if (Configuration.BALANCE_INQUIRY) {
-			atm = new ATM();
 			atm.setCurrentAccountNumber(12345);
 			atm.balance();
 			assertTrue(atm.getCurrentTransaction() instanceof BalanceInquiry);
@@ -91,7 +98,6 @@ public class ATMTest {
 //		Configuration.DEPOSITING=true;
 //		Configuration.USER_INTERFACE=true;
 		if (Configuration.DEPOSITING && Configuration.USER_INTERFACE) {
-			atm = new ATM();
 			atm.setCurrentAccountNumber(12345);
 			atm.deposit(100);
 	//		assertEquals(atm.getTotalDeposit(), 100);
@@ -105,20 +111,17 @@ public class ATMTest {
 //		Configuration.BALANCE_INQUIRY=true;
 //		Configuration.WITHDRAWING=true;
 		if (Configuration.DEPOSITING && Configuration.USER_INTERFACE) {
-			atm = new ATM();
-			trans = new Deposit(0, new Screen(atm), new BankDatabase(), new Keypad(), new DepositSlot());
+			trans = new Deposit(0, screen, new BankDatabase(), new Keypad(), new DepositSlot());
 			atm.setCurrentTransaction(trans);
 			assertTrue(atm.getCurrentTransaction() instanceof Deposit);
 		}
 		if (Configuration.BALANCE_INQUIRY && Configuration.USER_INTERFACE) {
-			atm = new ATM();
-			trans = new BalanceInquiry(0, new Screen(atm), new BankDatabase());
+			trans = new BalanceInquiry(0, screen, new BankDatabase());
 			atm.setCurrentTransaction(trans);
 			assertTrue(atm.getCurrentTransaction() instanceof BalanceInquiry);
 		}
 		if (Configuration.WITHDRAWING && Configuration.USER_INTERFACE) {
-			atm = new ATM();
-			trans = new Withdrawal(0, new Screen(atm), new BankDatabase(), new Keypad(), new CashDispenser());
+			trans = new Withdrawal(0, screen, new BankDatabase(), new Keypad(), new CashDispenser());
 			atm.setCurrentTransaction(trans);
 			assertTrue(atm.getCurrentTransaction() instanceof Withdrawal);
 		}
@@ -129,7 +132,6 @@ public class ATMTest {
 //		Configuration.DEPOSITING=true;
 //		Configuration.USER_INTERFACE=true;
 		if (Configuration.DEPOSITING && Configuration.USER_INTERFACE) {
-			atm = new ATM();
 			atm.setCurrentAccountNumber(12345);
 			atm.deposit(100);
 			Deposit d = (Deposit) atm.getCurrentTransaction();
@@ -139,9 +141,8 @@ public class ATMTest {
 	
 	@Test
 	public void testCreateTransaction() throws Exception {
-//		Configuration.USER_INTERFACE=false;
-		if(!Configuration.USER_INTERFACE && Configuration.BALANCE_INQUIRY && Configuration.DEPOSITING) {
-			atm = new ATM();
+		
+		if(!Configuration.USER_INTERFACE && Configuration.BALANCE_INQUIRY && Configuration.DEPOSITING && Configuration.WITHDRAWING) {
 			ATM a = PowerMockito.mock(ATM.class);
 			Transaction trans = Whitebox.invokeMethod(a, "createTransaction",1);
 			assertTrue(trans instanceof BalanceInquiry);
@@ -164,9 +165,7 @@ public class ATMTest {
 			PrintStream ps = new PrintStream(stream);
 			PrintStream originalPrintStream = System.out;
 			System.setOut(ps);
-
 			
-			atm = new ATM();
 			Keypad k = PowerMockito.mock(Keypad.class);
 			int input = 1;
 			
@@ -193,7 +192,6 @@ public class ATMTest {
 	public void testAuthenticateUser() throws Exception {
 //		Configuration.USER_INTERFACE=false;
 		if (!Configuration.USER_INTERFACE) {
-			atm = new ATM();
 
 			ByteArrayOutputStream stream = new ByteArrayOutputStream();
 			PrintStream ps = new PrintStream(stream);
@@ -224,7 +222,6 @@ public class ATMTest {
 	public void authenticateUserTest() throws Exception {
 //		Configuration.USER_INTERFACE=false;
 		if (!Configuration.USER_INTERFACE) {
-			atm = new ATM();
 
 			ByteArrayOutputStream stream = new ByteArrayOutputStream();
 			PrintStream ps = new PrintStream(stream);
@@ -256,7 +253,6 @@ public class ATMTest {
 	public void testDisplayMainMenuDisableUSER_INTERFACE() throws Exception {
 //		Configuration.USER_INTERFACE=true;
 		if(Configuration.USER_INTERFACE) {
-			atm = new ATM();
 			int option= Whitebox.invokeMethod(atm, "displayMainMenu");
 		    assertEquals(option,0);		
 		}
@@ -268,7 +264,6 @@ public class ATMTest {
 //			OutputStream os = new ByteArrayOutputStream();
 //			PrintStream ps = new PrintStream(os);
 //			System.setOut(ps);
-			atm = new ATM();
 			 MemberModifier.field(ATM.class,"userAuthenticated" ).set(atm,true);
 			atm.run();
 //			assertTrue(os.toString().contains("\nWelcome!"));

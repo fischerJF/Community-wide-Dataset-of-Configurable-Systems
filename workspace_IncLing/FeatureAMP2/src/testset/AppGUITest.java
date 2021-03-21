@@ -56,6 +56,7 @@ public class AppGUITest {
 
 	@Before
 	public void setUp() {
+		
 	}
 
 	@After
