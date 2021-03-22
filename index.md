@@ -1,5 +1,18 @@
-   
-  <div style="background-color: rgb(189,183,183);  height: 30px">
+<style>
+   div.container {
+    height: 10em;
+    position: relative }
+div.container p {
+    margin: 0;
+    background-color: rgb(226,223,223);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+</style>   
+
+  <div class="container">
   <a href="#descr">DATASET ARTIFACTS</a> - <a href="#construction">DATASET CONSTRUCTION</a> - <a href="#references">REFERENCES</a> - <a   href="#contact">CONTACT</a>  
   </div>
 
