@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Created-By: 1.6.0-b105 (Sun Microsystems Inc.)
+Build-Timestamp: 2008-02-15 14:09:07
+Build-Username: dsb
+Copyright-Notice: (C) 2003 The University of Texas at Austin
+Main-Class: guidsl.Main
+Class-Path: file:jakarta.jar file:sat4j.jar
+
