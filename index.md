@@ -1,6 +1,6 @@
    
   <div style="background-color: rgb(189,183,183);  height: 30px">
-  <a href="#descr">DATASET ARTIFACTS</a> - <a href="#construction">DATASET CONSTRUCTION</a> - <a href="#references">REFERENCES</a>  - <a href="#authors">AUTHORS</a> - <a   href="#contact">CONTACT</a>  
+  <a href="#descr">DATASET ARTIFACTS</a> - <a href="#construction">DATASET CONSTRUCTION</a> - <a href="#references">REFERENCES</a> - <a   href="#contact">CONTACT</a>  
   </div>
 
   
@@ -95,20 +95,11 @@ We conduct an ad hoc literature review analyzing survey papers on testing config
 - Ferreira, Fischer; Diniz, João Paulo; Silva, Cleiton; Figueiredo, Eduardo; 2019. <i> Testing Tools for Configurable Software Systems: A Review-based Empirical Study. </i> Proceedings of the 13th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS).
 
 
-<h1> <a name="authors">Authors</a></h1>
-
-<table>
-<tr>
-<td style="height=30%"> <img src="https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/pages/img/eduardo.jpg" >  </td>
-<td style="height=70%">  Eduardo Figueiredo is currently a lecturer at Federal University of Minas Gerais (UFMG) and head of the Software Engineering Laboratory (LabSoft). He holds a PhD degree in Computing at Lancaster University, U.K. (2009), a MSc degree in Informatics at Pontifical Catholic University of Rio de Janeiro (2006), and a graduate degree in Computer Science at Federal University of Ouro Preto (2003). His research interest includes: software metrics, design patterns, empirical software engineering, software reuse, software product lines, and aspect-oriented software development. Eduardo has also co-organized a number of workshops, such as ACoM, ESCOT, and LA-WASP, and published research papers in premier Software Engineering conferences, such as ICSE, FSE, ECOOP, and AOSD. 
-</td>   
-</table>
-
 
 <h1> <a name="contact">Contact</a></h1>
 
-- Fischer Ferreira: fischerjf@dcc.ufmg.br
-- Gustavo Vale: vale@cs.uni-saarland.de
-- João Paulo Diniz: jpaulo@dcc.ufmg.br
-- Eduardo Figueiredo: figueiredo@dcc.ufmg.br
+- [Fischer Ferreira](http://labsoft.dcc.ufmg.br/doku.php?id=people:students:fischer_ferreira): fischerjf@dcc.ufmg.br
+- [Gustavo Vale](http://labsoft.dcc.ufmg.br/doku.php?id=people:students:gustavo_do_vale): vale@cs.uni-saarland.de
+- [João Paulo Diniz](http://labsoft.dcc.ufmg.br/doku.php?id=people:students:joao_diniz): jpaulo@dcc.ufmg.br
+- [Eduardo Figueiredo] (http://labsoft.dcc.ufmg.br/doku.php?id=people:researchers:eduardo_figueiredo): figueiredo@dcc.ufmg.br
 
