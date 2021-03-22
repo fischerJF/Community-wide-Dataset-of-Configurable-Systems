@@ -1,5 +1,5 @@
 
-  [DATASET ARTIFACTS](#descr) - [DATASET CONSTRUCTION](#construction) - [REFERENCES]](#references) - [CONTACT](#contact)
+  [DATASET ARTIFACTS](#descr) - [DATASET CONSTRUCTION](#construction) - [REFERENCES](#references) - [CONTACT](#contact)
   
   
 Community-wide Dataset of Configurable Systems is composed of 30 configurable systems with test suites available. This dataset's configurable systems belong to several domains, such as games, text editor, media management, and file compression. We provide three groups of metrics (traditional,
