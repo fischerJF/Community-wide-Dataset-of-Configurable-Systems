@@ -1,10 +1,6 @@
    
-  [DATASET ARTIFACTS](#descr) - [DATASET CONSTRUCTION](#construction) - [REFERENCES](#references) - [AUTHORS](#authors) -  [CONTACT](#contact) 
-   
-  <div style="background-color: rgb(255,0,0);">
-
-  <a href="#descr">DATASET ARTIFACTS</a>
-
+  <div style="background-color: rgb(123,121,121);  width: 100px">
+  <a href="#descr">DATASET ARTIFACTS</a> - <a href="#construction">DATASET CONSTRUCTION</a> - <a href="#references">REFERENCES</a>  - <a href="#authors">AUTHORS</a> - <a   href="#contact">CONTACT</a>  
   </div>
 
   
