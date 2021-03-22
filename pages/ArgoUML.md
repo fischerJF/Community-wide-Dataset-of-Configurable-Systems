@@ -6,9 +6,9 @@
 
 2. [Metrics](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/metrics/ArgoUML.csv)
 
-3-1. [source code with muntants](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/argouml-spl-master)
+3-1. [Source code with muntants](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/argouml-spl-master)
 
-3-2. [Evaluation](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/argouml-spl-master)
+3-2. [Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/argouml-spl-master)
 
 4. Faults Found
 
