@@ -1,0 +1,670 @@
+p cnf 166 331 
+c c 1 CSS
+c c 2 Program
+c c 3 WRITETAG___
+c c 4 WHITESPACEAROUNDIGNOREENHANCEDFORCOLON___
+c c 5 WHITESPACEAROUNDALLOWEMPTYTYPES___
+c c 6 WHITESPACEAROUNDALLOWEMPTYMETHODS___
+c c 7 WHITESPACEAROUNDALLOWEMPTYLOOPS___
+c c 8 WHITESPACEAROUNDALLOWEMPTYCTORS___
+c c 9 WHITESPACEAROUND___
+c c 10 WHITESPACEAFTER___
+c c 11 VISIBILITYMODIFIER___
+c c 12 VARIABLEDECLARATIONUSAGEDISTANCE___
+c c 13 UPPERELL___
+c c 14 UNUSEDIMPORTS___
+c c 15 UNNECESSARYPARENTHESES___
+c c 16 UNCOMMENTEDMAIN___
+c c 17 TYPECASTPARENPAD___
+c c 18 TYPENAME___
+c c 19 TRANSLATION___
+c c 20 TRAILINGCOMMENT___
+c c 21 TODOCOMMENT___
+c c 22 THROWSCOUNT___
+c c 23 TW___
+c c 24 SUPPRESSWARNINGS___
+c c 25 SUPERFINALIZE___
+c c 26 SUPERCLONE___
+c c 27 SUMMARYJAVADOC___
+c c 28 STRINGLITERALEQUALITY___
+c c 29 STATICVARIABLENAME___
+c c 30 SINGLELINEJAVADOC___
+c c 31 SIMPLIFYBOOLEANRETURN___
+c c 32 SIMPLIFYBOOLEANEXPRESSION___
+c c 33 SEPARATORWRAP___
+c c 34 RIGHTCURLY___
+c c 35 RETURNCOUNTCHECK___
+c c 36 REQUIRETHIS___
+c c 37 REGEXPILLEGALPATTERN___
+c c 38 REGEXPIGNORECOMMENTS___
+c c 39 REGEXPCHECKFORDUPLICATES___
+c c 40 REGEXPSINGLELINEJAVA___
+c c 41 REGEXPSINGLELINE___
+c c 42 REGEXPMULTILINE___
+c c 43 REGEXPHEADERCHECK___
+c c 44 REGEXP___
+c c 45 REDUNDANTMODIFIER___
+c c 46 REDUNDANTIMPORT___
+c c 47 PARENPAD___
+c c 48 PARAMETERNUMBER___
+c c 49 PARAMETERNAME___
+c c 50 PARAMETERASSIGNMENT___
+c c 51 PACKAGENAME___
+c c 52 PACKAGEDECLARATION___
+c c 53 PACKAGEANNOTATION___
+c c 54 OVERLOADMETHODSDECLARATIONORDER___
+c c 55 OUTERTYPENUMBER___
+c c 56 OUTERTYPEFILENAME___
+c c 57 OPERATORWRAP___
+c c 58 ONETOPLEVELCLASS___
+c c 59 ONESTATEMENTPERLINE___
+c c 60 NONEMPTYATCLAUSEDESCRIPTION___
+c c 61 NOWHITESPACEBEFORE___
+c c 62 NOWHITESPACEAFTER___
+c c 63 NOLINEWRAP___
+c c 64 NOFINALIZER___
+c c 65 NOCLONE___
+c c 66 NEWLINEATENDOFFILE___
+c c 67 NESTEDTRYDEPTH___
+c c 68 NESTEDIFDEPTH___
+c c 69 NESTEDFORDEPTH___
+c c 70 NEEDBRACESALLOWSINGLELINEIF___
+c c 71 NEEDBRACES___
+c c 72 NPATHCOMPLEXITY___
+c c 73 MUTABLEEXCEPTIONCHECK___
+c c 74 MULTIPLEVARIABLEDECLARATIONS___
+c c 75 MULTIPLESTRINGLITERALS___
+c c 76 MODIFIERORDER___
+c c 77 MODIFIEDCONTROLVARIABLE___
+c c 78 MISSINGSWITCHDEFAULT___
+c c 79 MISSINGOVERRIDE___
+c c 80 MISSINGDEPRECATED___
+c c 81 MISSINGCTOR___
+c c 82 METHODTYPEPARAMETERNAME___
+c c 83 METHODPARAMPAD___
+c c 84 METHODNAMEALLOWCLASSNAME___
+c c 85 METHODNAME___
+c c 86 METHODLENGTH___
+c c 87 METHODCOUNT___
+c c 88 MEMBERNAME___
+c c 89 MAGICNUMBER___
+c c 90 LOCALVARIABLENAMEALLOWONECHARVARINFORLOOP___
+c c 91 LOCALVARIABLENAME___
+c c 92 LOCALFINALVARIABLENAME___
+c c 93 LINELENGTH___
+c c 94 LEFTCURLY___
+c c 95 JAVADOCVARIABLE___
+c c 96 JAVADOCTYPE___
+c c 97 JAVADOCTAGCONTINUATIONINDENTATION___
+c c 98 JAVADOCSTYLE___
+c c 99 JAVADOCPARAGRAPH___
+c c 100 JAVADOCPACKAGE___
+c c 101 JAVADOCMETHOD___
+c c 102 JAVANCSS___
+c c 103 INTERFACETYPEPARAMETERNAME___
+c c 104 INTERFACEISTYPE___
+c c 105 INNERTYPELAST___
+c c 106 INNERASSIGNMENT___
+c c 107 INDENTATIONFORCESTRICTCONDITION___
+c c 108 INDENTATION___
+c c 109 IMPORTORDER___
+c c 110 IMPORTCONTROL___
+c c 111 ILLEGALTYPECHECK___
+c c 112 ILLEGALTOKENTEXTCHECK___
+c c 113 ILLEGALTOKEN___
+c c 114 ILLEGALTHROWS___
+c c 115 ILLEGALINSTANTIATION___
+c c 116 ILLEGALIMPORT___
+c c 117 ILLEGALCATCH___
+c c 118 HIDEUTILITYCLASSCONSTRUCTOR___
+c c 119 HIDDENFIELD___
+c c 120 HEADERCHECK___
+c c 121 GENERICWHITESPACE___
+c c 122 FINALPARAMETERS___
+c c 123 FINALLOCALVARIABLE___
+c c 124 FINALCLASS___
+c c 125 FILETABCHARACTER___
+c c 126 FILELENGTH___
+c c 127 FALLTHROUGH___
+c c 128 EXPLICITINITIALIZATION___
+c c 129 EXECUTABLESTATEMENTCOUNT___
+c c 130 EQUALSHASHCODE___
+c c 131 EQUALSAVOIDNULL___
+c c 132 EMPTYSTATEMENT___
+c c 133 EMPTYLINESEPARATORALLOWNOEMPTYLINEBETWEENFIELDS___
+c c 134 EMPTYLINESEPARATORALLOWMULTIPLEEMPTYLINES___
+c c 135 EMPTYLINESEPARATOR___
+c c 136 EMPTYFORITERATORPAD___
+c c 137 EMPTYCATCHBLOCK___
+c c 138 EMPTYBLOCK___
+c c 139 DESIGNFOREXTENSION___
+c c 140 DEFAULTCOMESLAST___
+c c 141 DECLARATIONORDER___
+c c 142 CYCLOMATICCOMPLEXITY___
+c c 143 CUSTOMIMPORTORDER___
+c c 144 COVARIANTEQUALS___
+c c 145 CONSTANTNAME___
+c c 146 CLASSTYPEPARAMETERNAME___
+c c 147 CLASSFANOUTCOMPLEXITYCHECK___
+c c 148 CLASSDATAABSTRACTIONCOUPLINGCHECK___
+c c 149 BOOLEANEXPRESSIONCOMPLEXITY___
+c c 150 AVOIDSTARIMPORTCHECK___
+c c 151 AVOIDNESTEDBLOCKS___
+c c 152 AVOIDINLINECONDITIONALS___
+c c 153 AVOIDESCAPEDUNICODECHARACTERS___
+c c 154 ATCLAUSEORDER___
+c c 155 ARRAYTYPESTYLE___
+c c 156 ARRAYTRAILINGCOMMA___
+c c 157 ANONINNERLENGTH___
+c c 158 ANNOTATIONUSESTYLE___
+c c 159 ANNOTATIONLOCATION___
+c c 160 ABSTRACTCLASSNAMEIGNORENAME___
+c c 161 ABSTRACTCLASSNAMEIGNOREMODIFIER___
+c c 162 ABSTRACTCLASSNAME___
+c c 163 ABBREVIATIONASWORDINNAMEIGNORESTATIC___
+c c 164 ABBREVIATIONASWORDINNAMEIGNOREOVERRIDDENMETHODS___
+c c 165 ABBREVIATIONASWORDINNAMEIGNOREFINAL___
+c c 166 ABBREVIATIONASWORDINNAME___
+c (CSS iff Program)
+c ((not CSS or Program) and (not Program or CSS))
+c x ((not CSS or Program) and (not Program or CSS))
+-1 2  0
+-2 1  0
+c ((WRITETAG___) implies (Program) and (WHITESPACEAROUNDIGNOREENHANCEDFORCOLON___) implies (Program) and (WHITESPACEAROUNDALLOWEMPTYTYPES___) implies (Program) and (WHITESPACEAROUNDALLOWEMPTYMETHODS___) implies (Program) and (WHITESPACEAROUNDALLOWEMPTYLOOPS___) implies (Program) and (WHITESPACEAROUNDALLOWEMPTYCTORS___) implies (Program) and (WHITESPACEAROUND___) implies (Program) and (WHITESPACEAFTER___) implies (Program) and (VISIBILITYMODIFIER___) implies (Program) and (VARIABLEDECLARATIONUSAGEDISTANCE___) implies (Program) and (UPPERELL___) implies (Program) and (UNUSEDIMPORTS___) implies (Program) and (UNNECESSARYPARENTHESES___) implies (Program) and (UNCOMMENTEDMAIN___) implies (Program) and (TYPECASTPARENPAD___) implies (Program) and (TYPENAME___) implies (Program) and (TRANSLATION___) implies (Program) and (TRAILINGCOMMENT___) implies (Program) and (TODOCOMMENT___) implies (Program) and (THROWSCOUNT___) implies (Program) and (TW___) implies (Program) and (SUPPRESSWARNINGS___) implies (Program) and (SUPERFINALIZE___) implies (Program) and (SUPERCLONE___) implies (Program) and (SUMMARYJAVADOC___) implies (Program) and (STRINGLITERALEQUALITY___) implies (Program) and (STATICVARIABLENAME___) implies (Program) and (SINGLELINEJAVADOC___) implies (Program) and (SIMPLIFYBOOLEANRETURN___) implies (Program) and (SIMPLIFYBOOLEANEXPRESSION___) implies (Program) and (SEPARATORWRAP___) implies (Program) and (RIGHTCURLY___) implies (Program) and (RETURNCOUNTCHECK___) implies (Program) and (REQUIRETHIS___) implies (Program) and (REGEXPILLEGALPATTERN___) implies (Program) and (REGEXPIGNORECOMMENTS___) implies (Program) and (REGEXPCHECKFORDUPLICATES___) implies (Program) and (REGEXPSINGLELINEJAVA___) implies (Program) and (REGEXPSINGLELINE___) implies (Program) and (REGEXPMULTILINE___) implies (Program) and (REGEXPHEADERCHECK___) implies (Program) and (REGEXP___) implies (Program) and (REDUNDANTMODIFIER___) implies (Program) and (REDUNDANTIMPORT___) implies (Program) and (PARENPAD___) implies (Program) and (PARAMETERNUMBER___) implies (Program) and (PARAMETERNAME___) implies (Program) and (PARAMETERASSIGNMENT___) implies (Program) and (PACKAGENAME___) implies (Program) and (PACKAGEDECLARATION___) implies (Program) and (PACKAGEANNOTATION___) implies (Program) and (OVERLOADMETHODSDECLARATIONORDER___) implies (Program) and (OUTERTYPENUMBER___) implies (Program) and (OUTERTYPEFILENAME___) implies (Program) and (OPERATORWRAP___) implies (Program) and (ONETOPLEVELCLASS___) implies (Program) and (ONESTATEMENTPERLINE___) implies (Program) and (NONEMPTYATCLAUSEDESCRIPTION___) implies (Program) and (NOWHITESPACEBEFORE___) implies (Program) and (NOWHITESPACEAFTER___) implies (Program) and (NOLINEWRAP___) implies (Program) and (NOFINALIZER___) implies (Program) and (NOCLONE___) implies (Program) and (NEWLINEATENDOFFILE___) implies (Program) and (NESTEDTRYDEPTH___) implies (Program) and (NESTEDIFDEPTH___) implies (Program) and (NESTEDFORDEPTH___) implies (Program) and (NEEDBRACESALLOWSINGLELINEIF___) implies (Program) and (NEEDBRACES___) implies (Program) and (NPATHCOMPLEXITY___) implies (Program) and (MUTABLEEXCEPTIONCHECK___) implies (Program) and (MULTIPLEVARIABLEDECLARATIONS___) implies (Program) and (MULTIPLESTRINGLITERALS___) implies (Program) and (MODIFIERORDER___) implies (Program) and (MODIFIEDCONTROLVARIABLE___) implies (Program) and (MISSINGSWITCHDEFAULT___) implies (Program) and (MISSINGOVERRIDE___) implies (Program) and (MISSINGDEPRECATED___) implies (Program) and (MISSINGCTOR___) implies (Program) and (METHODTYPEPARAMETERNAME___) implies (Program) and (METHODPARAMPAD___) implies (Program) and (METHODNAMEALLOWCLASSNAME___) implies (Program) and (METHODNAME___) implies (Program) and (METHODLENGTH___) implies (Program) and (METHODCOUNT___) implies (Program) and (MEMBERNAME___) implies (Program) and (MAGICNUMBER___) implies (Program) and (LOCALVARIABLENAMEALLOWONECHARVARINFORLOOP___) implies (Program) and (LOCALVARIABLENAME___) implies (Program) and (LOCALFINALVARIABLENAME___) implies (Program) and (LINELENGTH___) implies (Program) and (LEFTCURLY___) implies (Program) and (JAVADOCVARIABLE___) implies (Program) and (JAVADOCTYPE___) implies (Program) and (JAVADOCTAGCONTINUATIONINDENTATION___) implies (Program) and (JAVADOCSTYLE___) implies (Program) and (JAVADOCPARAGRAPH___) implies (Program) and (JAVADOCPACKAGE___) implies (Program) and (JAVADOCMETHOD___) implies (Program) and (JAVANCSS___) implies (Program) and (INTERFACETYPEPARAMETERNAME___) implies (Program) and (INTERFACEISTYPE___) implies (Program) and (INNERTYPELAST___) implies (Program) and (INNERASSIGNMENT___) implies (Program) and (INDENTATIONFORCESTRICTCONDITION___) implies (Program) and (INDENTATION___) implies (Program) and (IMPORTORDER___) implies (Program) and (IMPORTCONTROL___) implies (Program) and (ILLEGALTYPECHECK___) implies (Program) and (ILLEGALTOKENTEXTCHECK___) implies (Program) and (ILLEGALTOKEN___) implies (Program) and (ILLEGALTHROWS___) implies (Program) and (ILLEGALINSTANTIATION___) implies (Program) and (ILLEGALIMPORT___) implies (Program) and (ILLEGALCATCH___) implies (Program) and (HIDEUTILITYCLASSCONSTRUCTOR___) implies (Program) and (HIDDENFIELD___) implies (Program) and (HEADERCHECK___) implies (Program) and (GENERICWHITESPACE___) implies (Program) and (FINALPARAMETERS___) implies (Program) and (FINALLOCALVARIABLE___) implies (Program) and (FINALCLASS___) implies (Program) and (FILETABCHARACTER___) implies (Program) and (FILELENGTH___) implies (Program) and (FALLTHROUGH___) implies (Program) and (EXPLICITINITIALIZATION___) implies (Program) and (EXECUTABLESTATEMENTCOUNT___) implies (Program) and (EQUALSHASHCODE___) implies (Program) and (EQUALSAVOIDNULL___) implies (Program) and (EMPTYSTATEMENT___) implies (Program) and (EMPTYLINESEPARATORALLOWNOEMPTYLINEBETWEENFIELDS___) implies (Program) and (EMPTYLINESEPARATORALLOWMULTIPLEEMPTYLINES___) implies (Program) and (EMPTYLINESEPARATOR___) implies (Program) and (EMPTYFORITERATORPAD___) implies (Program) and (EMPTYCATCHBLOCK___) implies (Program) and (EMPTYBLOCK___) implies (Program) and (DESIGNFOREXTENSION___) implies (Program) and (DEFAULTCOMESLAST___) implies (Program) and (DECLARATIONORDER___) implies (Program) and (CYCLOMATICCOMPLEXITY___) implies (Program) and (CUSTOMIMPORTORDER___) implies (Program) and (COVARIANTEQUALS___) implies (Program) and (CONSTANTNAME___) implies (Program) and (CLASSTYPEPARAMETERNAME___) implies (Program) and (CLASSFANOUTCOMPLEXITYCHECK___) implies (Program) and (CLASSDATAABSTRACTIONCOUPLINGCHECK___) implies (Program) and (BOOLEANEXPRESSIONCOMPLEXITY___) implies (Program) and (AVOIDSTARIMPORTCHECK___) implies (Program) and (AVOIDNESTEDBLOCKS___) implies (Program) and (AVOIDINLINECONDITIONALS___) implies (Program) and (AVOIDESCAPEDUNICODECHARACTERS___) implies (Program) and (ATCLAUSEORDER___) implies (Program) and (ARRAYTYPESTYLE___) implies (Program) and (ARRAYTRAILINGCOMMA___) implies (Program) and (ANONINNERLENGTH___) implies (Program) and (ANNOTATIONUSESTYLE___) implies (Program) and (ANNOTATIONLOCATION___) implies (Program) and (ABSTRACTCLASSNAMEIGNORENAME___) implies (Program) and (ABSTRACTCLASSNAMEIGNOREMODIFIER___) implies (Program) and (ABSTRACTCLASSNAME___) implies (Program) and (ABBREVIATIONASWORDINNAMEIGNORESTATIC___) implies (Program) and (ABBREVIATIONASWORDINNAMEIGNOREOVERRIDDENMETHODS___) implies (Program) and (ABBREVIATIONASWORDINNAMEIGNOREFINAL___) implies (Program) and (ABBREVIATIONASWORDINNAME___) implies (Program))
+c ((not WRITETAG___ or Program) and (not WHITESPACEAROUNDIGNOREENHANCEDFORCOLON___ or Program) and (not WHITESPACEAROUNDALLOWEMPTYTYPES___ or Program) and (not WHITESPACEAROUNDALLOWEMPTYMETHODS___ or Program) and (not WHITESPACEAROUNDALLOWEMPTYLOOPS___ or Program) and (not WHITESPACEAROUNDALLOWEMPTYCTORS___ or Program) and (not WHITESPACEAROUND___ or Program) and (not WHITESPACEAFTER___ or Program) and (not VISIBILITYMODIFIER___ or Program) and (not VARIABLEDECLARATIONUSAGEDISTANCE___ or Program) and (not UPPERELL___ or Program) and (not UNUSEDIMPORTS___ or Program) and (not UNNECESSARYPARENTHESES___ or Program) and (not UNCOMMENTEDMAIN___ or Program) and (not TYPECASTPARENPAD___ or Program) and (not TYPENAME___ or Program) and (not TRANSLATION___ or Program) and (not TRAILINGCOMMENT___ or Program) and (not TODOCOMMENT___ or Program) and (not THROWSCOUNT___ or Program) and (not TW___ or Program) and (not SUPPRESSWARNINGS___ or Program) and (not SUPERFINALIZE___ or Program) and (not SUPERCLONE___ or Program) and (not SUMMARYJAVADOC___ or Program) and (not STRINGLITERALEQUALITY___ or Program) and (not STATICVARIABLENAME___ or Program) and (not SINGLELINEJAVADOC___ or Program) and (not SIMPLIFYBOOLEANRETURN___ or Program) and (not SIMPLIFYBOOLEANEXPRESSION___ or Program) and (not SEPARATORWRAP___ or Program) and (not RIGHTCURLY___ or Program) and (not RETURNCOUNTCHECK___ or Program) and (not REQUIRETHIS___ or Program) and (not REGEXPILLEGALPATTERN___ or Program) and (not REGEXPIGNORECOMMENTS___ or Program) and (not REGEXPCHECKFORDUPLICATES___ or Program) and (not REGEXPSINGLELINEJAVA___ or Program) and (not REGEXPSINGLELINE___ or Program) and (not REGEXPMULTILINE___ or Program) and (not REGEXPHEADERCHECK___ or Program) and (not REGEXP___ or Program) and (not REDUNDANTMODIFIER___ or Program) and (not REDUNDANTIMPORT___ or Program) and (not PARENPAD___ or Program) and (not PARAMETERNUMBER___ or Program) and (not PARAMETERNAME___ or Program) and (not PARAMETERASSIGNMENT___ or Program) and (not PACKAGENAME___ or Program) and (not PACKAGEDECLARATION___ or Program) and (not PACKAGEANNOTATION___ or Program) and (not OVERLOADMETHODSDECLARATIONORDER___ or Program) and (not OUTERTYPENUMBER___ or Program) and (not OUTERTYPEFILENAME___ or Program) and (not OPERATORWRAP___ or Program) and (not ONETOPLEVELCLASS___ or Program) and (not ONESTATEMENTPERLINE___ or Program) and (not NONEMPTYATCLAUSEDESCRIPTION___ or Program) and (not NOWHITESPACEBEFORE___ or Program) and (not NOWHITESPACEAFTER___ or Program) and (not NOLINEWRAP___ or Program) and (not NOFINALIZER___ or Program) and (not NOCLONE___ or Program) and (not NEWLINEATENDOFFILE___ or Program) and (not NESTEDTRYDEPTH___ or Program) and (not NESTEDIFDEPTH___ or Program) and (not NESTEDFORDEPTH___ or Program) and (not NEEDBRACESALLOWSINGLELINEIF___ or Program) and (not NEEDBRACES___ or Program) and (not NPATHCOMPLEXITY___ or Program) and (not MUTABLEEXCEPTIONCHECK___ or Program) and (not MULTIPLEVARIABLEDECLARATIONS___ or Program) and (not MULTIPLESTRINGLITERALS___ or Program) and (not MODIFIERORDER___ or Program) and (not MODIFIEDCONTROLVARIABLE___ or Program) and (not MISSINGSWITCHDEFAULT___ or Program) and (not MISSINGOVERRIDE___ or Program) and (not MISSINGDEPRECATED___ or Program) and (not MISSINGCTOR___ or Program) and (not METHODTYPEPARAMETERNAME___ or Program) and (not METHODPARAMPAD___ or Program) and (not METHODNAMEALLOWCLASSNAME___ or Program) and (not METHODNAME___ or Program) and (not METHODLENGTH___ or Program) and (not METHODCOUNT___ or Program) and (not MEMBERNAME___ or Program) and (not MAGICNUMBER___ or Program) and (not LOCALVARIABLENAMEALLOWONECHARVARINFORLOOP___ or Program) and (not LOCALVARIABLENAME___ or Program) and (not LOCALFINALVARIABLENAME___ or Program) and (not LINELENGTH___ or Program) and (not LEFTCURLY___ or Program) and (not JAVADOCVARIABLE___ or Program) and (not JAVADOCTYPE___ or Program) and (not JAVADOCTAGCONTINUATIONINDENTATION___ or Program) and (not JAVADOCSTYLE___ or Program) and (not JAVADOCPARAGRAPH___ or Program) and (not JAVADOCPACKAGE___ or Program) and (not JAVADOCMETHOD___ or Program) and (not JAVANCSS___ or Program) and (not INTERFACETYPEPARAMETERNAME___ or Program) and (not INTERFACEISTYPE___ or Program) and (not INNERTYPELAST___ or Program) and (not INNERASSIGNMENT___ or Program) and (not INDENTATIONFORCESTRICTCONDITION___ or Program) and (not INDENTATION___ or Program) and (not IMPORTORDER___ or Program) and (not IMPORTCONTROL___ or Program) and (not ILLEGALTYPECHECK___ or Program) and (not ILLEGALTOKENTEXTCHECK___ or Program) and (not ILLEGALTOKEN___ or Program) and (not ILLEGALTHROWS___ or Program) and (not ILLEGALINSTANTIATION___ or Program) and (not ILLEGALIMPORT___ or Program) and (not ILLEGALCATCH___ or Program) and (not HIDEUTILITYCLASSCONSTRUCTOR___ or Program) and (not HIDDENFIELD___ or Program) and (not HEADERCHECK___ or Program) and (not GENERICWHITESPACE___ or Program) and (not FINALPARAMETERS___ or Program) and (not FINALLOCALVARIABLE___ or Program) and (not FINALCLASS___ or Program) and (not FILETABCHARACTER___ or Program) and (not FILELENGTH___ or Program) and (not FALLTHROUGH___ or Program) and (not EXPLICITINITIALIZATION___ or Program) and (not EXECUTABLESTATEMENTCOUNT___ or Program) and (not EQUALSHASHCODE___ or Program) and (not EQUALSAVOIDNULL___ or Program) and (not EMPTYSTATEMENT___ or Program) and (not EMPTYLINESEPARATORALLOWNOEMPTYLINEBETWEENFIELDS___ or Program) and (not EMPTYLINESEPARATORALLOWMULTIPLEEMPTYLINES___ or Program) and (not EMPTYLINESEPARATOR___ or Program) and (not EMPTYFORITERATORPAD___ or Program) and (not EMPTYCATCHBLOCK___ or Program) and (not EMPTYBLOCK___ or Program) and (not DESIGNFOREXTENSION___ or Program) and (not DEFAULTCOMESLAST___ or Program) and (not DECLARATIONORDER___ or Program) and (not CYCLOMATICCOMPLEXITY___ or Program) and (not CUSTOMIMPORTORDER___ or Program) and (not COVARIANTEQUALS___ or Program) and (not CONSTANTNAME___ or Program) and (not CLASSTYPEPARAMETERNAME___ or Program) and (not CLASSFANOUTCOMPLEXITYCHECK___ or Program) and (not CLASSDATAABSTRACTIONCOUPLINGCHECK___ or Program) and (not BOOLEANEXPRESSIONCOMPLEXITY___ or Program) and (not AVOIDSTARIMPORTCHECK___ or Program) and (not AVOIDNESTEDBLOCKS___ or Program) and (not AVOIDINLINECONDITIONALS___ or Program) and (not AVOIDESCAPEDUNICODECHARACTERS___ or Program) and (not ATCLAUSEORDER___ or Program) and (not ARRAYTYPESTYLE___ or Program) and (not ARRAYTRAILINGCOMMA___ or Program) and (not ANONINNERLENGTH___ or Program) and (not ANNOTATIONUSESTYLE___ or Program) and (not ANNOTATIONLOCATION___ or Program) and (not ABSTRACTCLASSNAMEIGNORENAME___ or Program) and (not ABSTRACTCLASSNAMEIGNOREMODIFIER___ or Program) and (not ABSTRACTCLASSNAME___ or Program) and (not ABBREVIATIONASWORDINNAMEIGNORESTATIC___ or Program) and (not ABBREVIATIONASWORDINNAMEIGNOREOVERRIDDENMETHODS___ or Program) and (not ABBREVIATIONASWORDINNAMEIGNOREFINAL___ or Program) and (not ABBREVIATIONASWORDINNAME___ or Program))
+c x ((not WRITETAG___ or Program) and (not WHITESPACEAROUNDIGNOREENHANCEDFORCOLON___ or Program) and (not WHITESPACEAROUNDALLOWEMPTYTYPES___ or Program) and (not WHITESPACEAROUNDALLOWEMPTYMETHODS___ or Program) and (not WHITESPACEAROUNDALLOWEMPTYLOOPS___ or Program) and (not WHITESPACEAROUNDALLOWEMPTYCTORS___ or Program) and (not WHITESPACEAROUND___ or Program) and (not WHITESPACEAFTER___ or Program) and (not VISIBILITYMODIFIER___ or Program) and (not VARIABLEDECLARATIONUSAGEDISTANCE___ or Program) and (not UPPERELL___ or Program) and (not UNUSEDIMPORTS___ or Program) and (not UNNECESSARYPARENTHESES___ or Program) and (not UNCOMMENTEDMAIN___ or Program) and (not TYPECASTPARENPAD___ or Program) and (not TYPENAME___ or Program) and (not TRANSLATION___ or Program) and (not TRAILINGCOMMENT___ or Program) and (not TODOCOMMENT___ or Program) and (not THROWSCOUNT___ or Program) and (not TW___ or Program) and (not SUPPRESSWARNINGS___ or Program) and (not SUPERFINALIZE___ or Program) and (not SUPERCLONE___ or Program) and (not SUMMARYJAVADOC___ or Program) and (not STRINGLITERALEQUALITY___ or Program) and (not STATICVARIABLENAME___ or Program) and (not SINGLELINEJAVADOC___ or Program) and (not SIMPLIFYBOOLEANRETURN___ or Program) and (not SIMPLIFYBOOLEANEXPRESSION___ or Program) and (not SEPARATORWRAP___ or Program) and (not RIGHTCURLY___ or Program) and (not RETURNCOUNTCHECK___ or Program) and (not REQUIRETHIS___ or Program) and (not REGEXPILLEGALPATTERN___ or Program) and (not REGEXPIGNORECOMMENTS___ or Program) and (not REGEXPCHECKFORDUPLICATES___ or Program) and (not REGEXPSINGLELINEJAVA___ or Program) and (not REGEXPSINGLELINE___ or Program) and (not REGEXPMULTILINE___ or Program) and (not REGEXPHEADERCHECK___ or Program) and (not REGEXP___ or Program) and (not REDUNDANTMODIFIER___ or Program) and (not REDUNDANTIMPORT___ or Program) and (not PARENPAD___ or Program) and (not PARAMETERNUMBER___ or Program) and (not PARAMETERNAME___ or Program) and (not PARAMETERASSIGNMENT___ or Program) and (not PACKAGENAME___ or Program) and (not PACKAGEDECLARATION___ or Program) and (not PACKAGEANNOTATION___ or Program) and (not OVERLOADMETHODSDECLARATIONORDER___ or Program) and (not OUTERTYPENUMBER___ or Program) and (not OUTERTYPEFILENAME___ or Program) and (not OPERATORWRAP___ or Program) and (not ONETOPLEVELCLASS___ or Program) and (not ONESTATEMENTPERLINE___ or Program) and (not NONEMPTYATCLAUSEDESCRIPTION___ or Program) and (not NOWHITESPACEBEFORE___ or Program) and (not NOWHITESPACEAFTER___ or Program) and (not NOLINEWRAP___ or Program) and (not NOFINALIZER___ or Program) and (not NOCLONE___ or Program) and (not NEWLINEATENDOFFILE___ or Program) and (not NESTEDTRYDEPTH___ or Program) and (not NESTEDIFDEPTH___ or Program) and (not NESTEDFORDEPTH___ or Program) and (not NEEDBRACESALLOWSINGLELINEIF___ or Program) and (not NEEDBRACES___ or Program) and (not NPATHCOMPLEXITY___ or Program) and (not MUTABLEEXCEPTIONCHECK___ or Program) and (not MULTIPLEVARIABLEDECLARATIONS___ or Program) and (not MULTIPLESTRINGLITERALS___ or Program) and (not MODIFIERORDER___ or Program) and (not MODIFIEDCONTROLVARIABLE___ or Program) and (not MISSINGSWITCHDEFAULT___ or Program) and (not MISSINGOVERRIDE___ or Program) and (not MISSINGDEPRECATED___ or Program) and (not MISSINGCTOR___ or Program) and (not METHODTYPEPARAMETERNAME___ or Program) and (not METHODPARAMPAD___ or Program) and (not METHODNAMEALLOWCLASSNAME___ or Program) and (not METHODNAME___ or Program) and (not METHODLENGTH___ or Program) and (not METHODCOUNT___ or Program) and (not MEMBERNAME___ or Program) and (not MAGICNUMBER___ or Program) and (not LOCALVARIABLENAMEALLOWONECHARVARINFORLOOP___ or Program) and (not LOCALVARIABLENAME___ or Program) and (not LOCALFINALVARIABLENAME___ or Program) and (not LINELENGTH___ or Program) and (not LEFTCURLY___ or Program) and (not JAVADOCVARIABLE___ or Program) and (not JAVADOCTYPE___ or Program) and (not JAVADOCTAGCONTINUATIONINDENTATION___ or Program) and (not JAVADOCSTYLE___ or Program) and (not JAVADOCPARAGRAPH___ or Program) and (not JAVADOCPACKAGE___ or Program) and (not JAVADOCMETHOD___ or Program) and (not JAVANCSS___ or Program) and (not INTERFACETYPEPARAMETERNAME___ or Program) and (not INTERFACEISTYPE___ or Program) and (not INNERTYPELAST___ or Program) and (not INNERASSIGNMENT___ or Program) and (not INDENTATIONFORCESTRICTCONDITION___ or Program) and (not INDENTATION___ or Program) and (not IMPORTORDER___ or Program) and (not IMPORTCONTROL___ or Program) and (not ILLEGALTYPECHECK___ or Program) and (not ILLEGALTOKENTEXTCHECK___ or Program) and (not ILLEGALTOKEN___ or Program) and (not ILLEGALTHROWS___ or Program) and (not ILLEGALINSTANTIATION___ or Program) and (not ILLEGALIMPORT___ or Program) and (not ILLEGALCATCH___ or Program) and (not HIDEUTILITYCLASSCONSTRUCTOR___ or Program) and (not HIDDENFIELD___ or Program) and (not HEADERCHECK___ or Program) and (not GENERICWHITESPACE___ or Program) and (not FINALPARAMETERS___ or Program) and (not FINALLOCALVARIABLE___ or Program) and (not FINALCLASS___ or Program) and (not FILETABCHARACTER___ or Program) and (not FILELENGTH___ or Program) and (not FALLTHROUGH___ or Program) and (not EXPLICITINITIALIZATION___ or Program) and (not EXECUTABLESTATEMENTCOUNT___ or Program) and (not EQUALSHASHCODE___ or Program) and (not EQUALSAVOIDNULL___ or Program) and (not EMPTYSTATEMENT___ or Program) and (not EMPTYLINESEPARATORALLOWNOEMPTYLINEBETWEENFIELDS___ or Program) and (not EMPTYLINESEPARATORALLOWMULTIPLEEMPTYLINES___ or Program) and (not EMPTYLINESEPARATOR___ or Program) and (not EMPTYFORITERATORPAD___ or Program) and (not EMPTYCATCHBLOCK___ or Program) and (not EMPTYBLOCK___ or Program) and (not DESIGNFOREXTENSION___ or Program) and (not DEFAULTCOMESLAST___ or Program) and (not DECLARATIONORDER___ or Program) and (not CYCLOMATICCOMPLEXITY___ or Program) and (not CUSTOMIMPORTORDER___ or Program) and (not COVARIANTEQUALS___ or Program) and (not CONSTANTNAME___ or Program) and (not CLASSTYPEPARAMETERNAME___ or Program) and (not CLASSFANOUTCOMPLEXITYCHECK___ or Program) and (not CLASSDATAABSTRACTIONCOUPLINGCHECK___ or Program) and (not BOOLEANEXPRESSIONCOMPLEXITY___ or Program) and (not AVOIDSTARIMPORTCHECK___ or Program) and (not AVOIDNESTEDBLOCKS___ or Program) and (not AVOIDINLINECONDITIONALS___ or Program) and (not AVOIDESCAPEDUNICODECHARACTERS___ or Program) and (not ATCLAUSEORDER___ or Program) and (not ARRAYTYPESTYLE___ or Program) and (not ARRAYTRAILINGCOMMA___ or Program) and (not ANONINNERLENGTH___ or Program) and (not ANNOTATIONUSESTYLE___ or Program) and (not ANNOTATIONLOCATION___ or Program) and (not ABSTRACTCLASSNAMEIGNORENAME___ or Program) and (not ABSTRACTCLASSNAMEIGNOREMODIFIER___ or Program) and (not ABSTRACTCLASSNAME___ or Program) and (not ABBREVIATIONASWORDINNAMEIGNORESTATIC___ or Program) and (not ABBREVIATIONASWORDINNAMEIGNOREOVERRIDDENMETHODS___ or Program) and (not ABBREVIATIONASWORDINNAMEIGNOREFINAL___ or Program) and (not ABBREVIATIONASWORDINNAME___ or Program))
+-3 2  0
+-4 2  0
+-5 2  0
+-6 2  0
+-7 2  0
+-8 2  0
+-9 2  0
+-10 2  0
+-11 2  0
+-12 2  0
+-13 2  0
+-14 2  0
+-15 2  0
+-16 2  0
+-17 2  0
+-18 2  0
+-19 2  0
+-20 2  0
+-21 2  0
+-22 2  0
+-23 2  0
+-24 2  0
+-25 2  0
+-26 2  0
+-27 2  0
+-28 2  0
+-29 2  0
+-30 2  0
+-31 2  0
+-32 2  0
+-33 2  0
+-34 2  0
+-35 2  0
+-36 2  0
+-37 2  0
+-38 2  0
+-39 2  0
+-40 2  0
+-41 2  0
+-42 2  0
+-43 2  0
+-44 2  0
+-45 2  0
+-46 2  0
+-47 2  0
+-48 2  0
+-49 2  0
+-50 2  0
+-51 2  0
+-52 2  0
+-53 2  0
+-54 2  0
+-55 2  0
+-56 2  0
+-57 2  0
+-58 2  0
+-59 2  0
+-60 2  0
+-61 2  0
+-62 2  0
+-63 2  0
+-64 2  0
+-65 2  0
+-66 2  0
+-67 2  0
+-68 2  0
+-69 2  0
+-70 2  0
+-71 2  0
+-72 2  0
+-73 2  0
+-74 2  0
+-75 2  0
+-76 2  0
+-77 2  0
+-78 2  0
+-79 2  0
+-80 2  0
+-81 2  0
+-82 2  0
+-83 2  0
+-84 2  0
+-85 2  0
+-86 2  0
+-87 2  0
+-88 2  0
+-89 2  0
+-90 2  0
+-91 2  0
+-92 2  0
+-93 2  0
+-94 2  0
+-95 2  0
+-96 2  0
+-97 2  0
+-98 2  0
+-99 2  0
+-100 2  0
+-101 2  0
+-102 2  0
+-103 2  0
+-104 2  0
+-105 2  0
+-106 2  0
+-107 2  0
+-108 2  0
+-109 2  0
+-110 2  0
+-111 2  0
+-112 2  0
+-113 2  0
+-114 2  0
+-115 2  0
+-116 2  0
+-117 2  0
+-118 2  0
+-119 2  0
+-120 2  0
+-121 2  0
+-122 2  0
+-123 2  0
+-124 2  0
+-125 2  0
+-126 2  0
+-127 2  0
+-128 2  0
+-129 2  0
+-130 2  0
+-131 2  0
+-132 2  0
+-133 2  0
+-134 2  0
+-135 2  0
+-136 2  0
+-137 2  0
+-138 2  0
+-139 2  0
+-140 2  0
+-141 2  0
+-142 2  0
+-143 2  0
+-144 2  0
+-145 2  0
+-146 2  0
+-147 2  0
+-148 2  0
+-149 2  0
+-150 2  0
+-151 2  0
+-152 2  0
+-153 2  0
+-154 2  0
+-155 2  0
+-156 2  0
+-157 2  0
+-158 2  0
+-159 2  0
+-160 2  0
+-161 2  0
+-162 2  0
+-163 2  0
+-164 2  0
+-165 2  0
+-166 2  0
+c x CSS
+1 0
+c x -ARRAYTYPESTYLE___
+-155 0
+c x -AVOIDESCAPEDUNICODECHARACTERS___
+-153 0
+c x -FINALPARAMETERS___
+-122 0
+c x NEWLINEATENDOFFILE___
+66 0
+c x OUTERTYPEFILENAME___
+56 0
+c x REGEXP___
+44 0
+c x REGEXPIGNORECOMMENTS___
+38 0
+c x REGEXPILLEGALPATTERN___
+37 0
+c x -REGEXPCHECKFORDUPLICATES___
+-39 0
+c x -TODOCOMMENT___
+-21 0
+c x -TRAILINGCOMMENT___
+-20 0
+c x -TRANSLATION___
+-19 0
+c x -UNCOMMENTEDMAIN___
+-16 0
+c x -UPPERELL___
+-13 0
+c x -ANNOTATIONLOCATION___
+-159 0
+c x -ANNOTATIONUSESTYLE___
+-158 0
+c x -MISSINGDEPRECATED___
+-80 0
+c x -MISSINGOVERRIDE___
+-79 0
+c x -PACKAGEANNOTATION___
+-53 0
+c x -SUPPRESSWARNINGS___
+-24 0
+c x -AVOIDNESTEDBLOCKS___
+-151 0
+c x -EMPTYBLOCK___
+-138 0
+c x -EMPTYCATCHBLOCK___
+-137 0
+c x -LEFTCURLY___
+-94 0
+c x -NEEDBRACES___
+-71 0
+c x -NEEDBRACESALLOWSINGLELINEIF___
+-70 0
+c x -RIGHTCURLY___
+-34 0
+c x -ARRAYTRAILINGCOMMA___
+-156 0
+c x -AVOIDINLINECONDITIONALS___
+-152 0
+c x -COVARIANTEQUALS___
+-144 0
+c x -DECLARATIONORDER___
+-141 0
+c x -DEFAULTCOMESLAST___
+-140 0
+c x -EMPTYSTATEMENT___
+-132 0
+c x -EQUALSAVOIDNULL___
+-131 0
+c x -EQUALSHASHCODE___
+-130 0
+c x -EXPLICITINITIALIZATION___
+-128 0
+c x -FALLTHROUGH___
+-127 0
+c x -FINALLOCALVARIABLE___
+-123 0
+c x -HIDDENFIELD___
+-119 0
+c x -ILLEGALCATCH___
+-117 0
+c x -ILLEGALINSTANTIATION___
+-115 0
+c x -ILLEGALTHROWS___
+-114 0
+c x -ILLEGALTOKEN___
+-113 0
+c x -TW___
+-23 0
+c x -REGEXPMULTILINE___
+-42 0
+c x -REGEXPSINGLELINE___
+-41 0
+c x -REGEXPSINGLELINEJAVA___
+-40 0
+c x -HEADERCHECK___
+-120 0
+c x -REGEXPHEADERCHECK___
+-43 0
+c x -AVOIDSTARIMPORTCHECK___
+-150 0
+c x -CUSTOMIMPORTORDER___
+-143 0
+c x -ILLEGALIMPORT___
+-116 0
+c x -IMPORTCONTROL___
+-110 0
+c x -IMPORTORDER___
+-109 0
+c x -REDUNDANTIMPORT___
+-46 0
+c x -UNUSEDIMPORTS___
+-14 0
+c x -BOOLEANEXPRESSIONCOMPLEXITY___
+-149 0
+c x -CLASSDATAABSTRACTIONCOUPLINGCHECK___
+-148 0
+c x -CLASSFANOUTCOMPLEXITYCHECK___
+-147 0
+c x -CYCLOMATICCOMPLEXITY___
+-142 0
+c x -JAVANCSS___
+-102 0
+c x -NPATHCOMPLEXITY___
+-72 0
+c x -MODIFIERORDER___
+-76 0
+c x -REDUNDANTMODIFIER___
+-45 0
+c x -DESIGNFOREXTENSION___
+-139 0
+c x -HIDEUTILITYCLASSCONSTRUCTOR___
+-118 0
+c x -INNERTYPELAST___
+-105 0
+c x -INTERFACEISTYPE___
+-104 0
+c x -ONETOPLEVELCLASS___
+-58 0
+c x -THROWSCOUNT___
+-22 0
+c x -VISIBILITYMODIFIER___
+-11 0
+c x -ILLEGALTYPECHECK___
+-111 0
+c x -INNERASSIGNMENT___
+-106 0
+c x -MAGICNUMBER___
+-89 0
+c x -MISSINGCTOR___
+-81 0
+c x -MISSINGSWITCHDEFAULT___
+-78 0
+c x -MODIFIEDCONTROLVARIABLE___
+-77 0
+c x -MULTIPLESTRINGLITERALS___
+-75 0
+c x -MULTIPLEVARIABLEDECLARATIONS___
+-74 0
+c x -NESTEDFORDEPTH___
+-69 0
+c x -FINALCLASS___
+-124 0
+c x -MUTABLEEXCEPTIONCHECK___
+-73 0
+c x -ILLEGALTOKENTEXTCHECK___
+-112 0
+c x -INDENTATION___
+-108 0
+c x -INDENTATIONFORCESTRICTCONDITION___
+-107 0
+c x -NESTEDIFDEPTH___
+-68 0
+c x -NESTEDTRYDEPTH___
+-67 0
+c x -NOCLONE___
+-65 0
+c x -NOFINALIZER___
+-64 0
+c x -ONESTATEMENTPERLINE___
+-59 0
+c x -OVERLOADMETHODSDECLARATIONORDER___
+-54 0
+c x -PACKAGEDECLARATION___
+-52 0
+c x -PARAMETERASSIGNMENT___
+-50 0
+c x -REQUIRETHIS___
+-36 0
+c x -RETURNCOUNTCHECK___
+-35 0
+c x -SIMPLIFYBOOLEANEXPRESSION___
+-32 0
+c x -SIMPLIFYBOOLEANRETURN___
+-31 0
+c x -STRINGLITERALEQUALITY___
+-28 0
+c x -SUPERCLONE___
+-26 0
+c x -SUPERFINALIZE___
+-25 0
+c x -UNNECESSARYPARENTHESES___
+-15 0
+c x -VARIABLEDECLARATIONUSAGEDISTANCE___
+-12 0
+c x -ATCLAUSEORDER___
+-154 0
+c x -JAVADOCMETHOD___
+-101 0
+c x -JAVADOCPACKAGE___
+-100 0
+c x -JAVADOCPARAGRAPH___
+-99 0
+c x -JAVADOCSTYLE___
+-98 0
+c x -JAVADOCTAGCONTINUATIONINDENTATION___
+-97 0
+c x -JAVADOCTYPE___
+-96 0
+c x -JAVADOCVARIABLE___
+-95 0
+c x -NONEMPTYATCLAUSEDESCRIPTION___
+-60 0
+c x -SINGLELINEJAVADOC___
+-30 0
+c x -SUMMARYJAVADOC___
+-27 0
+c x -WRITETAG___
+-3 0
+c x -ABBREVIATIONASWORDINNAME___
+-166 0
+c x -ABBREVIATIONASWORDINNAMEIGNOREFINAL___
+-165 0
+c x -ABBREVIATIONASWORDINNAMEIGNORESTATIC___
+-163 0
+c x -ABBREVIATIONASWORDINNAMEIGNOREOVERRIDDENMETHODS___
+-164 0
+c x -ABSTRACTCLASSNAME___
+-162 0
+c x -ABSTRACTCLASSNAMEIGNOREMODIFIER___
+-161 0
+c x -ABSTRACTCLASSNAMEIGNORENAME___
+-160 0
+c x -CLASSTYPEPARAMETERNAME___
+-146 0
+c x -CONSTANTNAME___
+-145 0
+c x -INTERFACETYPEPARAMETERNAME___
+-103 0
+c x -LOCALFINALVARIABLENAME___
+-92 0
+c x -LOCALVARIABLENAME___
+-91 0
+c x -LOCALVARIABLENAMEALLOWONECHARVARINFORLOOP___
+-90 0
+c x -MEMBERNAME___
+-88 0
+c x -METHODNAME___
+-85 0
+c x -METHODNAMEALLOWCLASSNAME___
+-84 0
+c x -METHODTYPEPARAMETERNAME___
+-82 0
+c x -PACKAGENAME___
+-51 0
+c x -PARAMETERNAME___
+-49 0
+c x -STATICVARIABLENAME___
+-29 0
+c x -TYPENAME___
+-18 0
+c x -ANONINNERLENGTH___
+-157 0
+c x -EXECUTABLESTATEMENTCOUNT___
+-129 0
+c x -FILELENGTH___
+-126 0
+c x -LINELENGTH___
+-93 0
+c x -METHODCOUNT___
+-87 0
+c x -METHODLENGTH___
+-86 0
+c x -OUTERTYPENUMBER___
+-55 0
+c x -PARAMETERNUMBER___
+-48 0
+c x -EMPTYFORITERATORPAD___
+-136 0
+c x -EMPTYLINESEPARATOR___
+-135 0
+c x -EMPTYLINESEPARATORALLOWNOEMPTYLINEBETWEENFIELDS___
+-133 0
+c x -EMPTYLINESEPARATORALLOWMULTIPLEEMPTYLINES___
+-134 0
+c x -FILETABCHARACTER___
+-125 0
+c x -GENERICWHITESPACE___
+-121 0
+c x -METHODPARAMPAD___
+-83 0
+c x -NOLINEWRAP___
+-63 0
+c x -NOWHITESPACEAFTER___
+-62 0
+c x -NOWHITESPACEBEFORE___
+-61 0
+c x -OPERATORWRAP___
+-57 0
+c x -PARENPAD___
+-47 0
+c x -SEPARATORWRAP___
+-33 0
+c x -TYPECASTPARENPAD___
+-17 0
+c x -WHITESPACEAFTER___
+-10 0
+c x -WHITESPACEAROUND___
+-9 0
+c x -WHITESPACEAROUNDALLOWEMPTYCTORS___
+-8 0
+c x -WHITESPACEAROUNDALLOWEMPTYMETHODS___
+-6 0
+c x -WHITESPACEAROUNDALLOWEMPTYTYPES___
+-5 0
+c x -WHITESPACEAROUNDALLOWEMPTYLOOPS___
+-7 0
+c x -WHITESPACEAROUNDIGNOREENHANCEDFORCOLON___
+-4 0
+
