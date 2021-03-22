@@ -9,7 +9,7 @@ Several datasets for the configurable systems have been used. However, this data
 point of comparison for configurable system testing strategies.
 
 
-#Description of Dataset Artifacts
+# Description of Dataset Artifacts
 Choose the configurable systems in the table below to access the related artifacts.
 All other configurable systems in our dataset follow the same structure.
 
@@ -77,7 +77,7 @@ we run with for (baseline 1, baseline 2,  CASA, Chvatal, ICPL, IncLing, and YASA
 |[ZipMe](pages/ZipMe.md)                 |	4,647 |3	      |311	    |33	    |13	      |24	     |
 
 
-#Dataset Construction
+# Dataset Construction
 
 
 We conduct an ad hoc literature review analyzing survey papers on testing configurable systems and well-known datasets of configurable systems
@@ -90,7 +90,7 @@ We conduct an ad hoc literature review analyzing survey papers on testing config
 
 
 
-#References
+# References
 
 - Ferreira, Fischer; Vale, Gustavo; Diniz, João Paulo; Figueiredo, Eduardo; 2020. <i>On the Proposal and Evaluation of a Test-enriched Dataset for Configurable Systems.</i> Proceedings of the 14th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS).
 
@@ -100,7 +100,7 @@ We conduct an ad hoc literature review analyzing survey papers on testing config
 
 
 
-#Contact
+# Contact
 
 - [Fischer Ferreira](http://labsoft.dcc.ufmg.br/doku.php?id=people:students:fischer_ferreira): fischerjf@dcc.ufmg.br
 - [Gustavo Vale](http://labsoft.dcc.ufmg.br/doku.php?id=people:students:gustavo_do_vale): vale@cs.uni-saarland.de
