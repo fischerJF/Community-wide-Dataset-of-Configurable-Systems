@@ -33,36 +33,36 @@ we run with for (baseline 1, baseline 2,  CASA, Chvatal, ICPL, IncLing, and YASA
 
 |Name 	        |#LOC   | Packages|	Classes	|Methods|Features|	Valid Configurations	  |
 |-------        |-------|---------|---------|-------|--------|------- |
-|[ArgoUML](pages/ArgoUML.md)        |153,977|92       |1,812    |	13,034|	8	     |256      |
-|[ATM](pages/ATM.md)            |	 1,160|	2	      |27       |	100   |	7      |80       |	|
-|[Bankaccount](pages/Bankaccount.md)    |	189   |	3       |	9	      |22     |	10     |144      |
-|[Checkstyle](pages/Checkstyle.md)     |	61,435|	14      |	78      |	719	  |141	   |> 2 ^135 | 
-|[Chess](pages/Chess.md)          |	2,149	|7	      |22	      |162	  |3	     |8	       |
-|[Companies](pages/Companies.md)      |	2,477	|16	      |50	      |244  	|10	     |192	     |255|
-|[Elevator](pages/Elevator.md)       |	426	  |2	      |7	      |59	    |5	     |20	     |9		|
-|[Email](pages/Email.md)         |	429	  |3	      |7	      |49	    |8	     |40	     |30	    |
-|[FeatureAMP1](pages/FeatureAMP1.md)    |	1,350	|4	      |15	      |93	    |28	      |6732	   |
-|[FeatureAMP2](pages/FeatureAMP2.md)    |	2,033	|3	      |14	      |167	  |34	      |7020	   |	
-|[FeatureAMP3](pages/FeatureAMP3.md)    |	2,575	|8	      |16	      |223	  |27	      |20500	 |	
-|[FeatureAMP4](pages/FeatureAMP4.md)    |	2,147	|2	      |57	      |203	  |27	      |6732	   |	
-|[FeatureAMP5](pages/FeatureAMP5.md)    |	1,344	|3	      |9	      |895	  |29	      |3810	   |
-|[FeatureAMP6](pages/FeatureAMP6.md)    |	2,418	|8	      |30	      |202	  |38	      |21522   |
-|[FeatureAMP7](pages/FeatureAMP7.md)    |	5,644	|3	      |46	      |220	  |29	      |15795   |   
-|[FeatureAMP8](pages/FeatureAMP8.md)    |	2,376	|2	      |6	      |106	  |27	      |15708   |
-|[FeatureAMP9](pages/FeatureAMP9.md)    |	1,859	|3	      |8	      |134	  |24	      |6732	   |
-|[GPL](pages/GPL.md)           |	1,235	|3	      |17	      |78	    |13	      |73	     	       |
-|[IntegerSetSPL](pages/IntegerSetSPL.md)  |	200	  |2	      |3	      |20	    |3	      |2	   |
-|[Jtopas](pages/Jtopas.md)        |	4397	|7	      |43	      |472    |	5	      |32	           |
-|[MinePump](pages/MinePump.md)       |	244	  |2	      |7	      |26	    |7	      |64	       |
-|[Notepad](pages/Notepad.md)        |	1564	|4	      |17	      |90	    |17	      |256         |
-|[Paycard](pages/Paycard.md)       |	374	  |2	      |8	      |27	    |4	      |6	  	  |
-|[Prop4J](pages/Prop4J.md)        |	1,138	|2	      |15	      |90	    |17	      |5029          |
-|[Sudoku](pages/Sudoku.md)       |	949	  |2	      |13	      |51	    |6	      |20	    |
-|[TaskObserver](pages/TaskObserver.md)  |	486	  |2	      |10	      |33	    |3	      |8	  |
-|[Telecom](pages/Telecom.md)      |	273	  |2	      |40	      |11	    |3	      |4	   |
-|[UnionFindSPL](pages/UnionFindSPL.md)  |	335	  |2	      |36	      |5	    |13	      |10	 	  |
+|[ArgoUML](pages/ArgoUML.md)             |153,977 |92       |1,812    |	13,034|	8	     |256      |
+|[ATM](pages/ATM.md)                     |	 1,160|	2	      |27       |	100   |	7      |80       |	
+|[Bankaccount](pages/Bankaccount.md)     |	189   |	3       |	9	      |22     |	10     |144      |
+|[Checkstyle](pages/Checkstyle.md)       |	61,435|	14      |	78      |	719	  |141	   |> 2 ^135 | 
+|[Chess](pages/Chess.md)                 |	2,149	|7	      |22	      |162	  |3	     |8	       |
+|[Companies](pages/Companies.md)         |	2,477	|16	      |50	      |244  	|10	     |192	     |
+|[Elevator](pages/Elevator.md)           |	426	  |2	      |7	      |59	    |5	     |20	   	 |
+|[Email](pages/Email.md)                 |	429	  |3	      |7	      |49	    |8	     |40	     |
+|[FeatureAMP1](pages/FeatureAMP1.md)     |	1,350	|4	      |15	      |93	    |28	      |6732	   |
+|[FeatureAMP2](pages/FeatureAMP2.md)     |	2,033	|3	      |14	      |167	  |34	      |7020	   |	
+|[FeatureAMP3](pages/FeatureAMP3.md)     |	2,575	|8	      |16	      |223	  |27	      |20500	 |	
+|[FeatureAMP4](pages/FeatureAMP4.md)     |	2,147	|2	      |57	      |203	  |27	      |6732	   |	
+|[FeatureAMP5](pages/FeatureAMP5.md)     |	1,344	|3	      |9	      |895	  |29	      |3810	   |
+|[FeatureAMP6](pages/FeatureAMP6.md)     |	2,418	|8	      |30	      |202	  |38	      |21522   |
+|[FeatureAMP7](pages/FeatureAMP7.md)     |	5,644	|3	      |46	      |220	  |29	      |15795   |   
+|[FeatureAMP8](pages/FeatureAMP8.md)     | 	2,376	|2	      |6	      |106	  |27	      |15708   |
+|[FeatureAMP9](pages/FeatureAMP9.md)     |	1,859	|3	      |8	      |134	  |24	      |6732	   |
+|[GPL](pages/GPL.md)                     |	1,235	|3	      |17	      |78	    |13	      |73	     |
+|[IntegerSetSPL](pages/IntegerSetSPL.md)  |	200	  |2	      |3	      |20	    |3	      |2	     |
+|[Jtopas](pages/Jtopas.md)               |	4397	|7	      |43	      |472    |	5	      |32	     |
+|[MinePump](pages/MinePump.md)           |	244	  |2	      |7	      |26	    |7	      |64	     |
+|[Notepad](pages/Notepad.md)             |	1564	|4	      |17	      |90	    |17	      |256     |
+|[Paycard](pages/Paycard.md)             |	374	  |2	      |8	      |27	    |4	      |6      |
+|[Prop4J](pages/Prop4J.md)               |	1,138	|2	      |15	      |90	    |17	      |5029    |
+|[Sudoku](pages/Sudoku.md)               |	949	  |2	      |13	      |51	    |6	      |20	   |
+|[TaskObserver](pages/TaskObserver.md)   |	486	  |2	      |10	      |33	    |3	      |8	  |
+|[Telecom](pages/Telecom.md)             |	273	  |2	      |40	      |11	    |3	      |4	   |
+|[UnionFindSPL](pages/UnionFindSPL.md)   |	335	  |2	      |36	      |5	    |13	      |10	 	  |
 |[Vending Machine](pages/Vending Machine.md)|	472	  |2	      |7	      |21	    |8	      |256     |
-|[ZipMe](pages/ZipMe.md)          |	4,647 |3	      |311	    |33	    |13	      |24	     |
+|[ZipMe](pages/ZipMe.md)                 |	4,647 |3	      |311	    |33	    |13	      |24	     |
 
 
 
