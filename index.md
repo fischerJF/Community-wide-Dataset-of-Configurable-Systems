@@ -98,7 +98,7 @@ We conduct an ad hoc literature review analyzing survey papers on testing config
 <h1> <a name="authors">Authors</a></h1>
 
 <div>
-<div style="width: 100px"> <img src="https://raw.githubusercontent.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/master/pages/img/eduardo.JPG" alt="Minha Figura">  </div>
+<div style="width: 100px"> <img src="https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/pages/img/eduardo.jpg" >  </div>
 <div style="width: 100px">  Eduardo Figueiredo is currently a lecturer at Federal University of Minas Gerais (UFMG) and head of the Software Engineering Laboratory (LabSoft). He holds a PhD degree in Computing at Lancaster University, U.K. (2009), a MSc degree in Informatics at Pontifical Catholic University of Rio de Janeiro (2006), and a graduate degree in Computer Science at Federal University of Ouro Preto (2003). His research interest includes: software metrics, design patterns, empirical software engineering, software reuse, software product lines, and aspect-oriented software development. Eduardo has also co-organized a number of workshops, such as ACoM, ESCOT, and LA-WASP, and published research papers in premier Software Engineering conferences, such as ICSE, FSE, ECOOP, and AOSD. <div>   
 </div>
 <h1> <a name="contact">Contact</a></h1>
