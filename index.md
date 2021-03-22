@@ -1,8 +1,6 @@
 
-  <div style="background-color: rgb(226,223,223);  height: 30px">
-  <a href="#descr">DATASET ARTIFACTS</a> - <a href="#construction">DATASET CONSTRUCTION</a> - <a href="#references">REFERENCES</a> - <a href="#contact">CONTACT</a>  
-  </div>
-
+  [DATASET ARTIFACTS](#descr) - [DATASET CONSTRUCTION](#construction) - [REFERENCES]](#references) - [CONTACT](#contact)
+  
   
 Community-wide Dataset of Configurable Systems is composed of 30 configurable systems with test suites available. This dataset's configurable systems belong to several domains, such as games, text editor, media management, and file compression. We provide three groups of metrics (traditional,
 variability, and test suite) to characterize the proposed dataset. 
