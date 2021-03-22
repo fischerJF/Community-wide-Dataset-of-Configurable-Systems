@@ -2,6 +2,8 @@
 
 ![image](https://raw.githubusercontent.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/master/featureModel/PayCard.JPG)
 
+1. Feature Model: [Guidsl](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/Paycard/modified-model.m) - [XML](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/Paycard/model.xml)
+
 2. [Metrics](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/metrics/Paycard.csv)
  
 3-1. [Source code with muntants](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/dataset_with_mutant/Paycard)
