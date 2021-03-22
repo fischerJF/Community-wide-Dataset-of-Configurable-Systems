@@ -101,5 +101,5 @@ We conduct an ad hoc literature review analyzing survey papers on testing config
 - [Fischer Ferreira](http://labsoft.dcc.ufmg.br/doku.php?id=people:students:fischer_ferreira): fischerjf@dcc.ufmg.br
 - [Gustavo Vale](http://labsoft.dcc.ufmg.br/doku.php?id=people:students:gustavo_do_vale): vale@cs.uni-saarland.de
 - [João Paulo Diniz](http://labsoft.dcc.ufmg.br/doku.php?id=people:students:joao_diniz): jpaulo@dcc.ufmg.br
-- [Eduardo Figueiredo] (http://labsoft.dcc.ufmg.br/doku.php?id=people:researchers:eduardo_figueiredo): figueiredo@dcc.ufmg.br
+- [Eduardo Figueiredo](http://labsoft.dcc.ufmg.br/doku.php?id=people:researchers:eduardo_figueiredo): figueiredo@dcc.ufmg.br
 
