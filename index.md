@@ -12,6 +12,7 @@ Several datasets for the configurable systems have been used. However, this data
 configurable systems. We believe that our dataset can be a common
 point of comparison for configurable system testing strategies.
 
+
 <h1> <a name="descr">Description of Dataset Artifacts</a></h1>
 Choose the configurable systems in the table below to access the related artifacts.
 All other configurable systems in our dataset follow the same structure.
@@ -47,7 +48,7 @@ we run with for (baseline 1, baseline 2,  CASA, Chvatal, ICPL, IncLing, and YASA
 
 
 |Name 	        |#LOC   | Packages|	Classes	|Methods|Features|	Valid Configurations	  |
-|-------        |-------|---------|---------|-------|--------|------- |
+|-------        |-------|---------|---------|-------|--------|-------                   |
 |[ArgoUML](pages/ArgoUML.md)             |153,977 |92       |1,812    |	13,034|	8	     |256      |
 |[ATM](pages/ATM.md)                     |	 1,160|	2	      |27       |	100   |	7      |80       |	
 |[Bankaccount](pages/Bankaccount.md)     |	189   |	3       |	9	      |22     |	10     |144      |
