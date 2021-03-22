@@ -1,6 +1,7 @@
    
   [DATASET ARTIFACTS](#descr) - [DATASET CONSTRUCTION](#construction) - [REFERENCES](#references) - [AUTHORS](#authors) -  [CONTACT](#contact) 
-  
+   
+   <a href="#descr">DATASET ARTIFACTS</a>
 
 
 <h1> <a name="descr">Description of dataset artifacts</a></h1>
