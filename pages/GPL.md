@@ -9,7 +9,7 @@
  
 3-1. [Source code with muntants](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/dataGPL_with_mutant/GPL)
 
-3-2. [Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/GPL)
+3-2. [Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/dataset_with_mutant/GPL)
 
 4. [Failures found](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/failuresFound)
 
