@@ -1,15 +1,13 @@
 
-  <div style="background-color: rgb((226,223,223);  height: 30px">
+  <div style="background-color: rgb(226,223,223);  height: 30px">
   <a href="#descr">DATASET ARTIFACTS</a> - <a href="#construction">DATASET CONSTRUCTION</a> - <a href="#references">REFERENCES</a> - <a href="#contact">CONTACT</a>  
   </div>
-
 
   
 Community-wide Dataset of Configurable Systems is composed of 30 configurable systems with test suites available. This dataset's configurable systems belong to several domains, such as games, text editor, media management, and file compression. We provide three groups of metrics (traditional,
 variability, and test suite) to characterize the proposed dataset. 
    
-Several datasets for the configurable systems have been used. However, this dataset is the first dataset for configurable systems with an extensive test suite. Furthermore, it is an excellent opportunity to share knowledge on test strategies for configurable systems because we use the same test suite towards an unbiased comparison of effectiveness and efficiency of testing strategies for
-configurable systems. We believe that our dataset can be a common
+Several datasets for the configurable systems have been used. However, this dataset is the first dataset for configurable systems with an extensive test suite. Furthermore, it is an excellent opportunity to share knowledge on test strategies for configurable systems because we use the same test suite towards an unbiased comparison of effectiveness and efficiency of testing strategies for configurable systems. We believe that our dataset can be a common
 point of comparison for configurable system testing strategies.
 
 
