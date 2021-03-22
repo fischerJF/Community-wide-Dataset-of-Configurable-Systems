@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and abstract="true" mandatory="true" name="ZIPME">
+            <and abstract="true" name="_ZipMe">
+                <feature mandatory="true" name="BASE"/>
+                <feature mandatory="true" name="COMPRESS"/>
+                <feature name="GZIP"/>
+                <feature name="EXTRACT"/>
+                <feature name="ARCHIVECHECK"/>
+                <feature name="CRC"/>
+                <feature name="ADLER32CHECKSUM"/>
+                <feature name="DERIVATIVE_COMPRESS_ADLER32CHECKSUM"/>
+                <feature name="DERIVATIVE_COMPRESS_CRC"/>
+                <feature name="DERIVATIVE_COMPRESS_GZIP"/>
+                <feature name="DERIVATIVE_COMPRESS_GZIPCRC"/>
+                <feature name="DERIVATIVE_EXTRACT_CRC"/>
+                <feature name="DERIVATIVE_GZIPCRC"/>
+            </and>
+        </and>
+    </struct>
+    <constraints>
+        <rule>
+            <imp>
+                <var>GZIP</var>
+                <var>CRC</var>
+            </imp>
+        </rule>
+        <rule>
+            <eq>
+                <conj>
+                    <var>COMPRESS</var>
+                    <var>ADLER32CHECKSUM</var>
+                </conj>
+                <var>DERIVATIVE_COMPRESS_ADLER32CHECKSUM</var>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <conj>
+                    <var>COMPRESS</var>
+                    <var>CRC</var>
+                </conj>
+                <var>DERIVATIVE_COMPRESS_CRC</var>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <conj>
+                    <var>COMPRESS</var>
+                    <var>GZIP</var>
+                </conj>
+                <var>DERIVATIVE_COMPRESS_GZIP</var>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <conj>
+                    <var>COMPRESS</var>
+                    <conj>
+                        <var>GZIP</var>
+                        <var>CRC</var>
+                    </conj>
+                </conj>
+                <var>DERIVATIVE_COMPRESS_GZIPCRC</var>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <conj>
+                    <var>EXTRACT</var>
+                    <var>CRC</var>
+                </conj>
+                <var>DERIVATIVE_EXTRACT_CRC</var>
+            </eq>
+        </rule>
+        <rule>
+            <eq>
+                <conj>
+                    <var>GZIP</var>
+                    <var>CRC</var>
+                </conj>
+                <var>DERIVATIVE_GZIPCRC</var>
+            </eq>
+        </rule>
+    </constraints>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
