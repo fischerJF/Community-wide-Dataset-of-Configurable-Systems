@@ -71,7 +71,7 @@ we run with for (baseline 1, baseline 2,  CASA, Chvatal, ICPL, IncLing, and YASA
 |[ZipMe](pages/ZipMe.md)                 |	4,647 |3	      |311	    |33	    |13	      |24	     |
 
 
-<H1> <a name="#construction">Dataset Construction</a></H1>
+<H1> <a name="construction">Dataset Construction</a></H1>
 
 
 We conduct an ad hoc literature review analyzing survey papers on testing configurable systems and well-known datasets of configurable systems
@@ -86,6 +86,11 @@ We conduct an ad hoc literature review analyzing survey papers on testing config
 
 <h1> <a name="references">References</a></h1>
 
+- Ferreira, Fischer; Vale, Gustavo; Diniz, João Paulo; Figueiredo, Eduardo; 2020. <i>On the Proposal and Evaluation of a Test-enriched Dataset for Configurable Systems.</i> Proceedings of the 14th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS).
+
+- Ferreira, Fischer; Viggiato, Markos; Souza, Maurício; Figueiredo, Eduardo; 2020. <i> Testing Configurable Software Systems: The Failure Observation Challenge. </i> Proceedings of the 24th ACM International Systems and Software Product Line Conference  (SPLC).
+
+- Ferreira, Fischer; Diniz, João Paulo; Silva, Cleiton; Figueiredo, Eduardo; 2019. <i> Testing Tools for Configurable Software Systems: A Review-based Empirical Study. </i> Proceedings of the 13th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS).
 
 
 <h1> <a name="authors">Authors</a></h1>
