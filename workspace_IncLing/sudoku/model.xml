@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and abstract="true" mandatory="true" name="SPL">
+            <feature mandatory="true" name="BASE"/>
+            <feature name="STATES"/>
+            <feature name="UNDO"/>
+            <feature name="COLOR"/>
+            <feature name="SOLVER"/>
+            <feature name="GENERATOR"/>
+            <feature name="EXTENDEDSUDOKU"/>
+        </and>
+    </struct>
+    <constraints>
+        <rule>
+            <imp>
+                <var>UNDO</var>
+                <var>STATES</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>GENERATOR</var>
+                <var>SOLVER</var>
+            </imp>
+        </rule>
+        <rule>
+            <imp>
+                <var>SOLVER</var>
+                <var>UNDO</var>
+            </imp>
+        </rule>
+    </constraints>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
