@@ -1,7 +1,6 @@
-  <span style="background-color: #FF0000">  
+   
   [DATASET ARTIFACTS ](#descr)  [DATASET CONSTRUCTION](#construction) [REFERENCES](#references)   [AUTHORS](#authors)   [CONTACT](#contact) 
-  </span>
-
+  
 
 
 <h1> <a name="descr">Description of dataset artifacts</a></h1>
