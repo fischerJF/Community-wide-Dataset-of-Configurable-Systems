@@ -2,7 +2,7 @@
 
 ![image](https://raw.githubusercontent.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/master/featureModel/ZipMe.JPG)
 
-1. Feature Model: [Guidsl](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/ZipMe/modified-model.m) - [XML](https://github.com/fischerJF/challenge/blob/master/workspace_IncLing/ZipMe/model.xml)
+1. Feature Model: [Guidsl](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/zipme/modified-model.m) - [XML](https://github.com/fischerJF/challenge/blob/master/workspace_IncLing/zipme/model.xml)
 
 1. [Metrics](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/metrics/Zipme.csv)
  
