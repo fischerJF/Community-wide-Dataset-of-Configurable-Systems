@@ -4,6 +4,9 @@
   </div>
 
   
+Test-enriched Configurable System Dataset is composed of 30 configurable systems. This dataset's configurable systems belong to several domains, such as games, text editor, media management, and file compression. Several datasets for the configurable systems have been used. However, this dataset is the first dataset for configurable systems with an extensive test suite. Furthermore, it is an excellent opportunity to share knowledge on test strategies for configurable systems because we use the same test suite towards an unbiased comparison of effectiveness and efficiency of testing strategies for
+configurable systems. We believe that our dataset can be a common
+point of comparison for configurable system testing strategies.
 
 <h1> <a name="descr">Description of Dataset Artifacts</a></h1>
 Choose the configurable systems in the table below to access the related artifacts.
