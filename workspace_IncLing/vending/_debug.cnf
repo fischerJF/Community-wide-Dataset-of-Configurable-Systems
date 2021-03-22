@@ -1,0 +1,73 @@
+p cnf 14 27 
+c c 1 VENDING___
+c c 2 _VENDING___
+c c 3 BASE___
+c c 4 _BASE___
+c c 5 COINVALIDATION___
+c c 6 AVAILABILITY___
+c c 7 USERINTERACTION___
+c c 8 SHOWSTOCK___
+c c 9 FLEXIBLEQUANTITY___
+c c 10 TOTALVALUECOLLECTED___
+c c 11 _TERMINAL___
+c c 12 TERMINAL___
+c c 13 _KEYBOARD___
+c c 14 KEYBOARD___
+c (BASE___ iff _BASE___)
+c ((not BASE___ or _BASE___) and (not _BASE___ or BASE___))
+c x ((not BASE___ or _BASE___) and (not _BASE___ or BASE___))
+-3 4  0
+-4 3  0
+c (VENDING___ iff _VENDING___)
+c ((not VENDING___ or _VENDING___) and (not _VENDING___ or VENDING___))
+c x ((not VENDING___ or _VENDING___) and (not _VENDING___ or VENDING___))
+-1 2  0
+-2 1  0
+c (USERINTERACTION___ iff (_KEYBOARD___ or _TERMINAL___))
+c ((not USERINTERACTION___ or _KEYBOARD___ or _TERMINAL___) and ((not _KEYBOARD___ and not _TERMINAL___) or USERINTERACTION___))
+c x ((not USERINTERACTION___ or _KEYBOARD___ or _TERMINAL___) and (not _KEYBOARD___ or USERINTERACTION___) and (not _TERMINAL___ or USERINTERACTION___))
+-7 13 11  0
+-13 7  0
+-11 7  0
+c (_KEYBOARD___ iff KEYBOARD___)
+c ((not _KEYBOARD___ or KEYBOARD___) and (not KEYBOARD___ or _KEYBOARD___))
+c x ((not _KEYBOARD___ or KEYBOARD___) and (not KEYBOARD___ or _KEYBOARD___))
+-13 14  0
+-14 13  0
+c (_TERMINAL___ iff TERMINAL___)
+c ((not _TERMINAL___ or TERMINAL___) and (not TERMINAL___ or _TERMINAL___))
+c x ((not _TERMINAL___ or TERMINAL___) and (not TERMINAL___ or _TERMINAL___))
+-11 12  0
+-12 11  0
+c ((COINVALIDATION___) implies (_BASE___) and (AVAILABILITY___) implies (_BASE___) and (USERINTERACTION___) implies (_BASE___) and (SHOWSTOCK___) implies (_BASE___) and (FLEXIBLEQUANTITY___) implies (_BASE___) and (TOTALVALUECOLLECTED___) implies (_BASE___))
+c ((not COINVALIDATION___ or _BASE___) and (not AVAILABILITY___ or _BASE___) and (not USERINTERACTION___ or _BASE___) and (not SHOWSTOCK___ or _BASE___) and (not FLEXIBLEQUANTITY___ or _BASE___) and (not TOTALVALUECOLLECTED___ or _BASE___))
+c x ((not COINVALIDATION___ or _BASE___) and (not AVAILABILITY___ or _BASE___) and (not USERINTERACTION___ or _BASE___) and (not SHOWSTOCK___ or _BASE___) and (not FLEXIBLEQUANTITY___ or _BASE___) and (not TOTALVALUECOLLECTED___ or _BASE___))
+-5 4  0
+-6 4  0
+-7 4  0
+-8 4  0
+-9 4  0
+-10 4  0
+c (BASE___) implies (_VENDING___)
+c (not BASE___ or _VENDING___)
+c x (not BASE___ or _VENDING___)
+-3 2  0
+c x VENDING___
+1 0
+c x BASE___
+3 0
+c x -COINVALIDATION___
+-5 0
+c x -AVAILABILITY___
+-6 0
+c x -TERMINAL___
+-12 0
+c x KEYBOARD___
+14 0
+c x -SHOWSTOCK___
+-8 0
+c x FLEXIBLEQUANTITY___
+9 0
+c x -TOTALVALUECOLLECTED___
+-10 0
+

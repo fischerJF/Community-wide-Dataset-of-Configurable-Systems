@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and abstract="true" mandatory="true" name="Vending">
+            <and name="Base">
+                <feature name="coinValidation"/>
+                <feature name="availability"/>
+                <or abstract="true" name="userInteraction">
+                    <feature name="terminal"/>
+                    <feature name="keyboard"/>
+                </or>
+                <feature name="showStock"/>
+                <feature name="flexiblequantity"/>
+                <feature name="totalValueCollected"/>
+            </and>
+        </and>
+    </struct>
+    <constraints/>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
