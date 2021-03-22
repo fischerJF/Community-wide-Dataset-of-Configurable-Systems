@@ -1,6 +1,6 @@
 # GPL
 
-![image](https://raw.githubusercontent.com/fischerJF/Community-wide-DataGPL-of-Configurable-Systems/master/featureModel/GPL.JPG)
+![image](https://raw.githubusercontent.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/master/featureModel/GPL.JPG)
 
 1. Feature Model: [Guidsl](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/GPL/modified-model.m) - [XML](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/GPL/model.xml)
 
