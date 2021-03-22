@@ -1,5 +1,5 @@
    
-  [DATASET ARTIFACTS ](#descr)  [DATASET CONSTRUCTION](#construction) [REFERENCES](#references)   [AUTHORS](#authors)   [CONTACT](#contact) 
+  [DATASET ARTIFACTS ](#descr) - [DATASET CONSTRUCTION](#construction) - [REFERENCES](#references) - [AUTHORS](#authors) -  [CONTACT](#contact) 
   
 
 
