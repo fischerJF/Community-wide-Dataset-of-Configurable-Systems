@@ -1,0 +1,38 @@
+#!/bin/bash
+
+CUR=`pwd`
+BASE="${CUR}/../.."
+
+CP=""
+############# common libraries
+for x in `ls ${BASE}/libs/*.jar`;
+do
+	CP=${x}:${CP}
+done
+############# subject libraries
+for x in `ls ${CUR}/libs/*.jar`;
+do
+	CP=${x}:${CP}
+done
+
+SRCDIR="${CUR}/src"
+BINDIR="${CUR}/bin"
+TESTDIR="${CUR}/src-tests"
+CP="${BINDIR}:$CP"
+
+mkdir -p ${BINDIR}
+######## compile splat
+find "${CUR}/../../src" -name "*.java" | \
+    xargs javac -cp $CP -d ${BINDIR}
+
+######## compile source
+find ${SRCDIR} -name "*.java" | \
+    xargs javac -cp $CP -d ${BINDIR}
+
+######## compile tests
+find ${TESTDIR} -name "*.java" | \
+    xargs javac -cp $CP -d ${BINDIR}
+
+java -cp "${CP}" \
+    org.junit.runner.JUnitCore \
+    tests.TestAll
