@@ -41,6 +41,8 @@ stack trace, and the test case that observed the failure.
 5. Analyzed Configurations: We provide the configurations that
 we run with for (baseline 1, baseline 2,  CASA, Chvatal, ICPL, IncLing, and YASA). 
 
+6. Run the experiment: We provide an infrastructure to run the test suite for each configuration analyzed.
+
 
 
 |Name 	        |#LOC   | Packages|	Classes	|Methods|Features|	Valid Configurations	  |
