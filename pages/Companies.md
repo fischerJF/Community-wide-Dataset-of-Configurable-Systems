@@ -10,6 +10,9 @@
 
 3-2. [source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/companies)
 
+3-3 [Test suite](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/companies/src/tests)
+
+
 4. [Faults Found](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/failuresFound/)
 
 
