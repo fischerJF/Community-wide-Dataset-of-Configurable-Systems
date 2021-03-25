@@ -1,5 +1,7 @@
 # checkstyle
 
+![image](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/featureModel/check.jpg)
+
 1. Feature Model: [Guidsl](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/checkstyle/modified-model.m) - [XML](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/checkstyle/model.xml)
 
 2. [Metrics](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/metrics/checkstyle.csv)
