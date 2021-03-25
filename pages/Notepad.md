@@ -9,6 +9,8 @@
 
 3-2. [Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/Notepad-FH-Java)
 
+3-3. [Test suite](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/Notepad/src/testset)
+
 4. Failures found
 
 5-1. [Configurations Recommended by baseline 1](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/All_valid_conf/Notepad)
