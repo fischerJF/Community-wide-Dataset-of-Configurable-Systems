@@ -8,7 +8,9 @@
  
 3-1. [Source code with muntants](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/dataset_with_mutant/chess)
 
-3. [Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing)
+3-2. [Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing)
+
+3-3 [Test suite](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/Chess/src/testset)
 
 4. [Failures found](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/failuresFound)
 
