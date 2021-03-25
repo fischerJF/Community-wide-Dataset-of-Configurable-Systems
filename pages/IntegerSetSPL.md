@@ -48,3 +48,5 @@
 5-17. Configurations Recommended by YASA_T3 (no work)
 
 5-18. Configurations Recommended by YASA_T4 (no work)
+
+6. [Run the experiment](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/Set/src/experiment/Sampling.java)
