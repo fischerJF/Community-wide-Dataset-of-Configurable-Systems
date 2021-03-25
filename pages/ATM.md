@@ -6,11 +6,11 @@
 
 2. [Metrics](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/metrics/ATM.csv)
 
-2-1. [Source code with muntants](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/ATM)
+3-1. [Source code with muntants](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/ATM)
 
-2-2. [Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/ATM)
+3-2. [Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/ATM)
 
-2-3 [Test suite](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/ATM/src/testset)
+3-3 [Test suite](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/ATM/src/testset)
 
 4. [Faults Found](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/failuresFound/ATM)
 
