@@ -48,3 +48,5 @@
 5-17. [Configurations Recommended by YASA_T3](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T3/Companies/)
 
 5-18. [Configurations Recommended by YASA_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T4/Companies/)
+
+6. [Run the experiment](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/companies/src/experiment/Challenge.java)
