@@ -20,7 +20,7 @@
 
 5-5. [Configurations Recommended by Chvatal_T3](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/Chvatal_T3/checkstyle)
 
-5-6. [Configurations Recommended by Chvatal_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/Chvatal_T4/checkstyle)
+5-6. Configurations Recommended by Chvatal_T4 (no work)
 
 5-7. [Configurations Recommended by ICPL_T1](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/ICPL_T1/checkstyle)
 
@@ -36,7 +36,7 @@
 
 5-13. [Configurations Recommended by CASA_T3](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/CASA_T3/checkstyle/)
 
-5-14. [Configurations Recommended by CASA_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/CASA_T4/checkstyle/)
+5-14. Configurations Recommended by CASA_T4 (no work)
 
 5-15. [Configurations Recommended by YASA_T1](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T1/checkstyle/)
 
