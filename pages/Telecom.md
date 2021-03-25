@@ -22,7 +22,7 @@
 
 5-5. [Configurations Recommended by Chvatal_T3](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/Chvatal_T3/Telecom)
 
-5-6. [Configurations Recommended by Chvatal_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/Chvatal_T4/Telecom)
+5-6. Configurations Recommended by Chvatal_T4 (no work)
 
 5-7. [Configurations Recommended by ICPL_T1](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/ICPL_T1/Telecom)
 
@@ -38,12 +38,12 @@
 
 5-13. [Configurations Recommended by CASA_T3](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/CASA_T3/Telecon/)
 
-5-14. [Configurations Recommended by CASA_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/CASA_T4/Telecon/)
+5-14. Configurations Recommended by CASA_T4 (no work)
 
 5-15. [Configurations Recommended by YASA_T1](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T1/Telecon/)
 
 5-16. [Configurations Recommended by YASA_T2](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T2/Telecon/)
 
-5-17. [Configurations Recommended by YASA_T3](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T3/Telecon/)
+5-17. Configurations Recommended by YASA_T3 (no work)
 
-5-18. [Configurations Recommended by YASA_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T4/Telecon/)
+5-18. Configurations Recommended by YASA_T4 (no work)
