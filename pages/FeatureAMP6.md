@@ -1,6 +1,6 @@
 # FeatureAMP6
 
-![image](https://raw.githubusercontent.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/master/featureModel/FeatureAMP6.JPG)
+![image](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/featureModel/FeatureAMP6.jpg)
 
 1. Feature Model: [Guidsl](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/FeatureAMP6/modified-model.m) - [XML](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/FeatureAMP6/model.xml)
 
