@@ -47,3 +47,5 @@
 5-17. [Configurations Recommended by YASA_T3](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T3/Prop4j/)
 
 5-18. [Configurations Recommended by YASA_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T4/Prop4j)
+
+6. [Run the experiment](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/Prop4J-SPL/src/main/java/experiment/Sampling.java)
