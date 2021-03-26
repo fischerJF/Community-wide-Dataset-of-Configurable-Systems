@@ -8,7 +8,9 @@
  
 3-1.[Source code with muntants](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/dataset_with_mutant/Prop4J-SPL)
 
-3-2.[Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/Prop4J-SPL) 
+3-2.[Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/Prop4J-SPL)
+
+3-3. [Test suite](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/Prop4J-SPL/src/main/java/testset)
 
 4. Failures found
 
