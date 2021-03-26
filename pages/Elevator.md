@@ -52,3 +52,10 @@
 
 6. [Run the experiment](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/Elevator/src/experiment/Sampling.java)
 
+
+Reference:
+
+Meinicke, J., Thüm, T., Schröter, R., Benduhn, F., Saake, G., 2014. An Overview on Analysis Tools for Software Product Lines , in:
+18th Proceedings of the International Software Product Line Conference: Companion Volume forWorkshops, Demonstrations and Tools
+(SPLC), pp. 94–101.
+
