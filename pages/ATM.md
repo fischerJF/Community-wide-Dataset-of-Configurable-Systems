@@ -52,6 +52,10 @@
 
 6. [Run the experiment](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/ATM/src/experiment/Sampling.java)
 
-Reference: Santos, A., Alves, P., Figueiredo, E., Ferrari, F., 2016. Avoiding Code Pitfalls in Aspect-oriented Programming. Science of Computer Programming
+
+
+Reference: 
+
+Santos, A., Alves, P., Figueiredo, E., Ferrari, F., 2016. Avoiding Code Pitfalls in Aspect-oriented Programming. Science of Computer Programming
 (SCP) 119, 31–50.
 
