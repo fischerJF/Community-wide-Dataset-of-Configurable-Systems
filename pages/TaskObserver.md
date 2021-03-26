@@ -51,3 +51,9 @@
 5-18. [Configurations Recommended by YASA_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T4/Task/)
 
 6. [Run the experiment](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/Task/src/experiment/Sampling.java)
+
+
+Reference: 
+
+Santos, A., Alves, P., Figueiredo, E., Ferrari, F., 2016. Avoiding Code Pitfalls in Aspect-oriented Programming. Science of Computer Programming
+(SCP) 119, 31–50.
