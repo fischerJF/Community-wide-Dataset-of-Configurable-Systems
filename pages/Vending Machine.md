@@ -10,6 +10,8 @@
  
 3-2. [Evaluation](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/vending)
 
+3-3. [Test suite](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/vending/src/vending)
+
 4. Faults Found
 
 5-1. [Configurations Recommended by baseline 1](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/All_valid_conf/VendingMachine)
