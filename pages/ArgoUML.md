@@ -10,7 +10,7 @@
 
 3-2. [Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/argouml-spl-master)
 
-3-3. [Test suite]](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/argouml-spl-master/src)
+3-3. [Test suite](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/argouml-spl-master/src)
 
 4. Faults Found
 
