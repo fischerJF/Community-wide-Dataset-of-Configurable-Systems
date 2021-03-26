@@ -4,13 +4,15 @@
 
 1. Feature Model: [Guidsl](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/sudoku/modified-model.m) - [XML](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/sudoku/model.xml)
 
-2.[Metrics](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/metrics/Sudoku.csv)
+2. [Metrics](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/metrics/Sudoku.csv)
 
-3-1.[Source code with muntants](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/dataset_with_mutant/sudoku)
+3-1. [Source code with muntants](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/dataset_with_mutant/sudoku)
 
-3-2.[Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/sudoku)
+3-2. [Source code](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/sudoku)
 
-4.[Failures found](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/failuresFound/)
+3-3. [Test suite](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/tree/master/workspace_IncLing/sudoku/src/tests)
+
+4. [Failures found](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/failuresFound/)
 
 5-1. [Configurations Recommended by baseline 1](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/All_valid_conf/sudoku)
 
