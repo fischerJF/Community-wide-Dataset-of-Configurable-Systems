@@ -49,3 +49,9 @@
 5-18. [Configurations Recommended by YASA_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T4/checkstyle/)
 
 6. [Run the experiment](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/checkstyle/src/experiment/Challenge.java)
+
+
+Reference:
+
+Wong, C., Meinicke, J., Lazarek, L., Kästner, C., 2018. Faster Variational Execution with Transparent Bytecode Transformation. Proceedings
+of the ACM on Programming Languages (OOPSLA). 
