@@ -16,30 +16,23 @@ All other configurable systems in our dataset follow the same structure.
 1. Feature Model: We provide the feature model in two different
 file formats: Guidsl and XML.
 
-2. Metrics: We provide a set of 14 metrics to characterize the
-dataset systems. We make these metrics available in a CSV
-file. Each line of the file indicates a class of the configurable
-system, and the columns indicate the metrics. few examples
-of the available metrics are: i) CBO (Coupling between objects):
-it counts the number of dependencies a class has; and
-ii) WMC (Weight Method Class): it counts the number of
-branch instructions in a class. Participants can choose to use
+2. Metrics: We provide a set of 14 metrics to characterize the dataset systems. We make these metrics available in a CSV
+file. Each line of the file indicates a class of the configurable system, and the columns indicate the metrics, few examples
+of the available metrics are: i) CBO (Coupling between objects): it counts the number of dependencies a class has; and
+ii) WMC (Weight Method Class): it counts the number of branch instructions in a class. Participants can choose to use
 these metrics in their strategies if they wish.
 
-3. Source Code: We provide the source code and test suite for
-each configurable system 5. These systems were encoded
-with the Java language using the variability encoding technique.
-Test approaches that prioritize test cases can choose a
-group of available test cases. However, new test cases should
-not be included in the challenge.
+3. Source Code: We provide the source code and test suite for each configurable system. These systems were encoded
+with the Java language using the variability encoding technique. Test approaches that prioritize test cases can choose a
+group of available test cases. 
+  3.1 Source code with mutants
+  3.2 Source code
+  3.3 Test suite
 
-4. Found Faults: We provide the found failures for the challenge
-systems 6. We present these faults in a CSV file that
-contains the configuration in which the fault occurred, the
-stack trace, and the test case that observed the failure.
+4. Found Faults: We provide the found faults. We present these faults in a CSV file that
+contains the configuration in which the fault occurred, the stack trace, and the test case that observed the fault.
 
-5. Analyzed Configurations: We provide the configurations that
-we run with for (baseline 1, baseline 2,  CASA, Chvatal, ICPL, IncLing, and YASA). 
+5. Analyzed Configurations: We provide the configurations that we run with for (baseline 1, baseline 2,  CASA, Chvatal, ICPL, IncLing, and YASA). 
 
 6. Run the experiment: We provide an infrastructure to run the test suite for each configuration analyzed.
 
