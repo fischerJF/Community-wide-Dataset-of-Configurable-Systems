@@ -1,5 +1,5 @@
 # Notepad
-![image](https://raw.githubusercontent.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/master/featureModel/notepad.JPG)
+![image](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/featureModel/notepad.JPG)
 
 1. Feature Model: [Guidsl](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/Notepad/modified-model.m) - [XML](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/Notepad/model.xml)
 
