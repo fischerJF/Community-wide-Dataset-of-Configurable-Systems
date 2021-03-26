@@ -50,5 +50,6 @@
 
 
 Reference:
+
 Couto, M.V., Valente, M.T., Figueiredo, E., 2011. Extracting Software Product Lines: A Case Study Using Conditional Compilation,
 in: 15th European Conference on Software Maintenance and Reengineering (CSMR), pp. 191–200.
