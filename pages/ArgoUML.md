@@ -47,3 +47,8 @@
 5-17. [Configurations Recommended by YASA_T3](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T3/ArgoUML/)
 
 5-18. [Configurations Recommended by YASA_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T4/ArgoUML/)
+
+
+Reference:
+Couto, M.V., Valente, M.T., Figueiredo, E., 2011. Extracting Software Product Lines: A Case Study Using Conditional Compilation,
+in: 15th European Conference on Software Maintenance and Reengineering (CSMR), pp. 191–200.
