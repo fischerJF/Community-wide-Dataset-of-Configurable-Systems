@@ -51,3 +51,9 @@
 5-18. [Configurations Recommended by YASA_T4](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/Tools/YASA_T4/VendingMachine/)
 
 6. [Run the experiment](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/vending/src/experiment/Sampling.java)
+
+
+Reference:
+
+Martinez, J., Assunção, W.K., Ziadi, T., 2017. ESPLA: A Catalog of Extractive SPL Adoption Case Studies, in: In 21st International
+Systems and Software Product Line Conference (SPLC), pp. 38–41.
