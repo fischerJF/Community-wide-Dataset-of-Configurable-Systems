@@ -25,8 +25,11 @@ these metrics in their strategies if they wish.
 3. Source Code: We provide the source code and test suite for each configurable system. These systems were encoded
 with the Java language using the variability encoding technique. Test approaches that prioritize test cases can choose a
 group of available test cases. 
+  
   3.1 Source code with mutants
+  
   3.2 Source code
+  
   3.3 Test suite
 
 4. Found Faults: We provide the found faults. We present these faults in a CSV file that
