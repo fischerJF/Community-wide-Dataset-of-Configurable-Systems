@@ -53,3 +53,9 @@
 
 6. [Run the experiment](https://github.com/fischerJF/Community-wide-Dataset-of-Configurable-Systems/blob/master/workspace_IncLing/GPL/src/experiment/Sampling.java)
 
+
+Reference:
+
+Souto, S., d’Amorim, M., Gheyi, R., 2017. Balancing Soundness and Efficiency for Practical Testing of Configurable Systems,  in: In 39th
+Proceedings of the International Conference on Software Engineering (ICSE), pp. 632–642.
+
