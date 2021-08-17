@@ -1,0 +1,8 @@
+nomeClasse,cbo_f,wmc_f,dit_f,noc_f,rfc_f,lcom_f,nom_f,nopm_f,nosm_f,nof_f,nopf_f,nosf_f,nosi_f,loc_f,featManipuladas,pontosVariabilidade,entrelacamento,classes,constructors,methods,LOCs,occurrences,FDT,quantFailures,porcfeature
+Paycard/CardException.java,0,1,3,0,0,0,1,1,0,0,0,0,0,5,1,1,1,6,5,16,339,5,1,3,50.0
+Paycard/ChargeUI.java,1,18,1,0,31,28,5,4,0,13,0,0,5,103,1,1,1,6,5,16,339,5,1,3,50.0
+Paycard/IssueCardUI.java,2,16,1,0,28,21,5,5,0,17,0,3,3,114,1,1,1,6,5,16,339,5,1,3,50.0
+Paycard/LogFile.java,1,5,1,0,1,0,2,2,0,3,0,1,0,28,1,1,1,3,2,5,94,3,2,2,33.33
+Paycard/LogRecord.java,1,6,1,0,0,2,4,4,0,4,0,1,0,37,1,1,1,3,2,5,94,3,2,2,33.33
+Paycard/PayCard.java,2,22,3,0,4,9,11,11,1,7,0,1,0,130,3,5,4,10,7,23,466,10,2,8,50.0
+Paycard/Start.java,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

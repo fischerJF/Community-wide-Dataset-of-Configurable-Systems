@@ -1,0 +1,290 @@
+Name,NTF,Scattering,Constructors,Methods,LoCs,VP,Tangling,DT_Max,DT_Min,NGOr_Max,NGXOr_Max,BF_Max,NO,NTop,NLeaf,NVCF,NomesFeatures
+ArgoUML/AbstractActionAddModelElement2.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/AbstractFilePersister.java,2,211,70,444,3311,761,4,2,2,0,0,0,2,0,2,X, ; LOGGING ; COGNITIVE
+ArgoUML/AbstractMessageNotationUml.java,2,218,71,439,3099,755,18,3,2,0,0,0,2,0,2,X, ; LOGGING ; COLLABORATIONDIAGRAM
+ArgoUML/AbstractSection.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionAddClassifierRoleBase.java,2,27,4,34,339,51,21,3,3,0,0,0,2,0,2,X, ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/ActionAddConcurrentRegion.java,2,217,69,440,3030,752,19,3,2,0,0,0,2,0,2,X, ; LOGGING ; STATEDIAGRAM
+ArgoUML/ActionAddDiagram.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionAddEventAsDeferrableEvent.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionAddEventAsTrigger.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionAddExtensionPoint.java,1,7,1,6,106,13,6,3,3,0,0,0,1,0,1,X, ; USECASEDIAGRAM
+ArgoUML/ActionAddMessagePredecessor.java,2,27,4,34,339,51,21,3,3,0,0,0,2,0,2,X, ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/ActionClassDiagram.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionCompartmentDisplay.java,1,7,1,6,106,13,6,3,3,0,0,0,1,0,1,X, ; USECASEDIAGRAM
+ArgoUML/ActionCreateEdgeModelElement.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionDeleteModelElements.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionDeploymentDiagram.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionExportProfileXMI.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionImportFromSources.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionNew.java,1,12,1,26,399,31,4,2,2,0,0,0,1,0,1,X, ; COGNITIVE
+ArgoUML/ActionNewAction.java,4,79,7,97,995,134,78,3,3,0,0,0,4,0,4,X, ; ACTIVITYDIAGRAM ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionNewCallEvent.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionNewChangeEvent.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionNewClassifierInState.java,1,34,3,41,538,61,38,3,3,0,0,0,1,0,1,X, ; ACTIVITYDIAGRAM
+ArgoUML/ActionNewCompositeState.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionNewDiagram.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionNewEntryCallAction.java,1,19,2,21,187,25,18,3,3,0,0,0,1,0,1,X, ; COLLABORATIONDIAGRAM
+ArgoUML/ActionNewEvent.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionNewFinalState.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionNewGuard.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionNewPseudoState.java,1,18,0,22,118,22,19,3,3,0,0,0,1,0,1,X, ; STATEDIAGRAM
+ArgoUML/ActionNewSimpleState.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionNewStubState.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionNewSubmachineState.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionNewSynchState.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionNewTimeEvent.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionNewTransition.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionRemoveClassifierRoleBase.java,2,27,4,34,339,51,21,3,3,0,0,0,2,0,2,X, ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/ActionSaveAllGraphics.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionSaveGraphics.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionSaveProject.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionSaveProjectAs.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionSequenceDiagram.java,1,19,2,21,187,25,18,3,3,0,0,0,1,0,1,X, ; COLLABORATIONDIAGRAM
+ArgoUML/ActionSetAssociationRoleBase.java,2,27,4,34,339,51,21,3,3,0,0,0,2,0,2,X, ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/ActionSetCompositeStateConcurrent.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionSetContextStateMachine.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionSetMode.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionSetRepresentedClassifierCollaboration.java,2,27,4,34,339,51,21,3,3,0,0,0,2,0,2,X, ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/ActionSetRepresentedOperationCollaboration.java,2,27,4,34,339,51,21,3,3,0,0,0,2,0,2,X, ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/ActionSetStubStateReferenceState.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionSetSubmachineStateSubmachine.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ActionSetSynch.java,1,34,3,41,538,61,38,3,3,0,0,0,1,0,1,X, ; ACTIVITYDIAGRAM
+ArgoUML/ActionSetTagDefinitionOwner.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionSetTagDefinitionType.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ActionUseCaseDiagram.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/Agency.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ApplicationVersion.java,1,12,1,26,399,31,4,2,2,0,0,0,1,0,1,X, ; COGNITIVE
+ArgoUML/Argo.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ArgoDiagramImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ArgoEventPump.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ArgoFacade.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ArgoFigGroup.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ArgoFrame.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ArgoParser.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/AwtExceptionHandler.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ButtonActionNewGuard.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ChildGenUML.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ClassDiagramGraphModel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ClassdiagramInheritanceEdge.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ClassdiagramLayouter.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ClassdiagramModelElementFactory.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ClassDiagramRenderer.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ClassGenerationDialog.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ClAttributeCompartment.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CollabDiagramGraphModel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CollabDiagramRenderer.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CollaborationsHelperMDRImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CompartmentFigText.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ComputeDesignMaterials.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ConfigurationFactory.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ConfigurationHandler.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ConfigurationProperties.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CoreFactoryMDRImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CoreHelperMDRImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CrCircularComposition.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CrCircularInheritance.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/Critic.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CriticBrowserDialog.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CrMultipleDeepHistoryStates.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CrMultipleInitialStates.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CrMultipleShallowHistoryStates.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/CrNodesOverlap.java,2,48,4,53,515,77,39,3,3,0,0,0,2,0,2,X, ; DEPLOYMENTDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/CrUML.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DataTypesFactoryMDRImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DefaultOclEvaluator.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DefaultUndoManager.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DeferredBufferedImage.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DeploymentDiagramGraphModel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DeploymentDiagramRenderer.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/Designer.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DetailsPane.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DiagramAppearance.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DiagramFactory.java,6,126,10,143,1464,198,120,3,3,0,0,0,6,0,6,X, ; ACTIVITYDIAGRAM ; COLLABORATIONDIAGRAM ; DEPLOYMENTDIAGRAM ; SEQUENCEDIAGRAM ; STATEDIAGRAM ; USECASEDIAGRAM
+ArgoUML/DiagramInterface.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DiagramMemberFilePersister.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DiagramNameDocument.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DiagramUndoManager.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DiagramUtils.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DismissToDoItemDialog.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DisplayTextTree.java,2,211,70,444,3311,761,4,2,2,0,0,0,2,0,2,X, ; LOGGING ; COGNITIVE
+ArgoUML/DnDExplorerTree.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/DnDJGraph.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ElementPropPanelFactory.java,1,7,1,6,106,13,6,3,3,0,0,0,1,0,1,X, ; USECASEDIAGRAM
+ArgoUML/EvaluateExpression.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ExplorerEventAdaptor.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ExplorerPopup.java,7,325,79,561,4376,928,120,3,2,0,0,0,7,0,7,X, ; LOGGING ; ACTIVITYDIAGRAM ; COLLABORATIONDIAGRAM ; DEPLOYMENTDIAGRAM ; SEQUENCEDIAGRAM ; STATEDIAGRAM ; USECASEDIAGRAM
+ArgoUML/ExplorerTreeModel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ExtensionMechanismsHelperMDRImpl.java,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,X,
+ArgoUML/FacadeMDRImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigAssociation.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigClassifierBoxWithAttributes.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigClassifierRole.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigComment.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigDataType.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigEdgeAssociationClass.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigEdgeModelElement.java,2,211,70,444,3311,761,4,2,2,0,0,0,2,0,2,X, ; LOGGING ; COGNITIVE
+ArgoUML/FigEdgeNote.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigEditableCompartment.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigFinalState.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigInterface.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigLifeLine.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigNodeModelElement.java,2,211,70,444,3311,761,4,2,2,0,0,0,2,0,2,X, ; LOGGING ; COGNITIVE
+ArgoUML/FigPackage.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigSingleLineText.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigStateVertex.java,1,18,0,22,118,22,19,3,3,0,0,0,1,0,1,X, ; STATEDIAGRAM
+ArgoUML/FigStereotypesGroup.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FigStubState.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/FileModelLoader.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/GeneratorManager.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/GoCollaborationToDiagram.java,1,8,2,13,152,26,3,3,3,0,0,0,1,0,1,X, ; SEQUENCEDIAGRAM
+ArgoUML/GoNamespaceToDiagram.java,1,18,0,22,118,22,19,3,3,0,0,0,1,0,1,X, ; STATEDIAGRAM
+ArgoUML/GoStateToDownstream.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/HelpBox.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ImportClassLoader.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ImportCommon.java,1,12,1,26,399,31,4,2,2,0,0,0,1,0,1,X, ; COGNITIVE
+ArgoUML/ImporterManager.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/InitProfileSubsystem.java,1,12,1,26,399,31,4,2,2,0,0,0,1,0,1,X, ; COGNITIVE
+ArgoUML/LanguageComboBox.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ListSet.java,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,X,
+ArgoUML/LoadSwingWorker.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/LookAndFeelMgr.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/Main.java,8,337,80,587,4775,959,124,3,2,0,0,0,8,0,8,X, ; LOGGING ; COGNITIVE ; ACTIVITYDIAGRAM ; COLLABORATIONDIAGRAM ; DEPLOYMENTDIAGRAM ; SEQUENCEDIAGRAM ; STATEDIAGRAM ; USECASEDIAGRAM
+ArgoUML/MDRModelImplementation.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/MemberList.java,2,211,70,444,3311,761,4,2,2,0,0,0,2,0,2,X, ; LOGGING ; COGNITIVE
+ArgoUML/ModeAddToDiagram.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ModeCreateAssociationClass.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ModeCreateGraphEdge.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ModeCreateMessage.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ModelAccessModelInterpreter.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ModelEventPumpMDRImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ModelManagementHelperMDRImpl.java,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,X,
+ArgoUML/ModelMemberFilePersister.java,3,251,72,481,3568,813,57,3,2,0,0,0,3,0,3,X, ; LOGGING ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/ModuleLoader2.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/MultiEditorPane.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/Notation.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/NotationComboBox.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/NotationProvider.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/NotationProviderFactory2.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/OldZargoFilePersister.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/OperationNotationJava.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/PathItemPlacement.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/PerspectiveConfigurator.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/PerspectiveManager.java,5,256,74,500,3768,834,44,3,2,0,0,0,5,0,5,X, ; LOGGING ; COGNITIVE ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM ; STATEDIAGRAM
+ArgoUML/PGMLStackParser.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/PrivateHandler.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ProfileCodeGeneration.java,1,40,2,40,363,51,36,3,3,0,0,0,1,0,1,X, ; DEPLOYMENTDIAGRAM
+ArgoUML/ProfileConfiguration.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ProfileConfigurationFilePersister.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ProfileGoodPractices.java,1,8,2,13,152,26,3,3,3,0,0,0,1,0,1,X, ; SEQUENCEDIAGRAM
+ArgoUML/ProfileLoader.java,2,211,70,444,3311,761,4,2,2,0,0,0,2,0,2,X, ; LOGGING ; COGNITIVE
+ArgoUML/ProfileManagerImpl.java,2,211,70,444,3311,761,4,2,2,0,0,0,2,0,2,X, ; LOGGING ; COGNITIVE
+ArgoUML/ProfileMeta.java,1,12,1,26,399,31,4,2,2,0,0,0,1,0,1,X, ; COGNITIVE
+ArgoUML/ProfileUML.java,1,12,1,26,399,31,4,2,2,0,0,0,1,0,1,X, ; COGNITIVE
+ArgoUML/ProjectBrowser.java,2,211,70,444,3311,761,4,2,2,0,0,0,2,0,2,X, ; LOGGING ; COGNITIVE
+ArgoUML/ProjectImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/PropPanel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/PropPanelClassifierInState.java,1,34,3,41,538,61,38,3,3,0,0,0,1,0,1,X, ; ACTIVITYDIAGRAM
+ArgoUML/PropPanelObjectFlowState.java,1,34,3,41,538,61,38,3,3,0,0,0,1,0,1,X, ; ACTIVITYDIAGRAM
+ArgoUML/PropPanelPartition.java,1,34,3,41,538,61,38,3,3,0,0,0,1,0,1,X, ; ACTIVITYDIAGRAM
+ArgoUML/PropPanelStimulus.java,2,27,4,34,339,51,21,3,3,0,0,0,2,0,2,X, ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/PropPanelSubmachineState.java,2,52,3,63,656,83,57,3,3,0,0,0,2,0,2,X, ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/PropPanelTagDefinition.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/PropPanelTransition.java,1,18,0,22,118,22,19,3,3,0,0,0,1,0,1,X, ; STATEDIAGRAM
+ArgoUML/ReaderModelLoader.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ResolvedCritic.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ResourceLoaderWrapper.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ResourceModelLoader.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/SaveGraphicsManager.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/SAXParserBase.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/SelectionActionState.java,1,34,3,41,538,61,38,3,3,0,0,0,1,0,1,X, ; ACTIVITYDIAGRAM
+ArgoUML/SelectionClass.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/SelectionGeneralizableElement.java,1,40,2,40,363,51,36,3,3,0,0,0,1,0,1,X, ; DEPLOYMENTDIAGRAM
+ArgoUML/SelectionNodeClarifiers2.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/SelectionStereotype.java,1,40,2,40,363,51,36,3,3,0,0,0,1,0,1,X, ; DEPLOYMENTDIAGRAM
+ArgoUML/SequenceDiagramGraphModel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/SequenceDiagramLayer.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/SequenceDiagramRenderer.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ShortcutMgr.java,8,337,80,587,4775,959,124,3,2,0,0,0,8,0,8,X, ; LOGGING ; COGNITIVE ; ACTIVITYDIAGRAM ; COLLABORATIONDIAGRAM ; DEPLOYMENTDIAGRAM ; SEQUENCEDIAGRAM ; STATEDIAGRAM ; USECASEDIAGRAM
+ArgoUML/SnoozeOrder.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/SourcePathTableModel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/StartBrowser.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/StartCritics.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/StateDiagramGraphModel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/StateDiagramRenderer.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/StateMachinesFactoryMDRImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/StateMachinesHelperMDRImpl.java,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,X,
+ArgoUML/StreamModelLoader.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/StylePanel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/StylePanelFig.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/SwingWorker.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TabChecklist.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TabConstraints.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TabDiagram.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TableModelCritics.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TabProps.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TabResults.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TabSrc.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TabStyle.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TabTaggedValues.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TabTaggedValuesModel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TabText.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TempFileUtils.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ToDoByDecision.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ToDoByGoal.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ToDoByOffender.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ToDoByPoster.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ToDoByPriority.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ToDoList.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ToDoPane.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TodoParser.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ToDoPerspective.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ToolBarUtility.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/Tools.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/TreeModelComposite.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLActivityDiagram.java,2,217,69,440,3030,752,19,3,2,0,0,0,2,0,2,X, ; LOGGING ; STATEDIAGRAM
+ArgoUML/UMLAssociationRoleBaseComboBoxModel.java,2,27,4,34,339,51,21,3,3,0,0,0,2,0,2,X, ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/UMLChangeExpressionModel.java,2,217,69,440,3030,752,19,3,2,0,0,0,2,0,2,X, ; LOGGING ; STATEDIAGRAM
+ArgoUML/UMLCheckItem.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLClassDiagram.java,2,206,70,424,3018,743,6,3,2,0,0,0,2,0,2,X, ; LOGGING ; USECASEDIAGRAM
+ArgoUML/UMLClassifierRoleAvailableContentsListModel.java,2,27,4,34,339,51,21,3,3,0,0,0,2,0,2,X, ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/UMLClassifierRoleAvailableFeaturesListModel.java,2,27,4,34,339,51,21,3,3,0,0,0,2,0,2,X, ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/UMLCollaborationDiagram.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLComboBoxModel2.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLDeploymentDiagram.java,2,206,70,424,3018,743,6,3,2,0,0,0,2,0,2,X, ; LOGGING ; USECASEDIAGRAM
+ArgoUML/UMLDiagram.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UmlDiagramRenderer.java,5,118,8,130,1312,172,117,3,3,0,0,0,5,0,5,X, ; ACTIVITYDIAGRAM ; COLLABORATIONDIAGRAM ; DEPLOYMENTDIAGRAM ; STATEDIAGRAM ; USECASEDIAGRAM
+ArgoUML/UMLExpressionBodyField.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLExpressionExpressionModel.java,1,18,0,22,118,22,19,3,3,0,0,0,1,0,1,X, ; STATEDIAGRAM
+ArgoUML/UmlFactoryMDRImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UmlFilePersister.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLList2.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLMessageActivatorComboBox.java,2,27,4,34,339,51,21,3,3,0,0,0,2,0,2,X, ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/UMLMessageActivatorComboBoxModel.java,2,27,4,34,339,51,21,3,3,0,0,0,2,0,2,X, ; COLLABORATIONDIAGRAM ; SEQUENCEDIAGRAM
+ArgoUML/UMLModelElementListModel2.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLMutableGraphSupport.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLMutableLinkedList.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLPlainTextDocument.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLRecurrenceExpressionModel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLStateDiagram.java,2,233,72,459,3450,791,38,3,2,0,0,0,2,0,2,X, ; LOGGING ; ACTIVITYDIAGRAM
+ArgoUML/UMLTagDefinitionComboBoxModel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UMLTimeExpressionModel.java,3,251,72,481,3568,813,57,3,2,0,0,0,3,0,3,X, ; LOGGING ; ACTIVITYDIAGRAM ; STATEDIAGRAM
+ArgoUML/UseCaseDiagramGraphModel.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/UseCasesHelperMDRImpl.java,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,X,
+ArgoUML/UserDefinedProfile.java,2,211,70,444,3311,761,4,2,2,0,0,0,2,0,2,X, ; LOGGING ; COGNITIVE
+ArgoUML/WizAssocComposite.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/WizBreakCircularComp.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/WizDescription.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/WizManyNames.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/WizMEName.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/WizNavigable.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/WizOperName.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/XmiFilePersister.java,2,211,70,444,3311,761,4,2,2,0,0,0,2,0,2,X, ; LOGGING ; COGNITIVE
+ArgoUML/XmiHeaderProviderImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/XmiReaderImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/XmiReferenceResolverImpl.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/XmlInputStream.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/XMLTokenTableBase.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ZargoFilePersister.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ZipFilePersister.java,1,199,69,418,2912,730,0,2,2,0,0,0,1,0,1,X, ; LOGGING
+ArgoUML/ZipModelLoader.java,,,,,,,,,,,,,,,,, ; LOGGING

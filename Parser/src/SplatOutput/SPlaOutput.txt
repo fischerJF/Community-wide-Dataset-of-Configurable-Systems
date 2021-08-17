@@ -1,0 +1,471 @@
+# parameters:
+#  testclass = tests.TestAll
+#  logfile = C:\Users\Fischer_PC\Documents\2019_CSS_Journal\Workspace_SSplat_Journal_2019sudoku_one_disabled.txt
+#  shouldsample = true
+#  samplerate = 1
+#  seed = 95729
+#  validate = true
+# features:
+#  BASE___ = 1
+#  STATES___ = 2
+#  UNDO___ = 3
+#  COLOR___ = 4
+#  SOLVER___ = 5
+#  GENERATOR___ = 6
+#  EXTENDEDSUDOKU___ = 7
+testname: tests.BoardManagerTest:setPossibilitiesTest Qui, 5 dez 2019 18:59:00 -0200
+1,1,?,?,?,?,0,P
+--->7957300msec
+1,0,?,?,?,?,1,P
+--->8428200msec
+testname: tests.BoardManagerTest:trySetFieldPrivateTest Qui, 5 dez 2019 18:59:00 -0200
+1,1,?,1,0,?,?,P
+--->17997800msec
+testname: tests.BoardManagerTest:saveLoadStateTest Qui, 5 dez 2019 18:59:00 -0200
+1,1,?,1,0,?,?,P
+--->12079300msec
+1,1,?,0,1,?,?,P
+--->13866000msec
+1,0,?,?,?,?,?,P
+--->3331800msec
+testname: tests.BoardManagerTest:preLoadWrapper Qui, 5 dez 2019 18:59:00 -0200
+1,1,?,1,0,?,?,P
+--->10573800msec
+1,1,?,0,1,?,?,P
+--->13330500msec
+1,0,?,?,?,?,?,P
+--->2784400msec
+testname: tests.BoardManagerTest:getBoardTest Qui, 5 dez 2019 18:59:00 -0200
+1,1,?,1,0,?,?,P
+--->7942900msec
+1,1,?,0,1,?,?,P
+--->7513500msec
+testname: tests.BoardManagerTest:setBoardTest Qui, 5 dez 2019 18:59:00 -0200
+1,1,?,1,0,?,?,P
+--->8184500msec
+1,1,?,0,1,?,?,P
+--->7833900msec
+testname: tests.BoardManagerTest:undoTest Qui, 5 dez 2019 18:59:00 -0200
+1,1,1,1,0,?,?,P
+--->9392900msec
+1,1,1,0,1,?,?,P
+--->8970300msec
+1,1,0,?,?,?,?,P
+--->5569200msec
+testname: tests.BoardManagerTest:loadSudokuTest Qui, 5 dez 2019 18:59:00 -0200
+1,1,?,0,1,1,?,P
+--->11777900msec
+1,1,?,?,?,0,?,P
+--->5170100msec
+testname: tests.BoardManagerTest:loadFileTest Qui, 5 dez 2019 18:59:00 -0200
+1,1,?,1,0,?,?,P
+--->11494400msec
+1,1,?,0,1,?,?,P
+--->6610700msec
+testname: tests.BoardManagerTest:tryLoadFileTest Qui, 5 dez 2019 18:59:00 -0200
+1,1,?,0,1,?,?,F
+> stack-trace (for config above)
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.BoardManagerTest.tryLoadFileTest(BoardManagerTest.java:149)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:69)
+< end stack-trace
+--->9319300msec
+1,1,?,?,0,?,?,P
+--->5371800msec
+testname: tests.BoardManagerTest:boardManagerTest Qui, 5 dez 2019 18:59:00 -0200
+1,0,?,?,?,?,?,P
+--->2187300msec
+testname: tests.BoardManagerTest:trySetFieldTest Qui, 5 dez 2019 18:59:00 -0200
+1,1,?,?,0,?,?,P
+--->4709200msec
+testname: tests.BoardTest:removeValueFromStructuresTest Qui, 5 dez 2019 18:59:00 -0200
+1,?,?,1,0,?,?,P
+--->4780600msec
+1,?,?,0,1,?,?,P
+--->4397200msec
+testname: tests.BoardTest:getStructureIndexTest Qui, 5 dez 2019 18:59:01 -0200
+1,?,?,1,0,?,?,P
+--->4293800msec
+1,?,?,0,1,?,?,P
+--->5721400msec
+testname: tests.BoardTest:getRelatedFieldIndicesTest Qui, 5 dez 2019 18:59:01 -0200
+1,?,?,1,0,?,?,P
+--->4990800msec
+1,?,?,0,1,?,?,P
+--->4149200msec
+testname: tests.BoardTest:isSolvedTest Qui, 5 dez 2019 18:59:01 -0200
+1,?,?,1,0,?,?,P
+--->4091700msec
+1,1,?,0,1,?,?,P
+--->9815100msec
+testname: tests.BoardTest:cloneTest Qui, 5 dez 2019 18:59:01 -0200
+1,1,?,1,0,?,?,P
+--->8359900msec
+1,1,?,0,1,?,?,P
+--->6667900msec
+testname: tests.BoardTest:trySetFieldTest Qui, 5 dez 2019 18:59:01 -0200
+1,?,?,1,0,?,?,P
+--->4579200msec
+1,?,?,0,1,?,?,P
+--->4003100msec
+testname: tests.FieldTest:getRemainingPosTest Qui, 5 dez 2019 18:59:01 -0200
+1,?,?,1,0,?,?,P
+--->4403900msec
+1,?,?,0,1,?,?,P
+--->5587100msec
+testname: tests.FieldTest:field_Test Qui, 5 dez 2019 18:59:01 -0200
+1,?,?,1,0,?,?,P
+--->7287300msec
+1,?,?,0,1,?,?,P
+--->10145100msec
+testname: tests.FieldTest:toStringTest Qui, 5 dez 2019 18:59:01 -0200
+1,?,?,1,0,?,?,P
+--->9107100msec
+1,?,?,0,1,?,?,P
+--->13882900msec
+testname: tests.FieldTest:isInitialSetTest Qui, 5 dez 2019 18:59:01 -0200
+1,?,?,1,1,0,?,P
+--->12719800msec
+1,?,?,0,1,1,?,P
+--->16424700msec
+testname: tests.FieldTest:cloneTest Qui, 5 dez 2019 18:59:01 -0200
+1,?,?,1,0,?,?,P
+--->5773500msec
+1,?,?,0,1,?,?,P
+--->6588900msec
+testname: tests.FieldTest:stateCloneTest Qui, 5 dez 2019 18:59:01 -0200
+1,1,?,1,0,?,?,F
+> stack-trace (for config above)
+java.lang.AssertionError: expected null, but was:<null>
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.failNotNull(Assert.java:664)
+	at org.junit.Assert.assertNull(Assert.java:646)
+	at org.junit.Assert.assertNull(Assert.java:656)
+	at tests.FieldTest.stateCloneTest(FieldTest.java:130)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:69)
+< end stack-trace
+--->12326600msec
+1,1,?,0,1,?,?,F
+> stack-trace (for config above)
+java.lang.AssertionError: expected null, but was:<{12345}>
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.failNotNull(Assert.java:664)
+	at org.junit.Assert.assertNull(Assert.java:646)
+	at org.junit.Assert.assertNull(Assert.java:656)
+	at tests.FieldTest.stateCloneTest(FieldTest.java:130)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:69)
+< end stack-trace
+--->8070000msec
+testname: tests.FieldTest:fieldTest Qui, 5 dez 2019 18:59:01 -0200
+1,?,?,1,0,?,?,P
+--->5318100msec
+1,?,?,0,1,?,?,P
+--->4854100msec
+testname: tests.SudokuFacadeTest:getBoardTest Qui, 5 dez 2019 18:59:01 -0200
+1,1,?,0,1,1,?,P
+--->11352100msec
+1,1,?,1,1,0,?,P
+--->12386000msec
+testname: tests.SudokuFacadeTest:loadStateTest Qui, 5 dez 2019 18:59:01 -0200
+1,1,?,?,?,0,?,P
+--->5846400msec
+testname: tests.SudokuFacadeTest:saveStateTest Qui, 5 dez 2019 18:59:01 -0200
+1,1,?,0,1,1,?,P
+--->16404800msec
+1,1,?,1,1,0,?,P
+--->18012900msec
+testname: tests.SudokuFacadeTest:undoTestTest Qui, 5 dez 2019 18:59:01 -0200
+1,1,1,0,1,1,?,P
+--->10291300msec
+1,1,1,1,1,0,?,P
+--->10758500msec
+testname: tests.SudokuFacadeTest:getsGenTest Qui, 5 dez 2019 18:59:01 -0200
+1,1,?,?,?,0,?,P
+--->5749200msec
+testname: tests.SudokuGeneratorTest:generateTest Qui, 5 dez 2019 18:59:01 -0200
+1,1,?,0,1,1,?,F
+> stack-trace (for config above)
+java.lang.ArrayIndexOutOfBoundsException: 43
+	at main.Board.getField(Board.java:48)
+	at main.BoardManager.getField(BoardManager.java:128)
+	at main.SudokuGenerator.fillBoard(SudokuGenerator.java:31)
+	at main.SudokuGenerator.generate(SudokuGenerator.java:13)
+	at tests.SudokuGeneratorTest.generateTest(SudokuGeneratorTest.java:38)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:69)
+< end stack-trace
+--->9119700msec
+1,?,?,?,?,0,?,P
+--->2192500msec
+testname: tests.SudokuGeneratorTest:fillBoardTest Qui, 5 dez 2019 18:59:01 -0200
+1,1,?,0,1,1,?,F
+> stack-trace (for config above)
+java.lang.ArrayIndexOutOfBoundsException: 25
+	at main.Board.setField(Board.java:72)
+	at main.BoardManager.setFieldPrivate(BoardManager.java:94)
+	at main.BoardManager.loadFile(BoardManager.java:64)
+	at main.SudokuFacade.loadFile(SudokuFacade.java:38)
+	at tests.SudokuGeneratorTest.fillBoardTest(SudokuGeneratorTest.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:69)
+< end stack-trace
+--->8157800msec
+1,?,?,?,?,0,?,P
+--->1866800msec
+testname: tests.TestMAB:test03 Qui, 5 dez 2019 18:59:01 -0200
+1,1,?,?,?,?,0,P
+--->6410400msec
+1,0,?,?,?,?,?,P
+--->2836000msec
+testname: tests.TestMAB:test01 Qui, 5 dez 2019 18:59:01 -0200
+1,1,?,0,1,1,?,F
+> stack-trace (for config above)
+java.lang.ArrayIndexOutOfBoundsException: 26
+	at main.Board.setField(Board.java:72)
+	at main.BoardManager.setFieldPrivate(BoardManager.java:94)
+	at main.BoardManager.loadFile(BoardManager.java:64)
+	at main.SudokuFacade.loadFile(SudokuFacade.java:38)
+	at tests.TestMAB.test01(TestMAB.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:69)
+< end stack-trace
+--->9028100msec
+1,1,?,1,1,0,?,F
+> stack-trace (for config above)
+java.lang.ArrayIndexOutOfBoundsException: 26
+	at main.Board.setField(Board.java:72)
+	at main.BoardManager.setFieldPrivate(BoardManager.java:94)
+	at main.BoardManager.loadFile(BoardManager.java:64)
+	at main.SudokuFacade.loadFile(SudokuFacade.java:38)
+	at tests.TestMAB.test01(TestMAB.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:69)
+< end stack-trace
+--->12966800msec
+1,?,?,?,0,?,?,P
+--->3139500msec
+testname: tests.TestMain:testWorstScenario Qui, 5 dez 2019 18:59:02 -0200
+1,1,1,0,1,1,1,F
+> stack-trace (for config above)
+java.lang.ArrayIndexOutOfBoundsException: 36
+	at main.Board.setField(Board.java:72)
+	at main.SudokuFacade.setField(SudokuFacade.java:28)
+	at tests.TestMain.testWorstScenario(TestMain.java:84)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:69)
+< end stack-trace
+--->33129700msec
+1,1,1,1,1,1,0,P
+--->48113100msec
+1,1,1,1,1,0,1,F
+> stack-trace (for config above)
+java.lang.ArrayIndexOutOfBoundsException: 36
+	at main.Board.setField(Board.java:72)
+	at main.SudokuFacade.setField(SudokuFacade.java:28)
+	at tests.TestMain.testWorstScenario(TestMain.java:84)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:69)
+< end stack-trace
+--->34375600msec
+1,1,?,?,0,?,?,P
+--->6078500msec
+1,0,?,?,?,?,?,P
+--->5075300msec

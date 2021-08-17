@@ -1,0 +1,509 @@
+Linha: 27 		if (specifications.Configuration.gui) {
+quantidade de linhas da feature: 1
+Linha: 41 		if (specifications.Configuration.gui) {
+quantidade de linhas da feature: 10
+		Somatorio local:2  Somatorio total:2
+Linha: 90 		if (specifications.Configuration.gui) {
+quantidade de linhas da feature: 3
+Linha: 166 			if (specifications.Configuration.gui) {
+quantidade de linhas da feature: 2
+		Somatorio local:2  Somatorio total:4
+Linha: 55 		if (specifications.Configuration.gui) {
+quantidade de linhas da feature: 4
+		Somatorio local:1  Somatorio total:5
+Linha: 80 		if (Configuration.gui) {
+quantidade de linhas da feature: 13
+Linha: 119 		if (!specifications.Configuration.mp3) {
+quantidade de linhas da feature: 2
+Linha: 128 		if (!specifications.Configuration.ogg) {
+quantidade de linhas da feature: 2
+Linha: 256 		if (!specifications.Configuration.progressbar) {
+quantidade de linhas da feature: 2
+Linha: 268 		if (!specifications.Configuration.showcover) {
+quantidade de linhas da feature: 2
+Linha: 282 		if (!specifications.Configuration.playlist) {
+quantidade de linhas da feature: 2
+Linha: 307 		if (!specifications.Configuration.loadfolder) {
+quantidade de linhas da feature: 2
+Linha: 324 		if (!specifications.Configuration.skiptrack) {
+quantidade de linhas da feature: 2
+Linha: 355 		if (!specifications.Configuration.shufflerepeat) {
+quantidade de linhas da feature: 2
+Linha: 398 		if (!specifications.Configuration.removetrack) {
+quantidade de linhas da feature: 2
+Linha: 432 		if (!specifications.Configuration.clearplaylist) {
+quantidade de linhas da feature: 2
+Linha: 460 		if (!specifications.Configuration.reorderplaylist) {
+quantidade de linhas da feature: 2
+Linha: 506 		if (!specifications.Configuration.saveandloadplaylist) {
+quantidade de linhas da feature: 2
+Linha: 533 		if (!specifications.Configuration.queuetrack) {
+quantidade de linhas da feature: 2
+Linha: 607 		if (!specifications.Configuration.volumecontrol) {
+quantidade de linhas da feature: 2
+Linha: 619 		if (!specifications.Configuration.mute) {
+quantidade de linhas da feature: 2
+Linha: 644 		if (!specifications.Configuration.lightskin) {
+quantidade de linhas da feature: 2
+Linha: 660 		if (!specifications.Configuration.darkskin) {
+quantidade de linhas da feature: 2
+Linha: 679 		if (!specifications.Configuration.showcover) {
+quantidade de linhas da feature: 2FeatureAMP2/DefaultFrame.java
+
+			metodo: 	public DefaultFrame() {
+			metodo: 	public DefaultFrame(float xDist, float yDist) {
+			metodo: 	public void setVisible(boolean b) {
+			metodo: 	public void pack() {
+			metodo: 	private void autoLocation() {
+
+
+
+******** FeatureAMP2/DefaultFrame.java: 	 Methods With Feature Annotation : 2
+******** FeatureAMP2/DefaultFrame.java: 	 LOC_InsideFeatures: 11
+
+
+
+FeatureAMP2/DefaultLayout.java
+			metodo: 	public DefaultLayout(Container host) {
+			metodo: 	public ContentContainer newContentContainer(View view) {
+			metodo: 	public void setContentContainer(ContentContainer cc) {
+			metodo: 	public void setAutoCreateContainerGaps(boolean autoCreateContainerPadding) {
+			metodo: 	public void setAutoCreateGaps(boolean autoCreateGaps) {
+			metodo: 		private ContentContainer(Group h, Group v) {
+			metodo: 		public ContentContainer addContentContainers(ContentContainer... cc) {
+			metodo: 		public ContentContainer addComponents(Component... comps) {
+			metodo: 		public ContentContainer addGap(int size) {
+			metodo: 		public ContentContainer addAutoGap() {
+			metodo: 		public ContentContainer addGap(int min, int pref, int max) {
+			metodo: 	public enum View {
+
+
+
+******** FeatureAMP2/DefaultLayout.java: 	 Methods With Feature Annotation : 2
+******** FeatureAMP2/DefaultLayout.java: 	 LOC_InsideFeatures: 5
+
+
+
+FeatureAMP2/DefaultPanel.java
+			metodo: 	public static DefaultPanel createInstance(View orientation, boolean autoGapBefore, boolean autoGapAfter,
+			metodo: 	public DefaultPanel(View viewOrientation) {
+			metodo: 	public void addComponents(Component... comp) {
+			metodo: 	public void addGap(int size) {
+			metodo: 	public void addAutoGap() {
+			metodo: 	public void addGap(int min, int pref, int max) {
+
+
+
+******** FeatureAMP2/DefaultPanel.java: 	 Methods With Feature Annotation : 1
+******** FeatureAMP2/DefaultPanel.java: 	 LOC_InsideFeatures: 4
+
+
+
+FeatureAMP2/GUI.java
+			metodo: 	public GUI() {
+			metodo: 	private void initPlayers__wrappee__GUI() {
+			metodo: 	private void initPlayers__wrappee__mp3() {
+			metodo: 	public void initPlayers() {
+			metodo: 	private void init__wrappee__GUI() {
+			metodo: 			public TimerTask init(GUI gui) {
+			metodo: 			public void run() {
+			metodo: 	private void init__wrappee__ProgressBar() {
+			metodo: 	private void init__wrappee__ShowCover() {
+			metodo: 	private void init__wrappee__Playlist() {
+			metodo: 			public void mouseClicked(MouseEvent evt) {
+			metodo: 	private void init__wrappee__LoadFolder() {
+			metodo: 			public void actionPerformed(ActionEvent e) {
+			metodo: 	private void init__wrappee__SkipTrack() {
+			metodo: 			public void actionPerformed(ActionEvent arg0) {
+			metodo: 	private void init__wrappee__ShuffleRepeat() {
+			metodo: 			public void actionPerformed(ActionEvent arg0) {
+			metodo: 			public void actionPerformed(ActionEvent e) {
+			metodo: 	private void init__wrappee__RemoveTrack() {
+			metodo: 			public void actionPerformed(ActionEvent arg0) {
+			metodo: 	private void init__wrappee__ClearPlaylist() {
+			metodo: 			public void actionPerformed(ActionEvent e) {
+			metodo: 	private void init__wrappee__ReorderPlaylist() {
+			metodo: 			public void actionPerformed(ActionEvent arg0) {
+			metodo: 			public void actionPerformed(ActionEvent arg0) {
+			metodo: 	private void init__wrappee__SaveAndLoadPlaylist() {
+			metodo: 			public void actionPerformed(ActionEvent arg0) {
+			metodo: 			public void actionPerformed(ActionEvent e) {
+			metodo: 	private void init__wrappee__QueueTrack() {
+			metodo: 			public void actionPerformed(ActionEvent e) {
+			metodo: 			public void actionPerformed(ActionEvent arg0) {
+			metodo: 			public void actionPerformed(ActionEvent e) {
+			metodo: 	private void init__wrappee__VolumeControl() {
+			metodo: 	private void init__wrappee__Mute() {
+			metodo: 			public void actionPerformed(ActionEvent arg0) {
+			metodo: 	private void init__wrappee__LightSkin() {
+			metodo: 	public void init() {
+			metodo: 	private void addCover__wrappee__GUI() {
+			metodo: 	private void addCover() {
+			metodo: 	private void addProgress__wrappee__GUI() {
+			metodo: 	public void addProgress() {
+Linha: 691 		if (!specifications.Configuration.progressbar) {
+quantidade de linhas da feature: 2
+			metodo: 	private void stateChanged() {
+			metodo: 	private void addVolumeControl__wrappee__GUI() {
+			metodo: 	public void addVolumeControl() {
+Linha: 706 		if (!specifications.Configuration.volumecontrol) {
+quantidade de linhas da feature: 2
+			metodo: 	private void addMute__wrappee__GUI() {
+			metodo: 	public void addMute() {
+Linha: 719 		if (!specifications.Configuration.mute) {
+quantidade de linhas da feature: 2
+Linha: 731 		if (!specifications.Configuration.playlist) {
+quantidade de linhas da feature: 2
+Linha: 803 		if (!specifications.Configuration.progressbar) {
+quantidade de linhas da feature: 2
+Linha: 865 		if (!specifications.Configuration.playlist) {
+quantidade de linhas da feature: 2
+Linha: 940 		if (!specifications.Configuration.showtime) {
+quantidade de linhas da feature: 2
+Linha: 958 		if (!specifications.Configuration.progressbar) {
+quantidade de linhas da feature: 2
+Linha: 975 		if (!specifications.Configuration.showcover) {
+quantidade de linhas da feature: 2
+Linha: 987 		if (!specifications.Configuration.playlist) {
+			metodo: 	private void addPlaylist__wrappee__GUI() {
+			metodo: 	public void addPlaylist() {
+			metodo: 	private void initButtons() {
+			metodo: 			public void actionPerformed(ActionEvent e) {
+			metodo: 			public void actionPerformed(ActionEvent e) {
+			metodo: 			public void actionPerformed(ActionEvent e) {
+			metodo: 	private void playbackStopped__wrappee__GUI() {
+			metodo: 	public void playbackStopped() {
+			metodo: 	private void open__wrappee__GUI(Container parent, String filename) {
+			metodo: 	public void open(Container parent, String filename) {
+			metodo: 	private void updateGui__wrappee__GUI() {
+			metodo: 	private void updateGui__wrappee__ShowTime() {
+			metodo: 	private void updateGui__wrappee__ProgressBar() {
+			metodo: 	private void updateGui__wrappee__ShowCover() {
+			metodo: 	private void updateGui__wrappee__Playlist() {
+quantidade de linhas da feature: 2
+Linha: 1011 		if (!specifications.Configuration.queuetrack) {
+quantidade de linhas da feature: 2
+Linha: 1134 		if (!specifications.Configuration.skiptrack) {
+quantidade de linhas da feature: 2
+Linha: 1143 		if (!specifications.Configuration.shufflerepeat) {
+quantidade de linhas da feature: 2
+Linha: 1152 		if (!specifications.Configuration.removetrack) {
+quantidade de linhas da feature: 2
+Linha: 1161 		if (!specifications.Configuration.clearplaylist) {
+quantidade de linhas da feature: 2
+Linha: 1170 		if (!specifications.Configuration.reorderplaylist) {
+quantidade de linhas da feature: 2
+Linha: 1179 		if (!specifications.Configuration.queuetrack) {
+quantidade de linhas da feature: 2
+Linha: 1193 		if (!specifications.Configuration.queuetrack) {
+quantidade de linhas da feature: 2
+			metodo: 	public void updateGui() {
+			metodo: 	public String formatTime(long time) {
+			metodo: 	public void actionPerformed(ActionEvent e) {
+			metodo: 	public void playTrack(TrackMetadata tm) {
+			metodo: 	public void afterPlay() {
+			metodo: 	private void addButton__wrappee__Playlist() {
+			metodo: 	private void addButton__wrappee__SkipTrack() {
+			metodo: 	private void addButton__wrappee__ShuffleRepeat() {
+			metodo: 	private void addButton__wrappee__RemoveTrack() {
+			metodo: 	private void addButton__wrappee__ClearPlaylist() {
+			metodo: 	private void addButton__wrappee__ReorderPlaylist() {
+			metodo: 	public void addButton() {
+			metodo: 	private void addQueue__wrappee__Playlist() {
+			metodo: 	public void addQueue() {
+			metodo: 	public List<TrackMetadata> getSelectedTracks() {
+			metodo: 	public Playlist getPlaylist() {
+			metodo: 	public void refreshPlaylist() {
+			metodo: 	private void openFolder() {
+			metodo: 	public void savePlaylist() {
+			metodo: 	public void loadPlaylist() {
+			metodo: 	public List<TrackMetadata> getSelectedQueueTracks() {
+			metodo: 	public void refreshQueue() {
+			metodo: 	public void setVolume(int value) {
+			metodo: 	public int getVolume() {
+			metodo: 	public void stateChanged(ChangeEvent arg0) {
+
+
+
+******** FeatureAMP2/GUI.java: 	 Methods With Feature Annotation : 37
+******** FeatureAMP2/GUI.java: 	 LOC_InsideFeatures: 85
+
+
+
+		Somatorio local:37  Somatorio total:42
+FeatureAMP2/MP3Player.java
+			metodo: 	public MP3Player(String filename) throws UnsupportedAudioFileException, IOException, LineUnavailableException {
+Linha: 38 		if (specifications.Configuration.mp3) {
+quantidade de linhas da feature: 10
+			metodo: 	public MP3Player(TrackMetadata track) throws UnsupportedAudioFileException, IOException, LineUnavailableException {
+Linha: 53 		if (specifications.Configuration.mp3) {
+quantidade de linhas da feature: 12
+			metodo: 	public void play() {
+			metodo: 	public void pause() {
+			metodo: 	public void resume() {
+			metodo: 	public void stop() {
+			metodo: 	public void close() {
+			metodo: 	public long getPosition() {
+			metodo: 	public static PlayerFileFilter getFileFilter() {
+			metodo: 			public Class<? extends Player> getParentClass() {
+			metodo: 			public String getDescription() {
+			metodo: 			public boolean accept(File f) {
+			metodo: 	// public String getTimer() {
+			metodo: 	public void setVolume(int vol) {
+			metodo: 	public TrackMetadata getTrackMetadata() {
+			metodo: 	public static TrackMetadata getTrackMetadata(String filename) {
+			metodo: 	public int playerStatus() {
+		Somatorio local:2  Somatorio total:44
+
+
+
+******** FeatureAMP2/MP3Player.java: 	 Methods With Feature Annotation : 2
+******** FeatureAMP2/MP3Player.java: 	 LOC_InsideFeatures: 22
+
+
+
+FeatureAMP2/OGGPlayer.java
+			metodo: 	public OGGPlayer(String filename) throws UnsupportedAudioFileException, IOException, LineUnavailableException {
+Linha: 35 		if (specifications.Configuration.ogg) {
+quantidade de linhas da feature: 10
+			metodo: 	public OGGPlayer(TrackMetadata track) throws UnsupportedAudioFileException, IOException, LineUnavailableException {
+Linha: 50 		if (specifications.Configuration.ogg) {
+quantidade de linhas da feature: 12
+			metodo: 	public void play() {
+			metodo: 	public void pause() {
+			metodo: 	public void resume() {
+			metodo: 	public void stop() {
+			metodo: 	public void close() {
+			metodo: 	public long getPosition() {
+			metodo: 	public static PlayerFileFilter getFileFilter() {
+			metodo: 			public Class<? extends Player> getParentClass() {
+			metodo: 			public String getDescription() {
+			metodo: 			public boolean accept(File f) {
+			metodo: 	// public String getTimer() {
+			metodo: 	public void setVolume(int vol) {
+			metodo: 	public TrackMetadata getTrackMetadata() {
+			metodo: 	public static TrackMetadata getTrackMetadata(String filename) {
+			metodo: 	public int playerStatus() {
+		Somatorio local:2  Somatorio total:46
+
+
+
+******** FeatureAMP2/OGGPlayer.java: 	 Methods With Feature Annotation : 2
+******** FeatureAMP2/OGGPlayer.java: 	 LOC_InsideFeatures: 22
+
+
+
+FeatureAMP2/Picture.java
+			metodo: 	public Picture(int with, int hight) {
+Linha: 30 		if (specifications.Configuration.gui) {
+quantidade de linhas da feature: 2
+			metodo: 	public void setDefaultPicture() {
+			metodo: 	public void setPicture(String filename) {
+			metodo: 	public void setPicture(Image i) {
+			metodo: 	public void paint(Graphics g) {
+
+
+
+******** FeatureAMP2/Picture.java: 	 Methods With Feature Annotation : 1
+******** FeatureAMP2/Picture.java: 	 LOC_InsideFeatures: 2
+
+
+
+		Somatorio local:1  Somatorio total:47
+FeatureAMP2/Player.java
+			metodo: 	public static PlayerFileFilter getFileFilter() {
+			metodo: 	public static TrackMetadata getTrackMetadata(String filename) {
+			metodo: 	public static String getExtension(File f) {
+
+
+
+******** FeatureAMP2/Player.java: 	 Methods With Feature Annotation : 0
+******** FeatureAMP2/Player.java: 	 LOC_InsideFeatures: 0
+
+
+
+		Somatorio local:0  Somatorio total:47
+FeatureAMP2/PlayerFileFilter.java
+		Somatorio local:0  Somatorio total:47
+
+
+
+******** FeatureAMP2/PlayerFileFilter.java: 	 Methods With Feature Annotation : 0
+******** FeatureAMP2/PlayerFileFilter.java: 	 LOC_InsideFeatures: 0
+
+
+
+FeatureAMP2/Playlist.java
+			metodo: 	public Playlist() {
+Linha: 16 		if (specifications.Configuration.playlist) {
+quantidade de linhas da feature: 1
+			metodo: 	public List<TrackMetadata> getList() {
+			metodo: 	public TrackMetadata[] getArray() {
+			metodo: 	public void addTrack(TrackMetadata track) {
+			metodo: 	public void removeTrack(TrackMetadata track) {
+			metodo: 	public void clearPlaylist(TrackMetadata track) {
+			metodo: 	public TrackMetadata getCurrent() {
+			metodo: 	public TrackMetadata goTo(int index) {
+			metodo: 	public void sortList() {
+			metodo: 	public enum PlayMode {
+			metodo: 	public void shuffleList() {
+			metodo: 	public void setMode(PlayMode mode) {
+			metodo: 	public PlayMode getMode() {
+			metodo: 	private TrackMetadata next__wrappee__Playlist() {
+			metodo: 	public TrackMetadata next() {
+			metodo: 	public void moveDown(int index) {
+			metodo: 	public void moveUp(int index) {
+			metodo: 	public TrackMetadata[] getQueueArray() {
+
+
+
+******** FeatureAMP2/Playlist.java: 	 Methods With Feature Annotation : 2
+******** FeatureAMP2/Playlist.java: 	 LOC_InsideFeatures: 2
+
+
+
+FeatureAMP2/PlayThread.java
+Linha: 133 		if (!specifications.Configuration.queuetrack) {
+quantidade de linhas da feature: 1
+		Somatorio local:2  Somatorio total:49
+Linha: 15 		if (specifications.Configuration.gui) {
+			metodo: 	public PlayThread(JProgressBar bar, Clip c) {
+			metodo: 	public void stopPressed() {
+			metodo: 	public void run() {
+quantidade de linhas da feature: 8
+		Somatorio local:1  Somatorio total:50
+			metodo: 	private String getTimer() {
+
+
+
+******** FeatureAMP2/PlayThread.java: 	 Methods With Feature Annotation : 1
+******** FeatureAMP2/PlayThread.java: 	 LOC_InsideFeatures: 8
+
+
+
+FeatureAMP2/TrackMetadata.java
+			metodo: 	public TrackMetadata() {
+			metodo: 	public TrackMetadata(String title) {
+			metodo: 	public TrackMetadata(String title, String artist) {
+			metodo: 	public TrackMetadata(String title, String artist, long runtime) {
+			metodo: 	public TrackMetadata(String title, int runtime) {
+			metodo: 	public String getTitle() {
+			metodo: 	public void setTitle(String title) {
+			metodo: 	public String getArtist() {
+			metodo: 	public void setArtist(String artist) {
+			metodo: 	public String getAlbum() {
+			metodo: 	public void setAlbum(String album) {
+			metodo: 	public long getLength() {
+			metodo: 	public void setLength(long runtime) {
+			metodo: 	public String getFileName() {
+			metodo: 	public void setFileName(String fileName) {
+			metodo: 	public void setCover(Image image) {
+			metodo: 	public Image getCover() {
+			metodo: 	public int getTrackNumber() {
+			metodo: 	public void setTrackNumber(int trackNumber) {
+			metodo: 	public String toString() {
+			metodo: 	public String formatTime(long time) {
+			metodo: 	public int compareTo(TrackMetadata o) {
+
+
+
+******** FeatureAMP2/TrackMetadata.java: 	 Methods With Feature Annotation : 4
+******** FeatureAMP2/TrackMetadata.java: 	 LOC_InsideFeatures: 8
+
+
+
+54
+
+
+Linha: 26 		if (specifications.Configuration.gui) {
+quantidade de linhas da feature: 1
+Linha: 32 		if (specifications.Configuration.gui) {
+quantidade de linhas da feature: 2
+Linha: 39 		if (specifications.Configuration.gui) {
+quantidade de linhas da feature: 3
+Linha: 47 		if (specifications.Configuration.gui) {
+quantidade de linhas da feature: 2
+		Somatorio local:4  Somatorio total:54
+
+ somatório total de variabilidade: 
+
+
+ somatório da variabilidade das features
+clearplaylist	2
+controlplayist	0
+darkskin	1
+featureamp	0
+gui	12
+lightskin	1
+loadfolder	1
+mp3	3
+mute	2
+ogg	3
+player	0
+playlist	5
+progressbar	4
+queuetrack	5
+removetrack	2
+reorderplaylist	2
+saveandloadplaylist	1
+showcover	3
+showtime	1
+shufflerepeat	2
+skins	0
+skiptrack	2
+time	0
+volumecontrol	2
+Total: 	54
+
+
+Espalhamento de features.
+clearplaylist	1
+controlplayist	0
+darkskin	1
+featureamp	0
+gui	7
+lightskin	1
+loadfolder	1
+mp3	2
+mute	1
+ogg	2
+player	0
+playlist	2
+progressbar	1
+queuetrack	2
+removetrack	1
+reorderplaylist	1
+saveandloadplaylist	1
+showcover	1
+showtime	1
+shufflerepeat	1
+skins	0
+skiptrack	1
+time	0
+volumecontrol	1
+
+
+
+nome  		 Occurrences 	 Other Features
+clearplaylist		2	1
+darkskin		1	1
+gui		12	7
+lightskin		1	1
+loadfolder		1	1
+mp3		3	2
+mute		2	1
+ogg		3	2
+playlist		5	2
+progressbar		4	1
+queuetrack		5	2
+removetrack		2	1
+reorderplaylist		2	1
+saveandloadplaylist		1	1
+showcover		3	1
+showtime		1	1
+shufflerepeat		2	1
+skiptrack		2	1
+volumecontrol		2	1
+
+
+Todos os arquivos foram processados.

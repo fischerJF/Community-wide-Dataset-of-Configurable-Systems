@@ -1,0 +1,822 @@
+# parameters:
+#  testclass = tests.TestAll
+#  logfile = C:\Users\Fischer_PC\Documents\2019_CSS_Journal\Workspace_SSplat_Journal_2019\systemsForSplat\emailemail_one_enabled.txt
+#  shouldsample = true
+#  samplerate = 1
+#  seed = 95729
+#  validate = true
+# features:
+#  BASE___ = 1
+#  KEYS___ = 2
+#  ENCRYPT___ = 3
+#  AUTORESPONDER___ = 4
+#  ADDRESSBOOK___ = 5
+#  SIGN___ = 6
+#  FORWARD___ = 7
+#  VERIFY___ = 8
+#  DECRYPT___ = 9
+testname: tests.EmailTest_Splat:getEmailBody Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->206625600msec
+testname: tests.EmailTest_Splat:setEmailSubject Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->935400msec
+testname: tests.EmailTest_Splat:getEmailToTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->973900msec
+testname: tests.EmailTest_Splat:createEmailTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->1683100msec
+testname: tests.EmailTest_Splat:isReadableTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->922700msec
+testname: tests.EmailTest_Splat:isEncryptedTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->749900msec
+testname: tests.EmailTest_Splat:emailTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->612100msec
+testname: tests.EmailTest_Splat:isSignedTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->900300msec
+testname: tests.EmailTest_Splat:setEmailFromTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->662700msec
+testname: tests.EmailTest_Splat:cloneEmailTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->546300msec
+testname: tests.EmailTest_Splat:printMail__before__encryptTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->1202100msec
+testname: tests.EmailTest_Splat:printMail__before__verifyTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->794600msec
+testname: tests.EmailTest_Splat:printMail__role__verifyTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->2354300msec
+testname: tests.EmailTest_Splat:setEmailEncryptionKey Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->977000msec
+testname: tests.EmailTest_Splat:isEmailWasEncryptedTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->1102200msec
+testname: tests.EmailTest_Splat:setEmailIsSignedTrue Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->1348800msec
+testname: tests.EmailTest_Splat:isSignatureVerifiedTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->1058300msec
+testname: tests.EmailTest_Splat:isReadable__before__encryptTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->1724200msec
+testname: tests.EmailTest_Splat:isReadable__role__encryptTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->1181300msec
+testname: tests.EmailTest_Splat:printMail__before__signTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->716500msec
+testname: tests.EmailTest_Splat:printMail__role__encryptTest Qua, 21 out 2020 17:20:43 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->567500msec
+testname: tests.TestMAB:test02 Qua, 21 out 2020 17:20:43 -0200
+testname: tests.TestMAB:test03 Qua, 21 out 2020 17:20:43 -0200
+testname: tests.TestMAB:test04 Qua, 21 out 2020 17:20:43 -0200
+testname: tests.TestMAB:test01 Qua, 21 out 2020 17:20:43 -0200
+testname: tests.TestMAB:test05 Qua, 21 out 2020 17:20:43 -0200
+testname: tests.TestMAB:getEmailBody Qua, 21 out 2020 17:20:43 -0200
+testname: tests.TestMAB:setEmailSubject Qua, 21 out 2020 17:20:43 -0200
+testname: tests.TestMAB:getEmailToTest Qua, 21 out 2020 17:20:43 -0200
+testname: tests.TestMAB:createEmailTest Qua, 21 out 2020 17:20:43 -0200
+testname: tests.TestMAB:isReadableTest Qua, 21 out 2020 17:20:43 -0200
+testname: tests.TestMAB:isEncryptedTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:emailTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:isSignedTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:setEmailFromTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:cloneEmailTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:printMail__before__encryptTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:printMail__before__verifyTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:printMail__role__verifyTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:setEmailEncryptionKey Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:isEmailWasEncryptedTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:setEmailIsSignedTrue Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:isSignatureVerifiedTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:isReadable__before__encryptTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:isReadable__role__encryptTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:printMail__before__signTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMAB:printMail__role__encryptTest Qua, 21 out 2020 17:20:44 -0200
+testname: tests.TestMain:testSignVerify Qua, 21 out 2020 17:20:44 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->146686300msec
+** 1,?,?,?,?,?,?,?,?,P
+--->28637900msec
+** 1,?,?,?,?,?,?,?,?,P
+--->4771300msec
+testname: tests.TestMain:testSignForward Qua, 21 out 2020 17:20:44 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->11347400msec
+** 1,?,?,?,?,?,?,?,?,P
+--->171135200msec
+** 1,?,?,?,?,?,?,?,?,P
+--->109845700msec
+testname: tests.TestMain:testDecryptAutoresponder Qua, 21 out 2020 17:20:44 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->25591000msec
+** 1,?,?,?,?,?,?,?,?,P
+--->121260000msec
+** 1,?,?,?,?,?,?,?,?,P
+--->64063300msec
+testname: tests.TestMain:testEncryptForward Qua, 21 out 2020 17:20:45 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->150033700msec
+** 1,?,?,?,?,?,?,?,?,P
+--->29799700msec
+** 1,?,?,?,?,?,?,?,?,P
+--->15663000msec
+testname: tests.TestMain:testEncryptAutoresponder Qua, 21 out 2020 17:20:45 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->88257400msec
+** 1,?,?,?,?,?,?,?,?,P
+--->23669400msec
+** 1,?,?,?,?,?,?,?,?,P
+--->56533700msec
+testname: tests.TestMain:testEncryptVerify Qua, 21 out 2020 17:20:45 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->24598200msec
+** 1,?,?,?,?,?,?,?,?,P
+--->85674300msec
+** 1,?,?,?,?,?,?,?,?,P
+--->45358800msec
+testname: tests.TestMain:testWorstScenario Qua, 21 out 2020 17:20:45 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->19959100msec
+** 1,?,?,?,?,?,?,?,?,P
+--->17020000msec
+** 1,?,?,?,?,?,?,?,?,P
+--->23582500msec
+testname: tests.TestMain:testEncryptDecrypt Qua, 21 out 2020 17:20:45 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->9630300msec
+** 1,?,?,?,?,?,?,?,?,P
+--->36209200msec
+** 1,?,?,?,?,?,?,?,?,P
+--->6001600msec
+testname: tests.TestMain:testAverageScenario Qua, 21 out 2020 17:20:45 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->12432600msec
+** 1,?,?,?,?,?,?,?,?,P
+--->24687600msec
+** 1,?,?,?,?,?,?,?,?,P
+--->174200800msec
+testname: tests.TestMain:getEmailBody Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->5783500msec
+testname: tests.TestMain:setEmailSubject Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->14816000msec
+testname: tests.TestMain:getEmailToTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->1621500msec
+testname: tests.TestMain:createEmailTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->3587400msec
+testname: tests.TestMain:isReadableTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,1,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tests.EmailTest_Splat.isReadableTest(EmailTest_Splat.java:201)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->4389000msec
+testname: tests.TestMain:isEncryptedTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->4075000msec
+testname: tests.TestMain:emailTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->1852200msec
+testname: tests.TestMain:isSignedTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->1476300msec
+testname: tests.TestMain:setEmailFromTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->887200msec
+testname: tests.TestMain:cloneEmailTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->1171700msec
+testname: tests.TestMain:printMail__before__encryptTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,1,?,?,?,?,?,?,P
+--->48849700msec
+testname: tests.TestMain:printMail__before__verifyTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,1,?,?,?,?,?,?,P
+--->9359300msec
+testname: tests.TestMain:printMail__role__verifyTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,0,?,?,1,?,?,?,P
+--->22338400msec
+testname: tests.TestMain:setEmailEncryptionKey Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->812300msec
+testname: tests.TestMain:isEmailWasEncryptedTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->419300msec
+testname: tests.TestMain:setEmailIsSignedTrue Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->489900msec
+testname: tests.TestMain:isSignatureVerifiedTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->496200msec
+testname: tests.TestMain:isReadable__before__encryptTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->880000msec
+testname: tests.TestMain:isReadable__role__encryptTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->629400msec
+testname: tests.TestMain:printMail__before__signTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,1,?,?,?,?,?,?,P
+--->4711400msec
+testname: tests.TestMain:printMail__role__encryptTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,1,?,?,?,?,?,?,P
+--->25171400msec
+testname: tests.ClientTest:incoming__before__autoresponderTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->5624600msec
+testname: tests.ClientTest:outgoing__before__addressbookTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,1,?,?,?,?,?,?,P
+--->7735600msec
+testname: tests.ClientTest:incoming__role__autoresponderTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->751900msec
+testname: tests.ClientTest:incomingTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,0,?,?,0,0,1,P
+--->30956600msec
+** 1,?,?,?,?,?,?,?,0,P
+--->10651300msec
+testname: tests.ClientTest:getClientById Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,F
+> stack-trace (for config above)
+java.lang.AssertionError: expected:<2000000> but was:<100>
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.failNotEquals(Assert.java:743)
+	at org.junit.Assert.assertEquals(Assert.java:118)
+	at org.junit.Assert.assertEquals(Assert.java:555)
+	at org.junit.Assert.assertEquals(Assert.java:542)
+	at tests.ClientTest.getClientById(ClientTest.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at splat.SPLat.runTest(SPLat.java:246)
+	at splat.SPLat.run(SPLat.java:101)
+	at experiment.ExperimentRunner.runExp(ExperimentRunner.java:21)
+	at splat.Main.main(Main.java:55)
+< end stack-trace
+--->846300msec
+testname: tests.ClientTest:deliver Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->484600msec
+testname: tests.ClientTest:mailTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->570900msec
+testname: tests.ClientTest:outgoingTest2 Qua, 21 out 2020 17:20:46 -0200
+** 1,?,0,?,0,1,?,?,?,P
+--->86442700msec
+** 1,?,?,?,?,0,?,?,?,P
+--->11094200msec
+testname: tests.ClientTest:toStringTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->335500msec
+testname: tests.ClientTest:sendEmailTest Qua, 21 out 2020 17:20:46 -0200
+** 1,?,0,0,1,0,0,0,0,P
+--->36145800msec
+** 1,?,0,0,0,0,1,0,0,P
+--->37311500msec
+testname: tests.ClientTest:outgoingTest Qua, 21 out 2020 17:20:47 -0200
+** 1,?,?,?,?,1,?,?,?,P
+--->3008900msec
+** 1,?,1,?,1,0,?,?,?,P
+--->18318000msec
+** 1,?,0,?,1,0,?,?,?,P
+--->13492900msec
+** 1,?,1,?,0,0,?,?,?,P
+--->14856900msec
+** 1,?,0,?,0,0,?,?,?,P
+--->7178800msec
+testname: tests.ClientTest:incoming__before__decryptTest Qua, 21 out 2020 17:20:47 -0200
+** 1,?,?,1,?,?,1,1,?,P
+--->17886400msec
+** 1,?,?,0,?,?,1,1,?,P
+--->6958500msec
+** 1,?,?,1,?,?,0,1,?,P
+--->8375100msec
+** 1,?,?,0,?,?,0,1,?,P
+--->11894400msec
+** 1,?,?,?,?,?,?,0,?,P
+--->2035000msec
+testname: tests.ClientTest:getClienteByAdressTest Qua, 21 out 2020 17:20:47 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->11143200msec
+testname: tests.ClientTest:incoming__before__verifyTest Qua, 21 out 2020 17:20:47 -0200
+** 1,?,?,?,?,?,1,?,?,P
+--->2141800msec
+** 1,?,?,1,?,?,0,?,?,P
+--->4196100msec
+** 1,?,?,0,?,?,0,?,?,P
+--->5447400msec
+testname: tests.ClientTest:incoming__before__forwardTest Qua, 21 out 2020 17:20:47 -0200
+** 1,?,?,1,?,?,?,?,?,P
+--->4721600msec
+** 1,?,?,0,?,?,?,?,?,P
+--->3592500msec
+testname: tests.ClientTest:incoming__role__verifyTest Qua, 21 out 2020 17:20:47 -0200
+** 1,?,?,?,?,?,1,?,?,P
+--->2396300msec
+** 1,?,?,1,?,?,0,?,?,P
+--->4484500msec
+** 1,?,?,0,?,?,0,?,?,P
+--->4479600msec
+testname: tests.ClientTest:setAutoResponseTest Qua, 21 out 2020 17:20:47 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->225500msec
+testname: tests.ClientTest:outgoing__before__encryptTest Qua, 21 out 2020 17:20:47 -0200
+** 1,?,?,?,?,?,?,?,?,P
+--->267700msec

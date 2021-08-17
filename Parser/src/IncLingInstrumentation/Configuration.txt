@@ -1,0 +1,16 @@
+speichern
+formatierung
+edieren
+komprimiertertext
+vistex
+undo
+suchen
+farbe
+graphanzeige
+ersetzen
+graphbearbeitung
+editor
+textformat
+hmtl
+schriftgroesse
+exportieren
